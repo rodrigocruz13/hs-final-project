@@ -1,0 +1,53 @@
+{
+    "Check 001": {
+        "http://statcounter.com/": "200"
+    },
+    "Check 002": {
+        "https://www.vortexhydroenergy.com/": "200"
+    },
+    "Check 003": {
+        "https://www.vortexhydroenergy.com/about/": "200"
+    },
+    "Check 004": {
+        "https://www.vortexhydroenergy.com/contact/": "200"
+    },
+    "Check 005": {
+        "https://www.vortexhydroenergy.com/deployments/2009-towing-tank/": "200"
+    },
+    "Check 006": {
+        "https://www.vortexhydroenergy.com/deployments/2010-mrelab/": "200"
+    },
+    "Check 007": {
+        "https://www.vortexhydroenergy.com/deployments/2010-saint-clair-river/": "200"
+    },
+    "Check 008": {
+        "https://www.vortexhydroenergy.com/deployments/2012-netherlands/": "200"
+    },
+    "Check 009": {
+        "https://www.vortexhydroenergy.com/deployments/2012-saint-clair-river/": "200"
+    },
+    "Check 010": {
+        "https://www.vortexhydroenergy.com/deployments/2013-ohmsett/": "200"
+    },
+    "Check 011": {
+        "https://www.vortexhydroenergy.com/deployments/2016-saint-clair-river/": "200"
+    },
+    "Check 012": {
+        "https://www.vortexhydroenergy.com/lab/": "200"
+    },
+    "Check 013": {
+        "https://www.vortexhydroenergy.com/publications/": "200"
+    },
+    "Check 014": {
+        "https://www.vortexhydroenergy.com/technology/environment/": "200"
+    },
+    "Check 015": {
+        "https://www.vortexhydroenergy.com/technology/how-it-works/": "200"
+    },
+    "Check 016": {
+        "https://www.vortexhydroenergy.com/technology/milestones/": "200"
+    },
+    "Check 017": {
+        "https://www.vortexhydroenergy.com/technology/the-device/": "200"
+    }
+}
