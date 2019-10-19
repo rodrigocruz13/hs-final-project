@@ -1,0 +1,3372 @@
+{
+    "Check 001": {
+        "Date": "2019-10-19 12:44:59.262809",
+        "Link": "http://blackfriday.loencontraste.com/",
+        "Status": "200"
+    },
+    "Check 002": {
+        "Date": "2019-10-19 12:45:05.402871",
+        "Link": "http://blogs.eltiempo.com",
+        "Status": "200"
+    },
+    "Check 003": {
+        "Date": "2019-10-19 12:45:06.455750",
+        "Link": "http://blogs.eltiempo.com/lamatriota/2019/10/17/la-administracion-mental/",
+        "Status": "200"
+    },
+    "Check 004": {
+        "Date": "2019-10-19 12:45:08.818075",
+        "Link": "http://blogs.eltiempo.com/suave-y-profundo/2019/10/18/la-aldaba/",
+        "Status": "200"
+    },
+    "Check 005": {
+        "Date": "2019-10-19 12:45:09.982168",
+        "Link": "http://citytv.com.co/",
+        "Status": "200"
+    },
+    "Check 006": {
+        "Date": "2019-10-19 12:45:11.962599",
+        "Link": "http://clasificados.eltiempo.com",
+        "Status": "200"
+    },
+    "Check 007": {
+        "Date": "2019-10-19 12:45:13.315369",
+        "Link": "http://clasificados.eltiempo.com/",
+        "Status": "200"
+    },
+    "Check 008": {
+        "Date": "2019-10-19 12:45:14.478924",
+        "Link": "http://play.wradio.com.co/",
+        "Status": "200"
+    },
+    "Check 009": {
+        "Date": "2019-10-19 12:45:16.028168",
+        "Link": "http://portafolio.co",
+        "Status": "200"
+    },
+    "Check 010": {
+        "Date": "2019-10-19 12:45:17.283349",
+        "Link": "http://www.abcdelbebe.com",
+        "Status": "200"
+    },
+    "Check 011": {
+        "Date": "2019-10-19 12:45:18.504306",
+        "Link": "http://www.alo.co",
+        "Status": "200"
+    },
+    "Check 012": {
+        "Date": "2019-10-19 12:45:19.504814",
+        "Link": "http://www.audienciadigital.co/",
+        "Status": "200"
+    },
+    "Check 013": {
+        "Date": "2019-10-19 12:45:21.675552",
+        "Link": "http://www.carroya.com",
+        "Status": "200"
+    },
+    "Check 014": {
+        "Date": "2019-10-19 12:45:23.061310",
+        "Link": "http://www.clubvivamos.com/",
+        "Status": "200"
+    },
+    "Check 015": {
+        "Date": "2019-10-19 12:45:23.763488",
+        "Link": "http://www.diarioadn.co",
+        "Status": "200"
+    },
+    "Check 016": {
+        "Date": "2019-10-19 12:45:24.987470",
+        "Link": "http://www.e-hunters.com",
+        "Status": "200"
+    },
+    "Check 017": {
+        "Date": "2019-10-19 12:45:27.350345",
+        "Link": "http://www.elempleo.com/co/ofertas-empleo/",
+        "Status": "200"
+    },
+    "Check 018": {
+        "Date": "2019-10-19 12:45:28.765650",
+        "Link": "http://www.elempleo.com/sitios-empresariales/colombia/el-tiempo-casa-editorial/",
+        "Status": "200"
+    },
+    "Check 019": {
+        "Date": "2019-10-19 12:45:31.271423",
+        "Link": "http://www.eltiempo.com/noticias/huella-social",
+        "Status": "200"
+    },
+    "Check 020": {
+        "Date": "2019-10-19 12:45:32.768816",
+        "Link": "http://www.futbolred.com",
+        "Status": "200"
+    },
+    "Check 021": {
+        "Date": "2019-10-19 12:45:33.669166",
+        "Link": "http://www.guiaacademica.com/asesora/",
+        "Status": "200"
+    },
+    "Check 022": {
+        "Date": "2019-10-19 12:45:35.969053",
+        "Link": "http://www.metrocuadrado.com",
+        "Status": "200"
+    },
+    "Check 023": {
+        "Date": "2019-10-19 12:45:37.480279",
+        "Link": "http://www.motor.com.co",
+        "Status": "200"
+    },
+    "Check 024": {
+        "Date": "2019-10-19 12:45:38.900114",
+        "Link": "http://www.motor.com.co/",
+        "Status": "200"
+    },
+    "Check 025": {
+        "Date": "2019-10-19 12:45:39.956617",
+        "Link": "http://www.revistadonjuan.com",
+        "Status": "200"
+    },
+    "Check 026": {
+        "Date": "2019-10-19 12:45:41.191057",
+        "Link": "https://cursoscortos.eltiempo.com/",
+        "Status": "403"
+    },
+    "Check 027": {
+        "Date": "2019-10-19 12:45:42.834916",
+        "Link": "https://itunes.apple.com/us/app/el-tiempo-noticias/id1002696749",
+        "Status": "200"
+    },
+    "Check 028": {
+        "Date": "2019-10-19 12:45:44.271649",
+        "Link": "https://plus.google.com/+ElTiempo",
+        "Status": "200"
+    },
+    "Check 029": {
+        "Date": "2019-10-19 12:45:45.635386",
+        "Link": "https://suscripciones.eltiempo.com/",
+        "Status": "200"
+    },
+    "Check 030": {
+        "Date": "2019-10-19 12:45:46.870775",
+        "Link": "https://tienda.eltiempo.com/",
+        "Status": "200"
+    },
+    "Check 031": {
+        "Date": "2019-10-19 12:45:47.684440",
+        "Link": "https://tienda.eltiempo.com/animales-disney",
+        "Status": "200"
+    },
+    "Check 032": {
+        "Date": "2019-10-19 12:45:51.157762",
+        "Link": "https://tienda.eltiempo.com/autos-americanos",
+        "Status": "200"
+    },
+    "Check 033": {
+        "Date": "2019-10-19 12:45:52.097482",
+        "Link": "https://tienda.eltiempo.com/autos-hollywood",
+        "Status": "200"
+    },
+    "Check 034": {
+        "Date": "2019-10-19 12:45:53.963143",
+        "Link": "https://tienda.eltiempo.com/billetesyestampillas",
+        "Status": "200"
+    },
+    "Check 035": {
+        "Date": "2019-10-19 12:45:55.794230",
+        "Link": "https://tienda.eltiempo.com/col-rapido-furioso",
+        "Status": "200"
+    },
+    "Check 036": {
+        "Date": "2019-10-19 12:45:56.804052",
+        "Link": "https://tienda.eltiempo.com/coleccion-mascotas",
+        "Status": "200"
+    },
+    "Check 037": {
+        "Date": "2019-10-19 12:45:57.638952",
+        "Link": "https://tienda.eltiempo.com/coleccion-vasos-de-cervezas",
+        "Status": "200"
+    },
+    "Check 038": {
+        "Date": "2019-10-19 12:46:00.421425",
+        "Link": "https://tienda.eltiempo.com/colecciones/juvenil",
+        "Status": "200"
+    },
+    "Check 039": {
+        "Date": "2019-10-19 12:46:05.026051",
+        "Link": "https://tienda.eltiempo.com/dakar2",
+        "Status": "200"
+    },
+    "Check 040": {
+        "Date": "2019-10-19 12:46:05.983245",
+        "Link": "https://tienda.eltiempo.com/fitness-y-pilates-salud-en-forma",
+        "Status": "200"
+    },
+    "Check 041": {
+        "Date": "2019-10-19 12:46:06.901548",
+        "Link": "https://tienda.eltiempo.com/organizadores",
+        "Status": "200"
+    },
+    "Check 042": {
+        "Date": "2019-10-19 12:46:07.670944",
+        "Link": "https://tienda.eltiempo.com/pequenos-heroes",
+        "Status": "200"
+    },
+    "Check 043": {
+        "Date": "2019-10-19 12:46:09.484415",
+        "Link": "https://tienda.eltiempo.com/toy-story",
+        "Status": "200"
+    },
+    "Check 044": {
+        "Date": "2019-10-19 12:46:10.480569",
+        "Link": "https://tienda.eltiempo.com/vajilla",
+        "Status": "200"
+    },
+    "Check 045": {
+        "Date": "2019-10-19 12:46:11.652158",
+        "Link": "https://twitter.com/eltiempo",
+        "Status": "200"
+    },
+    "Check 046": {
+        "Date": "2019-10-19 12:46:13.971469",
+        "Link": "https://www.carroya.com/noticias/guias-de-compra-y-venta/los-10-vehiculos-usados-mas-vendidos-en-colombia-3771",
+        "Status": "200"
+    },
+    "Check 047": {
+        "Date": "2019-10-19 12:46:14.563350",
+        "Link": "https://www.ceet.co/",
+        "Status": "200"
+    },
+    "Check 048": {
+        "Date": "2019-10-19 12:46:15.013290",
+        "Link": "https://www.ceet.co/linea-etica",
+        "Status": "200"
+    },
+    "Check 049": {
+        "Date": "2019-10-19 12:46:15.447409",
+        "Link": "https://www.ceet.co/solicitud-reversion-de-pago",
+        "Status": "200"
+    },
+    "Check 050": {
+        "Date": "2019-10-19 12:46:16.710304",
+        "Link": "https://www.elempleo.com/co/noticias/noticias-laborales/las-carreras-con-mas-ofertas-laborales-en-colombia-5946",
+        "Status": "200"
+    },
+    "Check 051": {
+        "Date": "2019-10-19 12:46:17.290002",
+        "Link": "https://www.eltiempo.com/",
+        "Status": "200"
+    },
+    "Check 052": {
+        "Date": "2019-10-19 12:46:18.102245",
+        "Link": "https://www.eltiempo.com/ayuda",
+        "Status": "200"
+    },
+    "Check 053": {
+        "Date": "2019-10-19 12:46:18.877077",
+        "Link": "https://www.eltiempo.com/bocas",
+        "Status": "200"
+    },
+    "Check 054": {
+        "Date": "2019-10-19 12:46:19.373450",
+        "Link": "https://www.eltiempo.com/bogota",
+        "Status": "200"
+    },
+    "Check 055": {
+        "Date": "2019-10-19 12:46:20.044279",
+        "Link": "https://www.eltiempo.com/bogota/candidatos-al-concejo-de-bogota-424702",
+        "Status": "200"
+    },
+    "Check 056": {
+        "Date": "2019-10-19 12:46:20.508915",
+        "Link": "https://www.eltiempo.com/bogota/disturbios-en-san-andresito-durante-operativo-contra-el-contrabando-424708",
+        "Status": "200"
+    },
+    "Check 057": {
+        "Date": "2019-10-19 12:46:20.975029",
+        "Link": "https://www.eltiempo.com/bogota/fotos-de-metro-elevado-de-bogota-adjudicado-por-enrique-penalosa-424066",
+        "Status": "200"
+    },
+    "Check 058": {
+        "Date": "2019-10-19 12:46:22.014780",
+        "Link": "https://www.eltiempo.com/bogota/hollman-morris-en-el-termometro-bogota-424576",
+        "Status": "200"
+    },
+    "Check 059": {
+        "Date": "2019-10-19 12:46:22.478820",
+        "Link": "https://www.eltiempo.com/bogota/huerta-ecologica-para-ninos-y-familias-en-la-calera-424310",
+        "Status": "200"
+    },
+    "Check 060": {
+        "Date": "2019-10-19 12:46:24.952306",
+        "Link": "https://www.eltiempo.com/bogota/jessica-bermudez-la-empresaria-virtual-de-la-bisuteria-que-no-conoce-limites-424182",
+        "Status": "200"
+    },
+    "Check 061": {
+        "Date": "2019-10-19 12:46:25.408017",
+        "Link": "https://www.eltiempo.com/bogota/madre-de-adolescente-abusada-por-un-conductor-de-uber-pide-una-sancion-ejemplar-para-el-conductor-424276",
+        "Status": "200"
+    },
+    "Check 062": {
+        "Date": "2019-10-19 12:46:26.281190",
+        "Link": "https://www.eltiempo.com/bogota/metro-en-bogota-proyectos-de-metro-que-se-han-presentando-en-la-historia-424170",
+        "Status": "200"
+    },
+    "Check 063": {
+        "Date": "2019-10-19 12:46:26.746553",
+        "Link": "https://www.eltiempo.com/carrusel",
+        "Status": "200"
+    },
+    "Check 064": {
+        "Date": "2019-10-19 12:46:27.504563",
+        "Link": "https://www.eltiempo.com/clima",
+        "Status": "200"
+    },
+    "Check 065": {
+        "Date": "2019-10-19 12:46:27.930136",
+        "Link": "https://www.eltiempo.com/colombia",
+        "Status": "200"
+    },
+    "Check 066": {
+        "Date": "2019-10-19 12:46:28.383689",
+        "Link": "https://www.eltiempo.com/colombia/cali/sicario-siguio-a-universitaria-y-la-asesino-en-parqueadero-en-cali-424736",
+        "Status": "200"
+    },
+    "Check 067": {
+        "Date": "2019-10-19 12:46:28.811914",
+        "Link": "https://www.eltiempo.com/colombia/otras-ciudades",
+        "Status": "200"
+    },
+    "Check 068": {
+        "Date": "2019-10-19 12:46:29.938176",
+        "Link": "https://www.eltiempo.com/colombia/otras-ciudades/asalto-al-banco-de-la-republica-en-valledupar-cumple-25-anos-423500",
+        "Status": "200"
+    },
+    "Check 069": {
+        "Date": "2019-10-19 12:46:30.378632",
+        "Link": "https://www.eltiempo.com/colombia/otras-ciudades/especial-sobre-bicentenario-de-colombia-2019-368714",
+        "Status": "200"
+    },
+    "Check 070": {
+        "Date": "2019-10-19 12:46:30.831952",
+        "Link": "https://www.eltiempo.com/colombia/otras-ciudades/testimonios-valientes-de-familias-con-hijos-con-enfermedades-raras-416426",
+        "Status": "200"
+    },
+    "Check 071": {
+        "Date": "2019-10-19 12:46:31.715280",
+        "Link": "https://www.eltiempo.com/colombia/otras-ciudades/via-al-llano-vehiculos-particulares-podran-transitar-este-fin-de-semana-424698",
+        "Status": "200"
+    },
+    "Check 072": {
+        "Date": "2019-10-19 12:46:32.412094",
+        "Link": "https://www.eltiempo.com/contactenos",
+        "Status": "200"
+    },
+    "Check 073": {
+        "Date": "2019-10-19 12:46:32.824482",
+        "Link": "https://www.eltiempo.com/contenido-comercial",
+        "Status": "200"
+    },
+    "Check 074": {
+        "Date": "2019-10-19 12:46:33.291042",
+        "Link": "https://www.eltiempo.com/contenido-comercial/el-mar-rosa-de-bolivar-inspira-la-pasarela-de-punto-blanco-en-bcapital-423390",
+        "Status": "200"
+    },
+    "Check 075": {
+        "Date": "2019-10-19 12:46:36.456214",
+        "Link": "https://www.eltiempo.com/contenido-comercial/especial-educacion-para-todos-331486",
+        "Status": "200"
+    },
+    "Check 076": {
+        "Date": "2019-10-19 12:46:37.342833",
+        "Link": "https://www.eltiempo.com/contenido-comercial/estrechar-lazos-con-la-academia-una-necesidad-para-bogota-423706",
+        "Status": "200"
+    },
+    "Check 077": {
+        "Date": "2019-10-19 12:46:39.684919",
+        "Link": "https://www.eltiempo.com/contenido-comercial/ideas-sostenibles-para-ayudar-al-planeta-424406",
+        "Status": "200"
+    },
+    "Check 078": {
+        "Date": "2019-10-19 12:46:40.633306",
+        "Link": "https://www.eltiempo.com/contenido-favorito",
+        "Status": "200"
+    },
+    "Check 079": {
+        "Date": "2019-10-19 12:46:41.379022",
+        "Link": "https://www.eltiempo.com/crucigrama",
+        "Status": "200"
+    },
+    "Check 080": {
+        "Date": "2019-10-19 12:46:41.825550",
+        "Link": "https://www.eltiempo.com/cultura",
+        "Status": "200"
+    },
+    "Check 081": {
+        "Date": "2019-10-19 12:46:42.275119",
+        "Link": "https://www.eltiempo.com/cultura/arte-y-teatro",
+        "Status": "200"
+    },
+    "Check 082": {
+        "Date": "2019-10-19 12:46:42.818433",
+        "Link": "https://www.eltiempo.com/cultura/arte-y-teatro/programacion-del-teatro-mayor-para-2020-424540",
+        "Status": "200"
+    },
+    "Check 083": {
+        "Date": "2019-10-19 12:46:43.700918",
+        "Link": "https://www.eltiempo.com/cultura/cine-y-tv",
+        "Status": "200"
+    },
+    "Check 084": {
+        "Date": "2019-10-19 12:46:44.600955",
+        "Link": "https://www.eltiempo.com/cultura/cine-y-tv/segunda-temporada-de-la-casa-de-las-flores-424512",
+        "Status": "200"
+    },
+    "Check 085": {
+        "Date": "2019-10-19 12:46:45.092796",
+        "Link": "https://www.eltiempo.com/cultura/entretenimiento",
+        "Status": "200"
+    },
+    "Check 086": {
+        "Date": "2019-10-19 12:46:45.963159",
+        "Link": "https://www.eltiempo.com/cultura/entretenimiento/lorena-meritano-lanza-libro-sobre-el-cancer-424460",
+        "Status": "200"
+    },
+    "Check 087": {
+        "Date": "2019-10-19 12:46:46.816409",
+        "Link": "https://www.eltiempo.com/cultura/gastronomia",
+        "Status": "200"
+    },
+    "Check 088": {
+        "Date": "2019-10-19 12:46:47.259230",
+        "Link": "https://www.eltiempo.com/cultura/gastronomia/las-cinco-cervezas-raras-y-curiosas-recomendas-de-expocervezas-424468",
+        "Status": "200"
+    },
+    "Check 089": {
+        "Date": "2019-10-19 12:46:48.115361",
+        "Link": "https://www.eltiempo.com/cultura/gente",
+        "Status": "200"
+    },
+    "Check 090": {
+        "Date": "2019-10-19 12:46:48.982197",
+        "Link": "https://www.eltiempo.com/cultura/gente/canal-ingles-busca-acabar-con-el-tabu-de-la-menopausia-424548",
+        "Status": "200"
+    },
+    "Check 091": {
+        "Date": "2019-10-19 12:46:49.843468",
+        "Link": "https://www.eltiempo.com/cultura/gente/cancer-de-mama-la-mujer-que-encontro-en-su-enfermedad-una-opcion-para-emprender-424714",
+        "Status": "200"
+    },
+    "Check 092": {
+        "Date": "2019-10-19 12:46:50.319910",
+        "Link": "https://www.eltiempo.com/cultura/gente/el-humor-politico-de-juanpis-gonzalez-cruza-lineas-rojas-423102",
+        "Status": "200"
+    },
+    "Check 093": {
+        "Date": "2019-10-19 12:46:50.811778",
+        "Link": "https://www.eltiempo.com/cultura/gente/esposa-de-ron-ely-y-10-crimenes-atroces-en-hollywood-424162",
+        "Status": "200"
+    },
+    "Check 094": {
+        "Date": "2019-10-19 12:46:51.695021",
+        "Link": "https://www.eltiempo.com/cultura/gente/fotos-antes-y-despues-de-cantantes-colombianos-423806",
+        "Status": "200"
+    },
+    "Check 095": {
+        "Date": "2019-10-19 12:46:52.422709",
+        "Link": "https://www.eltiempo.com/cultura/gente/fotos-ganadoras-del-concurso-wildlife-photographer-of-the-year-2019-423708",
+        "Status": "200"
+    },
+    "Check 096": {
+        "Date": "2019-10-19 12:46:53.292367",
+        "Link": "https://www.eltiempo.com/cultura/gente/fotos-los-power-rangers-originales-26-anos-despues-420920",
+        "Status": "200"
+    },
+    "Check 097": {
+        "Date": "2019-10-19 12:46:53.767091",
+        "Link": "https://www.eltiempo.com/cultura/gente/gatubela-zoe-kravitz-y-actrices-que-han-interpretado-el-personaje-423452",
+        "Status": "200"
+    },
+    "Check 098": {
+        "Date": "2019-10-19 12:46:54.221914",
+        "Link": "https://www.eltiempo.com/cultura/gente/lady-gaga-video-de-caida-en-show-en-las-vegas-424362",
+        "Status": "200"
+    },
+    "Check 099": {
+        "Date": "2019-10-19 12:46:54.644730",
+        "Link": "https://www.eltiempo.com/cultura/gente/peliculas-para-ver-en-este-halloween-423890",
+        "Status": "200"
+    },
+    "Check 100": {
+        "Date": "2019-10-19 12:46:55.506068",
+        "Link": "https://www.eltiempo.com/cultura/musica-y-libros",
+        "Status": "200"
+    },
+    "Check 101": {
+        "Date": "2019-10-19 12:46:55.964218",
+        "Link": "https://www.eltiempo.com/cultura/musica-y-libros/daniel-casas-habla-de-los-nominados-al-salon-de-la-fama-del-rock-424560",
+        "Status": "200"
+    },
+    "Check 102": {
+        "Date": "2019-10-19 12:46:56.421311",
+        "Link": "https://www.eltiempo.com/cultura/musica-y-libros/demi-lovato-filtran-en-snapchat-presuntos-desnudos-de-la-cantante-y-actriz-424706",
+        "Status": "200"
+    },
+    "Check 103": {
+        "Date": "2019-10-19 12:46:57.290568",
+        "Link": "https://www.eltiempo.com/cultura/musica-y-libros/los-95-anos-con-la-sonora-matancera-424674",
+        "Status": "200"
+    },
+    "Check 104": {
+        "Date": "2019-10-19 12:46:57.745214",
+        "Link": "https://www.eltiempo.com/cultura/musica-y-libros/mozart-llega-en-la-coleccion-mis-pequenos-heroes-de-el-tiempo-424570",
+        "Status": "200"
+    },
+    "Check 105": {
+        "Date": "2019-10-19 12:46:58.191214",
+        "Link": "https://www.eltiempo.com/cultura/musica-y-libros/primavera-fest-se-realiza-por-primera-vez-en-bogota-424552",
+        "Status": "200"
+    },
+    "Check 106": {
+        "Date": "2019-10-19 12:46:58.686481",
+        "Link": "https://www.eltiempo.com/cultura/musica-y-libros/quien-deberia-ganar-en-el-salon-de-la-fama-del-rock-2020-424442",
+        "Status": "200"
+    },
+    "Check 107": {
+        "Date": "2019-10-19 12:46:59.146249",
+        "Link": "https://www.eltiempo.com/datos",
+        "Status": "200"
+    },
+    "Check 108": {
+        "Date": "2019-10-19 12:46:59.618279",
+        "Link": "https://www.eltiempo.com/deportes",
+        "Status": "200"
+    },
+    "Check 109": {
+        "Date": "2019-10-19 12:47:00.501483",
+        "Link": "https://www.eltiempo.com/deportes/ciclismo/fuertes-declaraciones-de-egan-bernal-sobre-el-dopaje-en-el-ciclismo-colombiano-424756",
+        "Status": "200"
+    },
+    "Check 110": {
+        "Date": "2019-10-19 12:47:01.250121",
+        "Link": "https://www.eltiempo.com/deportes/futbol-colombiano",
+        "Status": "200"
+    },
+    "Check 111": {
+        "Date": "2019-10-19 12:47:01.710282",
+        "Link": "https://www.eltiempo.com/deportes/futbol-colombiano/liga-aguila-2019-ii-previo-junior-vs-millonarios-fecha-18-424650",
+        "Status": "200"
+    },
+    "Check 112": {
+        "Date": "2019-10-19 12:47:02.632403",
+        "Link": "https://www.eltiempo.com/deportes/futbol-colombiano/respuesta-del-viceministro-de-trabajo-a-dimayor-424652",
+        "Status": "200"
+    },
+    "Check 113": {
+        "Date": "2019-10-19 12:47:03.058078",
+        "Link": "https://www.eltiempo.com/deportes/futbol-internacional",
+        "Status": "200"
+    },
+    "Check 114": {
+        "Date": "2019-10-19 12:47:03.930118",
+        "Link": "https://www.eltiempo.com/deportes/futbol-internacional/barcelona-goleo-0-3-al-eibar-con-goles-de-griezmann-messi-y-suarez-424752",
+        "Status": "200"
+    },
+    "Check 115": {
+        "Date": "2019-10-19 12:47:04.834337",
+        "Link": "https://www.eltiempo.com/deportes/futbol-internacional/goles-de-luis-fernando-muriel-contra-lazio-fecha-8-serie-a-2019-2020-424750",
+        "Status": "200"
+    },
+    "Check 116": {
+        "Date": "2019-10-19 12:47:05.700592",
+        "Link": "https://www.eltiempo.com/deportes/futbol-internacional/ibrahimovic-revelo-detalles-de-su-pelea-con-pep-guardiola-en-barcelona-424746",
+        "Status": "200"
+    },
+    "Check 117": {
+        "Date": "2019-10-19 12:47:06.161649",
+        "Link": "https://www.eltiempo.com/deportes/futbol-internacional/juan-fernando-quintero-participo-en-dos-goles-de-river-contra-arsenal-424690",
+        "Status": "200"
+    },
+    "Check 118": {
+        "Date": "2019-10-19 12:47:07.039912",
+        "Link": "https://www.eltiempo.com/economia",
+        "Status": "200"
+    },
+    "Check 119": {
+        "Date": "2019-10-19 12:47:07.893676",
+        "Link": "https://www.eltiempo.com/economia/empresas",
+        "Status": "200"
+    },
+    "Check 120": {
+        "Date": "2019-10-19 12:47:08.755477",
+        "Link": "https://www.eltiempo.com/economia/empresas/como-son-las-nuevas-tarifas-de-avianca-423596",
+        "Status": "200"
+    },
+    "Check 121": {
+        "Date": "2019-10-19 12:47:09.202736",
+        "Link": "https://www.eltiempo.com/economia/empresas/empresarios-con-mejor-reputacion-en-colombia-en-2019-segun-merco-423964",
+        "Status": "200"
+    },
+    "Check 122": {
+        "Date": "2019-10-19 12:47:09.644300",
+        "Link": "https://www.eltiempo.com/economia/sectores",
+        "Status": "200"
+    },
+    "Check 123": {
+        "Date": "2019-10-19 12:47:10.515017",
+        "Link": "https://www.eltiempo.com/economia/sectores/cuales-son-los-asistentes-de-carros-que-puedo-utilizar-424710",
+        "Status": "200"
+    },
+    "Check 124": {
+        "Date": "2019-10-19 12:47:11.561786",
+        "Link": "https://www.eltiempo.com/economia/sectores/cuanta-cerveza-consume-cada-colombiano-al-ano-424422",
+        "Status": "200"
+    },
+    "Check 125": {
+        "Date": "2019-10-19 12:47:12.023324",
+        "Link": "https://www.eltiempo.com/economia/sectores/estrategias-para-innovar-en-el-gremio-inmobiliario-424448",
+        "Status": "200"
+    },
+    "Check 126": {
+        "Date": "2019-10-19 12:47:12.902492",
+        "Link": "https://www.eltiempo.com/economia/sectores/tarifas-de-energia-subiran-25-en-octubre-y-noviembre-por-aumento-de-precio-en-bolsa-424150",
+        "Status": "200"
+    },
+    "Check 127": {
+        "Date": "2019-10-19 12:47:13.773492",
+        "Link": "https://www.eltiempo.com/economia/sectores/via-al-llano-arroceros-superaron-el-cierre-de-esta-via-424630",
+        "Status": "200"
+    },
+    "Check 128": {
+        "Date": "2019-10-19 12:47:14.198854",
+        "Link": "https://www.eltiempo.com/eltiempo-television",
+        "Status": "200"
+    },
+    "Check 129": {
+        "Date": "2019-10-19 12:47:14.672772",
+        "Link": "https://www.eltiempo.com/especiales",
+        "Status": "200"
+    },
+    "Check 130": {
+        "Date": "2019-10-19 12:47:16.124550",
+        "Link": "https://www.eltiempo.com/foro-w/de-que-manera-usted-ha-sentido-que-le-habla-su-cuerpo-y-que-senales-le-ha-dado-404650",
+        "Status": "200"
+    },
+    "Check 131": {
+        "Date": "2019-10-19 12:47:19.435661",
+        "Link": "https://www.eltiempo.com/historias-el-tiempo",
+        "Status": "200"
+    },
+    "Check 132": {
+        "Date": "2019-10-19 12:47:19.863030",
+        "Link": "https://www.eltiempo.com/historias-el-tiempo/iphone-11-hoy-llega-a-colombia-con-novedades-424598",
+        "Status": "200"
+    },
+    "Check 133": {
+        "Date": "2019-10-19 12:47:20.275023",
+        "Link": "https://www.eltiempo.com/historias-el-tiempo/mejores-looks-de-los-latin-american-music-awards-2019-424436",
+        "Status": "200"
+    },
+    "Check 134": {
+        "Date": "2019-10-19 12:47:20.787783",
+        "Link": "https://www.eltiempo.com/historias-el-tiempo/por-que-es-famosa-kim-kardashian-423370",
+        "Status": "200"
+    },
+    "Check 135": {
+        "Date": "2019-10-19 12:47:21.322986",
+        "Link": "https://www.eltiempo.com/historias-el-tiempo/requisitos-para-votar-este-domingo-28-de-octubre-en-el-pais-406616",
+        "Status": "200"
+    },
+    "Check 136": {
+        "Date": "2019-10-19 12:47:21.753634",
+        "Link": "https://www.eltiempo.com/horoscopo",
+        "Status": "200"
+    },
+    "Check 137": {
+        "Date": "2019-10-19 12:47:22.634932",
+        "Link": "https://www.eltiempo.com/justicia",
+        "Status": "200"
+    },
+    "Check 138": {
+        "Date": "2019-10-19 12:47:23.394622",
+        "Link": "https://www.eltiempo.com/justicia/delitos",
+        "Status": "200"
+    },
+    "Check 139": {
+        "Date": "2019-10-19 12:47:24.285267",
+        "Link": "https://www.eltiempo.com/justicia/delitos/critica-de-juez-por-demora-del-estado-en-proteger-a-victimas-de-mineria-ilegal-424678",
+        "Status": "200"
+    },
+    "Check 140": {
+        "Date": "2019-10-19 12:47:25.107281",
+        "Link": "https://www.eltiempo.com/justicia/investigacion",
+        "Status": "200"
+    },
+    "Check 141": {
+        "Date": "2019-10-19 12:47:26.073625",
+        "Link": "https://www.eltiempo.com/justicia/investigacion/familia-de-yuliana-samboni-no-ha-solicitado-indemnizacion-a-rafael-uribe-424396",
+        "Status": "200"
+    },
+    "Check 142": {
+        "Date": "2019-10-19 12:47:26.524263",
+        "Link": "https://www.eltiempo.com/justicia/investigacion/informe-de-la-contraloria-sobre-la-situacion-financiera-del-inpec-424632",
+        "Status": "200"
+    },
+    "Check 143": {
+        "Date": "2019-10-19 12:47:26.949949",
+        "Link": "https://www.eltiempo.com/justicia/jep-colombia",
+        "Status": "200"
+    },
+    "Check 144": {
+        "Date": "2019-10-19 12:47:27.408049",
+        "Link": "https://www.eltiempo.com/justicia/jep-colombia/david-char-continua-ante-la-jep-su-version-sobre-parapolitica-424418",
+        "Status": "200"
+    },
+    "Check 145": {
+        "Date": "2019-10-19 12:47:27.880920",
+        "Link": "https://www.eltiempo.com/justicia/jep-colombia/lo-que-pidieron-las-madres-de-soacha-a-la-jep-sobre-falsos-positivos-424280",
+        "Status": "200"
+    },
+    "Check 146": {
+        "Date": "2019-10-19 12:47:28.329313",
+        "Link": "https://www.eltiempo.com/lecturas-dominicales",
+        "Status": "200"
+    },
+    "Check 147": {
+        "Date": "2019-10-19 12:47:29.653842",
+        "Link": "https://www.eltiempo.com/login",
+        "Status": "200"
+    },
+    "Check 148": {
+        "Date": "2019-10-19 12:47:30.320568",
+        "Link": "https://www.eltiempo.com/mapa-sitio",
+        "Status": "200"
+    },
+    "Check 149": {
+        "Date": "2019-10-19 12:47:33.313539",
+        "Link": "https://www.eltiempo.com/mas-contenido/elecciones-bogota-hablan-las-universidades-422378",
+        "Status": "200"
+    },
+    "Check 150": {
+        "Date": "2019-10-19 12:47:34.178110",
+        "Link": "https://www.eltiempo.com/mis-noticias",
+        "Status": "200"
+    },
+    "Check 151": {
+        "Date": "2019-10-19 12:47:34.960427",
+        "Link": "https://www.eltiempo.com/multimedia/galeria-de-fotos",
+        "Status": "200"
+    },
+    "Check 152": {
+        "Date": "2019-10-19 12:47:35.416318",
+        "Link": "https://www.eltiempo.com/multimedia/videos",
+        "Status": "200"
+    },
+    "Check 153": {
+        "Date": "2019-10-19 12:47:36.455197",
+        "Link": "https://www.eltiempo.com/mundo",
+        "Status": "200"
+    },
+    "Check 154": {
+        "Date": "2019-10-19 12:47:36.930159",
+        "Link": "https://www.eltiempo.com/mundo/eeuu-y-canada",
+        "Status": "200"
+    },
+    "Check 155": {
+        "Date": "2019-10-19 12:47:37.837025",
+        "Link": "https://www.eltiempo.com/mundo/eeuu-y-canada/ante-la-falta-de-liquidez-la-onu-toma-medidas-de-ahorro-424628",
+        "Status": "200"
+    },
+    "Check 156": {
+        "Date": "2019-10-19 12:47:38.279002",
+        "Link": "https://www.eltiempo.com/mundo/europa",
+        "Status": "200"
+    },
+    "Check 157": {
+        "Date": "2019-10-19 12:47:39.595332",
+        "Link": "https://www.eltiempo.com/mundo/europa/brexit-parlamento-britanico-decide-que-se-pida-nuevo-aplazamiento-424742",
+        "Status": "200"
+    },
+    "Check 158": {
+        "Date": "2019-10-19 12:47:40.463936",
+        "Link": "https://www.eltiempo.com/mundo/europa/claves-del-nuevo-acuerdo-del-brexit-2019-424016",
+        "Status": "200"
+    },
+    "Check 159": {
+        "Date": "2019-10-19 12:47:41.834716",
+        "Link": "https://www.eltiempo.com/mundo/europa/masiva-huelga-independentista-en-barcelona-termina-con-disturbios-424660",
+        "Status": "200"
+    },
+    "Check 160": {
+        "Date": "2019-10-19 12:47:42.606045",
+        "Link": "https://www.eltiempo.com/mundo/latinoamerica",
+        "Status": "200"
+    },
+    "Check 161": {
+        "Date": "2019-10-19 12:47:43.168425",
+        "Link": "https://www.eltiempo.com/mundo/latinoamerica/estado-de-emergencia-en-santiago-de-chile-por-protestas-424738",
+        "Status": "200"
+    },
+    "Check 162": {
+        "Date": "2019-10-19 12:47:43.627587",
+        "Link": "https://www.eltiempo.com/mundo/latinoamerica/fotos-de-terror-en-culiacan-por-captura-del-hijo-del-chapo-guzman-424408",
+        "Status": "200"
+    },
+    "Check 163": {
+        "Date": "2019-10-19 12:47:44.075879",
+        "Link": "https://www.eltiempo.com/mundo/latinoamerica/incendios-en-santiago-de-chile-durante-protestas-por-alza-en-el-metro-424744",
+        "Status": "200"
+    },
+    "Check 164": {
+        "Date": "2019-10-19 12:47:44.534372",
+        "Link": "https://www.eltiempo.com/mundo/latinoamerica/operativo-fallido-contra-hijo-del-chapo-recuerda-el-poder-del-narcotrafico-en-mexico-424684",
+        "Status": "200"
+    },
+    "Check 165": {
+        "Date": "2019-10-19 12:47:45.542406",
+        "Link": "https://www.eltiempo.com/mundo/mas-regiones",
+        "Status": "200"
+    },
+    "Check 166": {
+        "Date": "2019-10-19 12:47:46.386306",
+        "Link": "https://www.eltiempo.com/mundo/mas-regiones/cali-y-mejores-ciudades-para-viajar-en-2020-segun-airbnb-423342",
+        "Status": "200"
+    },
+    "Check 167": {
+        "Date": "2019-10-19 12:47:46.803230",
+        "Link": "https://www.eltiempo.com/mundo/venezuela/de-venezuela-a-colombia-relato-de-tres-menores-migrantes-405126",
+        "Status": "200"
+    },
+    "Check 168": {
+        "Date": "2019-10-19 12:47:48.015208",
+        "Link": "https://www.eltiempo.com/noticias-mas-leidas",
+        "Status": "200"
+    },
+    "Check 169": {
+        "Date": "2019-10-19 12:47:48.970742",
+        "Link": "https://www.eltiempo.com/opinion",
+        "Status": "200"
+    },
+    "Check 170": {
+        "Date": "2019-10-19 12:47:49.835392",
+        "Link": "https://www.eltiempo.com/opinion/caricaturas/matador/hace-agua-caricatura-de-matador-423150",
+        "Status": "200"
+    },
+    "Check 171": {
+        "Date": "2019-10-19 12:47:50.970953",
+        "Link": "https://www.eltiempo.com/opinion/caricaturas/matador/la-cruda-realidad-caricatura-de-matador-423152",
+        "Status": "200"
+    },
+    "Check 172": {
+        "Date": "2019-10-19 12:47:51.845927",
+        "Link": "https://www.eltiempo.com/opinion/caricaturas/mil/lo-revivieron-caricatura-de-mil-423148",
+        "Status": "200"
+    },
+    "Check 173": {
+        "Date": "2019-10-19 12:47:53.615891",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/abdon-espinosa-valderrama",
+        "Status": "200"
+    },
+    "Check 174": {
+        "Date": "2019-10-19 12:47:54.894460",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/abel-veiga-copo",
+        "Status": "200"
+    },
+    "Check 175": {
+        "Date": "2019-10-19 12:47:55.889889",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/adolfo-pacheco-anillo",
+        "Status": "200"
+    },
+    "Check 176": {
+        "Date": "2019-10-19 12:47:57.732459",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran",
+        "Status": "200"
+    },
+    "Check 177": {
+        "Date": "2019-10-19 12:47:58.542533",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/trabajar-por-plata-columna-de-adolfo-zableh-duran-424620",
+        "Status": "200"
+    },
+    "Check 178": {
+        "Date": "2019-10-19 12:48:00.107536",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/adriana-la-rotta",
+        "Status": "200"
+    },
+    "Check 179": {
+        "Date": "2019-10-19 12:48:01.022683",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alberto-abello",
+        "Status": "200"
+    },
+    "Check 180": {
+        "Date": "2019-10-19 12:48:02.629056",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alberto-carrasquilla",
+        "Status": "200"
+    },
+    "Check 181": {
+        "Date": "2019-10-19 12:48:04.485677",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alejandro-alvarado",
+        "Status": "200"
+    },
+    "Check 182": {
+        "Date": "2019-10-19 12:48:05.502671",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alejandro-gaviria",
+        "Status": "200"
+    },
+    "Check 183": {
+        "Date": "2019-10-19 12:48:06.911025",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alejandro-martinez-villegas",
+        "Status": "200"
+    },
+    "Check 184": {
+        "Date": "2019-10-19 12:48:07.917245",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alejandro-ordonez-maldonado",
+        "Status": "200"
+    },
+    "Check 185": {
+        "Date": "2019-10-19 12:48:08.865140",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alejandro-pelaez",
+        "Status": "200"
+    },
+    "Check 186": {
+        "Date": "2019-10-19 12:48:09.419100",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez",
+        "Status": "200"
+    },
+    "Check 187": {
+        "Date": "2019-10-19 12:48:11.553439",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alejandro-tagliavini",
+        "Status": "200"
+    },
+    "Check 188": {
+        "Date": "2019-10-19 12:48:12.565116",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero",
+        "Status": "200"
+    },
+    "Check 189": {
+        "Date": "2019-10-19 12:48:14.127363",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal",
+        "Status": "200"
+    },
+    "Check 190": {
+        "Date": "2019-10-19 12:48:15.056675",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez",
+        "Status": "200"
+    },
+    "Check 191": {
+        "Date": "2019-10-19 12:48:16.907731",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alfonso-llano-escobar",
+        "Status": "200"
+    },
+    "Check 192": {
+        "Date": "2019-10-19 12:48:18.566416",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alfonso-portela-herran",
+        "Status": "200"
+    },
+    "Check 193": {
+        "Date": "2019-10-19 12:48:19.517940",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alicia-arango-olmos",
+        "Status": "200"
+    },
+    "Check 194": {
+        "Date": "2019-10-19 12:48:20.502482",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alicia-silva-nigrinis",
+        "Status": "200"
+    },
+    "Check 195": {
+        "Date": "2019-10-19 12:48:21.456839",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c",
+        "Status": "200"
+    },
+    "Check 196": {
+        "Date": "2019-10-19 12:48:22.751177",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/alvaro-sierra-restrepo",
+        "Status": "200"
+    },
+    "Check 197": {
+        "Date": "2019-10-19 12:48:24.395852",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/amadeo-rodriguez-castilla",
+        "Status": "200"
+    },
+    "Check 198": {
+        "Date": "2019-10-19 12:48:25.303635",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ana-maria-de-brigard",
+        "Status": "200"
+    },
+    "Check 199": {
+        "Date": "2019-10-19 12:48:26.290582",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ana-maria-ibanez",
+        "Status": "200"
+    },
+    "Check 200": {
+        "Date": "2019-10-19 12:48:26.816297",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/andres-candela",
+        "Status": "200"
+    },
+    "Check 201": {
+        "Date": "2019-10-19 12:48:27.754519",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/andres-espinosa-fenwarth",
+        "Status": "200"
+    },
+    "Check 202": {
+        "Date": "2019-10-19 12:48:28.716950",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia",
+        "Status": "200"
+    },
+    "Check 203": {
+        "Date": "2019-10-19 12:48:29.611411",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/andres-rivera-mejia",
+        "Status": "200"
+    },
+    "Check 204": {
+        "Date": "2019-10-19 12:48:30.532185",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/andres-valencia-pinzon",
+        "Status": "200"
+    },
+    "Check 205": {
+        "Date": "2019-10-19 12:48:31.404321",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/andres-villamizar",
+        "Status": "200"
+    },
+    "Check 206": {
+        "Date": "2019-10-19 12:48:32.309064",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/angela-maria-orozco",
+        "Status": "200"
+    },
+    "Check 207": {
+        "Date": "2019-10-19 12:48:33.145097",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/angela-maria-pulido-hernandez",
+        "Status": "200"
+    },
+    "Check 208": {
+        "Date": "2019-10-19 12:48:34.122281",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/angela-rosales",
+        "Status": "200"
+    },
+    "Check 209": {
+        "Date": "2019-10-19 12:48:35.117567",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/angelica-cocoma-ricaurte",
+        "Status": "200"
+    },
+    "Check 210": {
+        "Date": "2019-10-19 12:48:36.143061",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/angelica-lozano-correa",
+        "Status": "200"
+    },
+    "Check 211": {
+        "Date": "2019-10-19 12:48:36.565850",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/anibal-gaviria-correa",
+        "Status": "200"
+    },
+    "Check 212": {
+        "Date": "2019-10-19 12:48:37.574406",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/antanas-mockus",
+        "Status": "200"
+    },
+    "Check 213": {
+        "Date": "2019-10-19 12:48:37.998940",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana",
+        "Status": "200"
+    },
+    "Check 214": {
+        "Date": "2019-10-19 12:48:38.419987",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/armando-benedetti",
+        "Status": "200"
+    },
+    "Check 215": {
+        "Date": "2019-10-19 12:48:38.857502",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/armando-silva",
+        "Status": "200"
+    },
+    "Check 216": {
+        "Date": "2019-10-19 12:48:39.771932",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/arturo-arguello",
+        "Status": "200"
+    },
+    "Check 217": {
+        "Date": "2019-10-19 12:48:40.686340",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/astrid-alvarez",
+        "Status": "200"
+    },
+    "Check 218": {
+        "Date": "2019-10-19 12:48:41.839114",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/augusto-solano-mejia",
+        "Status": "200"
+    },
+    "Check 219": {
+        "Date": "2019-10-19 12:48:42.721755",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/aurelio-iragorri-valencia",
+        "Status": "200"
+    },
+    "Check 220": {
+        "Date": "2019-10-19 12:48:43.972648",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/aurelio-suarez-montoya",
+        "Status": "200"
+    },
+    "Check 221": {
+        "Date": "2019-10-19 12:48:44.831437",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ban-ki-moon",
+        "Status": "200"
+    },
+    "Check 222": {
+        "Date": "2019-10-19 12:48:51.138094",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/beatriz-elena-arbelaez",
+        "Status": "200"
+    },
+    "Check 223": {
+        "Date": "2019-10-19 12:48:52.579637",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg",
+        "Status": "200"
+    },
+    "Check 224": {
+        "Date": "2019-10-19 12:48:53.919426",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/bo-mathiasen",
+        "Status": "200"
+    },
+    "Check 225": {
+        "Date": "2019-10-19 12:48:55.328051",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/bruce-mac-master",
+        "Status": "200"
+    },
+    "Check 226": {
+        "Date": "2019-10-19 12:48:56.339648",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/camilo-ayerbe-posada",
+        "Status": "200"
+    },
+    "Check 227": {
+        "Date": "2019-10-19 12:48:57.949099",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/camilo-goelkel-medina",
+        "Status": "200"
+    },
+    "Check 228": {
+        "Date": "2019-10-19 12:48:59.487252",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/camilo-gonzalez-posso",
+        "Status": "200"
+    },
+    "Check 229": {
+        "Date": "2019-10-19 12:49:01.003027",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/camilo-herrera-mora",
+        "Status": "200"
+    },
+    "Check 230": {
+        "Date": "2019-10-19 12:49:02.499921",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/camilo-sanchez-ortega",
+        "Status": "200"
+    },
+    "Check 231": {
+        "Date": "2019-10-19 12:49:03.570787",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carl-bildt",
+        "Status": "200"
+    },
+    "Check 232": {
+        "Date": "2019-10-19 12:49:05.046861",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carlos-alberto-leyva",
+        "Status": "200"
+    },
+    "Check 233": {
+        "Date": "2019-10-19 12:49:06.615576",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carlos-angulo-galvis",
+        "Status": "200"
+    },
+    "Check 234": {
+        "Date": "2019-10-19 12:49:07.614367",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez",
+        "Status": "200"
+    },
+    "Check 235": {
+        "Date": "2019-10-19 12:49:08.246287",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carlos-camargo-assis",
+        "Status": "200"
+    },
+    "Check 236": {
+        "Date": "2019-10-19 12:49:09.374614",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carlos-camargo-assis-1",
+        "Status": "200"
+    },
+    "Check 237": {
+        "Date": "2019-10-19 12:49:10.721262",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carlos-castillo-cardona",
+        "Status": "200"
+    },
+    "Check 238": {
+        "Date": "2019-10-19 12:49:12.099883",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carlos-felipe-cordoba",
+        "Status": "200"
+    },
+    "Check 239": {
+        "Date": "2019-10-19 12:49:13.166711",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carlos-holmes-trujillo",
+        "Status": "200"
+    },
+    "Check 240": {
+        "Date": "2019-10-19 12:49:14.268777",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carlos-lozano-guillen",
+        "Status": "200"
+    },
+    "Check 241": {
+        "Date": "2019-10-19 12:49:15.612734",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carlos-vicente-de-roux",
+        "Status": "200"
+    },
+    "Check 242": {
+        "Date": "2019-10-19 12:49:16.546759",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carmen-ines-vasquez-camacho",
+        "Status": "200"
+    },
+    "Check 243": {
+        "Date": "2019-10-19 12:49:17.622230",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carolina-pineros-ospina",
+        "Status": "200"
+    },
+    "Check 244": {
+        "Date": "2019-10-19 12:49:18.989166",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carolina-salgado",
+        "Status": "200"
+    },
+    "Check 245": {
+        "Date": "2019-10-19 12:49:19.994821",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/carolina-soto",
+        "Status": "200"
+    },
+    "Check 246": {
+        "Date": "2019-10-19 12:49:20.936690",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/catalina-cock",
+        "Status": "200"
+    },
+    "Check 247": {
+        "Date": "2019-10-19 12:49:22.283388",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/cecilia-alvarez-correa",
+        "Status": "200"
+    },
+    "Check 248": {
+        "Date": "2019-10-19 12:49:23.322697",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/cecilia-lopez-montano",
+        "Status": "200"
+    },
+    "Check 249": {
+        "Date": "2019-10-19 12:49:24.423676",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/cecilia-rodriguez",
+        "Status": "200"
+    },
+    "Check 250": {
+        "Date": "2019-10-19 12:49:25.341510",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/cesar-gaviria-trujillo",
+        "Status": "200"
+    },
+    "Check 251": {
+        "Date": "2019-10-19 12:49:26.184349",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/cesar-torres",
+        "Status": "200"
+    },
+    "Check 252": {
+        "Date": "2019-10-19 12:49:27.547887",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/cesar-tulio-ossa",
+        "Status": "200"
+    },
+    "Check 253": {
+        "Date": "2019-10-19 12:49:28.603862",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/christine-ockrent",
+        "Status": "200"
+    },
+    "Check 254": {
+        "Date": "2019-10-19 12:49:29.507477",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/christoph-harnisch",
+        "Status": "200"
+    },
+    "Check 255": {
+        "Date": "2019-10-19 12:49:30.872877",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/chucky-garcia",
+        "Status": "200"
+    },
+    "Check 256": {
+        "Date": "2019-10-19 12:49:31.894252",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ciro-rodriguez-pinzon",
+        "Status": "200"
+    },
+    "Check 257": {
+        "Date": "2019-10-19 12:49:33.246420",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/clara-lopez-obregon",
+        "Status": "200"
+    },
+    "Check 258": {
+        "Date": "2019-10-19 12:49:34.595980",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/clara-rojas-gonzalez",
+        "Status": "200"
+    },
+    "Check 259": {
+        "Date": "2019-10-19 12:49:35.639740",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/claudia-dangond-gibsone",
+        "Status": "200"
+    },
+    "Check 260": {
+        "Date": "2019-10-19 12:49:36.699251",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios",
+        "Status": "200"
+    },
+    "Check 261": {
+        "Date": "2019-10-19 12:49:38.066123",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/claudia-restrepo",
+        "Status": "200"
+    },
+    "Check 262": {
+        "Date": "2019-10-19 12:49:39.595707",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/clemencia-carabali-rodallega",
+        "Status": "200"
+    },
+    "Check 263": {
+        "Date": "2019-10-19 12:49:40.105784",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/coalicion-de-acciones-por-el-cambio",
+        "Status": "200"
+    },
+    "Check 264": {
+        "Date": "2019-10-19 12:49:41.623546",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/cristian-valencia",
+        "Status": "200"
+    },
+    "Check 265": {
+        "Date": "2019-10-19 12:49:43.050847",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/cristina-carrizosa-calle",
+        "Status": "200"
+    },
+    "Check 266": {
+        "Date": "2019-10-19 12:49:44.421813",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/cristina-esguerra-miranda",
+        "Status": "200"
+    },
+    "Check 267": {
+        "Date": "2019-10-19 12:49:46.615971",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/cristina-plazas",
+        "Status": "200"
+    },
+    "Check 268": {
+        "Date": "2019-10-19 12:49:47.781555",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/daniel-mitchell",
+        "Status": "200"
+    },
+    "Check 269": {
+        "Date": "2019-10-19 12:49:49.252506",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/daniel-raisbeck",
+        "Status": "200"
+    },
+    "Check 270": {
+        "Date": "2019-10-19 12:49:50.558711",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/daniel-saldarriaga-molina",
+        "Status": "200"
+    },
+    "Check 271": {
+        "Date": "2019-10-19 12:49:51.829923",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/daniel-samper-pizano",
+        "Status": "200"
+    },
+    "Check 272": {
+        "Date": "2019-10-19 12:49:53.202211",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/dario-hidalgo",
+        "Status": "200"
+    },
+    "Check 273": {
+        "Date": "2019-10-19 12:49:54.704144",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/dario-martinez-betancourt",
+        "Status": "200"
+    },
+    "Check 274": {
+        "Date": "2019-10-19 12:49:55.655070",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/david-lozano-ortiz",
+        "Status": "200"
+    },
+    "Check 275": {
+        "Date": "2019-10-19 12:49:56.791388",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/david-luna",
+        "Status": "200"
+    },
+    "Check 276": {
+        "Date": "2019-10-19 12:49:58.168367",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/david-rubio-rodriguez",
+        "Status": "200"
+    },
+    "Check 277": {
+        "Date": "2019-10-19 12:49:59.392498",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/diana-guarnizo",
+        "Status": "200"
+    },
+    "Check 278": {
+        "Date": "2019-10-19 12:50:01.160836",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/diego-duque",
+        "Status": "200"
+    },
+    "Check 279": {
+        "Date": "2019-10-19 12:50:02.399270",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/diego-rengifo-lozano",
+        "Status": "200"
+    },
+    "Check 280": {
+        "Date": "2019-10-19 12:50:04.461768",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/edgardo-jose-maya",
+        "Status": "200"
+    },
+    "Check 281": {
+        "Date": "2019-10-19 12:50:05.627266",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/eduardo-behrentz",
+        "Status": "200"
+    },
+    "Check 282": {
+        "Date": "2019-10-19 12:50:06.165105",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/eduardo-diaz-uribe",
+        "Status": "200"
+    },
+    "Check 283": {
+        "Date": "2019-10-19 12:50:07.350706",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar",
+        "Status": "200"
+    },
+    "Check 284": {
+        "Date": "2019-10-19 12:50:08.378976",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/eduardo-herrera-berbel",
+        "Status": "200"
+    },
+    "Check 285": {
+        "Date": "2019-10-19 12:50:09.376987",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/eduardo-jose-gonzalez-angulo",
+        "Status": "200"
+    },
+    "Check 286": {
+        "Date": "2019-10-19 12:50:10.475584",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo",
+        "Status": "200"
+    },
+    "Check 287": {
+        "Date": "2019-10-19 12:50:11.469681",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/eduardo-suescun-monroy",
+        "Status": "200"
+    },
+    "Check 288": {
+        "Date": "2019-10-19 12:50:12.927912",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/elly-hernandez",
+        "Status": "200"
+    },
+    "Check 289": {
+        "Date": "2019-10-19 12:50:14.270314",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/emilio-archila-penalosa",
+        "Status": "200"
+    },
+    "Check 290": {
+        "Date": "2019-10-19 12:50:15.311616",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/enrique-gaviria-lievano",
+        "Status": "200"
+    },
+    "Check 291": {
+        "Date": "2019-10-19 12:50:16.681933",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/enrique-gil-botero",
+        "Status": "200"
+    },
+    "Check 292": {
+        "Date": "2019-10-19 12:50:18.072594",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/enrique-pena-nieto",
+        "Status": "200"
+    },
+    "Check 293": {
+        "Date": "2019-10-19 12:50:19.128838",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/enrique-penalosa",
+        "Status": "200"
+    },
+    "Check 294": {
+        "Date": "2019-10-19 12:50:20.242666",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/enrique-santos-molano",
+        "Status": "200"
+    },
+    "Check 295": {
+        "Date": "2019-10-19 12:50:21.609817",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/erika-guevara-rosas",
+        "Status": "200"
+    },
+    "Check 296": {
+        "Date": "2019-10-19 12:50:22.567074",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ernesto-samper",
+        "Status": "200"
+    },
+    "Check 297": {
+        "Date": "2019-10-19 12:50:23.855466",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/esteban-santos",
+        "Status": "200"
+    },
+    "Check 298": {
+        "Date": "2019-10-19 12:50:24.855145",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/eva-joly",
+        "Status": "200"
+    },
+    "Check 299": {
+        "Date": "2019-10-19 12:50:25.846882",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fabian-sanabria",
+        "Status": "200"
+    },
+    "Check 300": {
+        "Date": "2019-10-19 12:50:26.692598",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fabio-castro-forero",
+        "Status": "200"
+    },
+    "Check 301": {
+        "Date": "2019-10-19 12:50:28.064547",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez",
+        "Status": "200"
+    },
+    "Check 302": {
+        "Date": "2019-10-19 12:50:28.963903",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fabrizio-hochschild",
+        "Status": "200"
+    },
+    "Check 303": {
+        "Date": "2019-10-19 12:50:30.164934",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/federico-arango",
+        "Status": "200"
+    },
+    "Check 304": {
+        "Date": "2019-10-19 12:50:31.152133",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/felipe-jaramillo",
+        "Status": "200"
+    },
+    "Check 305": {
+        "Date": "2019-10-19 12:50:32.483686",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/felipe-restrepo-pombo",
+        "Status": "200"
+    },
+    "Check 306": {
+        "Date": "2019-10-19 12:50:33.870813",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/felipe-rios",
+        "Status": "200"
+    },
+    "Check 307": {
+        "Date": "2019-10-19 12:50:34.798738",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fernando-carrillo-florez",
+        "Status": "200"
+    },
+    "Check 308": {
+        "Date": "2019-10-19 12:50:36.188372",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fernando-florez",
+        "Status": "200"
+    },
+    "Check 309": {
+        "Date": "2019-10-19 12:50:37.438694",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fernando-gomez-echeverry",
+        "Status": "200"
+    },
+    "Check 310": {
+        "Date": "2019-10-19 12:50:38.692523",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fernando-londono-hoyos",
+        "Status": "200"
+    },
+    "Check 311": {
+        "Date": "2019-10-19 12:50:39.763412",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fernando-posada",
+        "Status": "200"
+    },
+    "Check 312": {
+        "Date": "2019-10-19 12:50:40.782173",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz",
+        "Status": "200"
+    },
+    "Check 313": {
+        "Date": "2019-10-19 12:50:42.151763",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fernando-ruiz-gomez",
+        "Status": "200"
+    },
+    "Check 314": {
+        "Date": "2019-10-19 12:50:43.656080",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres",
+        "Status": "200"
+    },
+    "Check 315": {
+        "Date": "2019-10-19 12:50:44.199812",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/la-protesta-estudiantil-columna-de-fernando-sanchez-torres-424626",
+        "Status": "200"
+    },
+    "Check 316": {
+        "Date": "2019-10-19 12:50:45.286575",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/flavia-santoro",
+        "Status": "200"
+    },
+    "Check 317": {
+        "Date": "2019-10-19 12:50:46.782829",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/florence-thomas",
+        "Status": "200"
+    },
+    "Check 318": {
+        "Date": "2019-10-19 12:50:48.295500",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/francisco-barbosa",
+        "Status": "200"
+    },
+    "Check 319": {
+        "Date": "2019-10-19 12:50:49.708781",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao",
+        "Status": "200"
+    },
+    "Check 320": {
+        "Date": "2019-10-19 12:50:51.203131",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/francisco-de-roux",
+        "Status": "200"
+    },
+    "Check 321": {
+        "Date": "2019-10-19 12:50:52.058743",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/francisco-henao",
+        "Status": "200"
+    },
+    "Check 322": {
+        "Date": "2019-10-19 12:50:53.396877",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/francisco-santos",
+        "Status": "200"
+    },
+    "Check 323": {
+        "Date": "2019-10-19 12:50:54.548593",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gabriel-cifuentes-ghidini",
+        "Status": "200"
+    },
+    "Check 324": {
+        "Date": "2019-10-19 12:50:55.683231",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gabriel-silva-lujan",
+        "Status": "200"
+    },
+    "Check 325": {
+        "Date": "2019-10-19 12:50:57.108997",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gabriel-vallejo-lopez",
+        "Status": "200"
+    },
+    "Check 326": {
+        "Date": "2019-10-19 12:50:58.211732",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gautier-mignot",
+        "Status": "200"
+    },
+    "Check 327": {
+        "Date": "2019-10-19 12:50:59.604382",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/german-arce-zapata",
+        "Status": "200"
+    },
+    "Check 328": {
+        "Date": "2019-10-19 12:51:01.270781",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/german-cardona-gutierrez",
+        "Status": "200"
+    },
+    "Check 329": {
+        "Date": "2019-10-19 12:51:02.684476",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras",
+        "Status": "200"
+    },
+    "Check 330": {
+        "Date": "2019-10-19 12:51:03.657175",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gilberto-quinche-toro",
+        "Status": "200"
+    },
+    "Check 331": {
+        "Date": "2019-10-19 12:51:04.656611",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gilma-jimenez-gomez",
+        "Status": "200"
+    },
+    "Check 332": {
+        "Date": "2019-10-19 12:51:05.672103",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gina-parody",
+        "Status": "200"
+    },
+    "Check 333": {
+        "Date": "2019-10-19 12:51:07.042293",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gloria-amparo-alonso-masmela",
+        "Status": "200"
+    },
+    "Check 334": {
+        "Date": "2019-10-19 12:51:08.498895",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gloria-helena-rey",
+        "Status": "200"
+    },
+    "Check 335": {
+        "Date": "2019-10-19 12:51:09.858111",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gloria-maria-borrero",
+        "Status": "200"
+    },
+    "Check 336": {
+        "Date": "2019-10-19 12:51:11.275243",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gonzalo-castellanos",
+        "Status": "200"
+    },
+    "Check 337": {
+        "Date": "2019-10-19 12:51:12.232286",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gonzalo-enrique-rojas",
+        "Status": "200"
+    },
+    "Check 338": {
+        "Date": "2019-10-19 12:51:13.542789",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gral-nestor-ramirez-mejia",
+        "Status": "200"
+    },
+    "Check 339": {
+        "Date": "2019-10-19 12:51:14.525135",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo",
+        "Status": "200"
+    },
+    "Check 340": {
+        "Date": "2019-10-19 12:51:15.881626",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/griselda-janeth-restrepo",
+        "Status": "200"
+    },
+    "Check 341": {
+        "Date": "2019-10-19 12:51:17.244800",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gudilfredo-avendano",
+        "Status": "200"
+    },
+    "Check 342": {
+        "Date": "2019-10-19 12:51:18.161746",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/guillermo-botero",
+        "Status": "200"
+    },
+    "Check 343": {
+        "Date": "2019-10-19 12:51:19.578808",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/guillermo-maya",
+        "Status": "200"
+    },
+    "Check 344": {
+        "Date": "2019-10-19 12:51:20.570981",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/guillermo-perry",
+        "Status": "200"
+    },
+    "Check 345": {
+        "Date": "2019-10-19 12:51:21.587784",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/guillermo-rivera",
+        "Status": "200"
+    },
+    "Check 346": {
+        "Date": "2019-10-19 12:51:22.607904",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon",
+        "Status": "200"
+    },
+    "Check 347": {
+        "Date": "2019-10-19 12:51:23.900345",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gustavo-bell-lemus",
+        "Status": "200"
+    },
+    "Check 348": {
+        "Date": "2019-10-19 12:51:25.126157",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gustavo-de-greiff",
+        "Status": "200"
+    },
+    "Check 349": {
+        "Date": "2019-10-19 12:51:26.184170",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan",
+        "Status": "200"
+    },
+    "Check 350": {
+        "Date": "2019-10-19 12:51:27.514496",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gustavo-estrada",
+        "Status": "200"
+    },
+    "Check 351": {
+        "Date": "2019-10-19 12:51:28.375971",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gustavo-gomez-cordoba",
+        "Status": "200"
+    },
+    "Check 352": {
+        "Date": "2019-10-19 12:51:29.335438",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gustavo-morales",
+        "Status": "200"
+    },
+    "Check 353": {
+        "Date": "2019-10-19 12:51:30.221948",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/gustavo-petro",
+        "Status": "200"
+    },
+    "Check 354": {
+        "Date": "2019-10-19 12:51:31.122217",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/hector-pineda",
+        "Status": "200"
+    },
+    "Check 355": {
+        "Date": "2019-10-19 12:51:32.161631",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/heriberto-fiorillo",
+        "Status": "200"
+    },
+    "Check 356": {
+        "Date": "2019-10-19 12:51:32.688131",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/hernando-herrera-mercado",
+        "Status": "200"
+    },
+    "Check 357": {
+        "Date": "2019-10-19 12:51:33.389298",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/hernando-jose-gomez",
+        "Status": "200"
+    },
+    "Check 358": {
+        "Date": "2019-10-19 12:51:34.726017",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/hollman-morris",
+        "Status": "200"
+    },
+    "Check 359": {
+        "Date": "2019-10-19 12:51:36.028740",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez",
+        "Status": "200"
+    },
+    "Check 360": {
+        "Date": "2019-10-19 12:51:36.562793",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/humberto-de-la-calle",
+        "Status": "200"
+    },
+    "Check 361": {
+        "Date": "2019-10-19 12:51:37.643239",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ian-buruma",
+        "Status": "200"
+    },
+    "Check 362": {
+        "Date": "2019-10-19 12:51:39.011593",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ilma-cecilia-ariza-de-avila",
+        "Status": "200"
+    },
+    "Check 363": {
+        "Date": "2019-10-19 12:51:40.280110",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ingrid-betancourt",
+        "Status": "200"
+    },
+    "Check 364": {
+        "Date": "2019-10-19 12:51:41.582546",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/inilida-ballestas-gamarra",
+        "Status": "200"
+    },
+    "Check 365": {
+        "Date": "2019-10-19 12:51:42.570030",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/irina-junieles-acosta",
+        "Status": "200"
+    },
+    "Check 366": {
+        "Date": "2019-10-19 12:51:43.958755",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/italo-cardona",
+        "Status": "200"
+    },
+    "Check 367": {
+        "Date": "2019-10-19 12:51:45.321893",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ivan-cepeda-castro",
+        "Status": "200"
+    },
+    "Check 368": {
+        "Date": "2019-10-19 12:51:46.613248",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ivan-duque",
+        "Status": "200"
+    },
+    "Check 369": {
+        "Date": "2019-10-19 12:51:47.690896",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/j-j-ocampo",
+        "Status": "200"
+    },
+    "Check 370": {
+        "Date": "2019-10-19 12:51:48.278903",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jacobo-betancur-pelaez",
+        "Status": "200"
+    },
+    "Check 371": {
+        "Date": "2019-10-19 12:51:49.073130",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jacques-mosseri",
+        "Status": "200"
+    },
+    "Check 372": {
+        "Date": "2019-10-19 12:51:50.427448",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jaime-a-fajardo-landaeta",
+        "Status": "200"
+    },
+    "Check 373": {
+        "Date": "2019-10-19 12:51:51.834428",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jaime-castro",
+        "Status": "200"
+    },
+    "Check 374": {
+        "Date": "2019-10-19 12:51:53.120709",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jaime-gonzalez-montano",
+        "Status": "200"
+    },
+    "Check 375": {
+        "Date": "2019-10-19 12:51:54.485442",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/javier-alexander-borda-diaz-1",
+        "Status": "200"
+    },
+    "Check 376": {
+        "Date": "2019-10-19 12:51:55.339795",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/javier-ciurlizza",
+        "Status": "200"
+    },
+    "Check 377": {
+        "Date": "2019-10-19 12:51:56.396878",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/javier-diaz-molina",
+        "Status": "200"
+    },
+    "Check 378": {
+        "Date": "2019-10-19 12:51:57.777551",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jean-pisani-ferry",
+        "Status": "200"
+    },
+    "Check 379": {
+        "Date": "2019-10-19 12:51:59.005192",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jeffrey-d-sachs",
+        "Status": "200"
+    },
+    "Check 380": {
+        "Date": "2019-10-19 12:52:00.288107",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jennifer-pedraza",
+        "Status": "200"
+    },
+    "Check 381": {
+        "Date": "2019-10-19 12:52:01.657779",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya",
+        "Status": "200"
+    },
+    "Check 382": {
+        "Date": "2019-10-19 12:52:02.973433",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/joaquin-velez-navarro",
+        "Status": "200"
+    },
+    "Check 383": {
+        "Date": "2019-10-19 12:52:04.356097",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/joaquin-villalobos",
+        "Status": "200"
+    },
+    "Check 384": {
+        "Date": "2019-10-19 12:52:05.536248",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/john-mario-gonzalez",
+        "Status": "200"
+    },
+    "Check 385": {
+        "Date": "2019-10-19 12:52:06.872012",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/john-sudarsky",
+        "Status": "200"
+    },
+    "Check 386": {
+        "Date": "2019-10-19 12:52:08.569675",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jonathan-malagon-gonzalez",
+        "Status": "200"
+    },
+    "Check 387": {
+        "Date": "2019-10-19 12:52:09.511570",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jorge-armando-otalora",
+        "Status": "200"
+    },
+    "Check 388": {
+        "Date": "2019-10-19 12:52:10.569459",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jorge-bustamante",
+        "Status": "200"
+    },
+    "Check 389": {
+        "Date": "2019-10-19 12:52:11.437690",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jorge-eduardo-cock",
+        "Status": "200"
+    },
+    "Check 390": {
+        "Date": "2019-10-19 12:52:12.491636",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jorge-hernando-nieto",
+        "Status": "200"
+    },
+    "Check 391": {
+        "Date": "2019-10-19 12:52:13.620942",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jorge-leyva-valenzuela",
+        "Status": "200"
+    },
+    "Check 392": {
+        "Date": "2019-10-19 12:52:15.121581",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jorge-londono",
+        "Status": "200"
+    },
+    "Check 393": {
+        "Date": "2019-10-19 12:52:16.477770",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo",
+        "Status": "200"
+    },
+    "Check 394": {
+        "Date": "2019-10-19 12:52:17.967307",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo-y-magdalena-sepulveda",
+        "Status": "200"
+    },
+    "Check 395": {
+        "Date": "2019-10-19 12:52:19.317786",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-darwin-lenis",
+        "Status": "200"
+    },
+    "Check 396": {
+        "Date": "2019-10-19 12:52:20.690310",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-felix-lafaurie",
+        "Status": "200"
+    },
+    "Check 397": {
+        "Date": "2019-10-19 12:52:22.108052",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-fernando-florez",
+        "Status": "200"
+    },
+    "Check 398": {
+        "Date": "2019-10-19 12:52:23.644863",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo",
+        "Status": "200"
+    },
+    "Check 399": {
+        "Date": "2019-10-19 12:52:24.985786",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-restrepo",
+        "Status": "200"
+    },
+    "Check 400": {
+        "Date": "2019-10-19 12:52:26.467625",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate",
+        "Status": "200"
+    },
+    "Check 401": {
+        "Date": "2019-10-19 12:52:28.036873",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-orozco-munoz",
+        "Status": "200"
+    },
+    "Check 402": {
+        "Date": "2019-10-19 12:52:29.180501",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-vivanco",
+        "Status": "200"
+    },
+    "Check 403": {
+        "Date": "2019-10-19 12:52:30.568362",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jose-obdulio-gaviria",
+        "Status": "200"
+    },
+    "Check 404": {
+        "Date": "2019-10-19 12:52:31.886767",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez",
+        "Status": "200"
+    },
+    "Check 405": {
+        "Date": "2019-10-19 12:52:33.443499",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-camilo-davila",
+        "Status": "200"
+    },
+    "Check 406": {
+        "Date": "2019-10-19 12:52:34.292938",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-carlos-echeverry",
+        "Status": "200"
+    },
+    "Check 407": {
+        "Date": "2019-10-19 12:52:35.508880",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-carlos-esguerra",
+        "Status": "200"
+    },
+    "Check 408": {
+        "Date": "2019-10-19 12:52:36.593100",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-carlos-holguin",
+        "Status": "200"
+    },
+    "Check 409": {
+        "Date": "2019-10-19 12:52:37.847738",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-carlos-lecompte",
+        "Status": "200"
+    },
+    "Check 410": {
+        "Date": "2019-10-19 12:52:38.996939",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-carlos-mira",
+        "Status": "200"
+    },
+    "Check 411": {
+        "Date": "2019-10-19 12:52:40.013629",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-carlos-pinzon",
+        "Status": "200"
+    },
+    "Check 412": {
+        "Date": "2019-10-19 12:52:41.352545",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-angel-borrero",
+        "Status": "200"
+    },
+    "Check 413": {
+        "Date": "2019-10-19 12:52:42.425645",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain",
+        "Status": "200"
+    },
+    "Check 414": {
+        "Date": "2019-10-19 12:52:43.443892",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-fernando-cristo",
+        "Status": "200"
+    },
+    "Check 415": {
+        "Date": "2019-10-19 12:52:44.450101",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-gabriel-tokatlian",
+        "Status": "200"
+    },
+    "Check 416": {
+        "Date": "2019-10-19 12:52:45.703716",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-gossain",
+        "Status": "200"
+    },
+    "Check 417": {
+        "Date": "2019-10-19 12:52:47.092910",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-horacio-de-freitas-de-sousa",
+        "Status": "200"
+    },
+    "Check 418": {
+        "Date": "2019-10-19 12:52:48.173015",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-lozano",
+        "Status": "200"
+    },
+    "Check 419": {
+        "Date": "2019-10-19 12:52:49.463606",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-manuel-galan",
+        "Status": "200"
+    },
+    "Check 420": {
+        "Date": "2019-10-19 12:52:50.479902",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-manuel-santos",
+        "Status": "200"
+    },
+    "Check 421": {
+        "Date": "2019-10-19 12:52:51.333961",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-martin-caicedo-ferrer",
+        "Status": "200"
+    },
+    "Check 422": {
+        "Date": "2019-10-19 12:52:52.450805",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-bocarejo",
+        "Status": "200"
+    },
+    "Check 423": {
+        "Date": "2019-10-19 12:52:53.837742",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas",
+        "Status": "200"
+    },
+    "Check 424": {
+        "Date": "2019-10-19 12:52:54.911405",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-cordoba-garces",
+        "Status": "200"
+    },
+    "Check 425": {
+        "Date": "2019-10-19 12:52:56.450192",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-salazar",
+        "Status": "200"
+    },
+    "Check 426": {
+        "Date": "2019-10-19 12:52:57.862274",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-ramon-samper",
+        "Status": "200"
+    },
+    "Check 427": {
+        "Date": "2019-10-19 12:52:58.917150",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juan-sebastian-rozo",
+        "Status": "200"
+    },
+    "Check 428": {
+        "Date": "2019-10-19 12:52:59.901635",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juanita-goebertus-estrada",
+        "Status": "200"
+    },
+    "Check 429": {
+        "Date": "2019-10-19 12:53:00.745800",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/julian-dominguez-rivera",
+        "Status": "200"
+    },
+    "Check 430": {
+        "Date": "2019-10-19 12:53:01.953585",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juliana-barbassa",
+        "Status": "200"
+    },
+    "Check 431": {
+        "Date": "2019-10-19 12:53:03.405519",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/juliana-pungiluppi",
+        "Status": "200"
+    },
+    "Check 432": {
+        "Date": "2019-10-19 12:53:05.037418",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/julio-e-munoz",
+        "Status": "200"
+    },
+    "Check 433": {
+        "Date": "2019-10-19 12:53:06.095576",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/karen-abudinen",
+        "Status": "200"
+    },
+    "Check 434": {
+        "Date": "2019-10-19 12:53:06.602177",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/katherine-aguirre-tobon",
+        "Status": "200"
+    },
+    "Check 435": {
+        "Date": "2019-10-19 12:53:07.536614",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/kevin-whitaker",
+        "Status": "200"
+    },
+    "Check 436": {
+        "Date": "2019-10-19 12:53:08.669085",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/la-columna-bicentenaria",
+        "Status": "200"
+    },
+    "Check 437": {
+        "Date": "2019-10-19 12:53:10.062090",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/laura-chinchilla",
+        "Status": "200"
+    },
+    "Check 438": {
+        "Date": "2019-10-19 12:53:11.621909",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/laura-gil",
+        "Status": "200"
+    },
+    "Check 439": {
+        "Date": "2019-10-19 12:53:12.541852",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/leon-valencia",
+        "Status": "200"
+    },
+    "Check 440": {
+        "Date": "2019-10-19 12:53:13.911770",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/leopoldo-villar-borda",
+        "Status": "200"
+    },
+    "Check 441": {
+        "Date": "2019-10-19 12:53:15.002575",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/lucia-bastidas-ubate",
+        "Status": "200"
+    },
+    "Check 442": {
+        "Date": "2019-10-19 12:53:16.340001",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luciana-cadahia",
+        "Status": "200"
+    },
+    "Check 443": {
+        "Date": "2019-10-19 12:53:16.848768",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/lucy-nieto-de-samper",
+        "Status": "200"
+    },
+    "Check 444": {
+        "Date": "2019-10-19 12:53:18.290085",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-alberto-moreno",
+        "Status": "200"
+    },
+    "Check 445": {
+        "Date": "2019-10-19 12:53:19.717743",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-almagro",
+        "Status": "200"
+    },
+    "Check 446": {
+        "Date": "2019-10-19 12:53:20.738635",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-carlos-villegas",
+        "Status": "200"
+    },
+    "Check 447": {
+        "Date": "2019-10-19 12:53:21.245091",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-enrique-montenegro",
+        "Status": "200"
+    },
+    "Check 448": {
+        "Date": "2019-10-19 12:53:22.347932",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao",
+        "Status": "200"
+    },
+    "Check 449": {
+        "Date": "2019-10-19 12:53:23.406821",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-fernando-alarcon",
+        "Status": "200"
+    },
+    "Check 450": {
+        "Date": "2019-10-19 12:53:24.769976",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-fernando-mejia",
+        "Status": "200"
+    },
+    "Check 451": {
+        "Date": "2019-10-19 12:53:26.076814",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-fernando-ramirez-acuna",
+        "Status": "200"
+    },
+    "Check 452": {
+        "Date": "2019-10-19 12:53:27.567196",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-gilberto-murillo",
+        "Status": "200"
+    },
+    "Check 453": {
+        "Date": "2019-10-19 12:53:30.075988",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-gonzalo-morales",
+        "Status": "200"
+    },
+    "Check 454": {
+        "Date": "2019-10-19 12:53:31.491244",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-guillermo-plata",
+        "Status": "200"
+    },
+    "Check 455": {
+        "Date": "2019-10-19 12:53:32.620328",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa",
+        "Status": "200"
+    },
+    "Check 456": {
+        "Date": "2019-10-19 12:53:33.197458",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/galan-y-el-metro-columna-de-luis-noe-ochoa-424622",
+        "Status": "200"
+    },
+    "Check 457": {
+        "Date": "2019-10-19 12:53:34.147427",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/magdalena-sepulveda",
+        "Status": "200"
+    },
+    "Check 458": {
+        "Date": "2019-10-19 12:53:35.499602",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey",
+        "Status": "200"
+    },
+    "Check 459": {
+        "Date": "2019-10-19 12:53:36.559754",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra",
+        "Status": "200"
+    },
+    "Check 460": {
+        "Date": "2019-10-19 12:53:42.941689",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/marcel-lebleu",
+        "Status": "200"
+    },
+    "Check 461": {
+        "Date": "2019-10-19 12:53:43.809170",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/marcela-abadia-cubillos",
+        "Status": "200"
+    },
+    "Check 462": {
+        "Date": "2019-10-19 12:53:44.907004",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/marcela-benavides",
+        "Status": "200"
+    },
+    "Check 463": {
+        "Date": "2019-10-19 12:53:46.203681",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/marcelo-stubrin",
+        "Status": "200"
+    },
+    "Check 464": {
+        "Date": "2019-10-19 12:53:47.045799",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/marco-sermoneta",
+        "Status": "200"
+    },
+    "Check 465": {
+        "Date": "2019-10-19 12:53:47.950123",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/marcos-silva",
+        "Status": "200"
+    },
+    "Check 466": {
+        "Date": "2019-10-19 12:53:48.811023",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/margarita-rosa-de-francisco",
+        "Status": "200"
+    },
+    "Check 467": {
+        "Date": "2019-10-19 12:53:49.680185",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-a-garcia-de-la-torre",
+        "Status": "200"
+    },
+    "Check 468": {
+        "Date": "2019-10-19 12:53:51.004321",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-alejandra-villamizar",
+        "Status": "200"
+    },
+    "Check 469": {
+        "Date": "2019-10-19 12:53:52.504368",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-angela-holguin",
+        "Status": "200"
+    },
+    "Check 470": {
+        "Date": "2019-10-19 12:53:53.387081",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-camila-correa",
+        "Status": "200"
+    },
+    "Check 471": {
+        "Date": "2019-10-19 12:53:54.752946",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-camila-correa-florez",
+        "Status": "200"
+    },
+    "Check 472": {
+        "Date": "2019-10-19 12:53:56.095165",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-claudia-espindola",
+        "Status": "200"
+    },
+    "Check 473": {
+        "Date": "2019-10-19 12:53:57.118233",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-claudia-lacouture",
+        "Status": "200"
+    },
+    "Check 474": {
+        "Date": "2019-10-19 12:53:58.105830",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-emma-mejia",
+        "Status": "200"
+    },
+    "Check 475": {
+        "Date": "2019-10-19 12:53:59.431586",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-emma-wills",
+        "Status": "200"
+    },
+    "Check 476": {
+        "Date": "2019-10-19 12:54:00.384160",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-fernanda-campo",
+        "Status": "200"
+    },
+    "Check 477": {
+        "Date": "2019-10-19 12:54:01.400339",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-fernanda-nossa",
+        "Status": "200"
+    },
+    "Check 478": {
+        "Date": "2019-10-19 12:54:02.749470",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-fernanda-suarez-londono",
+        "Status": "200"
+    },
+    "Check 479": {
+        "Date": "2019-10-19 12:54:03.738448",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-gomez",
+        "Status": "200"
+    },
+    "Check 480": {
+        "Date": "2019-10-19 12:54:04.760411",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda",
+        "Status": "200"
+    },
+    "Check 481": {
+        "Date": "2019-10-19 12:54:05.694670",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-luna-mendoza",
+        "Status": "200"
+    },
+    "Check 482": {
+        "Date": "2019-10-19 12:54:07.055095",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-mercedes-jaramillo",
+        "Status": "200"
+    },
+    "Check 483": {
+        "Date": "2019-10-19 12:54:08.321128",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maria-victoria-angulo",
+        "Status": "200"
+    },
+    "Check 484": {
+        "Date": "2019-10-19 12:54:09.177612",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mariana-garces-cordoba",
+        "Status": "200"
+    },
+    "Check 485": {
+        "Date": "2019-10-19 12:54:10.201446",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mariana-jaramillo-thomas",
+        "Status": "200"
+    },
+    "Check 486": {
+        "Date": "2019-10-19 12:54:11.048327",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/marie-france-delieuvin",
+        "Status": "200"
+    },
+    "Check 487": {
+        "Date": "2019-10-19 12:54:12.067825",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mario-noriega",
+        "Status": "200"
+    },
+    "Check 488": {
+        "Date": "2019-10-19 12:54:13.072144",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mark-leonard",
+        "Status": "200"
+    },
+    "Check 489": {
+        "Date": "2019-10-19 12:54:14.152776",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/marta-lucia-ramirez",
+        "Status": "200"
+    },
+    "Check 490": {
+        "Date": "2019-10-19 12:54:15.504762",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/marta-lucia-ramirez-1",
+        "Status": "200"
+    },
+    "Check 491": {
+        "Date": "2019-10-19 12:54:16.954419",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/martha-moreno-mesa",
+        "Status": "200"
+    },
+    "Check 492": {
+        "Date": "2019-10-19 12:54:17.996812",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/martha-ordonez",
+        "Status": "200"
+    },
+    "Check 493": {
+        "Date": "2019-10-19 12:54:19.403546",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/martha-senn",
+        "Status": "200"
+    },
+    "Check 494": {
+        "Date": "2019-10-19 12:54:20.411183",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/martin-guzman",
+        "Status": "200"
+    },
+    "Check 495": {
+        "Date": "2019-10-19 12:54:21.432149",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mateo-de-los-rios",
+        "Status": "200"
+    },
+    "Check 496": {
+        "Date": "2019-10-19 12:54:22.508289",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/maurice-bernard",
+        "Status": "200"
+    },
+    "Check 497": {
+        "Date": "2019-10-19 12:54:23.415109",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria",
+        "Status": "200"
+    },
+    "Check 498": {
+        "Date": "2019-10-19 12:54:24.489549",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/el-metro-no-sera-una-seda-columna-de-mauricio-cardenas-424644",
+        "Status": "200"
+    },
+    "Check 499": {
+        "Date": "2019-10-19 12:54:24.992967",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mauricio-gonzalez-cuervo",
+        "Status": "200"
+    },
+    "Check 500": {
+        "Date": "2019-10-19 12:54:26.273012",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda",
+        "Status": "200"
+    },
+    "Check 501": {
+        "Date": "2019-10-19 12:54:27.134732",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mauricio-pombo",
+        "Status": "200"
+    },
+    "Check 502": {
+        "Date": "2019-10-19 12:54:27.637294",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mauricio-rodriguez-munera",
+        "Status": "200"
+    },
+    "Check 503": {
+        "Date": "2019-10-19 12:54:28.604180",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas",
+        "Status": "200"
+    },
+    "Check 504": {
+        "Date": "2019-10-19 12:54:29.126947",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/melba-escobar",
+        "Status": "200"
+    },
+    "Check 505": {
+        "Date": "2019-10-19 12:54:30.153919",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/miguel-garcia-sanchez",
+        "Status": "200"
+    },
+    "Check 506": {
+        "Date": "2019-10-19 12:54:31.261083",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/miguel-silva",
+        "Status": "200"
+    },
+    "Check 507": {
+        "Date": "2019-10-19 12:54:32.097310",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/miguelangel-epeeyui-lopez-h",
+        "Status": "200"
+    },
+    "Check 508": {
+        "Date": "2019-10-19 12:54:33.111483",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/moises-naim",
+        "Status": "200"
+    },
+    "Check 509": {
+        "Date": "2019-10-19 12:54:34.094075",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman",
+        "Status": "200"
+    },
+    "Check 510": {
+        "Date": "2019-10-19 12:54:35.188817",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/monsenor-libardo-ramirez-gomez",
+        "Status": "200"
+    },
+    "Check 511": {
+        "Date": "2019-10-19 12:54:36.191124",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez",
+        "Status": "200"
+    },
+    "Check 512": {
+        "Date": "2019-10-19 12:54:37.456746",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/natalia-abello-vives",
+        "Status": "200"
+    },
+    "Check 513": {
+        "Date": "2019-10-19 12:54:38.475309",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/natalia-machain",
+        "Status": "200"
+    },
+    "Check 514": {
+        "Date": "2019-10-19 12:54:39.325869",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/natalia-springer",
+        "Status": "200"
+    },
+    "Check 515": {
+        "Date": "2019-10-19 12:54:40.428786",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/natalia-succar",
+        "Status": "200"
+    },
+    "Check 516": {
+        "Date": "2019-10-19 12:54:41.297269",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez",
+        "Status": "200"
+    },
+    "Check 517": {
+        "Date": "2019-10-19 12:54:42.569765",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/nestor-raul-correa-henao",
+        "Status": "200"
+    },
+    "Check 518": {
+        "Date": "2019-10-19 12:54:43.568177",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/nestor-rosania",
+        "Status": "200"
+    },
+    "Check 519": {
+        "Date": "2019-10-19 12:54:44.623482",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/nicolas-morales-thomas",
+        "Status": "200"
+    },
+    "Check 520": {
+        "Date": "2019-10-19 12:54:45.150198",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ola-elvestuen",
+        "Status": "200"
+    },
+    "Check 521": {
+        "Date": "2019-10-19 12:54:46.483561",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/orlando-molano",
+        "Status": "200"
+    },
+    "Check 522": {
+        "Date": "2019-10-19 12:54:47.387334",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/oscar-collazos",
+        "Status": "200"
+    },
+    "Check 523": {
+        "Date": "2019-10-19 12:54:48.267758",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo",
+        "Status": "200"
+    },
+    "Check 524": {
+        "Date": "2019-10-19 12:54:49.570642",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/oscar-ivan-zuluaga",
+        "Status": "200"
+    },
+    "Check 525": {
+        "Date": "2019-10-19 12:54:50.839856",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/oscar-naranjo",
+        "Status": "200"
+    },
+    "Check 526": {
+        "Date": "2019-10-19 12:54:52.133232",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/oscar-rodrigo-campo-hurtado",
+        "Status": "200"
+    },
+    "Check 527": {
+        "Date": "2019-10-19 12:54:53.204351",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/oscar-sanchez",
+        "Status": "200"
+    },
+    "Check 528": {
+        "Date": "2019-10-19 12:54:54.503815",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/oscar-villadiego-medina",
+        "Status": "200"
+    },
+    "Check 529": {
+        "Date": "2019-10-19 12:54:55.850804",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas",
+        "Status": "200"
+    },
+    "Check 530": {
+        "Date": "2019-10-19 12:54:56.710599",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/pablo-navas",
+        "Status": "200"
+    },
+    "Check 531": {
+        "Date": "2019-10-19 12:54:58.098075",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa",
+        "Status": "200"
+    },
+    "Check 532": {
+        "Date": "2019-10-19 12:54:59.397097",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/patricia-llombart",
+        "Status": "200"
+    },
+    "Check 533": {
+        "Date": "2019-10-19 12:55:00.416896",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/paula-gaviria-betancur",
+        "Status": "200"
+    },
+    "Check 534": {
+        "Date": "2019-10-19 12:55:01.913248",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/paula-moreno",
+        "Status": "200"
+    },
+    "Check 535": {
+        "Date": "2019-10-19 12:55:02.867259",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/paulo-cesar-sepulveda",
+        "Status": "200"
+    },
+    "Check 536": {
+        "Date": "2019-10-19 12:55:03.858942",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/pedro-javier-rojas-guevara",
+        "Status": "200"
+    },
+    "Check 537": {
+        "Date": "2019-10-19 12:55:04.874981",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/pedro-mercado-cepeda",
+        "Status": "200"
+    },
+    "Check 538": {
+        "Date": "2019-10-19 12:55:06.273588",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/pedro-miguel-navas",
+        "Status": "200"
+    },
+    "Check 539": {
+        "Date": "2019-10-19 12:55:07.699645",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/pedro-shaio",
+        "Status": "200"
+    },
+    "Check 540": {
+        "Date": "2019-10-19 12:55:09.201935",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/peter-singer",
+        "Status": "200"
+    },
+    "Check 541": {
+        "Date": "2019-10-19 12:55:10.583537",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/peter-tibber",
+        "Status": "200"
+    },
+    "Check 542": {
+        "Date": "2019-10-19 12:55:12.134250",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/plinio-apuleyo-mendoza",
+        "Status": "200"
+    },
+    "Check 543": {
+        "Date": "2019-10-19 12:55:13.163783",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/polad-bulbuloglu",
+        "Status": "200"
+    },
+    "Check 544": {
+        "Date": "2019-10-19 12:55:14.701226",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria",
+        "Status": "200"
+    },
+    "Check 545": {
+        "Date": "2019-10-19 12:55:16.094949",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rafael-de-brigard",
+        "Status": "200"
+    },
+    "Check 546": {
+        "Date": "2019-10-19 12:55:17.456648",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rafael-guarin",
+        "Status": "200"
+    },
+    "Check 547": {
+        "Date": "2019-10-19 12:55:18.836974",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rafael-lemaitre",
+        "Status": "200"
+    },
+    "Check 548": {
+        "Date": "2019-10-19 12:55:19.810648",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rafael-pardo-rueda",
+        "Status": "200"
+    },
+    "Check 549": {
+        "Date": "2019-10-19 12:55:21.118015",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rafael-ricardo-barrios",
+        "Status": "200"
+    },
+    "Check 550": {
+        "Date": "2019-10-19 12:55:22.054553",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ramon-jauregui-atondo",
+        "Status": "200"
+    },
+    "Check 551": {
+        "Date": "2019-10-19 12:55:23.050095",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/raouf-almalki",
+        "Status": "200"
+    },
+    "Check 552": {
+        "Date": "2019-10-19 12:55:24.356329",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/raquel-coronell-uribe",
+        "Status": "200"
+    },
+    "Check 553": {
+        "Date": "2019-10-19 12:55:25.605126",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/raul-buitrago-arias",
+        "Status": "200"
+    },
+    "Check 554": {
+        "Date": "2019-10-19 12:55:26.544231",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rex-tillerson",
+        "Status": "200"
+    },
+    "Check 555": {
+        "Date": "2019-10-19 12:55:27.528301",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ricardo-lozano",
+        "Status": "200"
+    },
+    "Check 556": {
+        "Date": "2019-10-19 12:55:28.541282",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ricardo-montezuma",
+        "Status": "200"
+    },
+    "Check 557": {
+        "Date": "2019-10-19 12:55:30.082321",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero",
+        "Status": "200"
+    },
+    "Check 558": {
+        "Date": "2019-10-19 12:55:31.483267",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/richard-haass",
+        "Status": "200"
+    },
+    "Check 559": {
+        "Date": "2019-10-19 12:55:32.792161",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/roberto-zarama",
+        "Status": "200"
+    },
+    "Check 560": {
+        "Date": "2019-10-19 12:55:33.694766",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rodrigo-beltran",
+        "Status": "200"
+    },
+    "Check 561": {
+        "Date": "2019-10-19 12:55:34.968025",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rodrigo-janot",
+        "Status": "200"
+    },
+    "Check 562": {
+        "Date": "2019-10-19 12:55:36.301053",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rosa-canete-alonso",
+        "Status": "200"
+    },
+    "Check 563": {
+        "Date": "2019-10-19 12:55:37.308057",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rosa-maria-orejuela",
+        "Status": "200"
+    },
+    "Check 564": {
+        "Date": "2019-10-19 12:55:38.673050",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rosario-cordoba-garces",
+        "Status": "200"
+    },
+    "Check 565": {
+        "Date": "2019-10-19 12:55:39.937679",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/roy-barreras",
+        "Status": "200"
+    },
+    "Check 566": {
+        "Date": "2019-10-19 12:55:41.319633",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/ruby-chagui",
+        "Status": "200"
+    },
+    "Check 567": {
+        "Date": "2019-10-19 12:55:42.374070",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/rudolf-hommes",
+        "Status": "200"
+    },
+    "Check 568": {
+        "Date": "2019-10-19 12:55:43.304477",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sabas-pretelt-de-la-vega",
+        "Status": "200"
+    },
+    "Check 569": {
+        "Date": "2019-10-19 12:55:44.373478",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/salud-hernandez-mora",
+        "Status": "200"
+    },
+    "Check 570": {
+        "Date": "2019-10-19 12:55:45.806036",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/salvo-basile",
+        "Status": "200"
+    },
+    "Check 571": {
+        "Date": "2019-10-19 12:55:46.667652",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sandra-borda-guzman",
+        "Status": "200"
+    },
+    "Check 572": {
+        "Date": "2019-10-19 12:55:47.609186",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sandra-morelli-rico",
+        "Status": "200"
+    },
+    "Check 573": {
+        "Date": "2019-10-19 12:55:48.621451",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/santiago-angel-urdinola",
+        "Status": "200"
+    },
+    "Check 574": {
+        "Date": "2019-10-19 12:55:49.483853",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/santiago-duran-otero",
+        "Status": "200"
+    },
+    "Check 575": {
+        "Date": "2019-10-19 12:55:50.932356",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/santiago-pardo-ramirez",
+        "Status": "200"
+    },
+    "Check 576": {
+        "Date": "2019-10-19 12:55:51.933234",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sara-tufano",
+        "Status": "200"
+    },
+    "Check 577": {
+        "Date": "2019-10-19 12:55:52.976345",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/saul-hernandez-bolivar",
+        "Status": "200"
+    },
+    "Check 578": {
+        "Date": "2019-10-19 12:55:54.371966",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sergio-araujo-castro",
+        "Status": "200"
+    },
+    "Check 579": {
+        "Date": "2019-10-19 12:55:55.385380",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sergio-bueno",
+        "Status": "200"
+    },
+    "Check 580": {
+        "Date": "2019-10-19 12:55:56.735129",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo",
+        "Status": "200"
+    },
+    "Check 581": {
+        "Date": "2019-10-19 12:55:57.751642",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sergio-fajardo",
+        "Status": "200"
+    },
+    "Check 582": {
+        "Date": "2019-10-19 12:55:59.210270",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata",
+        "Status": "200"
+    },
+    "Check 583": {
+        "Date": "2019-10-19 12:56:00.697708",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sergio-ocampo-madrid",
+        "Status": "200"
+    },
+    "Check 584": {
+        "Date": "2019-10-19 12:56:01.562942",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez",
+        "Status": "200"
+    },
+    "Check 585": {
+        "Date": "2019-10-19 12:56:02.562692",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/shlomo-avineri",
+        "Status": "200"
+    },
+    "Check 586": {
+        "Date": "2019-10-19 12:56:03.581131",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/shlomo-ben-ami",
+        "Status": "200"
+    },
+    "Check 587": {
+        "Date": "2019-10-19 12:56:04.593100",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/silverio-gomez",
+        "Status": "200"
+    },
+    "Check 588": {
+        "Date": "2019-10-19 12:56:05.126990",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/silvia-gomez",
+        "Status": "200"
+    },
+    "Check 589": {
+        "Date": "2019-10-19 12:56:06.421181",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/socorro-ramirez",
+        "Status": "200"
+    },
+    "Check 590": {
+        "Date": "2019-10-19 12:56:06.948697",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sonia-gomez-gomez",
+        "Status": "200"
+    },
+    "Check 591": {
+        "Date": "2019-10-19 12:56:08.351792",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/stefano-farne",
+        "Status": "200"
+    },
+    "Check 592": {
+        "Date": "2019-10-19 12:56:09.375854",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/sylvia-constain",
+        "Status": "200"
+    },
+    "Check 593": {
+        "Date": "2019-10-19 12:56:10.586228",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/tatiana-cabello-florez",
+        "Status": "200"
+    },
+    "Check 594": {
+        "Date": "2019-10-19 12:56:11.978491",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/thierry-ways",
+        "Status": "200"
+    },
+    "Check 595": {
+        "Date": "2019-10-19 12:56:12.837421",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/tobias-franz",
+        "Status": "200"
+    },
+    "Check 596": {
+        "Date": "2019-10-19 12:56:14.194317",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/tommy-stromberg",
+        "Status": "200"
+    },
+    "Check 597": {
+        "Date": "2019-10-19 12:56:15.232519",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/vicealmirante-juan-manuel-soltau",
+        "Status": "200"
+    },
+    "Check 598": {
+        "Date": "2019-10-19 12:56:16.158529",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/vicente-duran-casas-s-j",
+        "Status": "200"
+    },
+    "Check 599": {
+        "Date": "2019-10-19 12:56:17.983807",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero",
+        "Status": "200"
+    },
+    "Check 600": {
+        "Date": "2019-10-19 12:56:19.296593",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/victor-de-currea-lugo",
+        "Status": "200"
+    },
+    "Check 601": {
+        "Date": "2019-10-19 12:56:20.335239",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz",
+        "Status": "200"
+    },
+    "Check 602": {
+        "Date": "2019-10-19 12:56:21.636884",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/victor-menco-haeckermann",
+        "Status": "200"
+    },
+    "Check 603": {
+        "Date": "2019-10-19 12:56:22.995935",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/vivian-newman",
+        "Status": "200"
+    },
+    "Check 604": {
+        "Date": "2019-10-19 12:56:23.993216",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/viviana-krsticevic",
+        "Status": "200"
+    },
+    "Check 605": {
+        "Date": "2019-10-19 12:56:24.951540",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos",
+        "Status": "200"
+    },
+    "Check 606": {
+        "Date": "2019-10-19 12:56:25.991822",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/vladdo",
+        "Status": "200"
+    },
+    "Check 607": {
+        "Date": "2019-10-19 12:56:26.988792",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/waira-nina-jacanamijoy-mutumbajoy",
+        "Status": "200"
+    },
+    "Check 608": {
+        "Date": "2019-10-19 12:56:27.927436",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/werner-zitzmann",
+        "Status": "200"
+    },
+    "Check 609": {
+        "Date": "2019-10-19 12:56:29.229071",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/william-gleason",
+        "Status": "200"
+    },
+    "Check 610": {
+        "Date": "2019-10-19 12:56:30.469488",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/yaneth-giha",
+        "Status": "200"
+    },
+    "Check 611": {
+        "Date": "2019-10-19 12:56:31.785719",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/yaneth-mantilla",
+        "Status": "200"
+    },
+    "Check 612": {
+        "Date": "2019-10-19 12:56:33.125131",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/yanis-varoufakis",
+        "Status": "200"
+    },
+    "Check 613": {
+        "Date": "2019-10-19 12:56:34.158281",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/yesid-reyes-alvarado",
+        "Status": "200"
+    },
+    "Check 614": {
+        "Date": "2019-10-19 12:56:35.199924",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes",
+        "Status": "200"
+    },
+    "Check 615": {
+        "Date": "2019-10-19 12:56:36.618562",
+        "Link": "https://www.eltiempo.com/opinion/editorial/las-abejas-editorial-el-tiempo-424666",
+        "Status": "200"
+    },
+    "Check 616": {
+        "Date": "2019-10-19 12:56:37.309273",
+        "Link": "https://www.eltiempo.com/pico-y-placa",
+        "Status": "200"
+    },
+    "Check 617": {
+        "Date": "2019-10-19 12:56:37.826935",
+        "Link": "https://www.eltiempo.com/podcast",
+        "Status": "200"
+    },
+    "Check 618": {
+        "Date": "2019-10-19 12:56:38.805576",
+        "Link": "https://www.eltiempo.com/podcast/el-primer-cafe/el-primer-cafe-metro-de-bogota-77-anos-y-cheques-en-blanco-dialogo-con-norah-jones-424324",
+        "Status": "200"
+    },
+    "Check 619": {
+        "Date": "2019-10-19 12:56:39.810652",
+        "Link": "https://www.eltiempo.com/politica",
+        "Status": "200"
+    },
+    "Check 620": {
+        "Date": "2019-10-19 12:56:40.893490",
+        "Link": "https://www.eltiempo.com/politica-de-cookies",
+        "Status": "200"
+    },
+    "Check 621": {
+        "Date": "2019-10-19 12:56:42.008516",
+        "Link": "https://www.eltiempo.com/politica-privacidad",
+        "Status": "200"
+    },
+    "Check 622": {
+        "Date": "2019-10-19 12:56:42.877982",
+        "Link": "https://www.eltiempo.com/politica/gobierno",
+        "Status": "200"
+    },
+    "Check 623": {
+        "Date": "2019-10-19 12:56:43.426760",
+        "Link": "https://www.eltiempo.com/politica/gobierno/cataluna-ivan-duque-dice-que-la-unidad-de-espana-es-importante-para-el-mundo-424718",
+        "Status": "200"
+    },
+    "Check 624": {
+        "Date": "2019-10-19 12:56:43.951687",
+        "Link": "https://www.eltiempo.com/politica/partidos-politicos",
+        "Status": "200"
+    },
+    "Check 625": {
+        "Date": "2019-10-19 12:56:44.926681",
+        "Link": "https://www.eltiempo.com/politica/partidos-politicos/german-vargas-lleras-el-retorno-a-la-campana-politica-424550",
+        "Status": "200"
+    },
+    "Check 626": {
+        "Date": "2019-10-19 12:56:45.899900",
+        "Link": "https://www.eltiempo.com/politica/partidos-politicos/parque-tayrona-indigenas-piden-ser-oidos-en-concesion-de-nuevo-operador-del-parque-tayrona-424612",
+        "Status": "200"
+    },
+    "Check 627": {
+        "Date": "2019-10-19 12:56:46.440650",
+        "Link": "https://www.eltiempo.com/preguntas-frecuentes",
+        "Status": "200"
+    },
+    "Check 628": {
+        "Date": "2019-10-19 12:56:47.896543",
+        "Link": "https://www.eltiempo.com/publicidad-politica-pagada",
+        "Status": "200"
+    },
+    "Check 629": {
+        "Date": "2019-10-19 12:56:49.921481",
+        "Link": "https://www.eltiempo.com/que-opina-de-aquellas-palabras-que-inducen-a-mas-violencia-foro-w-408282",
+        "Status": "200"
+    },
+    "Check 630": {
+        "Date": "2019-10-19 12:56:50.751464",
+        "Link": "https://www.eltiempo.com/rss",
+        "Status": "200"
+    },
+    "Check 631": {
+        "Date": "2019-10-19 12:56:51.291972",
+        "Link": "https://www.eltiempo.com/salud",
+        "Status": "200"
+    },
+    "Check 632": {
+        "Date": "2019-10-19 12:56:52.272780",
+        "Link": "https://www.eltiempo.com/salud/bajar-de-peso-mentiras-y-cosas-que-no-funcionan-contra-la-obesidad-413830",
+        "Status": "200"
+    },
+    "Check 633": {
+        "Date": "2019-10-19 12:56:53.494035",
+        "Link": "https://www.eltiempo.com/salud/dietas-milagrosas-que-le-hacen-dano-al-cuerpo-422168",
+        "Status": "200"
+    },
+    "Check 634": {
+        "Date": "2019-10-19 12:56:54.049519",
+        "Link": "https://www.eltiempo.com/tecnosfera",
+        "Status": "200"
+    },
+    "Check 635": {
+        "Date": "2019-10-19 12:56:54.933906",
+        "Link": "https://www.eltiempo.com/tecnosfera/novedades-tecnologia",
+        "Status": "200"
+    },
+    "Check 636": {
+        "Date": "2019-10-19 12:56:55.500204",
+        "Link": "https://www.eltiempo.com/tecnosfera/novedades-tecnologia/modalidad-de-hackeo-en-facebook-que-estafas-a-sus-amigos-424564",
+        "Status": "200"
+    },
+    "Check 637": {
+        "Date": "2019-10-19 12:56:56.476232",
+        "Link": "https://www.eltiempo.com/tecnosfera/novedades-tecnologia/resumen-de-noticias-de-tecnologia-el-tiempo-424656",
+        "Status": "200"
+    },
+    "Check 638": {
+        "Date": "2019-10-19 12:56:57.387706",
+        "Link": "https://www.eltiempo.com/terminos-condiciones",
+        "Status": "200"
+    },
+    "Check 639": {
+        "Date": "2019-10-19 12:56:58.255891",
+        "Link": "https://www.eltiempo.com/unidad-investigativa",
+        "Status": "200"
+    },
+    "Check 640": {
+        "Date": "2019-10-19 12:56:59.235037",
+        "Link": "https://www.eltiempo.com/unidad-investigativa/armas-checas-y-rusas-terminaron-en-manos-de-sicarios-en-colombia-424676",
+        "Status": "200"
+    },
+    "Check 641": {
+        "Date": "2019-10-19 12:56:59.981701",
+        "Link": "https://www.eltiempo.com/unidad-investigativa/video-de-red-vinculada-a-crimen-de-candidata-karina-garcia-424424",
+        "Status": "200"
+    },
+    "Check 642": {
+        "Date": "2019-10-19 12:57:00.940985",
+        "Link": "https://www.eltiempo.com/vida",
+        "Status": "200"
+    },
+    "Check 643": {
+        "Date": "2019-10-19 12:57:01.910835",
+        "Link": "https://www.eltiempo.com/vida/educacion",
+        "Status": "200"
+    },
+    "Check 644": {
+        "Date": "2019-10-19 12:57:02.908869",
+        "Link": "https://www.eltiempo.com/vida/educacion/sepa-como-consultar-los-resultados-de-las-pruebas-saber-11-424602",
+        "Status": "200"
+    },
+    "Check 645": {
+        "Date": "2019-10-19 12:57:03.461757",
+        "Link": "https://www.eltiempo.com/vida/medio-ambiente",
+        "Status": "200"
+    },
+    "Check 646": {
+        "Date": "2019-10-19 12:57:04.010529",
+        "Link": "https://www.eltiempo.com/vida/medio-ambiente/la-peligrosa-migracion-del-cangrejo-negro-en-providencia-418924",
+        "Status": "200"
+    },
+    "Check 647": {
+        "Date": "2019-10-19 12:57:04.978443",
+        "Link": "https://www.eltiempo.com/vida/medio-ambiente/mitos-y-verdades-de-la-esterilizacion-de-mascotas-424204",
+        "Status": "200"
+    },
+    "Check 648": {
+        "Date": "2019-10-19 12:57:08.272972",
+        "Link": "https://www.eltiempo.com/vida/mujeres",
+        "Status": "200"
+    },
+    "Check 649": {
+        "Date": "2019-10-19 12:57:09.250520",
+        "Link": "https://www.eltiempo.com/vida/mujeres/malva-la-primera-tienda-por-departamentos-de-lujo-en-colombia-423838",
+        "Status": "200"
+    },
+    "Check 650": {
+        "Date": "2019-10-19 12:57:10.458914",
+        "Link": "https://www.eltiempo.com/vida/mujeres/ropa-no-debe-faltar-en-el-armario-de-mujeres-y-hombres-424196",
+        "Status": "200"
+    },
+    "Check 651": {
+        "Date": "2019-10-19 12:57:10.975332",
+        "Link": "https://www.eltiempo.com/vida/religion",
+        "Status": "200"
+    },
+    "Check 652": {
+        "Date": "2019-10-19 12:57:11.817541",
+        "Link": "https://www.eltiempo.com/vida/religion/datos-desconocidos-y-curiosos-de-la-santa-colombiana-laura-montoya-424580",
+        "Status": "200"
+    },
+    "Check 653": {
+        "Date": "2019-10-19 12:57:12.775288",
+        "Link": "https://www.eltiempo.com/vida/viajar",
+        "Status": "200"
+    },
+    "Check 654": {
+        "Date": "2019-10-19 12:57:13.758716",
+        "Link": "https://www.eltiempo.com/vida/viajar/cuantas-horas-dura-el-vuelo-sin-escalas-mas-largo-del-mundo-424496",
+        "Status": "200"
+    },
+    "Check 655": {
+        "Date": "2019-10-19 12:57:14.614977",
+        "Link": "https://www.eltiempo.com/zona-usuario/actualizar-email",
+        "Status": "200"
+    },
+    "Check 656": {
+        "Date": "2019-10-19 12:57:15.475723",
+        "Link": "https://www.eltiempo.com/zona-usuario/articulos-guardados",
+        "Status": "200"
+    },
+    "Check 657": {
+        "Date": "2019-10-19 12:57:15.996056",
+        "Link": "https://www.eltiempo.com/zona-usuario/boletines",
+        "Status": "200"
+    },
+    "Check 658": {
+        "Date": "2019-10-19 12:57:16.855479",
+        "Link": "https://www.eltiempo.com/zona-usuario/club-vivamos",
+        "Status": "200"
+    },
+    "Check 659": {
+        "Date": "2019-10-19 12:57:17.372923",
+        "Link": "https://www.eltiempo.com/zona-usuario/configurar-mis-datos",
+        "Status": "200"
+    },
+    "Check 660": {
+        "Date": "2019-10-19 12:57:17.893801",
+        "Link": "https://www.eltiempo.com/zona-usuario/mi-suscripcion",
+        "Status": "200"
+    },
+    "Check 661": {
+        "Date": "2019-10-19 12:57:18.432261",
+        "Link": "https://www.eltiempo.com/zona-usuario/version-impresa",
+        "Status": "200"
+    },
+    "Check 662": {
+        "Date": "2019-10-19 12:57:20.370728",
+        "Link": "https://www.facebook.com/eltiempo",
+        "Status": "200"
+    },
+    "Check 663": {
+        "Date": "2019-10-19 12:57:21.366712",
+        "Link": "https://www.futbolred.com/futbol-colombiano/liga-aguila",
+        "Status": "200"
+    },
+    "Check 664": {
+        "Date": "2019-10-19 12:57:22.780584",
+        "Link": "https://www.futbolred.com/futbol-colombiano/liga-aguila/america-vs-nacional-analisis-de-sergio-galvan-rey-108314",
+        "Status": "200"
+    },
+    "Check 665": {
+        "Date": "2019-10-19 12:57:23.733807",
+        "Link": "https://www.futbolred.com/futbol-colombiano/liga-aguila/america-vs-nacional-los-mejores-partidos-en-cali-por-liga-aguila-108315",
+        "Status": "200"
+    },
+    "Check 666": {
+        "Date": "2019-10-19 12:57:24.692933",
+        "Link": "https://www.futbolred.com/futbol-colombiano/liga-aguila/jorge-luis-pinto-vs-julio-comesana-recuerdo-de-su-pelea-en-el-2006-108292",
+        "Status": "200"
+    },
+    "Check 667": {
+        "Date": "2019-10-19 12:57:25.630489",
+        "Link": "https://www.futbolred.com/parrilla-de-futbol",
+        "Status": "200"
+    },
+    "Check 668": {
+        "Date": "2019-10-19 12:57:26.414069",
+        "Link": "https://www.futbolred.com/publirreportaje/apuestas-futbolisticas-sabado-19-y-domingo-20-de-octubre-108253",
+        "Status": "200"
+    },
+    "Check 669": {
+        "Date": "2019-10-19 12:57:27.372348",
+        "Link": "https://www.futbolred.com/tabla-de-posiciones/liga-aguila",
+        "Status": "200"
+    },
+    "Check 670": {
+        "Date": "2019-10-19 12:57:27.916858",
+        "Link": "https://www.guiaacademica.com/noticias/posgrado/trabajas-en-temas-energeticos-preparate-de-la-mejor-manera-5510",
+        "Status": "200"
+    },
+    "Check 671": {
+        "Date": "2019-10-19 12:57:29.312312",
+        "Link": "https://www.instagram.com/eltiempo/",
+        "Status": "200"
+    },
+    "Check 672": {
+        "Date": "2019-10-19 12:57:34.507809",
+        "Link": "https://www.metrocuadrado.com/noticias/actualidad/468-de-los-bogotanos-planean-comprar-vivienda-nueva-3754",
+        "Status": "200"
+    },
+    "Check 673": {
+        "Date": "2019-10-19 12:57:38.974046",
+        "Link": "https://www.metrocuadrado.com/noticias/actualidad/asi-sera-el-v-campus-inmobiliario-en-armenia-3749",
+        "Status": "200"
+    },
+    "Check 674": {
+        "Date": "2019-10-19 12:57:41.414969",
+        "Link": "https://www.youtube.com/user/ElTiempoPLAY",
+        "Status": "200"
+    }
+}

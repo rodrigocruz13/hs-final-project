@@ -1,721 +1,716 @@
 {
     "Check 001": {
-        "Date": "2019-10-19 11:41:24.416423",
+        "Date": "2019-10-19 12:38:23.046969",
         "Link": "http://activisual.net",
         "Status": "200"
     },
     "Check 002": {
-        "Date": "2019-10-19 11:41:25.595138",
+        "Date": "2019-10-19 12:38:24.033601",
         "Link": "http://autocosmos.hsbnoticias.com/",
         "Status": "200"
     },
     "Check 003": {
-        "Date": "2019-10-19 11:41:28.961576",
+        "Date": "2019-10-19 12:38:25.347207",
         "Link": "http://diariodelcauca.com.co/",
         "Status": "200"
     },
     "Check 004": {
-        "Date": "2019-10-19 11:41:29.536642",
+        "Date": "2019-10-19 12:38:25.795905",
         "Link": "http://elperiodico.com.co",
         "Status": "403"
     },
     "Check 005": {
-        "Date": "2019-10-19 11:41:34.043693",
+        "Date": "2019-10-19 12:38:30.672937",
         "Link": "http://hsbnoticias.com/emisora.html",
         "Status": "200"
     },
     "Check 006": {
-        "Date": "2019-10-19 11:41:38.341145",
+        "Date": "2019-10-19 12:38:34.044433",
         "Link": "http://hsbnoticias.com/noticias/eventos",
         "Status": "200"
     },
     "Check 007": {
-        "Date": "2019-10-19 11:41:42.425131",
+        "Date": "2019-10-19 12:38:36.592691",
         "Link": "http://hsbnoticias.com/noticias/multimedia/audios",
         "Status": "200"
     },
     "Check 008": {
-        "Date": "2019-10-19 11:41:43.750772",
+        "Date": "2019-10-19 12:38:39.717234",
         "Link": "http://hsbnoticias.com/noticias/multimedia/imagenes",
         "Status": "200"
     },
     "Check 009": {
-        "Date": "2019-10-19 11:41:45.042236",
+        "Date": "2019-10-19 12:38:44.558645",
         "Link": "http://hsbnoticias.com/noticias/multimedia/videos",
         "Status": "200"
     },
     "Check 010": {
-        "Date": "2019-10-19 11:41:46.374005",
+        "Date": "2019-10-19 12:38:45.761042",
         "Link": "http://hsbnoticias.com/noticias/paranormal",
         "Status": "200"
     },
     "Check 011": {
-        "Date": "2019-10-19 11:42:07.556705",
+        "Date": "2019-10-19 12:38:48.655541",
         "Link": "http://hsbnoticias.com/servicios/horoscopo",
         "Status": "200"
     },
     "Check 012": {
-        "Date": "2019-10-19 11:42:12.344137",
+        "Date": "2019-10-19 12:38:51.794913",
         "Link": "http://hsbnoticias.com/temas/rusia-2018",
         "Status": "200"
     },
     "Check 013": {
-        "Date": "2019-10-19 11:42:13.231657",
+        "Date": "2019-10-19 12:38:52.773392",
         "Link": "https://hsbnoticias.com/",
         "Status": "200"
     },
     "Check 014": {
-        "Date": "2019-10-19 11:42:16.840009",
+        "Date": "2019-10-19 12:38:54.771418",
         "Link": "https://hsbnoticias.com/clasificados/vehiculos",
         "Status": "200"
     },
     "Check 015": {
-        "Date": "2019-10-19 11:42:17.742397",
+        "Date": "2019-10-19 12:38:55.619081",
         "Link": "https://hsbnoticias.com/contacto",
         "Status": "200"
     },
     "Check 016": {
-        "Date": "2019-10-19 11:42:18.666196",
+        "Date": "2019-10-19 12:38:56.466341",
         "Link": "https://hsbnoticias.com/encuestas",
         "Status": "200"
     },
     "Check 017": {
-        "Date": "2019-10-19 11:42:19.547899",
+        "Date": "2019-10-19 12:38:57.306273",
         "Link": "https://hsbnoticias.com/encuestas/cual-cree-que-es-el-mayor-problema-que-afrontan-los-estudian",
         "Status": "200"
     },
     "Check 018": {
-        "Date": "2019-10-19 11:42:20.385951",
+        "Date": "2019-10-19 12:38:59.047280",
         "Link": "https://hsbnoticias.com/hsbnoticias.com/cine",
         "Status": "404"
     },
     "Check 019": {
-        "Date": "2019-10-19 11:42:21.274980",
+        "Date": "2019-10-19 12:39:00.072308",
         "Link": "https://hsbnoticias.com/listas",
         "Status": "200"
     },
     "Check 020": {
-        "Date": "2019-10-19 11:42:22.170307",
+        "Date": "2019-10-19 12:39:00.969501",
         "Link": "https://hsbnoticias.com/multimedia/juegos",
         "Status": "200"
     },
     "Check 021": {
-        "Date": "2019-10-19 11:42:25.212023",
+        "Date": "2019-10-19 12:39:01.886825",
         "Link": "https://hsbnoticias.com/noticias/Especiales",
         "Status": "200"
     },
     "Check 022": {
-        "Date": "2019-10-19 11:42:26.139646",
+        "Date": "2019-10-19 12:39:05.921654",
         "Link": "https://hsbnoticias.com/noticias/bogota",
         "Status": "200"
     },
     "Check 023": {
-        "Date": "2019-10-19 11:42:30.126519",
-        "Link": "https://hsbnoticias.com/noticias/bogota/fatidica-borrachera-dos-muertos-atrapados-entre-las-latas-de-567953",
+        "Date": "2019-10-19 12:39:06.788618",
+        "Link": "https://hsbnoticias.com/noticias/bogota/disturbios-por-fiscalizacion-de-contrabando-en-san-andresito-567837",
         "Status": "200"
     },
     "Check 024": {
-        "Date": "2019-10-19 11:42:33.166520",
-        "Link": "https://hsbnoticias.com/noticias/bogota/horrible-lo-mataron-tiros-por-defender-sus-empleados-se-567846",
+        "Date": "2019-10-19 12:39:07.862056",
+        "Link": "https://hsbnoticias.com/noticias/bogota/fatidica-borrachera-dos-muertos-atrapados-entre-las-latas-de-567953",
         "Status": "200"
     },
     "Check 025": {
-        "Date": "2019-10-19 11:42:36.130947",
-        "Link": "https://hsbnoticias.com/noticias/bogota/pilas-jornada-de-vacunacion-antirrabica-para-perros-y-gatos-567854",
+        "Date": "2019-10-19 12:39:08.947775",
+        "Link": "https://hsbnoticias.com/noticias/bogota/horrible-lo-mataron-tiros-por-defender-sus-empleados-se-567846",
         "Status": "200"
     },
     "Check 026": {
-        "Date": "2019-10-19 11:42:38.650229",
-        "Link": "https://hsbnoticias.com/noticias/bogota/quedo-frio-y-tieso-en-plena-av-mutis-una-vans-toda-veloci-567943",
+        "Date": "2019-10-19 12:39:09.849163",
+        "Link": "https://hsbnoticias.com/noticias/bogota/pilas-jornada-de-vacunacion-antirrabica-para-perros-y-gatos-567854",
         "Status": "200"
     },
     "Check 027": {
-        "Date": "2019-10-19 11:42:41.352187",
-        "Link": "https://hsbnoticias.com/noticias/bogota/se-colgo-recien-casado-en-suba-el-joven-mecanico-no-supero-u-567957",
+        "Date": "2019-10-19 12:39:13.965082",
+        "Link": "https://hsbnoticias.com/noticias/bogota/quedo-frio-y-tieso-en-plena-av-mutis-una-vans-toda-veloci-567943",
         "Status": "200"
     },
     "Check 028": {
-        "Date": "2019-10-19 11:42:42.204556",
-        "Link": "https://hsbnoticias.com/noticias/bogota/tractocamion-arrastro-y-destrozo-con-las-llantas-traseras-567712",
+        "Date": "2019-10-19 12:39:16.822644",
+        "Link": "https://hsbnoticias.com/noticias/bogota/se-colgo-recien-casado-en-suba-el-joven-mecanico-no-supero-u-567957",
         "Status": "200"
     },
     "Check 029": {
-        "Date": "2019-10-19 11:42:45.737750",
-        "Link": "https://hsbnoticias.com/noticias/bogota/tusa-mortal-se-atraveso-el-corazon-con-un-cuchillo-sangre-y-567970",
+        "Date": "2019-10-19 12:39:19.404663",
+        "Link": "https://hsbnoticias.com/noticias/bogota/tractocamion-arrastro-y-destrozo-con-las-llantas-traseras-567712",
         "Status": "200"
     },
     "Check 030": {
-        "Date": "2019-10-19 11:42:46.589329",
-        "Link": "https://hsbnoticias.com/noticias/ciencia",
+        "Date": "2019-10-19 12:39:21.804087",
+        "Link": "https://hsbnoticias.com/noticias/bogota/tusa-mortal-se-atraveso-el-corazon-con-un-cuchillo-sangre-y-567970",
         "Status": "200"
     },
     "Check 031": {
-        "Date": "2019-10-19 11:42:47.442819",
-        "Link": "https://hsbnoticias.com/noticias/ciencia/10-mitos-que-debes-conocer-sobre-el-cancer-de-seno-pilas-la-567964",
+        "Date": "2019-10-19 12:39:22.646219",
+        "Link": "https://hsbnoticias.com/noticias/ciencia",
         "Status": "200"
     },
     "Check 032": {
-        "Date": "2019-10-19 11:42:48.334300",
-        "Link": "https://hsbnoticias.com/noticias/ciencia/19-de-octubre-un-dia-para-tocarte-los-senos-dia-mundial-del-567949",
+        "Date": "2019-10-19 12:39:25.203558",
+        "Link": "https://hsbnoticias.com/noticias/ciencia/10-mitos-que-debes-conocer-sobre-el-cancer-de-seno-pilas-la-567964",
         "Status": "200"
     },
     "Check 033": {
-        "Date": "2019-10-19 11:42:49.243972",
-        "Link": "https://hsbnoticias.com/noticias/ciencia/atencion-mujeres-y-hombres-que-es-y-como-prevenir-el-cancer-567956",
+        "Date": "2019-10-19 12:39:26.055083",
+        "Link": "https://hsbnoticias.com/noticias/ciencia/19-de-octubre-un-dia-para-tocarte-los-senos-dia-mundial-del-567949",
         "Status": "200"
     },
     "Check 034": {
-        "Date": "2019-10-19 11:42:52.154063",
-        "Link": "https://hsbnoticias.com/noticias/ciencia/cada-53-minutos-muere-en-el-mundo-una-mujer-por-cancer-de-se-567971",
+        "Date": "2019-10-19 12:39:26.895798",
+        "Link": "https://hsbnoticias.com/noticias/ciencia/atencion-mujeres-y-hombres-que-es-y-como-prevenir-el-cancer-567956",
         "Status": "200"
     },
     "Check 035": {
-        "Date": "2019-10-19 11:42:56.215698",
-        "Link": "https://hsbnoticias.com/noticias/ciencia/espeluznantes-criaturas-marinas-asi-devoran-el-cadaver-de-un-567899",
+        "Date": "2019-10-19 12:39:29.589536",
+        "Link": "https://hsbnoticias.com/noticias/ciencia/cada-53-minutos-muere-en-el-mundo-una-mujer-por-cancer-de-se-567971",
         "Status": "200"
     },
     "Check 036": {
-        "Date": "2019-10-19 11:42:58.951649",
-        "Link": "https://hsbnoticias.com/noticias/ciencia/susto-la-declararon-muerta-dos-veces-en-dos-hospitales-sufri-567973",
+        "Date": "2019-10-19 12:39:30.439256",
+        "Link": "https://hsbnoticias.com/noticias/ciencia/espeluznantes-criaturas-marinas-asi-devoran-el-cadaver-de-un-567899",
         "Status": "200"
     },
     "Check 037": {
-        "Date": "2019-10-19 11:42:59.819589",
-        "Link": "https://hsbnoticias.com/noticias/deportes",
+        "Date": "2019-10-19 12:39:33.071185",
+        "Link": "https://hsbnoticias.com/noticias/ciencia/susto-la-declararon-muerta-dos-veces-en-dos-hospitales-sufri-567973",
         "Status": "200"
     },
     "Check 038": {
-        "Date": "2019-10-19 11:43:00.674210",
-        "Link": "https://hsbnoticias.com/noticias/deportes/atletico-nacional-y-una-mala-noticia-le-dirian-adios-una-d-567938",
+        "Date": "2019-10-19 12:39:37.482458",
+        "Link": "https://hsbnoticias.com/noticias/deportes",
         "Status": "200"
     },
     "Check 039": {
-        "Date": "2019-10-19 11:43:01.575053",
-        "Link": "https://hsbnoticias.com/noticias/deportes/cambio-radical-para-la-copa-libertadores-polemica-medida-se-567967",
+        "Date": "2019-10-19 12:39:38.377997",
+        "Link": "https://hsbnoticias.com/noticias/deportes/atletico-nacional-y-una-mala-noticia-le-dirian-adios-una-d-567938",
         "Status": "200"
     },
     "Check 040": {
-        "Date": "2019-10-19 11:43:02.488530",
-        "Link": "https://hsbnoticias.com/noticias/deportes/clasico-de-historicos-america-de-cali-buscara-la-clasificaci-567977",
+        "Date": "2019-10-19 12:39:40.978039",
+        "Link": "https://hsbnoticias.com/noticias/deportes/cambio-radical-para-la-copa-libertadores-polemica-medida-se-567967",
         "Status": "200"
     },
     "Check 041": {
-        "Date": "2019-10-19 11:43:03.373455",
-        "Link": "https://hsbnoticias.com/noticias/deportes/la-libertadores-del-89-debio-ser-azul-sergio-goycochea-recue-567201",
+        "Date": "2019-10-19 12:39:41.807201",
+        "Link": "https://hsbnoticias.com/noticias/deportes/clasico-de-historicos-america-de-cali-buscara-la-clasificaci-567977",
         "Status": "200"
     },
     "Check 042": {
-        "Date": "2019-10-19 11:43:04.207729",
-        "Link": "https://hsbnoticias.com/noticias/deportes/millonarios-busca-sacudir-el-mercado-con-una-serie-de-refuer-567955",
+        "Date": "2019-10-19 12:39:42.740880",
+        "Link": "https://hsbnoticias.com/noticias/deportes/la-libertadores-del-89-debio-ser-azul-sergio-goycochea-recue-567201",
         "Status": "200"
     },
     "Check 043": {
-        "Date": "2019-10-19 11:43:08.682765",
-        "Link": "https://hsbnoticias.com/noticias/deportes/mucha-atencion-habria-posible-fecha-de-inicio-para-paro-de-f-567958",
+        "Date": "2019-10-19 12:39:43.577110",
+        "Link": "https://hsbnoticias.com/noticias/deportes/millonarios-busca-sacudir-el-mercado-con-una-serie-de-refuer-567955",
         "Status": "200"
     },
     "Check 044": {
-        "Date": "2019-10-19 11:43:09.558844",
-        "Link": "https://hsbnoticias.com/noticias/deportes/nairo-quintana-estara-en-el-tour-de-francia-futuro-incierto-567262",
+        "Date": "2019-10-19 12:39:44.470755",
+        "Link": "https://hsbnoticias.com/noticias/deportes/mucha-atencion-habria-posible-fecha-de-inicio-para-paro-de-f-567958",
         "Status": "200"
     },
     "Check 045": {
-        "Date": "2019-10-19 11:43:10.437709",
-        "Link": "https://hsbnoticias.com/noticias/deportes/noche-magica-asi-fue-el-espectacular-amistoso-de-ronaldinho-567769",
+        "Date": "2019-10-19 12:39:45.296365",
+        "Link": "https://hsbnoticias.com/noticias/deportes/nairo-quintana-estara-en-el-tour-de-francia-futuro-incierto-567262",
         "Status": "200"
     },
     "Check 046": {
-        "Date": "2019-10-19 11:43:11.318104",
-        "Link": "https://hsbnoticias.com/noticias/deportes/noticia-bomba-en-independiente-medellin-se-acerca-una-figura-567952",
+        "Date": "2019-10-19 12:39:47.637903",
+        "Link": "https://hsbnoticias.com/noticias/deportes/noche-magica-asi-fue-el-espectacular-amistoso-de-ronaldinho-567769",
         "Status": "200"
     },
     "Check 047": {
-        "Date": "2019-10-19 11:43:15.778293",
-        "Link": "https://hsbnoticias.com/noticias/deportes/noticia-inesperada-para-nairo-quintana-sobre-su-presencia-en-567802",
+        "Date": "2019-10-19 12:39:48.485606",
+        "Link": "https://hsbnoticias.com/noticias/deportes/noticia-bomba-en-independiente-medellin-se-acerca-una-figura-567952",
         "Status": "200"
     },
     "Check 048": {
-        "Date": "2019-10-19 11:43:19.974760",
-        "Link": "https://hsbnoticias.com/noticias/deportes/tres-colombianos-estan-en-los-cuartos-de-final-del-torneo-m1-567840",
+        "Date": "2019-10-19 12:39:51.456305",
+        "Link": "https://hsbnoticias.com/noticias/deportes/noticia-inesperada-para-nairo-quintana-sobre-su-presencia-en-567802",
         "Status": "200"
     },
     "Check 049": {
-        "Date": "2019-10-19 11:43:23.205685",
+        "Date": "2019-10-19 12:39:55.363338",
         "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa",
         "Status": "200"
     },
     "Check 050": {
-        "Date": "2019-10-19 11:43:26.002527",
-        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/cafes-de-colombia-expo-toda-la-cadena-de-valor-del-cafe-desd-567784",
-        "Status": "200"
-    },
-    "Check 051": {
-        "Date": "2019-10-19 11:43:26.858054",
+        "Date": "2019-10-19 12:39:57.262222",
         "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/comunidades-afrodescendientes-de-tumaco-viven-la-feria-de-567919",
         "Status": "200"
     },
-    "Check 052": {
-        "Date": "2019-10-19 11:43:30.193299",
+    "Check 051": {
+        "Date": "2019-10-19 12:39:59.611914",
         "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/la-bioexpo-llega-cali-con-agenda-abierta-y-gratuita-567823",
         "Status": "200"
     },
-    "Check 053": {
-        "Date": "2019-10-19 11:43:33.788412",
+    "Check 052": {
+        "Date": "2019-10-19 12:40:03.742618",
         "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/la-tercerizacion-de-reclutamiento-le-ayuda-ahorrar-tiempo-567834",
         "Status": "200"
     },
-    "Check 054": {
-        "Date": "2019-10-19 11:43:34.650661",
+    "Check 053": {
+        "Date": "2019-10-19 12:40:09.182289",
         "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/paises-iberoamericanos-anuncian-creacion-de-nuevo-mercado-re-567826",
         "Status": "200"
     },
-    "Check 055": {
-        "Date": "2019-10-19 11:43:37.611565",
+    "Check 054": {
+        "Date": "2019-10-19 12:40:13.852466",
         "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/severa-crisis-en-venezuela-segun-cifras-oficiales-inflacion-567930",
         "Status": "200"
     },
-    "Check 056": {
-        "Date": "2019-10-19 11:43:40.689132",
+    "Check 055": {
+        "Date": "2019-10-19 12:40:18.926385",
         "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/ultima-semana-para-inscribirse-en-seminario-de-economia-nara-567825",
         "Status": "200"
     },
-    "Check 057": {
-        "Date": "2019-10-19 11:43:41.531671",
+    "Check 056": {
+        "Date": "2019-10-19 12:40:21.715136",
         "Link": "https://hsbnoticias.com/noticias/en-vivo",
         "Status": "200"
     },
-    "Check 058": {
-        "Date": "2019-10-19 11:43:42.687193",
+    "Check 057": {
+        "Date": "2019-10-19 12:40:22.561308",
         "Link": "https://hsbnoticias.com/noticias/en-vivo/en-vivo-enterese-de-los-movimientos-teluricos-en-colombia-y-395078",
         "Status": "200"
     },
-    "Check 059": {
-        "Date": "2019-10-19 11:43:43.608450",
+    "Check 058": {
+        "Date": "2019-10-19 12:40:23.394951",
         "Link": "https://hsbnoticias.com/noticias/internacional",
         "Status": "200"
     },
-    "Check 060": {
-        "Date": "2019-10-19 11:43:47.755801",
+    "Check 059": {
+        "Date": "2019-10-19 12:40:24.230413",
         "Link": "https://hsbnoticias.com/noticias/internacional/aberrante-golpea-brutalmente-su-bebe-porque-queria-ir-un-567885",
         "Status": "200"
     },
-    "Check 061": {
-        "Date": "2019-10-19 11:43:48.588357",
+    "Check 060": {
+        "Date": "2019-10-19 12:40:25.108771",
         "Link": "https://hsbnoticias.com/noticias/internacional/conozca-al-iron-man-de-gaza-con-solo-8-anos-es-simbolo-de-la-567960",
         "Status": "200"
     },
-    "Check 062": {
-        "Date": "2019-10-19 11:43:51.387328",
+    "Check 061": {
+        "Date": "2019-10-19 12:40:25.973619",
         "Link": "https://hsbnoticias.com/noticias/internacional/estado-de-emergencia-en-santiago-pinera-hizo-el-decreto-tras-567922",
         "Status": "200"
     },
-    "Check 063": {
-        "Date": "2019-10-19 11:43:53.983861",
+    "Check 062": {
+        "Date": "2019-10-19 12:40:26.875788",
         "Link": "https://hsbnoticias.com/noticias/internacional/metro-de-chile-se-ha-convertido-en-escenario-de-batalla-camp-567892",
         "Status": "200"
     },
-    "Check 064": {
-        "Date": "2019-10-19 11:43:56.995916",
+    "Check 063": {
+        "Date": "2019-10-19 12:40:27.753021",
         "Link": "https://hsbnoticias.com/noticias/internacional/militarizado-asi-amanece-santiago-tras-aterradora-noche-de-p-567965",
         "Status": "200"
     },
-    "Check 065": {
-        "Date": "2019-10-19 11:44:00.601907",
-        "Link": "https://hsbnoticias.com/noticias/internacional/presidente-si-no-puede-renuncie-le-exigen-amlo-tras-libera-567847",
-        "Status": "200"
-    },
-    "Check 066": {
-        "Date": "2019-10-19 11:44:06.158714",
+    "Check 064": {
+        "Date": "2019-10-19 12:40:28.599952",
         "Link": "https://hsbnoticias.com/noticias/internacional/santiago-en-llamas-imagenes-muestran-la-tragedia-del-edifici-567944",
         "Status": "200"
     },
-    "Check 067": {
-        "Date": "2019-10-19 11:44:07.072474",
+    "Check 065": {
+        "Date": "2019-10-19 12:40:29.444130",
         "Link": "https://hsbnoticias.com/noticias/judicial",
         "Status": "200"
     },
-    "Check 068": {
-        "Date": "2019-10-19 11:44:07.998282",
+    "Check 066": {
+        "Date": "2019-10-19 12:40:32.087946",
         "Link": "https://hsbnoticias.com/noticias/judicial/cayeron-los-mercaderes-de-la-muerte-capturan-16-presuntos-567810",
         "Status": "200"
     },
-    "Check 069": {
-        "Date": "2019-10-19 11:44:08.867129",
+    "Check 067": {
+        "Date": "2019-10-19 12:40:32.921456",
         "Link": "https://hsbnoticias.com/noticias/judicial/con-armas-de-fuego-y-coca-por-cantidades-capturaron-una-pa-567969",
         "Status": "200"
     },
-    "Check 070": {
-        "Date": "2019-10-19 11:44:14.591295",
+    "Check 068": {
+        "Date": "2019-10-19 12:40:35.070454",
         "Link": "https://hsbnoticias.com/noticias/judicial/cuatro-venezolanos-conformaban-una-temida-banda-de-ladrones-567843",
         "Status": "200"
     },
-    "Check 071": {
-        "Date": "2019-10-19 11:44:19.195137",
-        "Link": "https://hsbnoticias.com/noticias/judicial/desde-una-casa-abandonada-atacaron-miembros-de-la-policia-567928",
+    "Check 069": {
+        "Date": "2019-10-19 12:40:37.676666",
+        "Link": "https://hsbnoticias.com/noticias/judicial/desde-una-cuenta-de-facebook-red-reclutaba-ninas-para-expl-567829",
         "Status": "200"
     },
-    "Check 072": {
-        "Date": "2019-10-19 11:44:22.883402",
+    "Check 070": {
+        "Date": "2019-10-19 12:40:39.916107",
+        "Link": "https://hsbnoticias.com/noticias/judicial/encomienda-del-extranjero-la-nueva-modalidad-de-estafa-que-f-567836",
+        "Status": "200"
+    },
+    "Check 071": {
+        "Date": "2019-10-19 12:40:42.762232",
         "Link": "https://hsbnoticias.com/noticias/judicial/enigmatico-crimen-consterna-al-meta-encuentran-cadaver-acuch-567950",
         "Status": "200"
     },
-    "Check 073": {
-        "Date": "2019-10-19 11:44:26.515949",
+    "Check 072": {
+        "Date": "2019-10-19 12:40:45.805752",
         "Link": "https://hsbnoticias.com/noticias/judicial/entre-amigos-se-mataron-por-un-absurdo-motivo-tragica-noche-567962",
         "Status": "200"
     },
-    "Check 074": {
-        "Date": "2019-10-19 11:44:27.359480",
+    "Check 073": {
+        "Date": "2019-10-19 12:40:46.637918",
         "Link": "https://hsbnoticias.com/noticias/judicial/hallan-y-destruyen-material-que-era-utilizado-para-extorsion-567974",
         "Status": "200"
     },
-    "Check 075": {
-        "Date": "2019-10-19 11:44:31.051993",
+    "Check 074": {
+        "Date": "2019-10-19 12:40:49.103279",
         "Link": "https://hsbnoticias.com/noticias/judicial/la-muerte-lo-sorprendio-caminando-por-la-calle-impactante-de-567543",
         "Status": "200"
     },
-    "Check 076": {
-        "Date": "2019-10-19 11:44:31.938752",
+    "Check 075": {
+        "Date": "2019-10-19 12:40:51.327505",
         "Link": "https://hsbnoticias.com/noticias/judicial/ojo-con-el-celular-que-compra-multas-en-pasto-por-adquirir-e-567966",
         "Status": "200"
     },
-    "Check 077": {
-        "Date": "2019-10-19 11:44:34.597230",
-        "Link": "https://hsbnoticias.com/noticias/judicial/policia-de-medellin-incauto-mercancia-ilegal-avaluada-en-127-567821",
-        "Status": "200"
-    },
-    "Check 078": {
-        "Date": "2019-10-19 11:44:35.493799",
+    "Check 076": {
+        "Date": "2019-10-19 12:40:53.270826",
         "Link": "https://hsbnoticias.com/noticias/judicial/se-gano-la-confianza-de-la-familia-y-abuso-de-una-nina-de-11-567983",
         "Status": "200"
     },
-    "Check 079": {
-        "Date": "2019-10-19 11:44:38.678948",
+    "Check 077": {
+        "Date": "2019-10-19 12:40:55.600761",
         "Link": "https://hsbnoticias.com/noticias/judicial/seis-policias-integraban-banda-delincuencial-vinculada-al-cr-567926",
         "Status": "200"
     },
-    "Check 080": {
-        "Date": "2019-10-19 11:44:39.641328",
+    "Check 078": {
+        "Date": "2019-10-19 12:40:56.448479",
         "Link": "https://hsbnoticias.com/noticias/local",
         "Status": "200"
     },
-    "Check 081": {
-        "Date": "2019-10-19 11:44:43.680089",
+    "Check 079": {
+        "Date": "2019-10-19 12:40:59.880366",
         "Link": "https://hsbnoticias.com/noticias/local/pedaleando-por-los-principios-y-valores-bicicletas-y-disfrac-567948",
         "Status": "200"
     },
-    "Check 082": {
-        "Date": "2019-10-19 11:44:46.420005",
+    "Check 080": {
+        "Date": "2019-10-19 12:41:04.757050",
         "Link": "https://hsbnoticias.com/noticias/multimedia/imagenes",
         "Status": "200"
     },
-    "Check 083": {
-        "Date": "2019-10-19 11:44:49.379065",
+    "Check 081": {
+        "Date": "2019-10-19 12:41:10.913793",
         "Link": "https://hsbnoticias.com/noticias/multimedia/portadas",
         "Status": "200"
     },
-    "Check 084": {
-        "Date": "2019-10-19 11:44:52.164565",
+    "Check 082": {
+        "Date": "2019-10-19 12:41:15.174685",
         "Link": "https://hsbnoticias.com/noticias/multimedia/portadas/portadas-19-de-octubre-de-2019-567924",
         "Status": "200"
     },
-    "Check 085": {
-        "Date": "2019-10-19 11:44:56.464216",
+    "Check 083": {
+        "Date": "2019-10-19 12:41:16.013531",
         "Link": "https://hsbnoticias.com/noticias/multimedia/videos",
         "Status": "200"
     },
-    "Check 086": {
-        "Date": "2019-10-19 11:44:58.816884",
+    "Check 084": {
+        "Date": "2019-10-19 12:41:19.806920",
         "Link": "https://hsbnoticias.com/noticias/multimedia/videos-virales",
         "Status": "200"
     },
-    "Check 087": {
-        "Date": "2019-10-19 11:45:03.335765",
+    "Check 085": {
+        "Date": "2019-10-19 12:41:23.739664",
         "Link": "https://hsbnoticias.com/noticias/nacional",
         "Status": "200"
     },
-    "Check 088": {
-        "Date": "2019-10-19 11:45:08.478464",
+    "Check 086": {
+        "Date": "2019-10-19 12:41:27.015988",
         "Link": "https://hsbnoticias.com/noticias/nacional/como-inaudita-califican-la-inclusion-de-venezuela-en-el-cons-567685",
         "Status": "200"
     },
-    "Check 089": {
-        "Date": "2019-10-19 11:45:15.301972",
+    "Check 087": {
+        "Date": "2019-10-19 12:41:29.939874",
         "Link": "https://hsbnoticias.com/noticias/nacional/ecopetrol-reporto-el-hallazgo-de-un-pozo-para-extraer-crudo-567705",
         "Status": "200"
     },
-    "Check 090": {
-        "Date": "2019-10-19 11:45:16.237191",
+    "Check 088": {
+        "Date": "2019-10-19 12:41:30.800648",
         "Link": "https://hsbnoticias.com/noticias/nacional/la-superintendencia-de-salud-anuncia-la-liquidacion-de-la-ep-566769",
         "Status": "200"
     },
-    "Check 091": {
-        "Date": "2019-10-19 11:45:20.550198",
+    "Check 089": {
+        "Date": "2019-10-19 12:41:33.406007",
         "Link": "https://hsbnoticias.com/noticias/nacional/mision-de-la-oea-inicia-despliegue-en-el-pais-para-vigilar-l-567921",
         "Status": "200"
     },
-    "Check 092": {
-        "Date": "2019-10-19 11:45:23.959347",
+    "Check 090": {
+        "Date": "2019-10-19 12:41:36.271852",
         "Link": "https://hsbnoticias.com/noticias/nacional/personas-en-condicion-de-discapacidad-no-tendran-restriccion-567939",
         "Status": "200"
     },
-    "Check 093": {
-        "Date": "2019-10-19 11:45:28.008874",
+    "Check 091": {
+        "Date": "2019-10-19 12:41:38.407684",
         "Link": "https://hsbnoticias.com/noticias/nacional/pilotos-de-la-fuerza-aerea-del-peru-se-entrenan-en-colombia-567933",
         "Status": "200"
     },
-    "Check 094": {
-        "Date": "2019-10-19 11:45:31.970687",
+    "Check 092": {
+        "Date": "2019-10-19 12:41:41.608345",
         "Link": "https://hsbnoticias.com/noticias/nacional/presidente-duque-inauguro-la-conferencia-iberoamericana-de-m-567819",
         "Status": "200"
     },
-    "Check 095": {
-        "Date": "2019-10-19 11:45:35.449444",
+    "Check 093": {
+        "Date": "2019-10-19 12:41:44.231791",
         "Link": "https://hsbnoticias.com/noticias/nacional/procuraduria-hace-nuevo-llamado-para-proteger-el-derecho-l-567515",
         "Status": "200"
     },
-    "Check 096": {
-        "Date": "2019-10-19 11:45:38.809797",
+    "Check 094": {
+        "Date": "2019-10-19 12:41:51.677986",
         "Link": "https://hsbnoticias.com/noticias/nacional/restringido-nuevamente-el-paso-de-vehiculos-particulares-hac-566873",
         "Status": "200"
     },
-    "Check 097": {
-        "Date": "2019-10-19 11:45:43.001968",
+    "Check 095": {
+        "Date": "2019-10-19 12:41:54.406208",
         "Link": "https://hsbnoticias.com/noticias/opini%C3%B3n",
         "Status": "200"
     },
-    "Check 098": {
-        "Date": "2019-10-19 11:45:45.209837",
+    "Check 096": {
+        "Date": "2019-10-19 12:41:56.556502",
         "Link": "https://hsbnoticias.com/noticias/opini%C3%B3n/la-mirada-de-quique-563030",
         "Status": "200"
     },
-    "Check 099": {
-        "Date": "2019-10-19 11:45:48.959971",
+    "Check 097": {
+        "Date": "2019-10-19 12:41:58.622177",
         "Link": "https://hsbnoticias.com/noticias/paranormal",
         "Status": "200"
     },
-    "Check 100": {
-        "Date": "2019-10-19 11:45:52.343587",
+    "Check 098": {
+        "Date": "2019-10-19 12:42:00.814592",
         "Link": "https://hsbnoticias.com/noticias/paranormal/no-lo-podra-creer-aparece-supuesta-imagen-asociada-jesucri-567808",
         "Status": "200"
     },
-    "Check 101": {
-        "Date": "2019-10-19 11:45:53.185238",
+    "Check 099": {
+        "Date": "2019-10-19 12:42:01.731947",
         "Link": "https://hsbnoticias.com/noticias/paranormal/no-lo-podra-creer-avistan-supuestos-ovnis-en-el-mar-de-carol-565366",
         "Status": "200"
     },
-    "Check 102": {
-        "Date": "2019-10-19 11:45:54.093535",
+    "Check 100": {
+        "Date": "2019-10-19 12:42:02.639594",
         "Link": "https://hsbnoticias.com/noticias/paranormal/nos-espian-los-extraterrestres-traves-de-sondas-estarian-o-563582",
         "Status": "200"
     },
-    "Check 103": {
-        "Date": "2019-10-19 11:45:58.103769",
+    "Check 101": {
+        "Date": "2019-10-19 12:42:06.566297",
         "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica",
         "Status": "200"
     },
-    "Check 104": {
-        "Date": "2019-10-19 11:45:58.952050",
+    "Check 102": {
+        "Date": "2019-10-19 12:42:10.162377",
         "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/atencion-publican-falsa-encuesta-de-intencion-de-voto-la-566543",
         "Status": "200"
     },
-    "Check 105": {
-        "Date": "2019-10-19 11:45:59.895637",
+    "Check 103": {
+        "Date": "2019-10-19 12:42:11.048537",
         "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/ivan-cepeda-pide-capturar-y-encarcelar-diego-cadena-abogad-566745",
         "Status": "200"
     },
-    "Check 106": {
-        "Date": "2019-10-19 11:46:04.652313",
+    "Check 104": {
+        "Date": "2019-10-19 12:42:14.029688",
         "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/la-democracia-importa-impacto-del-proyecto-accion-democratic-567502",
         "Status": "200"
     },
-    "Check 107": {
-        "Date": "2019-10-19 11:46:05.616548",
+    "Check 105": {
+        "Date": "2019-10-19 12:42:14.912865",
         "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/por-abuso-de-autoridad-destituyen-e-inhabilitan-por-12-anos-566788",
         "Status": "200"
     },
-    "Check 108": {
-        "Date": "2019-10-19 11:46:06.486193",
+    "Check 106": {
+        "Date": "2019-10-19 12:42:17.476321",
         "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/por-eleccion-de-personero-suspendieron-cuatro-meses-tres-c-566481",
         "Status": "200"
     },
-    "Check 109": {
-        "Date": "2019-10-19 11:46:07.357761",
+    "Check 107": {
+        "Date": "2019-10-19 12:42:18.344419",
         "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/transformare-bogota-yo-amo-y-sueno-con-esta-ciudad-miguel-u-566570",
         "Status": "200"
     },
-    "Check 110": {
-        "Date": "2019-10-19 11:46:08.312598",
+    "Check 108": {
+        "Date": "2019-10-19 12:42:19.198852",
         "Link": "https://hsbnoticias.com/noticias/vida-moderna",
         "Status": "200"
     },
-    "Check 111": {
-        "Date": "2019-10-19 11:46:09.170580",
+    "Check 109": {
+        "Date": "2019-10-19 12:42:20.067190",
         "Link": "https://hsbnoticias.com/noticias/vida-moderna/asi-es-gabi-wolscham-la-preciosa-y-sexy-rubia-con-curvas-que-559675",
         "Status": "200"
     },
-    "Check 112": {
-        "Date": "2019-10-19 11:46:13.927581",
+    "Check 110": {
+        "Date": "2019-10-19 12:42:22.470776",
         "Link": "https://hsbnoticias.com/noticias/vida-moderna/carmen-villalobos-punto-de-casarse-publico-brutal-bikinazo-567889",
         "Status": "200"
     },
-    "Check 113": {
-        "Date": "2019-10-19 11:46:18.724248",
+    "Check 111": {
+        "Date": "2019-10-19 12:42:25.635691",
         "Link": "https://hsbnoticias.com/noticias/vida-moderna/cuales-fueron-los-inventos-de-thomas-edison-se-cumplen-88-567762",
         "Status": "200"
     },
-    "Check 114": {
-        "Date": "2019-10-19 11:46:19.901687",
+    "Check 112": {
+        "Date": "2019-10-19 12:42:28.442542",
         "Link": "https://hsbnoticias.com/noticias/vida-moderna/la-filarmonica-joven-de-colombia-diego-torres-y-coro-de-misi-567920",
         "Status": "200"
     },
-    "Check 115": {
-        "Date": "2019-10-19 11:46:25.789110",
+    "Check 113": {
+        "Date": "2019-10-19 12:42:30.995358",
         "Link": "https://hsbnoticias.com/noticias/vida-moderna/llego-el-dia-se-caso-rafael-nadal-y-mery-perello-tras-15-ano-567961",
         "Status": "200"
     },
-    "Check 116": {
-        "Date": "2019-10-19 11:46:26.696923",
+    "Check 114": {
+        "Date": "2019-10-19 12:42:33.002782",
         "Link": "https://hsbnoticias.com/noticias/vida-moderna/pio-perilla-pilar-cabrera-estrenan-cancion-para-que-todos-se-567976",
         "Status": "200"
     },
-    "Check 117": {
-        "Date": "2019-10-19 11:46:30.144948",
+    "Check 115": {
+        "Date": "2019-10-19 12:42:35.679768",
         "Link": "https://hsbnoticias.com/noticias/vida-moderna/primeras-imagenes-asi-luce-carmen-villalobos-camino-al-altar-567898",
         "Status": "200"
     },
-    "Check 118": {
-        "Date": "2019-10-19 11:46:33.831882",
+    "Check 116": {
+        "Date": "2019-10-19 12:42:36.524185",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/ya-son-marido-y-mujer-un-fieston-la-boda-de-carmen-villalobo-568004",
+        "Status": "200"
+    },
+    "Check 117": {
+        "Date": "2019-10-19 12:42:38.764311",
         "Link": "https://hsbnoticias.com/noticias/viral",
         "Status": "200"
     },
-    "Check 119": {
-        "Date": "2019-10-19 11:46:34.685838",
+    "Check 118": {
+        "Date": "2019-10-19 12:42:40.917560",
         "Link": "https://hsbnoticias.com/noticias/viral/pasion-terrorifica-captan-estudiantes-teniendo-sexo-en-tum-567954",
         "Status": "200"
     },
-    "Check 120": {
-        "Date": "2019-10-19 11:46:37.819165",
+    "Check 119": {
+        "Date": "2019-10-19 12:42:43.015403",
         "Link": "https://hsbnoticias.com/noticias/viral/perreo-tras-las-rejas-recluso-se-graba-bailando-twerking-con-567896",
         "Status": "200"
     },
-    "Check 121": {
-        "Date": "2019-10-19 11:46:41.455380",
+    "Check 120": {
+        "Date": "2019-10-19 12:42:43.858692",
         "Link": "https://hsbnoticias.com/noticias/viral/si-que-arde-barcelona-mujer-tiene-sexo-en-un-balcon-en-medio-567783",
         "Status": "200"
     },
-    "Check 122": {
-        "Date": "2019-10-19 11:46:42.393336",
+    "Check 121": {
+        "Date": "2019-10-19 12:42:44.723610",
         "Link": "https://hsbnoticias.com/periodistas",
         "Status": "200"
     },
-    "Check 123": {
-        "Date": "2019-10-19 11:46:45.383962",
+    "Check 122": {
+        "Date": "2019-10-19 12:42:46.849316",
         "Link": "https://hsbnoticias.com/rss",
         "Status": "200"
     },
-    "Check 124": {
-        "Date": "2019-10-19 11:46:46.121508",
+    "Check 123": {
+        "Date": "2019-10-19 12:42:47.590935",
         "Link": "https://hsbnoticias.com/rss.xml",
         "Status": "200"
     },
-    "Check 125": {
-        "Date": "2019-10-19 11:46:48.935216",
+    "Check 124": {
+        "Date": "2019-10-19 12:42:49.909904",
         "Link": "https://hsbnoticias.com/servicios/convertir-monedas",
         "Status": "200"
     },
-    "Check 126": {
-        "Date": "2019-10-19 11:46:51.228367",
+    "Check 125": {
+        "Date": "2019-10-19 12:42:51.555288",
         "Link": "https://hsbnoticias.com/servicios/pronostico-del-clima-en-colombia",
         "Status": "200"
     },
-    "Check 127": {
-        "Date": "2019-10-19 11:46:53.801927",
+    "Check 126": {
+        "Date": "2019-10-19 12:42:53.551096",
         "Link": "https://hsbnoticias.com/servicios/se-busca",
         "Status": "200"
     },
-    "Check 128": {
-        "Date": "2019-10-19 11:46:55.559726",
+    "Check 127": {
+        "Date": "2019-10-19 12:42:55.220382",
         "Link": "https://hsbnoticias.com/sitios/DiarioDelSur",
         "Status": "200"
     },
-    "Check 129": {
-        "Date": "2019-10-19 11:46:59.748275",
+    "Check 128": {
+        "Date": "2019-10-19 12:42:58.728402",
         "Link": "https://hsbnoticias.com/sitios/ElPeriodicoDeportivo",
         "Status": "200"
     },
-    "Check 130": {
-        "Date": "2019-10-19 11:47:02.591623",
+    "Check 129": {
+        "Date": "2019-10-19 12:43:00.714136",
         "Link": "https://hsbnoticias.com/sitios/Extra",
         "Status": "200"
     },
-    "Check 131": {
-        "Date": "2019-10-19 11:47:06.732558",
+    "Check 130": {
+        "Date": "2019-10-19 12:43:04.412958",
         "Link": "https://hsbnoticias.com/taxonomy/term/95606/",
         "Status": "200"
     },
-    "Check 132": {
-        "Date": "2019-10-19 11:47:10.038663",
+    "Check 131": {
+        "Date": "2019-10-19 12:43:07.815475",
         "Link": "https://hsbnoticias.com/temas/chica-instagram",
         "Status": "200"
     },
-    "Check 133": {
-        "Date": "2019-10-19 11:47:13.237931",
+    "Check 132": {
+        "Date": "2019-10-19 12:43:10.851647",
         "Link": "https://hsbnoticias.com/temas/di%C3%A1logos-de-la-habana",
         "Status": "200"
     },
-    "Check 134": {
-        "Date": "2019-10-19 11:47:16.002301",
+    "Check 133": {
+        "Date": "2019-10-19 12:43:13.803618",
         "Link": "https://hsbnoticias.com/temas/odebrecht",
         "Status": "200"
     },
-    "Check 135": {
-        "Date": "2019-10-19 11:47:19.217126",
+    "Check 134": {
+        "Date": "2019-10-19 12:43:17.127171",
         "Link": "https://hsbnoticias.com/temas/recomendado",
         "Status": "200"
     },
-    "Check 136": {
-        "Date": "2019-10-19 11:47:21.329662",
+    "Check 135": {
+        "Date": "2019-10-19 12:43:19.426205",
         "Link": "https://hsbnoticias.com/trafico/bogota",
         "Status": "200"
     },
-    "Check 137": {
-        "Date": "2019-10-19 11:47:24.042141",
+    "Check 136": {
+        "Date": "2019-10-19 12:43:21.339586",
         "Link": "https://hsbnoticias.com/trafico/cali",
         "Status": "200"
     },
-    "Check 138": {
-        "Date": "2019-10-19 11:47:26.157936",
+    "Check 137": {
+        "Date": "2019-10-19 12:43:23.410172",
         "Link": "https://hsbnoticias.com/trafico/medellin",
         "Status": "200"
     },
-    "Check 139": {
-        "Date": "2019-10-19 11:47:28.260752",
+    "Check 138": {
+        "Date": "2019-10-19 12:43:25.767943",
         "Link": "https://hsbnoticias.com/trafico/pasto",
         "Status": "200"
     },
-    "Check 140": {
-        "Date": "2019-10-19 11:47:29.121703",
+    "Check 139": {
+        "Date": "2019-10-19 12:43:26.598562",
         "Link": "https://hsbnoticias.com/user",
         "Status": "200"
     },
-    "Check 141": {
-        "Date": "2019-10-19 11:47:31.777349",
+    "Check 140": {
+        "Date": "2019-10-19 12:43:27.527696",
         "Link": "https://hsbnoticias.com/user/password",
         "Status": "200"
     },
-    "Check 142": {
-        "Date": "2019-10-19 11:47:32.655449",
+    "Check 141": {
+        "Date": "2019-10-19 12:43:28.469553",
         "Link": "https://hsbnoticias.com/user/register",
         "Status": "200"
     },
-    "Check 143": {
-        "Date": "2019-10-19 11:47:34.072729",
+    "Check 142": {
+        "Date": "2019-10-19 12:43:29.755798",
         "Link": "https://www.facebook.com/Hsbnoticias/",
         "Status": "200"
     },
-    "Check 144": {
-        "Date": "2019-10-19 11:47:35.253242",
+    "Check 143": {
+        "Date": "2019-10-19 12:43:30.822040",
         "Link": "https://www.youtube.com/HSBNOTICIAS",
         "Status": "200"
     }

@@ -1,0 +1,3890 @@
+{
+    "Check 001": {
+        "Date": "2019-10-19 14:31:30.853901",
+        "Link": "http://aliados.semana.com/apuestapormasempresaslideres/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 002": {
+        "Date": "2019-10-19 14:31:31.512641",
+        "Link": "http://aliados.semana.com/aquiconstruimospais/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 003": {
+        "Date": "2019-10-19 14:31:32.179651",
+        "Link": "http://aliados.semana.com/stopoverholamadrid/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 004": {
+        "Date": "2019-10-19 14:31:32.729020",
+        "Link": "http://aliados.semana.com/vivir-tena/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 005": {
+        "Date": "2019-10-19 14:31:34.150725",
+        "Link": "http://especiales.semana.com/100-empresas-mas-grandes-de-colombia-2018/index.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 006": {
+        "Date": "2019-10-19 14:31:35.431678",
+        "Link": "http://especiales.semana.com/balas-perdidas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 007": {
+        "Date": "2019-10-19 14:31:36.674411",
+        "Link": "http://especiales.semana.com/cuidando-animales-salvajes-victimas-del-trafico-ilegal/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 008": {
+        "Date": "2019-10-19 14:31:37.999034",
+        "Link": "http://especiales.semana.com/el-asesinato-de-dimar-torres/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 009": {
+        "Date": "2019-10-19 14:31:39.243454",
+        "Link": "http://especiales.semana.com/el-proceso-de-paz-en-colombia-cuelga-de-un-hilo/index.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 010": {
+        "Date": "2019-10-19 14:31:40.426777",
+        "Link": "http://especiales.semana.com/el-regreso-del-paramilitarismo-en-el-bajo-cauca/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 011": {
+        "Date": "2019-10-19 14:31:41.654196",
+        "Link": "http://especiales.semana.com/lideres-sociales-asesinados/index.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 012": {
+        "Date": "2019-10-19 14:31:42.911258",
+        "Link": "http://especiales.semana.com/los-perros-de-la-guerra/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 013": {
+        "Date": "2019-10-19 14:31:44.225263",
+        "Link": "http://especiales.semana.com/volver-a-ser-embera-despues-del-conflicto-armado-en-colombia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 014": {
+        "Date": "2019-10-19 14:31:45.279314",
+        "Link": "http://especiales.sostenibilidad.semana.com/indigenas-colombianos-en-frontera/los-yukpa-un-pueblo-invisible-para-los-colombianos.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 015": {
+        "Date": "2019-10-19 14:31:47.140842",
+        "Link": "http://sostenibilidad.semana.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 016": {
+        "Date": "2019-10-19 14:31:48.595462",
+        "Link": "http://sostenibilidad.semana.com/impacto/articulo/cumbre-de-sostenibilidad-para-ninos-2019/47163",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 017": {
+        "Date": "2019-10-19 14:31:50.132379",
+        "Link": "http://sostenibilidad.semana.com/medio-ambiente/articulo/esta-idea-colombiana-representara-al-pais-en-mundial-de-emprendimientos-verdes/47120",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 018": {
+        "Date": "2019-10-19 14:31:52.720331",
+        "Link": "http://www.dw.de/spanish",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 019": {
+        "Date": "2019-10-19 14:31:55.297477",
+        "Link": "http://www.forossemana.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 020": {
+        "Date": "2019-10-19 14:31:57.783030",
+        "Link": "http://www.iabcolombia.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 021": {
+        "Date": "2019-10-19 14:31:59.329731",
+        "Link": "http://www.semana.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 022": {
+        "Date": "2019-10-19 14:32:01.587114",
+        "Link": "http://www.semana.com/Fotos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 023": {
+        "Date": "2019-10-19 14:32:02.724907",
+        "Link": "http://www.semana.com/Modal/ModalForgotPassword.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 024": {
+        "Date": "2019-10-19 14:32:03.869151",
+        "Link": "http://www.semana.com/Modal/ModalPolicies.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 025": {
+        "Date": "2019-10-19 14:32:04.972916",
+        "Link": "http://www.semana.com/Modal/ModalRedenciones.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 026": {
+        "Date": "2019-10-19 14:32:06.076036",
+        "Link": "http://www.semana.com/Modal/ModalRegistro.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 027": {
+        "Date": "2019-10-19 14:32:13.228411",
+        "Link": "http://www.semana.com/Moviles",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 028": {
+        "Date": "2019-10-19 14:32:14.595539",
+        "Link": "http://www.semana.com/User/LoginMetered",
+        "Status": {
+            "Code": "503",
+            "Meaning": "Service Unavailable: The server is currently unavailable (overloaded or down)",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 029": {
+        "Date": "2019-10-19 14:32:16.349140",
+        "Link": "http://www.semana.com/Videos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 030": {
+        "Date": "2019-10-19 14:32:17.798667",
+        "Link": "http://www.semana.com/autor/antonio-caballero/5",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 031": {
+        "Date": "2019-10-19 14:32:19.468190",
+        "Link": "http://www.semana.com/autor/daniel-samper/798",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 032": {
+        "Date": "2019-10-19 14:32:21.136156",
+        "Link": "http://www.semana.com/autor/maria-jimena-duzan/1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 033": {
+        "Date": "2019-10-19 14:32:22.741505",
+        "Link": "http://www.semana.com/autor/vicky--davila/574",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 034": {
+        "Date": "2019-10-19 14:32:24.543619",
+        "Link": "http://www.semana.com/caricaturas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 035": {
+        "Date": "2019-10-19 14:32:26.152443",
+        "Link": "http://www.semana.com/caricaturas/articulo/aleida-y-un-nuevo-comienzo-por-vladdo-en-la-vladdomania/636753",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 036": {
+        "Date": "2019-10-19 14:32:27.841549",
+        "Link": "http://www.semana.com/caricaturas/articulo/monologo-electoral-por-antonio-caballero/636756",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 037": {
+        "Date": "2019-10-19 14:32:29.867089",
+        "Link": "http://www.semana.com/caricaturista/caballero",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 038": {
+        "Date": "2019-10-19 14:32:31.569246",
+        "Link": "http://www.semana.com/caricaturista/vladdo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 039": {
+        "Date": "2019-10-19 14:32:33.112219",
+        "Link": "http://www.semana.com/confidenciales-semanacom/articulo/la-boleteada-a-juan-diego-alvira/636273",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 040": {
+        "Date": "2019-10-19 14:32:34.915929",
+        "Link": "http://www.semana.com/cultura/articulo/resena-de-pelicula-hacia-la-luz-de-la-directora-japonesa-naomi-kawase/636470",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 041": {
+        "Date": "2019-10-19 14:32:36.692891",
+        "Link": "http://www.semana.com/cultura/articulo/sergio-trujillo-el-inmigrante-colombiano-que-logro-su-sueno-en-broadway-y-gano-el-premio-tony-y/636471",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 042": {
+        "Date": "2019-10-19 14:32:38.426006",
+        "Link": "http://www.semana.com/cultura/galeria/las-mejores-imagenes-de-scorpions-y-whitesnake-en-bogota/636067",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 043": {
+        "Date": "2019-10-19 14:32:40.059216",
+        "Link": "http://www.semana.com/deportes/articulo/fue-para-hacerte-dano-muy-cruel-ronaldo-habla-con-neymar-sobre-la-falta-de-zuniga/636705",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 044": {
+        "Date": "2019-10-19 14:32:41.595760",
+        "Link": "http://www.semana.com/economia/articulo/cual-es-el-papel-del-fmi-en-las-crisis-de-ecuador-y-argentina/636642",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 045": {
+        "Date": "2019-10-19 14:32:43.118313",
+        "Link": "http://www.semana.com/economia/multimedia/duque-le-dice-no-al-salario-diferencial-para-jovenes/636818",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 046": {
+        "Date": "2019-10-19 14:32:44.683129",
+        "Link": "http://www.semana.com/educacion/articulo/estudiantes-iran-a-paro-si-se-usan-los-recursos-de-la-educacion-para-pagar-deudas-de-la-nacion/636361",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 047": {
+        "Date": "2019-10-19 14:32:46.087601",
+        "Link": "http://www.semana.com/educacion/articulo/trabajadores-convocaron-a-paro-nacional-el-21-de-noviembre-en-contra-de-reforma-pensional-y-laboral/636385",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 048": {
+        "Date": "2019-10-19 14:32:47.737356",
+        "Link": "http://www.semana.com/educacion/galeria/en-imagenes-los-desmanes-de-encapuchados-durante-protesta-estudiantil/635572",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 049": {
+        "Date": "2019-10-19 14:32:49.317389",
+        "Link": "http://www.semana.com/especiales",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 050": {
+        "Date": "2019-10-19 14:32:51.499109",
+        "Link": "http://www.semana.com/especiales-semana",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 051": {
+        "Date": "2019-10-19 14:32:53.232785",
+        "Link": "http://www.semana.com/fotos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 052": {
+        "Date": "2019-10-19 14:32:54.778653",
+        "Link": "http://www.semana.com/gente/articulo/insolitas-parejas-el-libro-de-daniel-samper-pizano-que-cuenta-la-historia-de-12-grandes-romances/636468",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 053": {
+        "Date": "2019-10-19 14:32:56.382335",
+        "Link": "http://www.semana.com/gente/articulo/jane-fonda-segundo-arresto-por-protestar-contra-el-cambio-climatico/636548",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 054": {
+        "Date": "2019-10-19 14:32:58.066341",
+        "Link": "http://www.semana.com/gente/articulo/lionel-messi-habla-de-su-retiro-del-futbol-en-una-entrevista/636334",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 055": {
+        "Date": "2019-10-19 14:32:59.739277",
+        "Link": "http://www.semana.com/gente/articulo/louis-mountbatten-el-tio-libertino-del-principe-carlos/636382",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 056": {
+        "Date": "2019-10-19 14:33:01.524551",
+        "Link": "http://www.semana.com/gente/articulo/maria-antonieta-de-reina-villana-y-traidora-a-icono-cultural/636633",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 057": {
+        "Date": "2019-10-19 14:33:03.507123",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/cerramos-brechas-para-que-cali-progrese-con-la-gente/635444",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 058": {
+        "Date": "2019-10-19 14:33:05.177813",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/concepta-el-mejor-escenario-para-la-innovacion-empresarial/634680",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 059": {
+        "Date": "2019-10-19 14:33:06.726596",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/educacion-pilar-de-la-transformacion/635451",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 060": {
+        "Date": "2019-10-19 14:33:08.440840",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/el-mio-se-recarga-con-energias-limpias/635458",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 061": {
+        "Date": "2019-10-19 14:33:10.296807",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/hombre-en-el-movil/636150",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 062": {
+        "Date": "2019-10-19 14:33:12.153519",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/integralidad-y-oportunidad/635898",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 063": {
+        "Date": "2019-10-19 14:33:13.720598",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/la-region-los-necesita/635872",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 064": {
+        "Date": "2019-10-19 14:33:15.315488",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/llego-la-era-del-dinero-electronico/635881",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 065": {
+        "Date": "2019-10-19 14:33:16.888098",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/madrid-al-estilo-iberia-descanso-y-compras/634999",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 066": {
+        "Date": "2019-10-19 14:33:18.593587",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/mba-eafit-tres-anos-como-el-mejor-de-colombia/634702",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 067": {
+        "Date": "2019-10-19 14:33:20.295678",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/mediterranea-towers-disfrutaras-estar-en-casa/635197",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 068": {
+        "Date": "2019-10-19 14:33:22.140472",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/redescubre-cali-la-ciudad-de-experiencias-que-lo-tiene-todo/635461",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 069": {
+        "Date": "2019-10-19 14:33:23.572360",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/una-apuesta-por-la-atencion-integral-del-cancer/635720",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 070": {
+        "Date": "2019-10-19 14:33:25.154649",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/una-solucion-para-todo/635893",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 071": {
+        "Date": "2019-10-19 14:33:26.581166",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/valores-y-competencias-para-la-vida/636394",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 072": {
+        "Date": "2019-10-19 14:33:28.167017",
+        "Link": "http://www.semana.com/hablan-las-marcas/multimedia/la-medicina-de-precision-herramienta-poderosa-para-tratar-el-cancer/636518",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 073": {
+        "Date": "2019-10-19 14:33:29.877374",
+        "Link": "http://www.semana.com/mapa",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 074": {
+        "Date": "2019-10-19 14:33:31.692077",
+        "Link": "http://www.semana.com/mundo/articulo/cataluna-protestas-del-independentismo-catalan-van-en-contra-de-la-aplicacion-de-las-leyes-de-espana/636708",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 075": {
+        "Date": "2019-10-19 14:33:33.202620",
+        "Link": "http://www.semana.com/mundo/articulo/culiacan-la-ciudad-que-demostro-que-los-narcos-son-mas-fuertes-que-el-ejercito/636516",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 076": {
+        "Date": "2019-10-19 14:33:34.711699",
+        "Link": "http://www.semana.com/mundo/articulo/dejan-libre-al-hijo-del-chapo-autoridades-mexicanas-se-rinden/636474",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 077": {
+        "Date": "2019-10-19 14:33:36.566269",
+        "Link": "http://www.semana.com/mundo/articulo/elecciones-presidenciales-en-argentina-el-virtual-triunfo-de-alberto-fernandez-y-el-manejo-de-la-crisis-economica/636631",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 078": {
+        "Date": "2019-10-19 14:33:38.140179",
+        "Link": "http://www.semana.com/mundo/articulo/papa-francisco-arremete-contra-los-conservadores-del-vaticano/636632",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 079": {
+        "Date": "2019-10-19 14:33:39.643852",
+        "Link": "http://www.semana.com/mundo/articulo/santiago-de-chile-despues-del-caos-el-metro-inutilizado-y-militares-en-las-calles/636811",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 080": {
+        "Date": "2019-10-19 14:33:41.092227",
+        "Link": "http://www.semana.com/mundo/galeria/kim-jong-un-las-fotos-mas-excentricas-del-dictador-norcoreano/636367",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 081": {
+        "Date": "2019-10-19 14:33:42.744219",
+        "Link": "http://www.semana.com/mundo/galeria/la-vuelta-de-las-mujeres-a-los-estadios-en-iran-y-otras-imagenes-de-la-semana/635719",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 082": {
+        "Date": "2019-10-19 14:33:44.293692",
+        "Link": "http://www.semana.com/nacion/articulo/11-cosas-que-deberia-saber-del-metro-que-se-construira-en-bogota/569796",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 083": {
+        "Date": "2019-10-19 14:33:45.873476",
+        "Link": "http://www.semana.com/nacion/articulo/andres-fabian-hurtado-el-polemico-candidato-a-la-alcaldia-de-ibague/636552",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 084": {
+        "Date": "2019-10-19 14:33:47.513452",
+        "Link": "http://www.semana.com/nacion/articulo/caida-de-la-ley-de-financiamiento-de-ivan-duque-habra-crisis-ministerial/636772",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 085": {
+        "Date": "2019-10-19 14:33:49.055845",
+        "Link": "http://www.semana.com/nacion/articulo/caso-uribe-tension-entre-la-justicia-de-eeuu-y-la-corte-por-pruebas/636709",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 086": {
+        "Date": "2019-10-19 14:33:50.749215",
+        "Link": "http://www.semana.com/nacion/articulo/constantino-ramirez-con-el-son-115-indigenas-asesinados-en-el-ultimo-ano/636736",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 087": {
+        "Date": "2019-10-19 14:33:52.620020",
+        "Link": "http://www.semana.com/nacion/articulo/crimenes-y-reclutamiento-la-historia-de-los-refugiados-venezolanos-atrapados-en-la-guerra-del-putumayo/636517",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 088": {
+        "Date": "2019-10-19 14:33:54.184353",
+        "Link": "http://www.semana.com/nacion/articulo/ejercito-borro-mural-sobre-los-falsos-positivos-en-bogota/636814",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 089": {
+        "Date": "2019-10-19 14:33:55.747116",
+        "Link": "http://www.semana.com/nacion/articulo/el-misterio-del-proceso-655-uno-de-los-mayores-casos-de-narcotrafico-en-colombia/636707",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 090": {
+        "Date": "2019-10-19 14:33:57.501845",
+        "Link": "http://www.semana.com/nacion/articulo/elecciones-2019-cuestionados-y-clanes-del-caribe/636769",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 091": {
+        "Date": "2019-10-19 14:33:59.235906",
+        "Link": "http://www.semana.com/nacion/articulo/elecciones-regionales-2019-en-su-recta-final/636732",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 092": {
+        "Date": "2019-10-19 14:34:01.006785",
+        "Link": "http://www.semana.com/nacion/articulo/elecciones-regionales-2019-habitantes-de-belen-de-bajira-no-saben-si-pertenecen-a-choco-o-antioquia/636706",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 093": {
+        "Date": "2019-10-19 14:34:02.856177",
+        "Link": "http://www.semana.com/nacion/articulo/entrevista-con-carlos-holmes-trujillo-sobre-las-relaciones-entre-cuba-y-colombi/636712",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 094": {
+        "Date": "2019-10-19 14:34:04.410297",
+        "Link": "http://www.semana.com/nacion/articulo/estadounidense-murio-en-el-aeropuerto-el-dorado-testigos-afirman-que-hubo-negligencia/636805",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 095": {
+        "Date": "2019-10-19 14:34:06.291854",
+        "Link": "http://www.semana.com/nacion/articulo/excombatientes-de-farc-no-pudieron-recibir-premio-en-new-york-porque-les-negaron-la-visa/636406",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 096": {
+        "Date": "2019-10-19 14:34:07.847414",
+        "Link": "http://www.semana.com/nacion/articulo/los-audios-de-compra-de-votos-en-sucre-que-salpican-a-yahir-acuna/636710",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 097": {
+        "Date": "2019-10-19 14:34:17.100013",
+        "Link": "http://www.semana.com/nacion/articulo/los-que-hicieron-esto-no-pensaron-que-habia-hijos-hermanos-madres-que-se-iban-a-encargar-de-buscar-a-los-responsables--madres-de-soacha/636422",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 098": {
+        "Date": "2019-10-19 14:34:18.632889",
+        "Link": "http://www.semana.com/nacion/articulo/metro-elevado-de-bogota-que-tan-blindado-esta-el-proceso-y-que-es-lo-que-se-viene/636711",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 099": {
+        "Date": "2019-10-19 14:34:20.145422",
+        "Link": "http://www.semana.com/nacion/articulo/que-hay-detras-de-la-demora-para-elegir-fiscal-general-y-magistrados/636713",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 100": {
+        "Date": "2019-10-19 14:34:21.545298",
+        "Link": "http://www.semana.com/nacion/galeria/graduacion-en-la-carcel-la-modelo-nostalgia-de-un-tropiezo-convertido-en-triunfo/636804",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 101": {
+        "Date": "2019-10-19 14:34:23.108337",
+        "Link": "http://www.semana.com/nacion/multimedia/el-misterio-del-proceso-655-uno-de-los-mayores-casos-de-narcotrafico-en-colombia/636787",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 102": {
+        "Date": "2019-10-19 14:34:24.642364",
+        "Link": "http://www.semana.com/nacion/multimedia/enrique-penalosa-y-duque-anuncian-adjudicacion-del-metro-de-bogota/636510",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 103": {
+        "Date": "2019-10-19 14:34:26.567280",
+        "Link": "http://www.semana.com/noticias/aeropuerto-el-dorado/104087",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 104": {
+        "Date": "2019-10-19 14:34:28.306618",
+        "Link": "http://www.semana.com/noticias/alberto-carrasquilla/114984",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 105": {
+        "Date": "2019-10-19 14:34:30.088420",
+        "Link": "http://www.semana.com/noticias/alberto-fernandez/124647",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 106": {
+        "Date": "2019-10-19 14:34:31.819523",
+        "Link": "http://www.semana.com/noticias/alcalde-de-ibague/109420",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 107": {
+        "Date": "2019-10-19 14:34:33.619771",
+        "Link": "http://www.semana.com/noticias/alejandro-lyons-muskus/102720",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 108": {
+        "Date": "2019-10-19 14:34:35.531506",
+        "Link": "http://www.semana.com/noticias/alias-sonia-anayibe-rojas-valderrama/124625",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 109": {
+        "Date": "2019-10-19 14:34:38.279323",
+        "Link": "http://www.semana.com/noticias/alimentacion/103944",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 110": {
+        "Date": "2019-10-19 14:34:40.122867",
+        "Link": "http://www.semana.com/noticias/alvaro-el-gordo-garcia/120654",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 111": {
+        "Date": "2019-10-19 14:34:42.500302",
+        "Link": "http://www.semana.com/noticias/alvaro-uribe-velez-indagatoria-corte-suprema-de-justicia/123067",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 112": {
+        "Date": "2019-10-19 14:34:44.418847",
+        "Link": "http://www.semana.com/noticias/alvaro-uribe-velez/102606",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 113": {
+        "Date": "2019-10-19 14:34:46.426885",
+        "Link": "http://www.semana.com/noticias/andi/103300",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 114": {
+        "Date": "2019-10-19 14:34:48.339019",
+        "Link": "http://www.semana.com/noticias/animacion/113352",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 115": {
+        "Date": "2019-10-19 14:34:49.921917",
+        "Link": "http://www.semana.com/noticias/antioquia/102556",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 116": {
+        "Date": "2019-10-19 14:34:51.854704",
+        "Link": "http://www.semana.com/noticias/apertura-especial-elecciones-2019/121009",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 117": {
+        "Date": "2019-10-19 14:34:54.016353",
+        "Link": "http://www.semana.com/noticias/arcadia/103341",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 118": {
+        "Date": "2019-10-19 14:34:55.869385",
+        "Link": "http://www.semana.com/noticias/asamblea-de-naciones-unidas/123741",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 119": {
+        "Date": "2019-10-19 14:34:57.709874",
+        "Link": "http://www.semana.com/noticias/asesinato-de-lideres-sociales/120902",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 120": {
+        "Date": "2019-10-19 14:34:59.539813",
+        "Link": "http://www.semana.com/noticias/auc/103135",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 121": {
+        "Date": "2019-10-19 14:35:01.443746",
+        "Link": "http://www.semana.com/noticias/bad-religion/124332",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 122": {
+        "Date": "2019-10-19 14:35:03.531127",
+        "Link": "http://www.semana.com/noticias/bailar/114501",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 123": {
+        "Date": "2019-10-19 14:35:05.391326",
+        "Link": "http://www.semana.com/noticias/ballet/103776",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 124": {
+        "Date": "2019-10-19 14:35:07.211413",
+        "Link": "http://www.semana.com/noticias/banco-mundial/116025",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 125": {
+        "Date": "2019-10-19 14:35:09.235443",
+        "Link": "http://www.semana.com/noticias/barcelona-f-c/102617",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 126": {
+        "Date": "2019-10-19 14:35:11.115041",
+        "Link": "http://www.semana.com/noticias/belen-de-bajira/113129",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 127": {
+        "Date": "2019-10-19 14:35:12.922348",
+        "Link": "http://www.semana.com/noticias/brasil/102682",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 128": {
+        "Date": "2019-10-19 14:35:14.763957",
+        "Link": "http://www.semana.com/noticias/broadway/116406",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 129": {
+        "Date": "2019-10-19 14:35:16.528905",
+        "Link": "http://www.semana.com/noticias/bulgaria/105724",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 130": {
+        "Date": "2019-10-19 14:35:18.288724",
+        "Link": "http://www.semana.com/noticias/caleno-gana-premio-tony/119221",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 131": {
+        "Date": "2019-10-19 14:35:20.059990",
+        "Link": "http://www.semana.com/noticias/california/104217",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 132": {
+        "Date": "2019-10-19 14:35:21.960100",
+        "Link": "http://www.semana.com/noticias/camara-de-representantes/104189",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 133": {
+        "Date": "2019-10-19 14:35:29.021650",
+        "Link": "http://www.semana.com/noticias/cambio-radical/103165",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 134": {
+        "Date": "2019-10-19 14:35:30.868276",
+        "Link": "http://www.semana.com/noticias/caminata-espacial-mujeres/124650",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 135": {
+        "Date": "2019-10-19 14:35:32.752661",
+        "Link": "http://www.semana.com/noticias/canasta-familiar/115284",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 136": {
+        "Date": "2019-10-19 14:35:34.641999",
+        "Link": "http://www.semana.com/noticias/cancer-infantil/112985",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 137": {
+        "Date": "2019-10-19 14:35:36.516523",
+        "Link": "http://www.semana.com/noticias/cancer/103080",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 138": {
+        "Date": "2019-10-19 14:35:38.666468",
+        "Link": "http://www.semana.com/noticias/cancilleria-de-la-nacion/109425",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 139": {
+        "Date": "2019-10-19 14:35:40.461268",
+        "Link": "http://www.semana.com/noticias/candidatos-a-la-alcaldia-de-barranquilla/123024",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 140": {
+        "Date": "2019-10-19 14:35:42.456433",
+        "Link": "http://www.semana.com/noticias/candidatos-a-la-alcaldia-de-bogota/121707",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 141": {
+        "Date": "2019-10-19 14:35:44.254789",
+        "Link": "http://www.semana.com/noticias/candidatos-a-la-alcaldia-de-cali/123025",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 142": {
+        "Date": "2019-10-19 14:35:45.990728",
+        "Link": "http://www.semana.com/noticias/candidatos-a-la-alcaldia-de-medellin/122928",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 143": {
+        "Date": "2019-10-19 14:35:47.875659",
+        "Link": "http://www.semana.com/noticias/candidatos-amenazados/123632",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 144": {
+        "Date": "2019-10-19 14:35:49.606229",
+        "Link": "http://www.semana.com/noticias/candidatos-asesinados/123631",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 145": {
+        "Date": "2019-10-19 14:35:51.472754",
+        "Link": "http://www.semana.com/noticias/carcel-la-modelo/104569",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 146": {
+        "Date": "2019-10-19 14:35:53.219715",
+        "Link": "http://www.semana.com/noticias/carles-puigdemont/114099",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 147": {
+        "Date": "2019-10-19 14:35:55.165785",
+        "Link": "http://www.semana.com/noticias/carlos-holmes-trujillo/103903",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 148": {
+        "Date": "2019-10-19 14:35:57.098344",
+        "Link": "http://www.semana.com/noticias/casa-de-narino/104374",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 149": {
+        "Date": "2019-10-19 14:35:59.326867",
+        "Link": "http://www.semana.com/noticias/casados-en-la-iglesia-catolica/119557",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 150": {
+        "Date": "2019-10-19 14:36:01.131466",
+        "Link": "http://www.semana.com/noticias/caso-de-falsos-positivos-en-ejercito-colombiano/119708",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 151": {
+        "Date": "2019-10-19 14:36:02.961291",
+        "Link": "http://www.semana.com/noticias/cataluna/103537",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 152": {
+        "Date": "2019-10-19 14:36:04.717904",
+        "Link": "http://www.semana.com/noticias/centro-democratico/102624",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 153": {
+        "Date": "2019-10-19 14:36:06.708810",
+        "Link": "http://www.semana.com/noticias/cesar-gaviria-trujillo/102590",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 154": {
+        "Date": "2019-10-19 14:36:08.610958",
+        "Link": "http://www.semana.com/noticias/cesar-gaviria-y-german-vargas/121152",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 155": {
+        "Date": "2019-10-19 14:36:10.383353",
+        "Link": "http://www.semana.com/noticias/cesar/103488",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 156": {
+        "Date": "2019-10-19 14:36:12.195976",
+        "Link": "http://www.semana.com/noticias/chile/102848",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 157": {
+        "Date": "2019-10-19 14:36:14.030195",
+        "Link": "http://www.semana.com/noticias/choco/102555",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 158": {
+        "Date": "2019-10-19 14:36:15.736527",
+        "Link": "http://www.semana.com/noticias/cholo-valderrama/114558",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 159": {
+        "Date": "2019-10-19 14:36:17.494718",
+        "Link": "http://www.semana.com/noticias/christian-byfield/124664",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 160": {
+        "Date": "2019-10-19 14:36:19.335150",
+        "Link": "http://www.semana.com/noticias/cine/103006",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 161": {
+        "Date": "2019-10-19 14:36:21.108519",
+        "Link": "http://www.semana.com/noticias/combustibles/103723",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 162": {
+        "Date": "2019-10-19 14:36:23.110788",
+        "Link": "http://www.semana.com/noticias/comision-de-excelencia-militar-y-falsos-positivos/121515",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 163": {
+        "Date": "2019-10-19 14:36:24.862543",
+        "Link": "http://www.semana.com/noticias/como-entender-la-crisis-economica-en-argentina/122849",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 164": {
+        "Date": "2019-10-19 14:36:26.652935",
+        "Link": "http://www.semana.com/noticias/competitividad-del-valle-del-cauca/124131",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 165": {
+        "Date": "2019-10-19 14:36:28.368115",
+        "Link": "http://www.semana.com/noticias/comunidades-indigenas/113215",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 166": {
+        "Date": "2019-10-19 14:36:30.092357",
+        "Link": "http://www.semana.com/noticias/conciertos-en-colombia/120701",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 167": {
+        "Date": "2019-10-19 14:36:31.830127",
+        "Link": "http://www.semana.com/noticias/concurso-climate-launchpad/119888",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 168": {
+        "Date": "2019-10-19 14:36:33.607719",
+        "Link": "http://www.semana.com/noticias/congreso-de-la-republica/102641",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 169": {
+        "Date": "2019-10-19 14:36:35.137159",
+        "Link": "http://www.semana.com/noticias/consorcio-apca-transmimetro/124662",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 170": {
+        "Date": "2019-10-19 14:36:36.974245",
+        "Link": "http://www.semana.com/noticias/cordoba/102557",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 171": {
+        "Date": "2019-10-19 14:36:39.157865",
+        "Link": "http://www.semana.com/noticias/corea-del-norte-fortalece-arsenal-nuclear/122993",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 172": {
+        "Date": "2019-10-19 14:36:41.342780",
+        "Link": "http://www.semana.com/noticias/corea-del-norte/102678",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 173": {
+        "Date": "2019-10-19 14:36:43.260263",
+        "Link": "http://www.semana.com/noticias/corrupcion-en-sucre/120333",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 174": {
+        "Date": "2019-10-19 14:36:45.068393",
+        "Link": "http://www.semana.com/noticias/corte-constitucional-tumbo-la-ley-de-financiamiento/124591",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 175": {
+        "Date": "2019-10-19 14:36:46.770758",
+        "Link": "http://www.semana.com/noticias/corte-constitucional/102640",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 176": {
+        "Date": "2019-10-19 14:36:48.907691",
+        "Link": "http://www.semana.com/noticias/corte-suprema-de-justicia-sin-magistrados/124705",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 177": {
+        "Date": "2019-10-19 14:36:50.770894",
+        "Link": "http://www.semana.com/noticias/corte-suprema-de-justicia/102637",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 178": {
+        "Date": "2019-10-19 14:36:52.818907",
+        "Link": "http://www.semana.com/noticias/costa-caribe/103589",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 179": {
+        "Date": "2019-10-19 14:36:54.646020",
+        "Link": "http://www.semana.com/noticias/crisis-economica-argentina/119509",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 180": {
+        "Date": "2019-10-19 14:36:56.451751",
+        "Link": "http://www.semana.com/noticias/crisis-en-argentina/122848",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 181": {
+        "Date": "2019-10-19 14:36:58.211451",
+        "Link": "http://www.semana.com/noticias/cristina-fernandez-vuelve-a-ser-candidata-a-la-presidencia-de-argentina/118488",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 182": {
+        "Date": "2019-10-19 14:37:00.147355",
+        "Link": "http://www.semana.com/noticias/criticas-de-cine/123011",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 183": {
+        "Date": "2019-10-19 14:37:02.062975",
+        "Link": "http://www.semana.com/noticias/cuba/102792",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 184": {
+        "Date": "2019-10-19 14:37:03.943458",
+        "Link": "http://www.semana.com/noticias/cultura/104391",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 185": {
+        "Date": "2019-10-19 14:37:05.623572",
+        "Link": "http://www.semana.com/noticias/danza/112745",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 186": {
+        "Date": "2019-10-19 14:37:07.358898",
+        "Link": "http://www.semana.com/noticias/dea/103804",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 187": {
+        "Date": "2019-10-19 14:37:09.287512",
+        "Link": "http://www.semana.com/noticias/delfines-rosados/116066",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 188": {
+        "Date": "2019-10-19 14:37:11.533845",
+        "Link": "http://www.semana.com/noticias/demandas-ley-de-financiamiento/118242",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 189": {
+        "Date": "2019-10-19 14:37:13.583535",
+        "Link": "http://www.semana.com/noticias/diego-cadena-abogado-de-uribe/123072",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 190": {
+        "Date": "2019-10-19 14:37:15.352481",
+        "Link": "http://www.semana.com/noticias/diplomacia/103596",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 191": {
+        "Date": "2019-10-19 14:37:16.970611",
+        "Link": "http://www.semana.com/noticias/dolar-estadounidense-usd/103566",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 192": {
+        "Date": "2019-10-19 14:37:18.818767",
+        "Link": "http://www.semana.com/noticias/economia/103927",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 193": {
+        "Date": "2019-10-19 14:37:20.678339",
+        "Link": "http://www.semana.com/noticias/el-hombre-detras-del-tirano-de-corea-del-norte/120690",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 194": {
+        "Date": "2019-10-19 14:37:22.495816",
+        "Link": "http://www.semana.com/noticias/el-trabajo-de-johana-bahamon-en-la-carcel/116679",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 195": {
+        "Date": "2019-10-19 14:37:24.300884",
+        "Link": "http://www.semana.com/noticias/elecciones-2019/115668",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 196": {
+        "Date": "2019-10-19 14:37:26.123030",
+        "Link": "http://www.semana.com/noticias/elecciones-argentina-2019/122198",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 197": {
+        "Date": "2019-10-19 14:37:27.892712",
+        "Link": "http://www.semana.com/noticias/elecciones-de-alcaldes-y-gobernadores-2019/122361",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 198": {
+        "Date": "2019-10-19 14:37:29.792787",
+        "Link": "http://www.semana.com/noticias/elecciones-primarias-abiertas-simultaneas-y-obligatorias-paso/124648",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 199": {
+        "Date": "2019-10-19 14:37:31.584051",
+        "Link": "http://www.semana.com/noticias/elecciones-regionales-en-colombia-2019/119943",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 200": {
+        "Date": "2019-10-19 14:37:33.434185",
+        "Link": "http://www.semana.com/noticias/eln/102531",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 201": {
+        "Date": "2019-10-19 14:37:35.188217",
+        "Link": "http://www.semana.com/noticias/embarazo/103675",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 202": {
+        "Date": "2019-10-19 14:37:37.091718",
+        "Link": "http://www.semana.com/noticias/embera-katios/112552",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 203": {
+        "Date": "2019-10-19 14:37:38.767552",
+        "Link": "http://www.semana.com/noticias/encuesta-invamer-gallup/121486",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 204": {
+        "Date": "2019-10-19 14:37:40.606552",
+        "Link": "http://www.semana.com/noticias/enrique-penalosa/103605",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 205": {
+        "Date": "2019-10-19 14:37:42.352624",
+        "Link": "http://www.semana.com/noticias/espana/102661",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 206": {
+        "Date": "2019-10-19 14:37:44.122055",
+        "Link": "http://www.semana.com/noticias/especial-elecciones-bogota-2019/121007",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 207": {
+        "Date": "2019-10-19 14:37:45.684199",
+        "Link": "http://www.semana.com/noticias/especial-elecciones-locales-2019/121008",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 208": {
+        "Date": "2019-10-19 14:37:47.604563",
+        "Link": "http://www.semana.com/noticias/estados-unidos/102603",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 209": {
+        "Date": "2019-10-19 14:37:49.479681",
+        "Link": "http://www.semana.com/noticias/excombatientes-de-la-farc/119932",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 210": {
+        "Date": "2019-10-19 14:37:51.538432",
+        "Link": "http://www.semana.com/noticias/excombatientes-de-las-farc/118970",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 211": {
+        "Date": "2019-10-19 14:37:53.434936",
+        "Link": "http://www.semana.com/noticias/fake-news/114173",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 212": {
+        "Date": "2019-10-19 14:37:55.505547",
+        "Link": "http://www.semana.com/noticias/falsos-positivos/103256",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 213": {
+        "Date": "2019-10-19 14:37:57.619384",
+        "Link": "http://www.semana.com/noticias/familiares-de-los-excombatientes-de-las-farc/121158",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 214": {
+        "Date": "2019-10-19 14:37:59.263951",
+        "Link": "http://www.semana.com/noticias/farc/102530",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 215": {
+        "Date": "2019-10-19 14:38:01.058175",
+        "Link": "http://www.semana.com/noticias/federico-gutierrez/104337",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 216": {
+        "Date": "2019-10-19 14:38:02.813808",
+        "Link": "http://www.semana.com/noticias/fedesarrollo/120712",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 217": {
+        "Date": "2019-10-19 14:38:04.688339",
+        "Link": "http://www.semana.com/noticias/fiscalia-general-de-la-nacion/102518",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 218": {
+        "Date": "2019-10-19 14:38:06.811219",
+        "Link": "http://www.semana.com/noticias/fmi/103759",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 219": {
+        "Date": "2019-10-19 14:38:08.551898",
+        "Link": "http://www.semana.com/noticias/folklor-colombiano/113857",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 220": {
+        "Date": "2019-10-19 14:38:10.169319",
+        "Link": "http://www.semana.com/noticias/fondo-monetario-internacional/109442",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 221": {
+        "Date": "2019-10-19 14:38:12.055959",
+        "Link": "http://www.semana.com/noticias/fundacion-omacha/124569",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 222": {
+        "Date": "2019-10-19 14:38:13.768092",
+        "Link": "http://www.semana.com/noticias/futbol-argentino/102877",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 223": {
+        "Date": "2019-10-19 14:38:15.812500",
+        "Link": "http://www.semana.com/noticias/futbol-espanol/102978",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 224": {
+        "Date": "2019-10-19 14:38:17.882167",
+        "Link": "http://www.semana.com/noticias/german-vargas-lleras/102741",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 225": {
+        "Date": "2019-10-19 14:38:19.739579",
+        "Link": "http://www.semana.com/noticias/greta-thunberg-y-el-cambio-climatico/121951",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 226": {
+        "Date": "2019-10-19 14:38:21.646054",
+        "Link": "http://www.semana.com/noticias/gustavo-dudamel/113010",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 227": {
+        "Date": "2019-10-19 14:38:23.564655",
+        "Link": "http://www.semana.com/noticias/gustavo-petro/102607",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 228": {
+        "Date": "2019-10-19 14:38:25.416864",
+        "Link": "http://www.semana.com/noticias/hbo-max-series/120363",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 229": {
+        "Date": "2019-10-19 14:38:27.255175",
+        "Link": "http://www.semana.com/noticias/hbo/104485",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 230": {
+        "Date": "2019-10-19 14:38:29.086459",
+        "Link": "http://www.semana.com/noticias/hermano-de-kim-jong-un-era-espia/119420",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 231": {
+        "Date": "2019-10-19 14:38:30.931477",
+        "Link": "http://www.semana.com/noticias/hermanos-de-jorge-londono/124629",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 232": {
+        "Date": "2019-10-19 14:38:32.772127",
+        "Link": "http://www.semana.com/noticias/hollman-morris/103429",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 233": {
+        "Date": "2019-10-19 14:38:34.301612",
+        "Link": "http://www.semana.com/noticias/hollywood/103758",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 234": {
+        "Date": "2019-10-19 14:38:36.103673",
+        "Link": "http://www.semana.com/noticias/ibague/102578",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 235": {
+        "Date": "2019-10-19 14:38:37.883321",
+        "Link": "http://www.semana.com/noticias/iglesia-catolica-y-la-preservacion-de-la-amazonia/120979",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 236": {
+        "Date": "2019-10-19 14:38:39.796378",
+        "Link": "http://www.semana.com/noticias/iglesia-catolica/103781",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 237": {
+        "Date": "2019-10-19 14:38:41.750224",
+        "Link": "http://www.semana.com/noticias/impeachment-a-donald-trump/124004",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 238": {
+        "Date": "2019-10-19 14:38:43.709196",
+        "Link": "http://www.semana.com/noticias/impuestos/102916",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 239": {
+        "Date": "2019-10-19 14:38:45.601550",
+        "Link": "http://www.semana.com/noticias/indagatoria-de-alvaro-uribe-en-la-corte-suprema/122103",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 240": {
+        "Date": "2019-10-19 14:38:47.524274",
+        "Link": "http://www.semana.com/noticias/independencia-de-cataluna/114098",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 241": {
+        "Date": "2019-10-19 14:38:49.406750",
+        "Link": "http://www.semana.com/noticias/infidelidad/112542",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 242": {
+        "Date": "2019-10-19 14:38:51.303933",
+        "Link": "http://www.semana.com/noticias/iniciativas-artisticas-en-las-carceles/123571",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 243": {
+        "Date": "2019-10-19 14:38:53.065915",
+        "Link": "http://www.semana.com/noticias/inmigrantes-en-estados-unidos/112981",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 244": {
+        "Date": "2019-10-19 14:38:54.765721",
+        "Link": "http://www.semana.com/noticias/inmigrantes/104148",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 245": {
+        "Date": "2019-10-19 14:38:56.766128",
+        "Link": "http://www.semana.com/noticias/ivan-duque-presidente-de-colombia/121172",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 246": {
+        "Date": "2019-10-19 14:38:58.980424",
+        "Link": "http://www.semana.com/noticias/ivan-duque/105995",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 247": {
+        "Date": "2019-10-19 14:39:00.733405",
+        "Link": "http://www.semana.com/noticias/ivan-marquez/102902",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 248": {
+        "Date": "2019-10-19 14:39:02.327950",
+        "Link": "http://www.semana.com/noticias/jane-fonda-arrestada/124658",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 249": {
+        "Date": "2019-10-19 14:39:04.200413",
+        "Link": "http://www.semana.com/noticias/jet-set/103023",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 250": {
+        "Date": "2019-10-19 14:39:05.807815",
+        "Link": "http://www.semana.com/noticias/johana-bahamon/120672",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 251": {
+        "Date": "2019-10-19 14:39:07.542857",
+        "Link": "http://www.semana.com/noticias/jorge-londono/112755",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 252": {
+        "Date": "2019-10-19 14:39:09.467897",
+        "Link": "http://www.semana.com/noticias/juan-francisco-kiko-gomez/103464",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 253": {
+        "Date": "2019-10-19 14:39:11.306597",
+        "Link": "http://www.semana.com/noticias/juan-sebastian-cabal/112708",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 254": {
+        "Date": "2019-10-19 14:39:13.251307",
+        "Link": "http://www.semana.com/noticias/juanpis-gonzalez-personaje/124011",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 255": {
+        "Date": "2019-10-19 14:39:15.135923",
+        "Link": "http://www.semana.com/noticias/karl-marx/112671",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 256": {
+        "Date": "2019-10-19 14:39:16.887540",
+        "Link": "http://www.semana.com/noticias/kim-jong-un/103931",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 257": {
+        "Date": "2019-10-19 14:39:18.703936",
+        "Link": "http://www.semana.com/noticias/kim-yon-un/122994",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 258": {
+        "Date": "2019-10-19 14:39:20.545509",
+        "Link": "http://www.semana.com/noticias/kirchnerismo/121852",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 259": {
+        "Date": "2019-10-19 14:39:25.280251",
+        "Link": "http://www.semana.com/noticias/la-guajira/102571",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 260": {
+        "Date": "2019-10-19 14:39:27.089041",
+        "Link": "http://www.semana.com/noticias/la-habana/104095",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 261": {
+        "Date": "2019-10-19 14:39:28.925640",
+        "Link": "http://www.semana.com/noticias/lenin-moreno/124389",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 262": {
+        "Date": "2019-10-19 14:39:30.811039",
+        "Link": "http://www.semana.com/noticias/leonidas-bustos/113686",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 263": {
+        "Date": "2019-10-19 14:39:32.680446",
+        "Link": "http://www.semana.com/noticias/ley-de-financiamiento/115607",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 264": {
+        "Date": "2019-10-19 14:39:34.812608",
+        "Link": "http://www.semana.com/noticias/licitacion-del-metro-de-bogota/122449",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 265": {
+        "Date": "2019-10-19 14:39:37.022424",
+        "Link": "http://www.semana.com/noticias/lionel-messi/103483",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 266": {
+        "Date": "2019-10-19 14:39:38.816957",
+        "Link": "http://www.semana.com/noticias/lucha-contra-el-cancer/119356",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 267": {
+        "Date": "2019-10-19 14:39:40.746377",
+        "Link": "http://www.semana.com/noticias/luis-perez/105996",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 268": {
+        "Date": "2019-10-19 14:39:42.911206",
+        "Link": "http://www.semana.com/noticias/manuel-kalmanovitz/112949",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 269": {
+        "Date": "2019-10-19 14:39:44.482623",
+        "Link": "http://www.semana.com/noticias/mao-zedong/115648",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 270": {
+        "Date": "2019-10-19 14:39:46.426026",
+        "Link": "http://www.semana.com/noticias/mariano-rajoy/102765",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 271": {
+        "Date": "2019-10-19 14:39:48.571019",
+        "Link": "http://www.semana.com/noticias/mascotas/103752",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 272": {
+        "Date": "2019-10-19 14:39:50.243762",
+        "Link": "http://www.semana.com/noticias/mauricio-macri/104219",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 273": {
+        "Date": "2019-10-19 14:39:52.205821",
+        "Link": "http://www.semana.com/noticias/metro-de-bogota/103538",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 274": {
+        "Date": "2019-10-19 14:39:53.915013",
+        "Link": "http://www.semana.com/noticias/migrantes-venezolanos-en-putumayo/124632",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 275": {
+        "Date": "2019-10-19 14:39:55.989170",
+        "Link": "http://www.semana.com/noticias/ministerio-de-hacienda/102809",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 276": {
+        "Date": "2019-10-19 14:39:57.838835",
+        "Link": "http://www.semana.com/noticias/ministra-de-justicia-margarita-cabello-blanco/119298",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 277": {
+        "Date": "2019-10-19 14:39:59.800767",
+        "Link": "http://www.semana.com/noticias/monarquia-britanica/118504",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 278": {
+        "Date": "2019-10-19 14:40:01.717255",
+        "Link": "http://www.semana.com/noticias/monja-uribista-no-es-del-centro-democratico/124563",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 279": {
+        "Date": "2019-10-19 14:40:03.923563",
+        "Link": "http://www.semana.com/noticias/musa-besaile/113773",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 280": {
+        "Date": "2019-10-19 14:40:05.786555",
+        "Link": "http://www.semana.com/noticias/musica-clasica/112868",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 281": {
+        "Date": "2019-10-19 14:40:07.651148",
+        "Link": "http://www.semana.com/noticias/naciones-unidas/113921",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 282": {
+        "Date": "2019-10-19 14:40:09.450575",
+        "Link": "http://www.semana.com/noticias/nairo-quintana/102804",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 283": {
+        "Date": "2019-10-19 14:40:11.446752",
+        "Link": "http://www.semana.com/noticias/naomi-kawase/124606",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 284": {
+        "Date": "2019-10-19 14:40:13.279057",
+        "Link": "http://www.semana.com/noticias/narcotrafico-en-colombia/123343",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 285": {
+        "Date": "2019-10-19 14:40:15.071351",
+        "Link": "http://www.semana.com/noticias/nasa/103836",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 286": {
+        "Date": "2019-10-19 14:40:17.180968",
+        "Link": "http://www.semana.com/noticias/neymar/103484",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 287": {
+        "Date": "2019-10-19 14:40:19.163412",
+        "Link": "http://www.semana.com/noticias/noticias-salud-mental/118465",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 288": {
+        "Date": "2019-10-19 14:40:21.050210",
+        "Link": "http://www.semana.com/noticias/nuevo-misil-de-corea-del-norte/123184",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 289": {
+        "Date": "2019-10-19 14:40:23.357755",
+        "Link": "http://www.semana.com/noticias/objeciones-a-la-jep/116541",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 290": {
+        "Date": "2019-10-19 14:40:25.204108",
+        "Link": "http://www.semana.com/noticias/onu/102649",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 291": {
+        "Date": "2019-10-19 14:40:26.941959",
+        "Link": "http://www.semana.com/noticias/pablo-beltran/111488",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 292": {
+        "Date": "2019-10-19 14:40:28.921049",
+        "Link": "http://www.semana.com/noticias/pacifico-colombiano/123787",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 293": {
+        "Date": "2019-10-19 14:40:30.825678",
+        "Link": "http://www.semana.com/noticias/pago-de-impuestos/123618",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 294": {
+        "Date": "2019-10-19 14:40:32.881113",
+        "Link": "http://www.semana.com/noticias/panama/102834",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 295": {
+        "Date": "2019-10-19 14:40:34.693352",
+        "Link": "http://www.semana.com/noticias/papa-francisco-y-cambio-climatico/119468",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 296": {
+        "Date": "2019-10-19 14:40:36.533442",
+        "Link": "http://www.semana.com/noticias/papa-francisco-y-la-proteccion-de-la-amazonia/124258",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 297": {
+        "Date": "2019-10-19 14:40:38.432074",
+        "Link": "http://www.semana.com/noticias/papa-francisco/102799",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 298": {
+        "Date": "2019-10-19 14:40:40.332649",
+        "Link": "http://www.semana.com/noticias/paramilitarismo/102998",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 299": {
+        "Date": "2019-10-19 14:40:42.094366",
+        "Link": "http://www.semana.com/noticias/partido-conservador/102621",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 300": {
+        "Date": "2019-10-19 14:40:44.023671",
+        "Link": "http://www.semana.com/noticias/pedro-sanchez/114901",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 301": {
+        "Date": "2019-10-19 14:40:46.024446",
+        "Link": "http://www.semana.com/noticias/polo-democratico/102708",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 302": {
+        "Date": "2019-10-19 14:40:47.824094",
+        "Link": "http://www.semana.com/noticias/por-que-las-personas-ven-porno/121142",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 303": {
+        "Date": "2019-10-19 14:40:49.595779",
+        "Link": "http://www.semana.com/noticias/pornografia/104043",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 304": {
+        "Date": "2019-10-19 14:40:51.401995",
+        "Link": "http://www.semana.com/noticias/preguntas-sobre-la-sexualidad-femenina/121916",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 305": {
+        "Date": "2019-10-19 14:40:52.976694",
+        "Link": "http://www.semana.com/noticias/presidencia-de-la-republica/102924",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 306": {
+        "Date": "2019-10-19 14:40:54.796829",
+        "Link": "http://www.semana.com/noticias/principe-carlos-de-inglaterra/105903",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 307": {
+        "Date": "2019-10-19 14:40:56.765573",
+        "Link": "http://www.semana.com/noticias/proceso-de-paz-con-el-eln/105883",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 308": {
+        "Date": "2019-10-19 14:40:58.456161",
+        "Link": "http://www.semana.com/noticias/protestas-estudiantiles-en-colombia/124345",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 309": {
+        "Date": "2019-10-19 14:41:00.175722",
+        "Link": "http://www.semana.com/noticias/protestas-estudiantiles/123887",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 310": {
+        "Date": "2019-10-19 14:41:01.895272",
+        "Link": "http://www.semana.com/noticias/pruebas-de-la-dea-a-la-corte-suprema/118780",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 311": {
+        "Date": "2019-10-19 14:41:03.711877",
+        "Link": "http://www.semana.com/noticias/punk/114515",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 312": {
+        "Date": "2019-10-19 14:41:05.503394",
+        "Link": "http://www.semana.com/noticias/qantas-quiere-hacer-el-vuelo-mas-largo-del-mundo/122746",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 313": {
+        "Date": "2019-10-19 14:41:07.079025",
+        "Link": "http://www.semana.com/noticias/que-paso-en-ecuador/124220",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 314": {
+        "Date": "2019-10-19 14:41:08.941801",
+        "Link": "http://www.semana.com/noticias/quien-es-el-abogado-de-alvaro-uribe-velez/123071",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 315": {
+        "Date": "2019-10-19 14:41:11.080724",
+        "Link": "http://www.semana.com/noticias/quien-es-kristalina-georgieva/123860",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 316": {
+        "Date": "2019-10-19 14:41:13.024669",
+        "Link": "http://www.semana.com/noticias/quindio/103491",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 317": {
+        "Date": "2019-10-19 14:41:14.831191",
+        "Link": "http://www.semana.com/noticias/quorum-corte-suprema-de-justicia/124704",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 318": {
+        "Date": "2019-10-19 14:41:16.572149",
+        "Link": "http://www.semana.com/noticias/rama-judicial/103817",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 319": {
+        "Date": "2019-10-19 14:41:18.312610",
+        "Link": "http://www.semana.com/noticias/realeza-inglesa/122720",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 320": {
+        "Date": "2019-10-19 14:41:19.876095",
+        "Link": "http://www.semana.com/noticias/realeza/116280",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 321": {
+        "Date": "2019-10-19 14:41:22.067735",
+        "Link": "http://www.semana.com/noticias/redes-sociales/102615",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 322": {
+        "Date": "2019-10-19 14:41:23.843281",
+        "Link": "http://www.semana.com/noticias/reforma-tributaria/103299",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 323": {
+        "Date": "2019-10-19 14:41:25.709486",
+        "Link": "http://www.semana.com/noticias/relacion-del-eln-con-regimen-de-maduro/124036",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 324": {
+        "Date": "2019-10-19 14:41:27.527691",
+        "Link": "http://www.semana.com/noticias/relaciones-entre-colombia-y-cuba/123758",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 325": {
+        "Date": "2019-10-19 14:41:29.310372",
+        "Link": "http://www.semana.com/noticias/relaciones-sexuales/119749",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 326": {
+        "Date": "2019-10-19 14:41:31.073882",
+        "Link": "http://www.semana.com/noticias/resena-cine/121132",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 327": {
+        "Date": "2019-10-19 14:41:32.951681",
+        "Link": "http://www.semana.com/noticias/resena-de-libros/124150",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 328": {
+        "Date": "2019-10-19 14:41:35.353882",
+        "Link": "http://www.semana.com/noticias/resena-de-manuel-kalmanovitz/123075",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 329": {
+        "Date": "2019-10-19 14:41:37.229699",
+        "Link": "http://www.semana.com/noticias/resena-de-peliculas/123317",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 330": {
+        "Date": "2019-10-19 14:41:39.169613",
+        "Link": "http://www.semana.com/noticias/revocar-decisiones-de-la-corte-constitucional-con-referendos/124012",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 331": {
+        "Date": "2019-10-19 14:41:41.585041",
+        "Link": "http://www.semana.com/noticias/robert-farah/114533",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 332": {
+        "Date": "2019-10-19 14:41:43.392095",
+        "Link": "http://www.semana.com/noticias/salario-para-jovenes-trabajadores/124355",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 333": {
+        "Date": "2019-10-19 14:41:45.130666",
+        "Link": "http://www.semana.com/noticias/sanciones-por-evasion-de-impuestos/120191",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 334": {
+        "Date": "2019-10-19 14:41:46.681410",
+        "Link": "http://www.semana.com/noticias/santiago-giraldo/106156",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 335": {
+        "Date": "2019-10-19 14:41:48.596924",
+        "Link": "http://www.semana.com/noticias/se-cae-ley-de-financiamiento/124592",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 336": {
+        "Date": "2019-10-19 14:41:50.442220",
+        "Link": "http://www.semana.com/noticias/sebastian-pinera-presidente-de-chile/122542",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 337": {
+        "Date": "2019-10-19 14:41:51.949245",
+        "Link": "http://www.semana.com/noticias/seleccion-de-futbol-de-colombia/114905",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 338": {
+        "Date": "2019-10-19 14:41:53.608656",
+        "Link": "http://www.semana.com/noticias/semana-sostenible-en-vivo/115258",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 339": {
+        "Date": "2019-10-19 14:41:55.522555",
+        "Link": "http://www.semana.com/noticias/senado/106047",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 340": {
+        "Date": "2019-10-19 14:41:57.283855",
+        "Link": "http://www.semana.com/noticias/senador-alvaro-uribe-velez/122108",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 341": {
+        "Date": "2019-10-19 14:41:59.059356",
+        "Link": "http://www.semana.com/noticias/sergio-trujillo-broadway/124654",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 342": {
+        "Date": "2019-10-19 14:42:00.804834",
+        "Link": "http://www.semana.com/noticias/sergio-trujillo-gana-un-premio-tony/119222",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 343": {
+        "Date": "2019-10-19 14:42:02.642115",
+        "Link": "http://www.semana.com/noticias/sexo/103162",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 344": {
+        "Date": "2019-10-19 14:42:04.507230",
+        "Link": "http://www.semana.com/noticias/sincelejo/103866",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 345": {
+        "Date": "2019-10-19 14:42:06.325209",
+        "Link": "http://www.semana.com/noticias/sucre/103485",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 346": {
+        "Date": "2019-10-19 14:42:07.821853",
+        "Link": "http://www.semana.com/noticias/teatro-musical/124643",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 347": {
+        "Date": "2019-10-19 14:42:09.462363",
+        "Link": "http://www.semana.com/noticias/teatro/103601",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 348": {
+        "Date": "2019-10-19 14:42:11.303113",
+        "Link": "http://www.semana.com/noticias/tolima/102534",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 349": {
+        "Date": "2019-10-19 14:42:12.989474",
+        "Link": "http://www.semana.com/noticias/transporte-en-bogota/124363",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 350": {
+        "Date": "2019-10-19 14:42:14.770299",
+        "Link": "http://www.semana.com/noticias/ultraderecha/113187",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 351": {
+        "Date": "2019-10-19 14:42:16.790488",
+        "Link": "http://www.semana.com/noticias/universidad-sergio-arboleda/114942",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 352": {
+        "Date": "2019-10-19 14:42:18.515545",
+        "Link": "http://www.semana.com/noticias/uribe-no-puede-salir-del-pais/124554",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 353": {
+        "Date": "2019-10-19 14:42:20.366685",
+        "Link": "http://www.semana.com/noticias/viajes/104042",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 354": {
+        "Date": "2019-10-19 14:42:22.091144",
+        "Link": "http://www.semana.com/noticias/vicente-blel-scaff/121649",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 355": {
+        "Date": "2019-10-19 14:42:23.784793",
+        "Link": "http://www.semana.com/noticias/violencia-politica/119942",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 356": {
+        "Date": "2019-10-19 14:42:25.572833",
+        "Link": "http://www.semana.com/noticias/vox-partido-politico-espanol/124649",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 357": {
+        "Date": "2019-10-19 14:42:27.297165",
+        "Link": "http://www.semana.com/noticias/xian-metro-company-limited/124661",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 358": {
+        "Date": "2019-10-19 14:42:29.036080",
+        "Link": "http://www.semana.com/noticias/yahir-acuna/103034",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 359": {
+        "Date": "2019-10-19 14:42:30.586068",
+        "Link": "http://www.semana.com/on-line/multimedia/entrevista-con-carlos-holmes-trujillo-sobre-las-relaciones-entre-cuba-y-colombi/636776",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 360": {
+        "Date": "2019-10-19 14:42:31.975350",
+        "Link": "http://www.semana.com/opinion/articulo/asi-sera-la-seccion-hace-25-anos-en-25-anos-una-columna-de-daniel-samper-ospina/636630",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 361": {
+        "Date": "2019-10-19 14:42:33.563019",
+        "Link": "http://www.semana.com/opinion/articulo/el-holograma-por-vicky-davila/636789",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 362": {
+        "Date": "2019-10-19 14:42:35.141384",
+        "Link": "http://www.semana.com/opinion/articulo/le-creo-a-claudia-lopez-por-maria-jimena-duzan/636738",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 363": {
+        "Date": "2019-10-19 14:42:36.737440",
+        "Link": "http://www.semana.com/opinion/articulo/terminator-una-columna-de-antonio-caballero/636641",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 364": {
+        "Date": "2019-10-19 14:42:38.612849",
+        "Link": "http://www.semana.com/opinion/articulo/trinos-vicepresidenciales-por-alfonso-cuellar/636734",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 365": {
+        "Date": "2019-10-19 14:42:54.370454",
+        "Link": "http://www.semana.com/podcast",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 366": {
+        "Date": "2019-10-19 14:42:55.905625",
+        "Link": "http://www.semana.com/podcast/maximo-desempeno/articulo/como-enfrentar-los-golpes-de-la-vida-con-la-fuerza-de-la-autenticidad/636663",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 367": {
+        "Date": "2019-10-19 14:42:57.505617",
+        "Link": "http://www.semana.com/seccion/cultura/6-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 368": {
+        "Date": "2019-10-19 14:42:59.028432",
+        "Link": "http://www.semana.com/seccion/deportes/20-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 369": {
+        "Date": "2019-10-19 14:43:00.578768",
+        "Link": "http://www.semana.com/seccion/economia/4-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 370": {
+        "Date": "2019-10-19 14:43:02.095281",
+        "Link": "http://www.semana.com/seccion/edicion-impresa/60",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 371": {
+        "Date": "2019-10-19 14:43:03.657927",
+        "Link": "http://www.semana.com/seccion/educacion/64-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 372": {
+        "Date": "2019-10-19 14:43:05.648918",
+        "Link": "http://www.semana.com/seccion/gente/8-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 373": {
+        "Date": "2019-10-19 14:43:07.450400",
+        "Link": "http://www.semana.com/seccion/mundo/5-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 374": {
+        "Date": "2019-10-19 14:43:09.031622",
+        "Link": "http://www.semana.com/seccion/nacion/3-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 375": {
+        "Date": "2019-10-19 14:43:10.478314",
+        "Link": "http://www.semana.com/seccion/opinion-online/81-1",
+        "Status": {
+            "Code": "503",
+            "Meaning": "Service Unavailable: The server is currently unavailable (overloaded or down)",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 376": {
+        "Date": "2019-10-19 14:43:12.187193",
+        "Link": "http://www.semana.com/seccion/tecnologia/252-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 377": {
+        "Date": "2019-10-19 14:43:13.733918",
+        "Link": "http://www.semana.com/seccion/vida-moderna/7-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 378": {
+        "Date": "2019-10-19 14:43:15.154280",
+        "Link": "http://www.semana.com/sociedad/galeria/en-imagenes-moda-en-la-capital/636771",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 379": {
+        "Date": "2019-10-19 14:43:16.702250",
+        "Link": "http://www.semana.com/sociedad/galeria/por-una-buena-causa/634780",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 380": {
+        "Date": "2019-10-19 14:43:18.368956",
+        "Link": "http://www.semana.com/sociedad/galeria/un-clasico-en-el-colon/635900",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 381": {
+        "Date": "2019-10-19 14:43:27.923213",
+        "Link": "http://www.semana.com/tendencias",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 382": {
+        "Date": "2019-10-19 14:43:29.436144",
+        "Link": "http://www.semana.com/vida-moderna/articulo/19-horas-sin-escalas-el-vuelo-mas-largo-del-mundo-se-probara-este-fin-de-semana/636490",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 383": {
+        "Date": "2019-10-19 14:43:39.727729",
+        "Link": "http://www.semana.com/vida-moderna/articulo/cartas-que-cambiaron-la-historia/595024",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 384": {
+        "Date": "2019-10-19 14:43:41.236613",
+        "Link": "http://www.semana.com/vida-moderna/articulo/la-excitacion-sexual-de-las-mujeres-con-el-porno-es-igual-a-la-de-los-hombres-segun-estudio/636467",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 385": {
+        "Date": "2019-10-19 14:43:43.205179",
+        "Link": "http://www.semana.com/vida-moderna/articulo/por-primera-vez-mujeres-realizaron-una-caminata-espacial/636472",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 386": {
+        "Date": "2019-10-19 14:43:44.789382",
+        "Link": "http://www.semana.com/vida-moderna/articulo/robert-farah-juan-sebastian-cabal-y-santiago-giraldo-los-heroes-de-ninos-con-cancer/636469",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 387": {
+        "Date": "2019-10-19 14:43:46.216856",
+        "Link": "http://www.semana.com/vida-moderna/multimedia/christian-byfield-para-viajar-no-se-necesita-mucha-plata/636644",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 388": {
+        "Date": "2019-10-19 14:43:47.624676",
+        "Link": "http://www.semana.com/vida-moderna/multimedia/en-video-asi-fue-la-historica-caminata-espacial-hecha-solo-por-mujeres/636538",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 389": {
+        "Date": "2019-10-19 14:43:49.122798",
+        "Link": "http://www.semana.com/vida-moderna/multimedia/juanpis-gonzalez-es-todo-lo-que-no-debemos-ser-como-seres-humanos-alejandro-riano/636527",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 390": {
+        "Date": "2019-10-19 14:43:51.191218",
+        "Link": "http://www.semana.com/videos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 391": {
+        "Date": "2019-10-19 14:43:55.413347",
+        "Link": "https://apple.co/2t8RTGk",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 392": {
+        "Date": "2019-10-19 14:43:57.563479",
+        "Link": "https://bit.ly/2DeqMyj",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 393": {
+        "Date": "2019-10-19 14:43:58.521106",
+        "Link": "https://especiales.semana.com/celebracion-revolucion-lgbti/index.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 394": {
+        "Date": "2019-10-19 14:43:59.459431",
+        "Link": "https://especiales.semana.com/colombianos-tour-de-francia-2019/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 395": {
+        "Date": "2019-10-19 14:44:00.402839",
+        "Link": "https://especiales.semana.com/crimenes-en-contra-de-las-farc/137-asesinatos-y-contando.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 396": {
+        "Date": "2019-10-19 14:44:01.303169",
+        "Link": "https://especiales.semana.com/elecciones-regionales-colombia-2019/index.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 397": {
+        "Date": "2019-10-19 14:44:02.408111",
+        "Link": "https://especiales.semana.com/tribus-indigenas-de-colombia-aisladas-en-el-amazonas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 398": {
+        "Date": "2019-10-19 14:44:03.758424",
+        "Link": "https://forossemana.com/evento/id/41549/la_verdad_para_la_no_repeticion_dialogo_desde_un_enfoque_etnico",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 399": {
+        "Date": "2019-10-19 14:44:04.715846",
+        "Link": "https://forossemana.com/evento/id/41660/calidad_de_agua_y_saneamiento_basico_una_necesidad_de_pais",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 400": {
+        "Date": "2019-10-19 14:44:06.198441",
+        "Link": "https://plus.google.com/+revistasemana",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 401": {
+        "Date": "2019-10-19 14:44:07.258233",
+        "Link": "https://poll.fm/10437373",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 402": {
+        "Date": "2019-10-19 14:44:08.567570",
+        "Link": "https://semanarural.com/web/articulo/conozca-los-caminos-turisticos-de-memoria-que-ofrece-san-carlos-antioquia/1160",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 403": {
+        "Date": "2019-10-19 14:44:10.826511",
+        "Link": "https://semanarural.com/web/articulo/organizaciones-indigenas-declaran-alerta-humanitaria-por-los-sionas-del-putumayo/1167",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 404": {
+        "Date": "2019-10-19 14:44:12.915394",
+        "Link": "https://semanarural.com/web/articulo/semana-rural-realiza-la-primera-gran-cumbre-colombia-rural-innovacion-seguridad-y-desarrollo/1104",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 405": {
+        "Date": "2019-10-19 14:44:14.533437",
+        "Link": "https://sostenibilidad.semana.com/impacto/articulo/satelitalmente-ahora-pueden-seguir-a-los-delfines-rosados-del-amazonas/47094",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 406": {
+        "Date": "2019-10-19 14:44:16.333738",
+        "Link": "https://spoti.fi/2MS8ibb",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 407": {
+        "Date": "2019-10-19 14:44:17.570129",
+        "Link": "https://store.semana.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 408": {
+        "Date": "2019-10-19 14:44:20.812257",
+        "Link": "https://store.semana.com/habeas-data.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 409": {
+        "Date": "2019-10-19 14:44:23.786235",
+        "Link": "https://store.semana.com/terminos-y-condiciones.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 410": {
+        "Date": "2019-10-19 14:44:24.950739",
+        "Link": "https://twitter.com/RevistaSemana",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 411": {
+        "Date": "2019-10-19 14:44:26.106876",
+        "Link": "https://www.dinero.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 412": {
+        "Date": "2019-10-19 14:44:27.455007",
+        "Link": "https://www.dinero.com/inversionistas/articulo/la-multimillonaria-que-vendio-hot-dogs-y-ahora-asesora-a-los-ricos/276008",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 413": {
+        "Date": "2019-10-19 14:44:28.829419",
+        "Link": "https://www.facebook.com/RevistaSemana",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 414": {
+        "Date": "2019-10-19 14:44:29.776585",
+        "Link": "https://www.forossemana.com/evento/id/41687/foro_en_vivo_\u2018elecciones_2019_como_se_prepara_colombia_para_el_dia_electoral\u2019",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 415": {
+        "Date": "2019-10-19 14:44:30.728813",
+        "Link": "https://www.forossemana.com/evento/id/41695/educacion_ambiental_como_herramienta_de_desarrollo_sostenible",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 416": {
+        "Date": "2019-10-19 14:44:32.333786",
+        "Link": "https://www.revistaarcadia.com/agenda/articulo/el-teatro-mayor-julio-mario-santo-domingo-revela-su-programacion-para-2020/78499",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 417": {
+        "Date": "2019-10-19 14:44:33.494417",
+        "Link": "https://www.revistaarcadia.com/agenda/articulo/fallece-alicia-alonso-la-leyenda-cubana-de-la-danza-a-los-98-anos/78497",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 418": {
+        "Date": "2019-10-19 14:44:34.536541",
+        "Link": "https://www.revistaarcadia.com/cine/articulo/studio-ghibli-ofrecera-21-de-sus-peliculas-en-el-streaming-hbo-max/78492",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 419": {
+        "Date": "2019-10-19 14:44:35.768675",
+        "Link": "https://www.revistaarcadia.com/musica/articulo/jay-bentley-de-bad-religion-hablamos-de-la-humanidad-su-comportamiento-y-creencias/78512",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 420": {
+        "Date": "2019-10-19 14:44:36.731711",
+        "Link": "https://www.semana.com/contactenos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 421": {
+        "Date": "2019-10-19 14:44:38.091558",
+        "Link": "https://www.semana.com/noticias/ciencia-innovacion-y-tecnologia/104214",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 422": {
+        "Date": "2019-10-19 14:44:39.505265",
+        "Link": "https://www.semana.com/on-line/articulo/excombatientes-de-farc-eln-auc-y-egp-participan-de-las-elecciones-regionales-2019/636783",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 423": {
+        "Date": "2019-10-19 14:44:40.883562",
+        "Link": "https://www.semana.com/seccion/confidenciales/89",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 424": {
+        "Date": "2019-10-19 14:44:42.602548",
+        "Link": "https://www.semana.com/seccion/contenidos-editoriales/barranquilla-orgullo-a-flor-de-piel/546",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 425": {
+        "Date": "2019-10-19 14:44:44.344491",
+        "Link": "https://www.semana.com/seccion/contenidos-editoriales/mercado-de-capitales-claves-para-el-pais/541",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 426": {
+        "Date": "2019-10-19 14:44:46.000807",
+        "Link": "https://www.semana.com/seccion/contenidos-editoriales/meta-aqui-estamos/545",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 427": {
+        "Date": "2019-10-19 14:44:48.058351",
+        "Link": "https://www.semana.com/seccion/contenidos-editoriales/universidades-bien-pensadas/544",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 428": {
+        "Date": "2019-10-19 14:44:50.174420",
+        "Link": "https://www.semana.com/seccion/contenidos-editoriales/valle-del-cauca-la-tierra-sabe/542",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 429": {
+        "Date": "2019-10-19 14:44:51.285221",
+        "Link": "https://www.semana.com/seccion/opinion-online/81-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 430": {
+        "Date": "2019-10-19 14:44:52.608370",
+        "Link": "https://www.semana.com/seccion/sociedad/17-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 431": {
+        "Date": "2019-10-19 14:44:55.751164",
+        "Link": "https://www.verdadabierta.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 432": {
+        "Date": "2019-10-19 14:44:57.584578",
+        "Link": "https://www.youtube.com/RevistaSemana",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    }
+}

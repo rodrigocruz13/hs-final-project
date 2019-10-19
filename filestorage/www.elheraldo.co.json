@@ -1,0 +1,2126 @@
+{
+    "Check 000": {
+        "Date": "2019-10-19 14:52:53.327557",
+        "Link": "http://clasificados.elheraldo.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 001": {
+        "Date": "2019-10-19 14:52:53.863319",
+        "Link": "http://elheraldo.pressreader.com/el-heraldo-colombia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 002": {
+        "Date": "2019-10-19 14:52:55.757410",
+        "Link": "http://goo.gl/mr3SYY",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 003": {
+        "Date": "2019-10-19 14:52:56.920329",
+        "Link": "http://revistas.elheraldo.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 004": {
+        "Date": "2019-10-19 14:52:58.078427",
+        "Link": "http://revistas.elheraldo.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 005": {
+        "Date": "2019-10-19 14:52:59.238055",
+        "Link": "http://revistas.elheraldo.co/gente-caribe",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 006": {
+        "Date": "2019-10-19 14:53:00.401422",
+        "Link": "http://revistas.elheraldo.co/gente-caribe/que-ha-pasado-con/los-16-anos-me-di-cuenta-que-lo-mio-era-entretener-en-un-escenario",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 007": {
+        "Date": "2019-10-19 14:53:01.443371",
+        "Link": "http://revistas.elheraldo.co/latitud",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 008": {
+        "Date": "2019-10-19 14:53:02.598899",
+        "Link": "http://revistas.elheraldo.co/miercoles",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 009": {
+        "Date": "2019-10-19 14:53:03.867566",
+        "Link": "http://revistas.elheraldo.co/miercoles/relaciones/signos-de-alerta-que-indican-dependencia-emocional-154067",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 010": {
+        "Date": "2019-10-19 14:53:05.018123",
+        "Link": "http://revistas.elheraldo.co/si",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 011": {
+        "Date": "2019-10-19 14:53:06.182255",
+        "Link": "http://revistas.elheraldo.co/si/musica/la-banda-inner-circle-mantiene-vigente-el-reggae-154092",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 012": {
+        "Date": "2019-10-19 14:53:06.664119",
+        "Link": "http://stage.elheraldo.co/politicas-cookies-487110",
+        "Status": {
+            "Code": "401",
+            "Meaning": "Unauthorized: The request was a legal request, but the server is refusing to respond to it. For use when authentication is possible but has failed or not yet been provided",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 013": {
+        "Date": "2019-10-19 14:53:08.061420",
+        "Link": "http://suscripciones.elheraldo.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 014": {
+        "Date": "2019-10-19 14:53:09.454500",
+        "Link": "http://suscripciones.elheraldo.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 015": {
+        "Date": "2019-10-19 14:53:10.743118",
+        "Link": "http://www.elheraldo.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 016": {
+        "Date": "2019-10-19 14:53:12.629916",
+        "Link": "http://www.elheraldo.co/actividad-social",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 017": {
+        "Date": "2019-10-19 14:53:13.789460",
+        "Link": "http://www.elheraldo.co/atlantico",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 018": {
+        "Date": "2019-10-19 14:53:14.973405",
+        "Link": "http://www.elheraldo.co/atlantico/designan-alcaldesa-ad-hoc-en-soledad-para-las-elecciones-de-este-27-de-octubre-673790",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 019": {
+        "Date": "2019-10-19 14:53:16.147128",
+        "Link": "http://www.elheraldo.co/barranquilla/2430-agentes-de-la-policia-vigilaran-las-elecciones-en-atlantico-673689",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 020": {
+        "Date": "2019-10-19 14:53:17.336709",
+        "Link": "http://www.elheraldo.co/barranquilla/con-13-buses-gas-empieza-operar-ruta-de-barranquilla-soledad-673731",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 021": {
+        "Date": "2019-10-19 14:53:19.369068",
+        "Link": "http://www.elheraldo.co/barranquilla/en-ciudad-paraiso-piden-fumigacion-por-posibles-casos-de-dengue-673893",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 022": {
+        "Date": "2019-10-19 14:53:20.550770",
+        "Link": "http://www.elheraldo.co/barranquilla/en-santo-domingo-denuncian-piscina-de-agua-verde-y-basura-por-atraso-en-obras-673897",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 023": {
+        "Date": "2019-10-19 14:53:22.755237",
+        "Link": "http://www.elheraldo.co/barranquilla/ingenieros-sugieren-rejillas-en-box-culvert-para-paso-de-cangrejos-673668",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 024": {
+        "Date": "2019-10-19 14:53:24.384931",
+        "Link": "http://www.elheraldo.co/barranquilla/mascotas-wasapea-estas-mascotas-buscan-sus-duenos-673898",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 025": {
+        "Date": "2019-10-19 14:53:26.310967",
+        "Link": "http://www.elheraldo.co/barranquilla/planton-en-sede-centro-de-ua-termino-en-choques-con-esmad-673890",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 026": {
+        "Date": "2019-10-19 14:53:27.499357",
+        "Link": "http://www.elheraldo.co/barranquilla/procuraduria-afirma-que-no-negocia-acuerdos-con-inassa-sobre-caso-triple-634968",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 027": {
+        "Date": "2019-10-19 14:53:29.195645",
+        "Link": "http://www.elheraldo.co/barranquilla/puerto-mocho-sera-una-de-las-primeras-victorias-de-la-alcaldia-jaime-pumarejo-673953",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 028": {
+        "Date": "2019-10-19 14:53:30.889071",
+        "Link": "http://www.elheraldo.co/barranquilla/senador-denuncia-que-candidata-reparte-supuestas-escrituras-673888",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 029": {
+        "Date": "2019-10-19 14:53:32.191326",
+        "Link": "http://www.elheraldo.co/barranquilla/solo-425-de-3576-candidatos-han-presentado-cuentas-673762",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 030": {
+        "Date": "2019-10-19 14:53:34.096739",
+        "Link": "http://www.elheraldo.co/barranquilla/triple-distrito-y-accionistas-minoritarios-victimas-en-caso-navarro-tribunal-superior",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 031": {
+        "Date": "2019-10-19 14:53:35.263671",
+        "Link": "http://www.elheraldo.co/bolivar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 032": {
+        "Date": "2019-10-19 14:53:36.965557",
+        "Link": "http://www.elheraldo.co/caricaturas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 033": {
+        "Date": "2019-10-19 14:53:38.121336",
+        "Link": "http://www.elheraldo.co/caricaturas/el-mundo-de-turcios-673321",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 034": {
+        "Date": "2019-10-19 14:53:39.304130",
+        "Link": "http://www.elheraldo.co/caricaturas/el-mundo-de-turcios-673617",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 035": {
+        "Date": "2019-10-19 14:53:40.762149",
+        "Link": "http://www.elheraldo.co/caricaturas/el-mundo-de-turcios-673871",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 036": {
+        "Date": "2019-10-19 14:53:42.146540",
+        "Link": "http://www.elheraldo.co/cartas-de-los-lectores",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 037": {
+        "Date": "2019-10-19 14:53:43.708027",
+        "Link": "http://www.elheraldo.co/cesar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 038": {
+        "Date": "2019-10-19 14:53:45.000689",
+        "Link": "http://www.elheraldo.co/cesar/camcomercio-de-valledupar-impulsa-cluster-en-el-cesar-671592",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 039": {
+        "Date": "2019-10-19 14:53:46.204651",
+        "Link": "http://www.elheraldo.co/cesar/excombatientes-de-tierra-grata-presentan-su-primera-coleccion-de-ropa-de-senderismo-673956",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 040": {
+        "Date": "2019-10-19 14:53:47.844865",
+        "Link": "http://www.elheraldo.co/cesar/las-casas-taller-que-forman-mas-de-7400-mujeres-emprendedoras-671591",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 041": {
+        "Date": "2019-10-19 14:53:49.001734",
+        "Link": "http://www.elheraldo.co/ciencias",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 042": {
+        "Date": "2019-10-19 14:53:50.719845",
+        "Link": "http://www.elheraldo.co/cine",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 043": {
+        "Date": "2019-10-19 14:53:52.288549",
+        "Link": "http://www.elheraldo.co/clasificados.elheraldo.co/",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 044": {
+        "Date": "2019-10-19 14:53:53.458715",
+        "Link": "http://www.elheraldo.co/colombia/david-char-dice-la-jep-que-dio-50-millones-los-paras-673766",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 045": {
+        "Date": "2019-10-19 14:53:55.367972",
+        "Link": "http://www.elheraldo.co/colombia/en-video-espana-y-colombia-ahora-en-la-misma-linea-frente-al-galeon-san-jose",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 046": {
+        "Date": "2019-10-19 14:53:57.231490",
+        "Link": "http://www.elheraldo.co/colombia/los-gastos-que-david-char-dice-que-no-reporto-al-cne-para-sus-campanas-camara-y-senado",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 047": {
+        "Date": "2019-10-19 14:53:58.876072",
+        "Link": "http://www.elheraldo.co/columnas-de-opinion",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 048": {
+        "Date": "2019-10-19 14:54:00.322005",
+        "Link": "http://www.elheraldo.co/columnas-de-opinion/enrique-davila/papel-titulos-por-no-deja-673869",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 049": {
+        "Date": "2019-10-19 14:54:01.779975",
+        "Link": "http://www.elheraldo.co/columnas-de-opinion/erika-fontalvo/metro-para-todos-673861",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 050": {
+        "Date": "2019-10-19 14:54:03.248347",
+        "Link": "http://www.elheraldo.co/columnas-de-opinion/indalecio-dangond/perturbado-pais-673864",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 051": {
+        "Date": "2019-10-19 14:54:04.697701",
+        "Link": "http://www.elheraldo.co/columnas-de-opinion/ivan-cancino-g/el-alcance-de-las-palabras-673858",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 052": {
+        "Date": "2019-10-19 14:54:06.164856",
+        "Link": "http://www.elheraldo.co/columnas-de-opinion/marcela-garcia-caballero/el-deber-de-luchar-673863",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 053": {
+        "Date": "2019-10-19 14:54:07.658179",
+        "Link": "http://www.elheraldo.co/columnas-de-opinion/maria-fernanda-matus/juventud-sin-esperanza-673856",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 054": {
+        "Date": "2019-10-19 14:54:09.215788",
+        "Link": "http://www.elheraldo.co/columnista/alberto-martinez",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 055": {
+        "Date": "2019-10-19 14:54:10.760061",
+        "Link": "http://www.elheraldo.co/columnista/alfredo-ramirez-nardiz",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 056": {
+        "Date": "2019-10-19 14:54:11.929629",
+        "Link": "http://www.elheraldo.co/columnista/alfredo-sabbagh",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 057": {
+        "Date": "2019-10-19 14:54:13.541892",
+        "Link": "http://www.elheraldo.co/columnista/alonso-sanchez-baute",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 058": {
+        "Date": "2019-10-19 14:54:15.152945",
+        "Link": "http://www.elheraldo.co/columnista/alvaro-de-la-espriella",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 059": {
+        "Date": "2019-10-19 14:54:16.675591",
+        "Link": "http://www.elheraldo.co/columnista/alvaro-villanueva",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 060": {
+        "Date": "2019-10-19 14:54:18.234461",
+        "Link": "http://www.elheraldo.co/columnista/amylkar-d-acosta-m",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 061": {
+        "Date": "2019-10-19 14:54:19.829702",
+        "Link": "http://www.elheraldo.co/columnista/andres-quintero-olmos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 062": {
+        "Date": "2019-10-19 14:54:21.086677",
+        "Link": "http://www.elheraldo.co/columnista/antonio-celia-c",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 063": {
+        "Date": "2019-10-19 14:54:22.703358",
+        "Link": "http://www.elheraldo.co/columnista/bertha-c-ramos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 064": {
+        "Date": "2019-10-19 14:54:24.337547",
+        "Link": "http://www.elheraldo.co/columnista/carlos-rosado",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 065": {
+        "Date": "2019-10-19 14:54:25.883723",
+        "Link": "http://www.elheraldo.co/columnista/carolina-pineros-ospina",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 066": {
+        "Date": "2019-10-19 14:54:27.417773",
+        "Link": "http://www.elheraldo.co/columnista/cecilia-lopez-montano",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 067": {
+        "Date": "2019-10-19 14:54:29.047713",
+        "Link": "http://www.elheraldo.co/columnista/cesar-lorduy",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 068": {
+        "Date": "2019-10-19 14:54:30.567155",
+        "Link": "http://www.elheraldo.co/columnista/claudia-ayola",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 069": {
+        "Date": "2019-10-19 14:54:32.095072",
+        "Link": "http://www.elheraldo.co/columnista/daniela-cepeda-tarud",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 070": {
+        "Date": "2019-10-19 14:54:33.727807",
+        "Link": "http://www.elheraldo.co/columnista/edgar-renteria",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 071": {
+        "Date": "2019-10-19 14:54:35.997364",
+        "Link": "http://www.elheraldo.co/columnista/el-palique-de-la-plaza",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 072": {
+        "Date": "2019-10-19 14:54:37.559836",
+        "Link": "http://www.elheraldo.co/columnista/emilia-saez-de-ibarra",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 073": {
+        "Date": "2019-10-19 14:54:39.094610",
+        "Link": "http://www.elheraldo.co/columnista/emilio-sardi",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 074": {
+        "Date": "2019-10-19 14:54:40.668630",
+        "Link": "http://www.elheraldo.co/columnista/enrique-davila",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 075": {
+        "Date": "2019-10-19 14:54:42.212940",
+        "Link": "http://www.elheraldo.co/columnista/erika-fontalvo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 076": {
+        "Date": "2019-10-19 14:54:43.434889",
+        "Link": "http://www.elheraldo.co/columnista/francisco-cuello-duarte",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 077": {
+        "Date": "2019-10-19 14:54:45.009883",
+        "Link": "http://www.elheraldo.co/columnista/francisco-miranda",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 078": {
+        "Date": "2019-10-19 14:54:46.554019",
+        "Link": "http://www.elheraldo.co/columnista/haroldo-martinez",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 079": {
+        "Date": "2019-10-19 14:54:48.097783",
+        "Link": "http://www.elheraldo.co/columnista/heriberto-fiorillo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 080": {
+        "Date": "2019-10-19 14:54:49.634283",
+        "Link": "http://www.elheraldo.co/columnista/hernando-baquero-latorre",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 081": {
+        "Date": "2019-10-19 14:54:50.817032",
+        "Link": "http://www.elheraldo.co/columnista/horacio-brieva",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 082": {
+        "Date": "2019-10-19 14:54:52.364145",
+        "Link": "http://www.elheraldo.co/columnista/humberto-mendieta",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 083": {
+        "Date": "2019-10-19 14:54:53.901588",
+        "Link": "http://www.elheraldo.co/columnista/indalecio-dangond",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 084": {
+        "Date": "2019-10-19 14:54:55.493850",
+        "Link": "http://www.elheraldo.co/columnista/ivan-cancino-g",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 085": {
+        "Date": "2019-10-19 14:54:57.036217",
+        "Link": "http://www.elheraldo.co/columnista/jaime-romero-sampayo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 086": {
+        "Date": "2019-10-19 14:54:58.596217",
+        "Link": "http://www.elheraldo.co/columnista/jairo-parada",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 087": {
+        "Date": "2019-10-19 14:55:00.128267",
+        "Link": "http://www.elheraldo.co/columnista/javier-dario-restrepo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 088": {
+        "Date": "2019-10-19 14:55:01.787256",
+        "Link": "http://www.elheraldo.co/columnista/javier-ortiz-cassiani",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 089": {
+        "Date": "2019-10-19 14:55:03.417570",
+        "Link": "http://www.elheraldo.co/columnista/jorge-munoz-cepeda",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 090": {
+        "Date": "2019-10-19 14:55:04.991349",
+        "Link": "http://www.elheraldo.co/columnista/jose-amar-amar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 091": {
+        "Date": "2019-10-19 14:55:06.525032",
+        "Link": "http://www.elheraldo.co/columnista/jose-consuegra",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 092": {
+        "Date": "2019-10-19 14:55:08.072272",
+        "Link": "http://www.elheraldo.co/columnista/jose-felix-lafaurie",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 093": {
+        "Date": "2019-10-19 14:55:09.622381",
+        "Link": "http://www.elheraldo.co/columnista/juan-felipe-celia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 094": {
+        "Date": "2019-10-19 14:55:11.227306",
+        "Link": "http://www.elheraldo.co/columnista/lola-salcedo-c",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 095": {
+        "Date": "2019-10-19 14:55:12.762219",
+        "Link": "http://www.elheraldo.co/columnista/manuel-moreno-slagter",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 096": {
+        "Date": "2019-10-19 14:55:14.334429",
+        "Link": "http://www.elheraldo.co/columnista/marcela-garcia-caballero",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 097": {
+        "Date": "2019-10-19 14:55:15.884645",
+        "Link": "http://www.elheraldo.co/columnista/marco-sermoneta-0",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 098": {
+        "Date": "2019-10-19 14:55:17.446571",
+        "Link": "http://www.elheraldo.co/columnista/maria-elia-abuchaibe-cortes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 099": {
+        "Date": "2019-10-19 14:55:18.992322",
+        "Link": "http://www.elheraldo.co/columnista/maria-fernanda-matus",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 100": {
+        "Date": "2019-10-19 14:55:20.555238",
+        "Link": "http://www.elheraldo.co/columnista/monica-gontovnik",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 101": {
+        "Date": "2019-10-19 14:55:22.085030",
+        "Link": "http://www.elheraldo.co/columnista/nicolas-renowitzky-r",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 102": {
+        "Date": "2019-10-19 14:55:23.680602",
+        "Link": "http://www.elheraldo.co/columnista/oscar-montes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 103": {
+        "Date": "2019-10-19 14:55:25.279673",
+        "Link": "http://www.elheraldo.co/columnista/ricardo-plata-cepeda",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 104": {
+        "Date": "2019-10-19 14:55:26.793204",
+        "Link": "http://www.elheraldo.co/columnista/roberto-zabarain",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 105": {
+        "Date": "2019-10-19 14:55:28.347797",
+        "Link": "http://www.elheraldo.co/columnista/rocio-mendoza",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 106": {
+        "Date": "2019-10-19 14:55:29.912880",
+        "Link": "http://www.elheraldo.co/columnista/rodrigo-fuenmayor",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 107": {
+        "Date": "2019-10-19 14:55:31.507099",
+        "Link": "http://www.elheraldo.co/columnista/rudolf-hommes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 108": {
+        "Date": "2019-10-19 14:55:33.052907",
+        "Link": "http://www.elheraldo.co/columnista/tatiana-dangond",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 109": {
+        "Date": "2019-10-19 14:55:34.610617",
+        "Link": "http://www.elheraldo.co/columnista/thierry-ways",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 110": {
+        "Date": "2019-10-19 14:55:36.158900",
+        "Link": "http://www.elheraldo.co/columnista/thilo-schafer",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 111": {
+        "Date": "2019-10-19 14:55:37.740348",
+        "Link": "http://www.elheraldo.co/columnista/toni-celia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 112": {
+        "Date": "2019-10-19 14:55:39.264316",
+        "Link": "http://www.elheraldo.co/columnista/ulahy-beltran-lopez",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 113": {
+        "Date": "2019-10-19 14:55:41.134455",
+        "Link": "http://www.elheraldo.co/columnista/weildler-guerra-c",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 114": {
+        "Date": "2019-10-19 14:55:42.904792",
+        "Link": "http://www.elheraldo.co/columnista/william-mebarak",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 115": {
+        "Date": "2019-10-19 14:55:44.390614",
+        "Link": "http://www.elheraldo.co/columnistas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 116": {
+        "Date": "2019-10-19 14:55:45.793868",
+        "Link": "http://www.elheraldo.co/contactenos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 117": {
+        "Date": "2019-10-19 14:55:47.638276",
+        "Link": "http://www.elheraldo.co/contenido-comercial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 118": {
+        "Date": "2019-10-19 14:55:49.414908",
+        "Link": "http://www.elheraldo.co/cordoba",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 119": {
+        "Date": "2019-10-19 14:55:50.985686",
+        "Link": "http://www.elheraldo.co/cordoba/las-vias-como-ruta-de-la-economia-cordobesa-672208",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 120": {
+        "Date": "2019-10-19 14:55:52.744316",
+        "Link": "http://www.elheraldo.co/cultura",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 121": {
+        "Date": "2019-10-19 14:55:54.300785",
+        "Link": "http://www.elheraldo.co/cultura/los-laboratorios-de-cultura-de-cultulab-entregan-resultados-673918",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 122": {
+        "Date": "2019-10-19 14:55:55.881985",
+        "Link": "http://www.elheraldo.co/deportes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 123": {
+        "Date": "2019-10-19 14:55:57.973498",
+        "Link": "http://www.elheraldo.co/deportes/comienza-la-copa-king-ocean-services-de-tenis-673880",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 124": {
+        "Date": "2019-10-19 14:55:59.142935",
+        "Link": "http://www.elheraldo.co/deportes/en-la-jugada-analisis-del-juego-junior-millonarios-y-de-la-seleccion-colombia-673589",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 125": {
+        "Date": "2019-10-19 14:56:01.024316",
+        "Link": "http://www.elheraldo.co/deportes/estoy-seguro-que-este-ano-la-liga-va-explotar-harold-ramirez-673885",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 126": {
+        "Date": "2019-10-19 14:56:02.191903",
+        "Link": "http://www.elheraldo.co/deportes/hallie-wacaser-el-poder-de-estados-unidos-en-barranquilla-673887",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 127": {
+        "Date": "2019-10-19 14:56:03.367472",
+        "Link": "http://www.elheraldo.co/deportes/ramon-jesurun-afirmo-que-si-hubo-acuerdo-james-queiroz-673878",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 128": {
+        "Date": "2019-10-19 14:56:05.526020",
+        "Link": "http://www.elheraldo.co/deportes/vamos-estar-preparados-para-jugar-el-clasico-cuando-nos-digan-zidane-673882",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 129": {
+        "Date": "2019-10-19 14:56:07.361840",
+        "Link": "http://www.elheraldo.co/economia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 130": {
+        "Date": "2019-10-19 14:56:09.068642",
+        "Link": "http://www.elheraldo.co/economia/descuentos-navidad-promociones-black-friday-caribe-673242",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 131": {
+        "Date": "2019-10-19 14:56:10.826771",
+        "Link": "http://www.elheraldo.co/economia/exportan-la-mayor-cantidad-de-carbocoque-673911",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 132": {
+        "Date": "2019-10-19 14:56:12.662374",
+        "Link": "http://www.elheraldo.co/economia/impacto-final-del-alza-del-precio-de-luz-en-bolsa-en-tarifa-estaria-entre-el-1-y-4-andeg",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 133": {
+        "Date": "2019-10-19 14:56:13.950072",
+        "Link": "http://www.elheraldo.co/economia/la-luz-subira-entre-el-5-y-el-13-electricaribe-673901",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 134": {
+        "Date": "2019-10-19 14:56:15.503684",
+        "Link": "http://www.elheraldo.co/edicion-impresa",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 135": {
+        "Date": "2019-10-19 14:56:16.672951",
+        "Link": "http://www.elheraldo.co/editorial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 136": {
+        "Date": "2019-10-19 14:56:18.361828",
+        "Link": "http://www.elheraldo.co/editoriales/mexico-en-su-laberinto-673922",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 137": {
+        "Date": "2019-10-19 14:56:20.011168",
+        "Link": "http://www.elheraldo.co/educacion",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 138": {
+        "Date": "2019-10-19 14:56:21.930686",
+        "Link": "http://www.elheraldo.co/elecciones-colombia-2019",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 139": {
+        "Date": "2019-10-19 14:56:23.859754",
+        "Link": "http://www.elheraldo.co/elecciones-colombia-2019#abc-electoral",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 140": {
+        "Date": "2019-10-19 14:56:25.050797",
+        "Link": "http://www.elheraldo.co/elecciones-colombia-2019#columnas-opinion",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 141": {
+        "Date": "2019-10-19 14:56:26.883466",
+        "Link": "http://www.elheraldo.co/elecciones-colombia-2019#lista-candidatos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 142": {
+        "Date": "2019-10-19 14:56:28.253680",
+        "Link": "http://www.elheraldo.co/elecciones-regionales",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 143": {
+        "Date": "2019-10-19 14:56:29.680548",
+        "Link": "http://www.elheraldo.co/elheraldo.pressreader.com/el-heraldo-colombia",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 144": {
+        "Date": "2019-10-19 14:56:31.157550",
+        "Link": "http://www.elheraldo.co/encuesta/se-ha-visto-afectado-por-el-aumento-del-precio-de-la-luz-673711",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 145": {
+        "Date": "2019-10-19 14:56:32.494698",
+        "Link": "http://www.elheraldo.co/entretenimiento",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 146": {
+        "Date": "2019-10-19 14:56:33.676842",
+        "Link": "http://www.elheraldo.co/entretenimiento/barranquilleros-ganan-el-festival-de-gaitas-en-ovejas-673913",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 147": {
+        "Date": "2019-10-19 14:56:34.851360",
+        "Link": "http://www.elheraldo.co/entretenimiento/en-el-primer-dia-de-bcapital-pasarelas-rindieron-tributo-las-raices-culturales",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 148": {
+        "Date": "2019-10-19 14:56:36.017597",
+        "Link": "http://www.elheraldo.co/escuela-olga-emiliani",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 149": {
+        "Date": "2019-10-19 14:56:37.649887",
+        "Link": "http://www.elheraldo.co/fotos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 150": {
+        "Date": "2019-10-19 14:56:38.945541",
+        "Link": "http://www.elheraldo.co/home",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 151": {
+        "Date": "2019-10-19 14:56:40.451673",
+        "Link": "http://www.elheraldo.co/horoscopo/libra-909",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 152": {
+        "Date": "2019-10-19 14:56:42.130106",
+        "Link": "http://www.elheraldo.co/infografias",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 153": {
+        "Date": "2019-10-19 14:56:43.777790",
+        "Link": "http://www.elheraldo.co/informativo-eh",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 154": {
+        "Date": "2019-10-19 14:56:45.653361",
+        "Link": "http://www.elheraldo.co/informes-comerciales",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 155": {
+        "Date": "2019-10-19 14:56:47.488173",
+        "Link": "http://www.elheraldo.co/informes-comerciales/las-ventajas-de-tener-un-samsung-galaxy-note-10-672924",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 156": {
+        "Date": "2019-10-19 14:56:49.177677",
+        "Link": "http://www.elheraldo.co/informes-comerciales/quien-se-quiere-jubilar-672920",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 157": {
+        "Date": "2019-10-19 14:56:50.843889",
+        "Link": "http://www.elheraldo.co/internacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 158": {
+        "Date": "2019-10-19 14:56:52.000872",
+        "Link": "http://www.elheraldo.co/judicial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 159": {
+        "Date": "2019-10-19 14:56:53.178669",
+        "Link": "http://www.elheraldo.co/judicial/brian-harrington-ya-habia-denunciado-por-estafa-ex-miss-tanga-y-su-representante-673753",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 160": {
+        "Date": "2019-10-19 14:56:54.356318",
+        "Link": "http://www.elheraldo.co/judicial/en-video-capturan-hombre-con-107-kilos-de-marihuana-en-un-parqueadero-en-soledad-673944",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 161": {
+        "Date": "2019-10-19 14:56:55.954879",
+        "Link": "http://www.elheraldo.co/judicial/extranjero-denuncia-en-fiscalia-mujeres-por-injuria-por-vias-de-hecho-673643",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 162": {
+        "Date": "2019-10-19 14:56:57.132583",
+        "Link": "http://www.elheraldo.co/judicial/jesus-david-no-sobrevivio-al-arroyo-673716",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 163": {
+        "Date": "2019-10-19 14:56:58.298842",
+        "Link": "http://www.elheraldo.co/judicial/menor-resulta-herido-por-bala-perdida-durante-una-persecucion-en-soledad-673936",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 164": {
+        "Date": "2019-10-19 14:57:00.086683",
+        "Link": "http://www.elheraldo.co/judicial/moteles-hoteles-y-supermercados-el-eje-de-operacion-de-los-domiciliarios-673637",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 165": {
+        "Date": "2019-10-19 14:57:01.277464",
+        "Link": "http://www.elheraldo.co/judicial/policia-captura-tres-hermanos-y-recupera-907-partes-de-autopartes-de-motocicletas-673810",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 166": {
+        "Date": "2019-10-19 14:57:03.033182",
+        "Link": "http://www.elheraldo.co/la-guajira",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 167": {
+        "Date": "2019-10-19 14:57:04.201707",
+        "Link": "http://www.elheraldo.co/la-guajira/atentan-contra-lideresa-wayuu-en-riohacha-673935",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 168": {
+        "Date": "2019-10-19 14:57:05.808082",
+        "Link": "http://www.elheraldo.co/la-guajira/condenado-exgobernador-ballesteros-15-anos-por-contrato-del-dengue-673677",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 169": {
+        "Date": "2019-10-19 14:57:07.490619",
+        "Link": "http://www.elheraldo.co/local",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 170": {
+        "Date": "2019-10-19 14:57:09.332391",
+        "Link": "http://www.elheraldo.co/magdalena",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 171": {
+        "Date": "2019-10-19 14:57:10.554513",
+        "Link": "http://www.elheraldo.co/magdalena/calamidad-publica-en-santa-marta-por-amenaza-de-crecientes-subitas-673739",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 172": {
+        "Date": "2019-10-19 14:57:12.450967",
+        "Link": "http://www.elheraldo.co/mas-negocios",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 173": {
+        "Date": "2019-10-19 14:57:14.333409",
+        "Link": "http://www.elheraldo.co/medio-ambiente-1",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 174": {
+        "Date": "2019-10-19 14:57:15.851791",
+        "Link": "http://www.elheraldo.co/medio-ambiente/eeuu-dice-que-cambio-climatico-no-estara-en-la-agenda-de-la-proxima-cumbre-del-g7",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 175": {
+        "Date": "2019-10-19 14:57:17.726054",
+        "Link": "http://www.elheraldo.co/mi-nave",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 176": {
+        "Date": "2019-10-19 14:57:19.649634",
+        "Link": "http://www.elheraldo.co/moda",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 177": {
+        "Date": "2019-10-19 14:57:21.555389",
+        "Link": "http://www.elheraldo.co/mundo/ataque-contra-mezquita-deja-62-muertos-en-afganistan-673735",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 178": {
+        "Date": "2019-10-19 14:57:23.240185",
+        "Link": "http://www.elheraldo.co/mundo/declaran-culpable-de-narcotrafico-en-eeuu-hermano-del-presidente-de-honduras-673779",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 179": {
+        "Date": "2019-10-19 14:57:24.458102",
+        "Link": "http://www.elheraldo.co/mundo/el-gobierno-catalan-pide-negociacion-sin-condiciones-madrid-673931",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 180": {
+        "Date": "2019-10-19 14:57:25.935578",
+        "Link": "http://www.elheraldo.co/mundo/en-video-la-batalla-de-la-central-de-correos-del-aeropuerto-jfk-de-nueva-york-contra-el",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 181": {
+        "Date": "2019-10-19 14:57:27.119830",
+        "Link": "http://www.elheraldo.co/mundo/nueva-protesta-independentista-mantiene-barcelona-en-tension-673949",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 182": {
+        "Date": "2019-10-19 14:57:28.784537",
+        "Link": "http://www.elheraldo.co/mundo/parlamento-britanico-pospone-decision-sobre-el-brexit-pero-johnson-mantiene-su-fecha-limite",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 183": {
+        "Date": "2019-10-19 14:57:30.608918",
+        "Link": "http://www.elheraldo.co/mundo/pinera-decreta-estado-de-emergencia-en-santiago-chile-tras-disturbios-673946",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 184": {
+        "Date": "2019-10-19 14:57:32.261729",
+        "Link": "http://www.elheraldo.co/mundo/violentas-evasiones-masivas-en-metro-colapsan-santiago-673812",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 185": {
+        "Date": "2019-10-19 14:57:35.163464",
+        "Link": "http://www.elheraldo.co/nacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 186": {
+        "Date": "2019-10-19 14:57:36.846665",
+        "Link": "http://www.elheraldo.co/node/673924",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 187": {
+        "Date": "2019-10-19 14:57:38.624681",
+        "Link": "http://www.elheraldo.co/obituarios",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 188": {
+        "Date": "2019-10-19 14:57:40.939536",
+        "Link": "http://www.elheraldo.co/opinion",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 189": {
+        "Date": "2019-10-19 14:57:42.452831",
+        "Link": "http://www.elheraldo.co/podcast",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 190": {
+        "Date": "2019-10-19 14:57:43.613107",
+        "Link": "http://www.elheraldo.co/podcast/testigo-narra-momento-en-que-nino-es-arrastrado-por-arroyo-en-la-victoria-673584",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 191": {
+        "Date": "2019-10-19 14:57:45.683133",
+        "Link": "http://www.elheraldo.co/politica",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 192": {
+        "Date": "2019-10-19 14:57:48.565427",
+        "Link": "http://www.elheraldo.co/proyecto-caribe",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 193": {
+        "Date": "2019-10-19 14:57:50.646017",
+        "Link": "http://www.elheraldo.co/region",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 194": {
+        "Date": "2019-10-19 14:57:52.151144",
+        "Link": "http://www.elheraldo.co/revistas.elheraldo.co/gente-caribe",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 195": {
+        "Date": "2019-10-19 14:57:53.691405",
+        "Link": "http://www.elheraldo.co/revistas.elheraldo.co/miercoles",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 196": {
+        "Date": "2019-10-19 14:57:55.116153",
+        "Link": "http://www.elheraldo.co/revistas.elheraldo.co/si",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 197": {
+        "Date": "2019-10-19 14:57:56.912775",
+        "Link": "http://www.elheraldo.co/rincon-juniorista",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 198": {
+        "Date": "2019-10-19 14:57:58.213867",
+        "Link": "http://www.elheraldo.co/rincon-juniorista/comesana-dice-que-se-siente-mejor-arriba-penaloza-673082",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 199": {
+        "Date": "2019-10-19 14:57:59.405923",
+        "Link": "http://www.elheraldo.co/rincon-juniorista/junior-recupera-para-el-duelo-ante-millonarios-teo-rafa-perez-y-el-chino-sandoval",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 200": {
+        "Date": "2019-10-19 14:58:00.581634",
+        "Link": "http://www.elheraldo.co/rincon-juniorista/por-el-ansiado-tiquete-673875",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 201": {
+        "Date": "2019-10-19 14:58:01.753329",
+        "Link": "http://www.elheraldo.co/salud",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 202": {
+        "Date": "2019-10-19 14:58:03.415966",
+        "Link": "http://www.elheraldo.co/salud/jornada-gratuita-contra-la-polio-en-el-gran-malecon-673917",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 203": {
+        "Date": "2019-10-19 14:58:05.059039",
+        "Link": "http://www.elheraldo.co/sociales/25-anos-de-servicio-sacerdotal-673844",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 204": {
+        "Date": "2019-10-19 14:58:06.720122",
+        "Link": "http://www.elheraldo.co/sociales/90-anos-de-eusebio-carbo-673842",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 205": {
+        "Date": "2019-10-19 14:58:08.397620",
+        "Link": "http://www.elheraldo.co/sociales/cumpleanos-del-gobernador-eduardo-verano-de-rosa-673855",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 206": {
+        "Date": "2019-10-19 14:58:09.778978",
+        "Link": "http://www.elheraldo.co/sso/user-profile",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 207": {
+        "Date": "2019-10-19 14:58:12.145469",
+        "Link": "http://www.elheraldo.co/sucre",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 208": {
+        "Date": "2019-10-19 14:58:13.319889",
+        "Link": "http://www.elheraldo.co/sucre/victimas-de-la-guaripa-denuncian-nuevas-amenazas-673717",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 209": {
+        "Date": "2019-10-19 14:58:14.485735",
+        "Link": "http://www.elheraldo.co/tecnologia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 210": {
+        "Date": "2019-10-19 14:58:15.676416",
+        "Link": "http://www.elheraldo.co/tendencias",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 211": {
+        "Date": "2019-10-19 14:58:17.117660",
+        "Link": "http://www.elheraldo.co/tienda.elheraldo.co",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 212": {
+        "Date": "2019-10-19 14:58:18.341691",
+        "Link": "http://www.elheraldo.co/turismo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 213": {
+        "Date": "2019-10-19 14:58:20.188787",
+        "Link": "http://www.elheraldo.co/videos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 214": {
+        "Date": "2019-10-19 14:58:22.793946",
+        "Link": "http://www.elheraldo.co/wasapea-el-heraldo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 215": {
+        "Date": "2019-10-19 14:58:24.230356",
+        "Link": "http://www.elheraldo.co/www.aldia.co",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 216": {
+        "Date": "2019-10-19 14:58:25.853318",
+        "Link": "http://www.elheraldo.co/www.areacaribe.co/",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 217": {
+        "Date": "2019-10-19 14:58:26.678191",
+        "Link": "http://www.vivesco.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 218": {
+        "Date": "2019-10-19 14:58:27.350780",
+        "Link": "https://ami.org.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 219": {
+        "Date": "2019-10-19 14:58:28.118993",
+        "Link": "https://clasificados.elheraldo.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 220": {
+        "Date": "2019-10-19 14:58:29.914397",
+        "Link": "https://goo.gl/TXkecE",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 221": {
+        "Date": "2019-10-19 14:58:30.899215",
+        "Link": "https://revistas.elheraldo.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 222": {
+        "Date": "2019-10-19 14:58:32.130969",
+        "Link": "https://suscripciones.elheraldo.co/content/disfruta-el-beneficio-del-club-privilegios",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 223": {
+        "Date": "2019-10-19 14:58:32.950158",
+        "Link": "https://suscripciones.elheraldo.co/content/suscripcion-impresa",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 224": {
+        "Date": "2019-10-19 14:58:33.929959",
+        "Link": "https://twitter.com/elheraldoco",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 225": {
+        "Date": "2019-10-19 14:58:38.897929",
+        "Link": "https://www.areacaribe.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 226": {
+        "Date": "2019-10-19 14:58:39.668840",
+        "Link": "https://www.areacaribe.co/content/duville-en-la-exclusiva-zona-residencial-de-riomar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 227": {
+        "Date": "2019-10-19 14:58:40.462081",
+        "Link": "https://www.areacaribe.co/secciones/listado-de-notas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 228": {
+        "Date": "2019-10-19 14:58:41.536278",
+        "Link": "https://www.elheraldo.co/Instrucciones",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 229": {
+        "Date": "2019-10-19 14:58:42.457610",
+        "Link": "https://www.elheraldo.co/colombia/asi-puede-saber-si-es-jurado-de-votacion-para-las-elecciones-del-27-de-octubre-669807",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 230": {
+        "Date": "2019-10-19 14:58:44.012150",
+        "Link": "https://www.elheraldo.co/crisis-en-venezuela",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 231": {
+        "Date": "2019-10-19 14:58:45.965572",
+        "Link": "https://www.elheraldo.co/deportes/resultados-ligas-futbol-colombia-suramerica-europa",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 232": {
+        "Date": "2019-10-19 14:58:46.754138",
+        "Link": "https://www.elheraldo.co/politicas-cookies-519504",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 233": {
+        "Date": "2019-10-19 14:58:48.297427",
+        "Link": "https://www.facebook.com/fansheraldo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 234": {
+        "Date": "2019-10-19 14:58:49.463769",
+        "Link": "https://www.instagram.com/elheraldoco/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 235": {
+        "Date": "2019-10-19 14:58:52.510652",
+        "Link": "https://www.youtube.com/user/ELHERALDOINTERNET",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    }
+}

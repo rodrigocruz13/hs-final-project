@@ -1,0 +1,758 @@
+{
+    "Check 001": {
+        "Date": "2019-10-19 13:37:42.060931",
+        "Link": "http://pasturas.inia.org.uy/catalogo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 002": {
+        "Date": "2019-10-19 13:37:43.059336",
+        "Link": "http://www.ainfo.inia.uy/consulta/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 003": {
+        "Date": "2019-10-19 13:37:46.153911",
+        "Link": "http://www.inia.uy/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 004": {
+        "Date": "2019-10-19 13:37:54.399027",
+        "Link": "http://www.inia.uy/Actividades",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 005": {
+        "Date": "2019-10-19 13:37:55.976306",
+        "Link": "http://www.inia.uy/GRAS",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 006": {
+        "Date": "2019-10-19 13:37:57.877522",
+        "Link": "http://www.inia.uy/Mapa-del-sitio",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 007": {
+        "Date": "2019-10-19 13:38:02.735932",
+        "Link": "http://www.inia.uy/Paginas/Registro.aspx",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 008": {
+        "Date": "2019-10-19 13:38:04.700414",
+        "Link": "http://www.inia.uy/PublishingImages/UCTT/2019/670x270p%20-%20Chill%20Index%20Home.jpg",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 009": {
+        "Date": "2019-10-19 13:38:07.695753",
+        "Link": "http://www.inia.uy/actividades",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 010": {
+        "Date": "2019-10-19 13:38:10.827566",
+        "Link": "http://www.inia.uy/actividades/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 011": {
+        "Date": "2019-10-19 13:38:17.775891",
+        "Link": "http://www.inia.uy/capital-humano/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 012": {
+        "Date": "2019-10-19 13:38:20.223815",
+        "Link": "http://www.inia.uy/contacto/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 013": {
+        "Date": "2019-10-19 13:38:35.866600",
+        "Link": "http://www.inia.uy/en",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 014": {
+        "Date": "2019-10-19 13:38:49.500392",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-direcci\u00f3n-nacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 015": {
+        "Date": "2019-10-19 13:38:55.623874",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-la-estanzuela",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 016": {
+        "Date": "2019-10-19 13:38:58.022945",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-la-estanzuela/Jornada-Apicola",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 017": {
+        "Date": "2019-10-19 13:38:59.550096",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-la-estanzuela/caracterizaci%C3%B3n-sanitaria-de-cultivares-de-trigo-y-cebada",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 018": {
+        "Date": "2019-10-19 13:39:00.920589",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-la-estanzuela/control-de-raigras-en-semilleros",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 019": {
+        "Date": "2019-10-19 13:39:02.502801",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-la-estanzuela/reuni\u00f3n-aia-colonia-en-inia-le",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 020": {
+        "Date": "2019-10-19 13:39:09.179037",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-las-brujas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 021": {
+        "Date": "2019-10-19 13:39:12.730234",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-las-brujas/Herramientas-biologicas-para-una-produccion-agroecologica-",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 022": {
+        "Date": "2019-10-19 13:39:15.741367",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-salto-grande",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 023": {
+        "Date": "2019-10-19 13:39:18.251879",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-salto-grande/El-Pecan-un-cultivo-en-desarrollo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 024": {
+        "Date": "2019-10-19 13:39:20.741047",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-tacuaremb\u00f3",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 025": {
+        "Date": "2019-10-19 13:39:22.302034",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-tacuaremb\u00f3/Ganaderia-rentable-de-la-teoria-a-la-practica",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 026": {
+        "Date": "2019-10-19 13:39:23.854051",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-tacuaremb\u00f3/La-forestacion-en-el-agro-uruguayo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 027": {
+        "Date": "2019-10-19 13:39:25.344977",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-tacuaremb\u00f3/Recomendaciones-para-el-manejo-de-ganado-bovino-en-corrales",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 028": {
+        "Date": "2019-10-19 13:39:27.261904",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-treinta-y-tres",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 029": {
+        "Date": "2019-10-19 13:39:28.642211",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-treinta-y-tres/Dia-de-Campo---Unidad-Experimental-Palo-a-Pique",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 030": {
+        "Date": "2019-10-19 13:39:30.461708",
+        "Link": "http://www.inia.uy/estaciones-experimentales/direcciones-regionales/inia-treinta-y-tres/Plantas-invasoras-de-campo-natural",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 031": {
+        "Date": "2019-10-19 13:39:32.144117",
+        "Link": "http://www.inia.uy/gras",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 032": {
+        "Date": "2019-10-19 13:39:38.971570",
+        "Link": "http://www.inia.uy/gras/Alertas-y-herramientas/sigras-app",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 033": {
+        "Date": "2019-10-19 13:39:54.107532",
+        "Link": "http://www.inia.uy/gras/Clima/vigilancia-el-ni\u00f1o-la-ni\u00f1a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 034": {
+        "Date": "2019-10-19 13:39:57.787980",
+        "Link": "http://www.inia.uy/inia-contigo/INIA-Contigo---Sito-para-ninos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 035": {
+        "Date": "2019-10-19 13:39:59.984459",
+        "Link": "http://www.inia.uy/inicio/Llamados/Abiertos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 036": {
+        "Date": "2019-10-19 13:40:15.964738",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/Sistemas-de-Producci\u00f3n/Sistema-Agricola-Ganadero",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 037": {
+        "Date": "2019-10-19 13:40:23.809035",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/Sistemas-de-Producci\u00f3n/Sistema-Arroz-Ganader\u00eda",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 038": {
+        "Date": "2019-10-19 13:40:32.719019",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/Sistemas-de-Producci\u00f3n/Sistema-Familiar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 039": {
+        "Date": "2019-10-19 13:40:39.523235",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/Sistemas-de-Producci\u00f3n/Sistema-Forestal-Silvopastoril-",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 040": {
+        "Date": "2019-10-19 13:40:56.089616",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/Sistemas-de-Producci\u00f3n/Sistema-Ganadero-Extensivo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 041": {
+        "Date": "2019-10-19 13:41:15.952116",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/Sistemas-de-Producci\u00f3n/Sistema-Lechero",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 042": {
+        "Date": "2019-10-19 13:41:27.507946",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/Sistemas-de-Producci\u00f3n/Sistema-Vegetal-Intensivo-",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 043": {
+        "Date": "2019-10-19 13:41:29.346843",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/Programa-Nacional-de-Investigacion-en-Produccion-de-Arroz",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 044": {
+        "Date": "2019-10-19 13:41:31.199592",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/Programa-Nacional-de-Investigaci\u00f3n-en-Cultivos-de-Secano",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 045": {
+        "Date": "2019-10-19 13:41:33.552424",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/Programa-Nacional-de-Investigaci\u00f3n-en-Pasturas-y-Forrajes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 046": {
+        "Date": "2019-10-19 13:41:35.697553",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/Programa-Nacional-de-Investigaci\u00f3n-en-Producci\u00f3n-Citr\u00edcola",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 047": {
+        "Date": "2019-10-19 13:41:37.823922",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/Programa-Nacional-de-Investigaci\u00f3n-en-Producci\u00f3n-Familiar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 048": {
+        "Date": "2019-10-19 13:41:39.790653",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/Programa-Nacional-de-Investigaci\u00f3n-en-Producci\u00f3n-Forestal",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 049": {
+        "Date": "2019-10-19 13:41:42.182312",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/Programa-Nacional-de-Investigaci\u00f3n-en-Producci\u00f3n-Frut\u00edcola",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 050": {
+        "Date": "2019-10-19 13:41:43.955813",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/Programa-Nacional-de-Investigaci\u00f3n-en-Producci\u00f3n-Hort\u00edcola",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 051": {
+        "Date": "2019-10-19 13:41:45.770311",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/Programa-Nacional-de-Investigaci\u00f3n-en-Producci\u00f3n-de-Leche",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 052": {
+        "Date": "2019-10-19 13:41:47.585708",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/Programa-Nacional-de-Investigaci\u00f3n-en-Producci\u00f3n-y-Sustentabilidad-Ambiental",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 053": {
+        "Date": "2019-10-19 13:41:51.997740",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/programas-nacionales-de-investigaci\u00f3n/producci\u00f3n-de-carne-y-lana",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 054": {
+        "Date": "2019-10-19 13:42:03.324369",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/proyectos/proyectos-de-investigaci\u00f3n",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 055": {
+        "Date": "2019-10-19 13:42:08.322093",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/unidades/Unidad-de-Biotecnologia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 056": {
+        "Date": "2019-10-19 13:42:09.782737",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/unidades/Unidad-de-Comunicacion-y-Transferencia-de-Tecnologia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 057": {
+        "Date": "2019-10-19 13:42:12.510276",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/unidades/Unidad-de-Cooperacion-Internacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 058": {
+        "Date": "2019-10-19 13:42:16.039158",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/unidades/semillas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 059": {
+        "Date": "2019-10-19 13:42:17.644761",
+        "Link": "http://www.inia.uy/investigaci\u00f3n-e-innovaci\u00f3n/unidades/tecnolog\u00edas-de-la-informaci\u00f3n",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 060": {
+        "Date": "2019-10-19 13:42:19.221733",
+        "Link": "http://www.inia.uy/marco-institucional/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 061": {
+        "Date": "2019-10-19 13:42:28.586227",
+        "Link": "http://www.inia.uy/noticias/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 062": {
+        "Date": "2019-10-19 13:42:30.560874",
+        "Link": "http://www.inia.uy/productos-y-servicios/Productos/Productos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 063": {
+        "Date": "2019-10-19 13:42:34.134632",
+        "Link": "http://www.inia.uy/productos-y-servicios/convenios/convenios-internacionales",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 064": {
+        "Date": "2019-10-19 13:42:34.635865",
+        "Link": "http://www.inia.uy/productos-y-servicios/convenios/convenios-nacionales",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 065": {
+        "Date": "2019-10-19 13:42:36.463798",
+        "Link": "http://www.inia.uy/productos-y-servicios/laboratorios/Laboratorio--de-Nutricion-Animal",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 066": {
+        "Date": "2019-10-19 13:42:37.885827",
+        "Link": "http://www.inia.uy/productos-y-servicios/laboratorios/Laboratorio-de-An\u00e1lisis-Foliar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 067": {
+        "Date": "2019-10-19 13:42:39.484479",
+        "Link": "http://www.inia.uy/productos-y-servicios/laboratorios/Laboratorio-de-Biotecnologia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 068": {
+        "Date": "2019-10-19 13:42:41.123810",
+        "Link": "http://www.inia.uy/productos-y-servicios/laboratorios/Laboratorio-de-Calidad-Industrial-de-Granos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 069": {
+        "Date": "2019-10-19 13:42:43.205427",
+        "Link": "http://www.inia.uy/productos-y-servicios/laboratorios/Laboratorio-de-Calidad-de-Leche",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 070": {
+        "Date": "2019-10-19 13:42:44.936451",
+        "Link": "http://www.inia.uy/productos-y-servicios/laboratorios/Laboratorio-de-Sanidad-Animal",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 071": {
+        "Date": "2019-10-19 13:42:46.892709",
+        "Link": "http://www.inia.uy/productos-y-servicios/laboratorios/Laboratorio-de-Suelos-Plantas-y-Agua",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 072": {
+        "Date": "2019-10-19 13:42:48.676756",
+        "Link": "http://www.inia.uy/productos-y-servicios/laboratorios/calidad-de-la-canal-y-la-carne",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 073": {
+        "Date": "2019-10-19 13:42:50.531799",
+        "Link": "http://www.inia.uy/productos-y-servicios/servicios-t\u00e9cnicos/Evaluaci\u00f3n-de-Cultivares",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 074": {
+        "Date": "2019-10-19 13:42:52.354527",
+        "Link": "http://www.inia.uy/productos-y-servicios/servicios-t\u00e9cnicos/Programaci\u00f3n-de-Riego",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 075": {
+        "Date": "2019-10-19 13:42:53.782328",
+        "Link": "http://www.inia.uy/publicaciones-y-multimedia/galer\u00eda/im\u00e1genes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 076": {
+        "Date": "2019-10-19 13:42:56.647980",
+        "Link": "http://www.inia.uy/publicaciones-y-multimedia/galer\u00eda/videos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 077": {
+        "Date": "2019-10-19 13:43:04.038932",
+        "Link": "http://www.inia.uy/publicaciones-y-multimedia/publicaciones/bibliotecas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 078": {
+        "Date": "2019-10-19 13:43:09.309406",
+        "Link": "http://www.inia.uy/publicaciones-y-multimedia/publicaciones/bibliotecas/Agrociencia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 079": {
+        "Date": "2019-10-19 13:43:10.873643",
+        "Link": "http://www.inia.uy/publicaciones-y-multimedia/publicaciones/bibliotecas/Revista-INIA",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 080": {
+        "Date": "2019-10-19 13:43:12.572286",
+        "Link": "http://www.inia.uy/publicaciones-y-multimedia/publicaciones/publicaciones-inia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 081": {
+        "Date": "2019-10-19 13:43:15.146317",
+        "Link": "http://www.inia.uy/sitios-de-inter\u00e9s/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 082": {
+        "Date": "2019-10-19 13:43:18.628544",
+        "Link": "http://www.rnba.com.uy/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 083": {
+        "Date": "2019-10-19 13:43:19.768577",
+        "Link": "https://twitter.com/INIA_UY",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 084": {
+        "Date": "2019-10-19 13:43:21.234981",
+        "Link": "https://www.youtube.com/channel/UCOOWOjgZHO2pTNPBLXdHooA",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    }
+}

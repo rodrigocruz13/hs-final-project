@@ -1,87 +1,155 @@
 {
     "Check 001": {
-        "Date": "2019-10-19 11:25:41.882031",
+        "Date": "2019-10-19 16:49:39.107660",
         "Link": "http://statcounter.com/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 002": {
-        "Date": "2019-10-19 11:25:42.191714",
+        "Date": "2019-10-19 16:49:39.681054",
         "Link": "https://www.vortexhydroenergy.com/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 003": {
-        "Date": "2019-10-19 11:25:42.512407",
+        "Date": "2019-10-19 16:49:40.383671",
         "Link": "https://www.vortexhydroenergy.com/about/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 004": {
-        "Date": "2019-10-19 11:25:42.824428",
+        "Date": "2019-10-19 16:49:41.004518",
         "Link": "https://www.vortexhydroenergy.com/contact/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 005": {
-        "Date": "2019-10-19 11:25:43.136961",
+        "Date": "2019-10-19 16:49:41.699222",
         "Link": "https://www.vortexhydroenergy.com/deployments/2009-towing-tank/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 006": {
-        "Date": "2019-10-19 11:25:43.516529",
+        "Date": "2019-10-19 16:49:42.360501",
         "Link": "https://www.vortexhydroenergy.com/deployments/2010-mrelab/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 007": {
-        "Date": "2019-10-19 11:25:43.980358",
+        "Date": "2019-10-19 16:49:43.072860",
         "Link": "https://www.vortexhydroenergy.com/deployments/2010-saint-clair-river/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 008": {
-        "Date": "2019-10-19 11:25:44.324135",
+        "Date": "2019-10-19 16:49:43.758237",
         "Link": "https://www.vortexhydroenergy.com/deployments/2012-netherlands/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 009": {
-        "Date": "2019-10-19 11:25:44.687069",
+        "Date": "2019-10-19 16:49:44.381379",
         "Link": "https://www.vortexhydroenergy.com/deployments/2012-saint-clair-river/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 010": {
-        "Date": "2019-10-19 11:25:45.043939",
+        "Date": "2019-10-19 16:49:45.164226",
         "Link": "https://www.vortexhydroenergy.com/deployments/2013-ohmsett/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 011": {
-        "Date": "2019-10-19 11:25:45.379298",
+        "Date": "2019-10-19 16:49:45.803198",
         "Link": "https://www.vortexhydroenergy.com/deployments/2016-saint-clair-river/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 012": {
-        "Date": "2019-10-19 11:25:45.694370",
+        "Date": "2019-10-19 16:49:46.554609",
         "Link": "https://www.vortexhydroenergy.com/lab/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 013": {
-        "Date": "2019-10-19 11:25:46.058336",
+        "Date": "2019-10-19 16:49:47.210000",
         "Link": "https://www.vortexhydroenergy.com/publications/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 014": {
-        "Date": "2019-10-19 11:25:46.373097",
+        "Date": "2019-10-19 16:49:47.797420",
         "Link": "https://www.vortexhydroenergy.com/technology/environment/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 015": {
-        "Date": "2019-10-19 11:25:46.696752",
+        "Date": "2019-10-19 16:49:48.389056",
         "Link": "https://www.vortexhydroenergy.com/technology/how-it-works/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 016": {
-        "Date": "2019-10-19 11:25:47.032576",
+        "Date": "2019-10-19 16:49:49.075599",
         "Link": "https://www.vortexhydroenergy.com/technology/milestones/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 017": {
-        "Date": "2019-10-19 11:25:47.350985",
+        "Date": "2019-10-19 16:49:49.733077",
         "Link": "https://www.vortexhydroenergy.com/technology/the-device/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     }
 }
