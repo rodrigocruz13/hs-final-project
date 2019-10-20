@@ -1,0 +1,29 @@
+{
+    "Check 001": {
+        "Date": "2019-10-19 16:58:44.311657",
+        "Link": "http://www.washingtonpost.com/blogs/post-live/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 002": {
+        "Date": "2019-10-19 16:58:52.736501",
+        "Link": "https://www.washingtonpost.com/people/dan-balz/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 003": {
+        "Date": "2019-10-19 16:59:01.212908",
+        "Link": "https://www.washingtonpost.com/posttv/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Check 001": {
+        "Date": "2019-10-19 18:15:34.600644",
+        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Contact.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": "NO IP"
+        }
+    },
+    "Check 002": {
+        "Date": "2019-10-19 18:15:35.055493",
+        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Courses.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": "NO IP"
+        }
+    },
+    "Check 003": {
+        "Date": "2019-10-19 18:15:35.337401",
+        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Entertain.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": "NO IP"
+        }
+    },
+    "Check 004": {
+        "Date": "2019-10-19 18:15:35.816685",
+        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Links.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": "NO IP"
+        }
+    },
+    "Check 005": {
+        "Date": "2019-10-19 18:15:36.036382",
+        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Photos.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": "NO IP"
+        }
+    },
+    "Check 006": {
+        "Date": "2019-10-19 18:15:36.450060",
+        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Research.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": "NO IP"
+        }
+    },
+    "Check 007": {
+        "Date": "2019-10-19 18:15:41.821399",
+        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/index.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": "NO IP"
+        }
+    }
+}

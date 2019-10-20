@@ -3,13 +3,12 @@
 import os
 import sys
 
-validate_domain = __import__('validate_domain').validate_domain
-
 
 def clear_screen():
-    """ Function that clear the screen according to the OS
-    Returns:
-        Nothing
+    """
+    Purpose:   Function that clear the screen according to the OS
+    Arguments: - None.
+    Returns:   - Nothing.
     """
 
     if (sys.platform != 'linux'):
@@ -18,19 +17,19 @@ def clear_screen():
         os.system('clear')  # For Linux/OS X
 
 
-def read_and_validate_url(argv):
-    """ Function that read and argument and valitate it as URL
-    Returns:
-        The URL
+def read_and_validate_url():
+    """
+    Purpose:   Function that read and argument and valitate it as URL.
+    Arguments: - None.
+    Returns:   - A valid URL.
     """
 
-    if (len(argv) != 2):
-        print('Usage: {} http://www.example.com/'.format(argv[0]))
-        exit(1)
-    url = validate_domain(argv[1])
+    validate_domain = __import__('web-scraping').validate_domain
 
-    if (url is None):
-        exit(1)
+    url = None
+    while (url is None):
+        address = input("Type a valid URL with the format http: ... :  ")
+        url = validate_domain(address)
     return (url)
 
 

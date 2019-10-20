@@ -1,9 +1,11 @@
 {
-	"1": "INFORMATION",
-	"2": "SUCCESSFUL",
-	"3": "REDIRECTION",
-	"4": "USER ERROR",
+	
+	"1": "INFORMATION ",
+	"2": " SUCCESSFUL ",
+	"3": "REDIRECTION ",
+	"4": " USER ERROR ",
 	"5": "SERVER ERROR",
+	"9": " IP PROBLEM ",
 	"100": "Continue: The server has received the request headers, and the client should proceed to send the request body",
 	"101": "Switching Protocols: The requester has asked the server to switch protocols",
 	"103": "Checkpoint: Used in the resumable requests proposal to resume aborted PUT or POST requests",
@@ -46,5 +48,6 @@
 	"503": "Service Unavailable: The server is currently unavailable (overloaded or down)",
 	"504": "Gateway Timeout: The server was acting as a gateway or proxy and did not receive a timely response from the upstream server",
 	"505": "HTTP Version Not Supported: The server does not support the HTTP protocol version used in the request",
-	"511": "Network Authentication Required: The client needs to authenticate to gain network access"
+	"511": "Network Authentication Required: The client needs to authenticate to gain network access",
+	"999": "Error: Server IP address could not be found"
 }

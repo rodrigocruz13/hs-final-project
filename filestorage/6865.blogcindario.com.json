@@ -1,0 +1,47 @@
+{
+    "Check 001": {
+        "Date": "2019-10-20 02:23:44.870630",
+        "Link": "https://6865.blogcindario.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 002": {
+        "Date": "2019-10-20 02:23:45.202160",
+        "Link": "https://6865.blogcindario.com/cdn-cgi/l/email-protection",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 003": {
+        "Date": "2019-10-20 02:23:46.344359",
+        "Link": "https://blogs.miarroba.com/enviar.php",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 004": {
+        "Date": "2019-10-20 02:23:46.951862",
+        "Link": "https://blogs.miarroba.com/visitar.php",
+        "Status": {
+            "Code": "302",
+            "Meaning": "Found: The requested page has moved temporarily to a new URL",
+            "Type": "REDIRECTION "
+        }
+    },
+    "Check 005": {
+        "Date": "2019-10-20 02:23:47.648077",
+        "Link": "https://es.zenit.org/articles/category/espiritualidad-y-oracion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

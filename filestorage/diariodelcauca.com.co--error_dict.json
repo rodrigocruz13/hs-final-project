@@ -1,0 +1,38 @@
+{
+    "Check 008": {
+        "Date": "2019-10-19 22:20:00.925048",
+        "Link": "https://diariodelcauca.com.co/noticias/Especiales",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 032": {
+        "Date": "2019-10-19 22:20:59.577328",
+        "Link": "https://diariodelcauca.com.co/noticias/en-vivo",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 056": {
+        "Date": "2019-10-19 22:21:41.460529",
+        "Link": "https://diariodelcauca.com.co/noticias/multimedia/videos-virales",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 063": {
+        "Date": "2019-10-19 22:21:54.262290",
+        "Link": "https://diariodelcauca.com.co/noticias/paranormal",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    }
+}

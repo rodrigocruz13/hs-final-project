@@ -1,0 +1,11 @@
+{
+    "Check 004": {
+        "Date": "2019-10-20 02:23:46.951862",
+        "Link": "https://blogs.miarroba.com/visitar.php",
+        "Status": {
+            "Code": "302",
+            "Meaning": "Found: The requested page has moved temporarily to a new URL",
+            "Type": "REDIRECTION "
+        }
+    }
+}

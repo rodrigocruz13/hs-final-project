@@ -1,717 +1,1325 @@
 {
     "Check 001": {
-        "Date": "2019-10-19 12:38:23.046969",
+        "Date": "2019-10-19 20:32:11.770662",
         "Link": "http://activisual.net",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 002": {
-        "Date": "2019-10-19 12:38:24.033601",
+        "Date": "2019-10-19 20:32:13.357792",
         "Link": "http://autocosmos.hsbnoticias.com/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 003": {
-        "Date": "2019-10-19 12:38:25.347207",
+        "Date": "2019-10-19 20:32:20.057589",
         "Link": "http://diariodelcauca.com.co/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 004": {
-        "Date": "2019-10-19 12:38:25.795905",
+        "Date": "2019-10-19 20:32:20.640854",
         "Link": "http://elperiodico.com.co",
-        "Status": "403"
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": "USER ERROR"
+        }
     },
     "Check 005": {
-        "Date": "2019-10-19 12:38:30.672937",
+        "Date": "2019-10-19 20:32:25.814245",
         "Link": "http://hsbnoticias.com/emisora.html",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 006": {
-        "Date": "2019-10-19 12:38:34.044433",
+        "Date": "2019-10-19 20:32:29.310700",
         "Link": "http://hsbnoticias.com/noticias/eventos",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 007": {
-        "Date": "2019-10-19 12:38:36.592691",
+        "Date": "2019-10-19 20:32:32.799432",
         "Link": "http://hsbnoticias.com/noticias/multimedia/audios",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 008": {
-        "Date": "2019-10-19 12:38:39.717234",
+        "Date": "2019-10-19 20:32:34.222518",
         "Link": "http://hsbnoticias.com/noticias/multimedia/imagenes",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 009": {
-        "Date": "2019-10-19 12:38:44.558645",
+        "Date": "2019-10-19 20:32:37.391965",
         "Link": "http://hsbnoticias.com/noticias/multimedia/videos",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 010": {
-        "Date": "2019-10-19 12:38:45.761042",
+        "Date": "2019-10-19 20:32:38.892336",
         "Link": "http://hsbnoticias.com/noticias/paranormal",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 011": {
-        "Date": "2019-10-19 12:38:48.655541",
+        "Date": "2019-10-19 20:32:42.666231",
         "Link": "http://hsbnoticias.com/servicios/horoscopo",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 012": {
-        "Date": "2019-10-19 12:38:51.794913",
+        "Date": "2019-10-19 20:32:46.515735",
         "Link": "http://hsbnoticias.com/temas/rusia-2018",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 013": {
-        "Date": "2019-10-19 12:38:52.773392",
+        "Date": "2019-10-19 20:32:47.838609",
         "Link": "https://hsbnoticias.com/",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 014": {
-        "Date": "2019-10-19 12:38:54.771418",
+        "Date": "2019-10-19 20:32:49.938425",
         "Link": "https://hsbnoticias.com/clasificados/vehiculos",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 015": {
-        "Date": "2019-10-19 12:38:55.619081",
+        "Date": "2019-10-19 20:32:51.115899",
         "Link": "https://hsbnoticias.com/contacto",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 016": {
-        "Date": "2019-10-19 12:38:56.466341",
+        "Date": "2019-10-19 20:32:52.084597",
         "Link": "https://hsbnoticias.com/encuestas",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 017": {
-        "Date": "2019-10-19 12:38:57.306273",
+        "Date": "2019-10-19 20:32:53.073585",
         "Link": "https://hsbnoticias.com/encuestas/cual-cree-que-es-el-mayor-problema-que-afrontan-los-estudian",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 018": {
-        "Date": "2019-10-19 12:38:59.047280",
+        "Date": "2019-10-19 20:32:55.514802",
         "Link": "https://hsbnoticias.com/hsbnoticias.com/cine",
-        "Status": "404"
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
     },
     "Check 019": {
-        "Date": "2019-10-19 12:39:00.072308",
+        "Date": "2019-10-19 20:32:56.501678",
         "Link": "https://hsbnoticias.com/listas",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 020": {
-        "Date": "2019-10-19 12:39:00.969501",
+        "Date": "2019-10-19 20:32:58.539752",
         "Link": "https://hsbnoticias.com/multimedia/juegos",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 021": {
-        "Date": "2019-10-19 12:39:01.886825",
+        "Date": "2019-10-19 20:33:00.755561",
         "Link": "https://hsbnoticias.com/noticias/Especiales",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 022": {
-        "Date": "2019-10-19 12:39:05.921654",
+        "Date": "2019-10-19 20:33:01.763199",
         "Link": "https://hsbnoticias.com/noticias/bogota",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 023": {
-        "Date": "2019-10-19 12:39:06.788618",
-        "Link": "https://hsbnoticias.com/noticias/bogota/disturbios-por-fiscalizacion-de-contrabando-en-san-andresito-567837",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:02.704639",
+        "Link": "https://hsbnoticias.com/noticias/bogota/cogieron-funcionario-del-cti-y-socio-cobrando-millones-d-568102",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 024": {
-        "Date": "2019-10-19 12:39:07.862056",
+        "Date": "2019-10-19 20:33:03.706863",
         "Link": "https://hsbnoticias.com/noticias/bogota/fatidica-borrachera-dos-muertos-atrapados-entre-las-latas-de-567953",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 025": {
-        "Date": "2019-10-19 12:39:08.947775",
-        "Link": "https://hsbnoticias.com/noticias/bogota/horrible-lo-mataron-tiros-por-defender-sus-empleados-se-567846",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:08.262079",
+        "Link": "https://hsbnoticias.com/noticias/bogota/los-acabaron-plomo-acribillaron-dos-venezolanos-en-kenne-568064",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 026": {
-        "Date": "2019-10-19 12:39:09.849163",
-        "Link": "https://hsbnoticias.com/noticias/bogota/pilas-jornada-de-vacunacion-antirrabica-para-perros-y-gatos-567854",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:12.759836",
+        "Link": "https://hsbnoticias.com/noticias/bogota/murio-extranamente-un-hombre-estadounidense-en-el-aeropuerto-568082",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 027": {
-        "Date": "2019-10-19 12:39:13.965082",
-        "Link": "https://hsbnoticias.com/noticias/bogota/quedo-frio-y-tieso-en-plena-av-mutis-una-vans-toda-veloci-567943",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:16.098874",
+        "Link": "https://hsbnoticias.com/noticias/bogota/se-colgo-recien-casado-en-suba-el-joven-mecanico-no-supero-u-567957",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 028": {
-        "Date": "2019-10-19 12:39:16.822644",
-        "Link": "https://hsbnoticias.com/noticias/bogota/se-colgo-recien-casado-en-suba-el-joven-mecanico-no-supero-u-567957",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:19.225078",
+        "Link": "https://hsbnoticias.com/noticias/bogota/soldado-mato-de-un-disparo-su-companero-en-el-interior-de-568012",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 029": {
-        "Date": "2019-10-19 12:39:19.404663",
+        "Date": "2019-10-19 20:33:20.110466",
         "Link": "https://hsbnoticias.com/noticias/bogota/tractocamion-arrastro-y-destrozo-con-las-llantas-traseras-567712",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 030": {
-        "Date": "2019-10-19 12:39:21.804087",
+        "Date": "2019-10-19 20:33:23.365915",
         "Link": "https://hsbnoticias.com/noticias/bogota/tusa-mortal-se-atraveso-el-corazon-con-un-cuchillo-sangre-y-567970",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 031": {
-        "Date": "2019-10-19 12:39:22.646219",
+        "Date": "2019-10-19 20:33:26.795905",
         "Link": "https://hsbnoticias.com/noticias/ciencia",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 032": {
-        "Date": "2019-10-19 12:39:25.203558",
+        "Date": "2019-10-19 20:33:27.710657",
         "Link": "https://hsbnoticias.com/noticias/ciencia/10-mitos-que-debes-conocer-sobre-el-cancer-de-seno-pilas-la-567964",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 033": {
-        "Date": "2019-10-19 12:39:26.055083",
+        "Date": "2019-10-19 20:33:30.573973",
         "Link": "https://hsbnoticias.com/noticias/ciencia/19-de-octubre-un-dia-para-tocarte-los-senos-dia-mundial-del-567949",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 034": {
-        "Date": "2019-10-19 12:39:26.895798",
+        "Date": "2019-10-19 20:33:33.269450",
         "Link": "https://hsbnoticias.com/noticias/ciencia/atencion-mujeres-y-hombres-que-es-y-como-prevenir-el-cancer-567956",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 035": {
-        "Date": "2019-10-19 12:39:29.589536",
-        "Link": "https://hsbnoticias.com/noticias/ciencia/cada-53-minutos-muere-en-el-mundo-una-mujer-por-cancer-de-se-567971",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:35.961648",
+        "Link": "https://hsbnoticias.com/noticias/ciencia/brasil-vive-destare-ecologico-mares-fauna-y-flora-gravemente-568043",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 036": {
-        "Date": "2019-10-19 12:39:30.439256",
-        "Link": "https://hsbnoticias.com/noticias/ciencia/espeluznantes-criaturas-marinas-asi-devoran-el-cadaver-de-un-567899",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:38.986298",
+        "Link": "https://hsbnoticias.com/noticias/ciencia/cada-53-minutos-muere-en-el-mundo-una-mujer-por-cancer-de-se-567971",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 037": {
-        "Date": "2019-10-19 12:39:33.071185",
+        "Date": "2019-10-19 20:33:42.037245",
         "Link": "https://hsbnoticias.com/noticias/ciencia/susto-la-declararon-muerta-dos-veces-en-dos-hospitales-sufri-567973",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 038": {
-        "Date": "2019-10-19 12:39:37.482458",
+        "Date": "2019-10-19 20:33:43.187114",
         "Link": "https://hsbnoticias.com/noticias/deportes",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 039": {
-        "Date": "2019-10-19 12:39:38.377997",
-        "Link": "https://hsbnoticias.com/noticias/deportes/atletico-nacional-y-una-mala-noticia-le-dirian-adios-una-d-567938",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:46.185031",
+        "Link": "https://hsbnoticias.com/noticias/deportes/apoyando-las-fuerzas-armadas-colombia-disputa-los-juegos-m-568059",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 040": {
-        "Date": "2019-10-19 12:39:40.978039",
-        "Link": "https://hsbnoticias.com/noticias/deportes/cambio-radical-para-la-copa-libertadores-polemica-medida-se-567967",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:47.329548",
+        "Link": "https://hsbnoticias.com/noticias/deportes/cerca-de-la-eliminacion-deportivo-pasto-se-alejo-de-los-ocho-568079",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 041": {
-        "Date": "2019-10-19 12:39:41.807201",
-        "Link": "https://hsbnoticias.com/noticias/deportes/clasico-de-historicos-america-de-cali-buscara-la-clasificaci-567977",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:50.317149",
+        "Link": "https://hsbnoticias.com/noticias/deportes/cerca-del-titulo-cristian-rodriguez-avanzo-semifinales-del-568045",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 042": {
-        "Date": "2019-10-19 12:39:42.740880",
-        "Link": "https://hsbnoticias.com/noticias/deportes/la-libertadores-del-89-debio-ser-azul-sergio-goycochea-recue-567201",
-        "Status": "200"
+        "Date": "2019-10-19 20:33:57.810145",
+        "Link": "https://hsbnoticias.com/noticias/deportes/los-juegos-nacionales-tendran-mas-de-8000-deportistas-en-co-568048",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 043": {
-        "Date": "2019-10-19 12:39:43.577110",
+        "Date": "2019-10-19 20:33:58.693383",
         "Link": "https://hsbnoticias.com/noticias/deportes/millonarios-busca-sacudir-el-mercado-con-una-serie-de-refuer-567955",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 044": {
-        "Date": "2019-10-19 12:39:44.470755",
-        "Link": "https://hsbnoticias.com/noticias/deportes/mucha-atencion-habria-posible-fecha-de-inicio-para-paro-de-f-567958",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:02.516816",
+        "Link": "https://hsbnoticias.com/noticias/deportes/noticia-inesperada-para-nairo-quintana-sobre-su-presencia-en-567802",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 045": {
-        "Date": "2019-10-19 12:39:45.296365",
-        "Link": "https://hsbnoticias.com/noticias/deportes/nairo-quintana-estara-en-el-tour-de-francia-futuro-incierto-567262",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:06.094789",
+        "Link": "https://hsbnoticias.com/noticias/deportes/queiroz-alejo-falcao-y-james-de-la-seleccion-colombia-fede-568068",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 046": {
-        "Date": "2019-10-19 12:39:47.637903",
-        "Link": "https://hsbnoticias.com/noticias/deportes/noche-magica-asi-fue-el-espectacular-amistoso-de-ronaldinho-567769",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:09.783695",
+        "Link": "https://hsbnoticias.com/noticias/deportes/van-por-la-clasificacion-posibles-formaciones-de-junior-de-b-568088",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 047": {
-        "Date": "2019-10-19 12:39:48.485606",
-        "Link": "https://hsbnoticias.com/noticias/deportes/noticia-bomba-en-independiente-medellin-se-acerca-una-figura-567952",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:10.698057",
+        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 048": {
-        "Date": "2019-10-19 12:39:51.456305",
-        "Link": "https://hsbnoticias.com/noticias/deportes/noticia-inesperada-para-nairo-quintana-sobre-su-presencia-en-567802",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:13.819981",
+        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/comunidades-afrodescendientes-de-tumaco-viven-la-feria-de-567919",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 049": {
-        "Date": "2019-10-19 12:39:55.363338",
-        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:17.251322",
+        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/la-bioexpo-llega-cali-con-agenda-abierta-y-gratuita-567823",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 050": {
-        "Date": "2019-10-19 12:39:57.262222",
-        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/comunidades-afrodescendientes-de-tumaco-viven-la-feria-de-567919",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:20.205014",
+        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/la-tercerizacion-de-reclutamiento-le-ayuda-ahorrar-tiempo-567834",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 051": {
-        "Date": "2019-10-19 12:39:59.611914",
-        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/la-bioexpo-llega-cali-con-agenda-abierta-y-gratuita-567823",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:22.205735",
+        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/paises-iberoamericanos-anuncian-creacion-de-nuevo-mercado-re-567826",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 052": {
-        "Date": "2019-10-19 12:40:03.742618",
-        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/la-tercerizacion-de-reclutamiento-le-ayuda-ahorrar-tiempo-567834",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:24.336551",
+        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/severa-crisis-en-venezuela-segun-cifras-oficiales-inflacion-567930",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 053": {
-        "Date": "2019-10-19 12:40:09.182289",
-        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/paises-iberoamericanos-anuncian-creacion-de-nuevo-mercado-re-567826",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:26.512764",
+        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/ultima-semana-para-inscribirse-en-seminario-de-economia-nara-567825",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 054": {
-        "Date": "2019-10-19 12:40:13.852466",
-        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/severa-crisis-en-venezuela-segun-cifras-oficiales-inflacion-567930",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:28.187173",
+        "Link": "https://hsbnoticias.com/noticias/en-vivo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 055": {
-        "Date": "2019-10-19 12:40:18.926385",
-        "Link": "https://hsbnoticias.com/noticias/econom%C3%ADa/ultima-semana-para-inscribirse-en-seminario-de-economia-nara-567825",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:29.170064",
+        "Link": "https://hsbnoticias.com/noticias/en-vivo/en-vivo-enterese-de-los-movimientos-teluricos-en-colombia-y-395078",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 056": {
-        "Date": "2019-10-19 12:40:21.715136",
-        "Link": "https://hsbnoticias.com/noticias/en-vivo",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:30.239440",
+        "Link": "https://hsbnoticias.com/noticias/internacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 057": {
-        "Date": "2019-10-19 12:40:22.561308",
-        "Link": "https://hsbnoticias.com/noticias/en-vivo/en-vivo-enterese-de-los-movimientos-teluricos-en-colombia-y-395078",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:33.316965",
+        "Link": "https://hsbnoticias.com/noticias/internacional/adios-travis-policia-le-disparo-salvajemente-un-cachorro-568060",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 058": {
-        "Date": "2019-10-19 12:40:23.394951",
-        "Link": "https://hsbnoticias.com/noticias/internacional",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:35.996496",
+        "Link": "https://hsbnoticias.com/noticias/internacional/conozca-al-llamado-grupo-de-puebla-acusados-de-desestabiliza-568072",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 059": {
-        "Date": "2019-10-19 12:40:24.230413",
-        "Link": "https://hsbnoticias.com/noticias/internacional/aberrante-golpea-brutalmente-su-bebe-porque-queria-ir-un-567885",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:36.881323",
+        "Link": "https://hsbnoticias.com/noticias/internacional/espeluznante-hallazgo-embolsado-y-con-narcomensaje-dejan-u-568111",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 060": {
-        "Date": "2019-10-19 12:40:25.108771",
-        "Link": "https://hsbnoticias.com/noticias/internacional/conozca-al-iron-man-de-gaza-con-solo-8-anos-es-simbolo-de-la-567960",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:39.485505",
+        "Link": "https://hsbnoticias.com/noticias/internacional/militarizado-asi-amanece-santiago-tras-aterradora-noche-de-p-567965",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 061": {
-        "Date": "2019-10-19 12:40:25.973619",
-        "Link": "https://hsbnoticias.com/noticias/internacional/estado-de-emergencia-en-santiago-pinera-hizo-el-decreto-tras-567922",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:40.370709",
+        "Link": "https://hsbnoticias.com/noticias/internacional/perdio-el-control-se-metio-al-banco-con-el-carro-y-acabo-apl-568132",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 062": {
-        "Date": "2019-10-19 12:40:26.875788",
-        "Link": "https://hsbnoticias.com/noticias/internacional/metro-de-chile-se-ha-convertido-en-escenario-de-batalla-camp-567892",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:43.040366",
+        "Link": "https://hsbnoticias.com/noticias/internacional/suspenden-aumento-del-pasaje-en-chile-medida-tomada-tras-la-568117",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 063": {
-        "Date": "2019-10-19 12:40:27.753021",
-        "Link": "https://hsbnoticias.com/noticias/internacional/militarizado-asi-amanece-santiago-tras-aterradora-noche-de-p-567965",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:44.052242",
+        "Link": "https://hsbnoticias.com/noticias/internacional/tragico-padre-muere-tras-salvar-su-hijo-de-ser-aplastado-p-568008",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 064": {
-        "Date": "2019-10-19 12:40:28.599952",
-        "Link": "https://hsbnoticias.com/noticias/internacional/santiago-en-llamas-imagenes-muestran-la-tragedia-del-edifici-567944",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:45.067440",
+        "Link": "https://hsbnoticias.com/noticias/judicial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 065": {
-        "Date": "2019-10-19 12:40:29.444130",
-        "Link": "https://hsbnoticias.com/noticias/judicial",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:48.034673",
+        "Link": "https://hsbnoticias.com/noticias/judicial/autoridades-desmantelan-en-huila-locales-desde-donde-vendian-568041",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 066": {
-        "Date": "2019-10-19 12:40:32.087946",
-        "Link": "https://hsbnoticias.com/noticias/judicial/cayeron-los-mercaderes-de-la-muerte-capturan-16-presuntos-567810",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:49.521222",
+        "Link": "https://hsbnoticias.com/noticias/judicial/con-armas-de-fuego-y-coca-por-cantidades-capturaron-una-pa-567969",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 067": {
-        "Date": "2019-10-19 12:40:32.921456",
-        "Link": "https://hsbnoticias.com/noticias/judicial/con-armas-de-fuego-y-coca-por-cantidades-capturaron-una-pa-567969",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:53.620914",
+        "Link": "https://hsbnoticias.com/noticias/judicial/cuatro-venezolanos-conformaban-una-temida-banda-de-ladrones-567843",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 068": {
-        "Date": "2019-10-19 12:40:35.070454",
-        "Link": "https://hsbnoticias.com/noticias/judicial/cuatro-venezolanos-conformaban-una-temida-banda-de-ladrones-567843",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:54.544487",
+        "Link": "https://hsbnoticias.com/noticias/judicial/debajo-del-puente-que-comunica-colombia-con-venezuela-hall-568034",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 069": {
-        "Date": "2019-10-19 12:40:37.676666",
-        "Link": "https://hsbnoticias.com/noticias/judicial/desde-una-cuenta-de-facebook-red-reclutaba-ninas-para-expl-567829",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:55.501249",
+        "Link": "https://hsbnoticias.com/noticias/judicial/dos-motociclistas-protagonistas-de-aparatoso-y-lamentable-ac-568121",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 070": {
-        "Date": "2019-10-19 12:40:39.916107",
-        "Link": "https://hsbnoticias.com/noticias/judicial/encomienda-del-extranjero-la-nueva-modalidad-de-estafa-que-f-567836",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:56.993056",
+        "Link": "https://hsbnoticias.com/noticias/judicial/en-medio-de-ataque-sicarial-menor-habria-matado-balazos-568104",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 071": {
-        "Date": "2019-10-19 12:40:42.762232",
-        "Link": "https://hsbnoticias.com/noticias/judicial/enigmatico-crimen-consterna-al-meta-encuentran-cadaver-acuch-567950",
-        "Status": "200"
+        "Date": "2019-10-19 20:34:58.418704",
+        "Link": "https://hsbnoticias.com/noticias/judicial/fatal-agresion-maltrato-hasta-el-cansancio-su-esposa-e-hij-568086",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 072": {
-        "Date": "2019-10-19 12:40:45.805752",
-        "Link": "https://hsbnoticias.com/noticias/judicial/entre-amigos-se-mataron-por-un-absurdo-motivo-tragica-noche-567962",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:04.539143",
+        "Link": "https://hsbnoticias.com/noticias/judicial/hay-trabas-en-caso-de-muerte-de-la-comerciante-maria-igua-ta-567545",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 073": {
-        "Date": "2019-10-19 12:40:46.637918",
-        "Link": "https://hsbnoticias.com/noticias/judicial/hallan-y-destruyen-material-que-era-utilizado-para-extorsion-567974",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:07.508440",
+        "Link": "https://hsbnoticias.com/noticias/judicial/la-muerte-lo-sorprendio-caminando-por-la-calle-impactante-de-567543",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 074": {
-        "Date": "2019-10-19 12:40:49.103279",
-        "Link": "https://hsbnoticias.com/noticias/judicial/la-muerte-lo-sorprendio-caminando-por-la-calle-impactante-de-567543",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:08.520960",
+        "Link": "https://hsbnoticias.com/noticias/judicial/mediante-la-modalidad-de-cosquilleo-le-robo-150-mil-pesos-568051",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 075": {
-        "Date": "2019-10-19 12:40:51.327505",
-        "Link": "https://hsbnoticias.com/noticias/judicial/ojo-con-el-celular-que-compra-multas-en-pasto-por-adquirir-e-567966",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:09.546721",
+        "Link": "https://hsbnoticias.com/noticias/judicial/seis-policias-integraban-banda-delincuencial-vinculada-al-cr-567926",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 076": {
-        "Date": "2019-10-19 12:40:53.270826",
-        "Link": "https://hsbnoticias.com/noticias/judicial/se-gano-la-confianza-de-la-familia-y-abuso-de-una-nina-de-11-567983",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:10.816715",
+        "Link": "https://hsbnoticias.com/noticias/judicial/todo-termino-en-tragedia-cuando-se-dirigia-trabajar-impact-568069",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 077": {
-        "Date": "2019-10-19 12:40:55.600761",
-        "Link": "https://hsbnoticias.com/noticias/judicial/seis-policias-integraban-banda-delincuencial-vinculada-al-cr-567926",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:12.114562",
+        "Link": "https://hsbnoticias.com/noticias/local",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 078": {
-        "Date": "2019-10-19 12:40:56.448479",
-        "Link": "https://hsbnoticias.com/noticias/local",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:13.702125",
+        "Link": "https://hsbnoticias.com/noticias/multimedia/imagenes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 079": {
-        "Date": "2019-10-19 12:40:59.880366",
-        "Link": "https://hsbnoticias.com/noticias/local/pedaleando-por-los-principios-y-valores-bicicletas-y-disfrac-567948",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:18.335707",
+        "Link": "https://hsbnoticias.com/noticias/multimedia/portadas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 080": {
-        "Date": "2019-10-19 12:41:04.757050",
-        "Link": "https://hsbnoticias.com/noticias/multimedia/imagenes",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:22.673381",
+        "Link": "https://hsbnoticias.com/noticias/multimedia/portadas/portadas-19-de-octubre-de-2019-567924",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 081": {
-        "Date": "2019-10-19 12:41:10.913793",
-        "Link": "https://hsbnoticias.com/noticias/multimedia/portadas",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:23.995549",
+        "Link": "https://hsbnoticias.com/noticias/multimedia/videos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 082": {
-        "Date": "2019-10-19 12:41:15.174685",
-        "Link": "https://hsbnoticias.com/noticias/multimedia/portadas/portadas-19-de-octubre-de-2019-567924",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:26.750720",
+        "Link": "https://hsbnoticias.com/noticias/multimedia/videos-virales",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 083": {
-        "Date": "2019-10-19 12:41:16.013531",
-        "Link": "https://hsbnoticias.com/noticias/multimedia/videos",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:28.344808",
+        "Link": "https://hsbnoticias.com/noticias/nacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 084": {
-        "Date": "2019-10-19 12:41:19.806920",
-        "Link": "https://hsbnoticias.com/noticias/multimedia/videos-virales",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:31.495870",
+        "Link": "https://hsbnoticias.com/noticias/nacional/con-el-tiempo-jugando-en-contra-duque-invita-respaldar-la-568046",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 085": {
-        "Date": "2019-10-19 12:41:23.739664",
-        "Link": "https://hsbnoticias.com/noticias/nacional",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:33.963469",
+        "Link": "https://hsbnoticias.com/noticias/nacional/gobierno-plantea-plan-piloto-para-habilitacion-del-paso-vehi-568049",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 086": {
-        "Date": "2019-10-19 12:41:27.015988",
-        "Link": "https://hsbnoticias.com/noticias/nacional/como-inaudita-califican-la-inclusion-de-venezuela-en-el-cons-567685",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:35.017909",
+        "Link": "https://hsbnoticias.com/noticias/nacional/habilitado-transito-de-vehiculos-particulares-los-fines-de-s-568039",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 087": {
-        "Date": "2019-10-19 12:41:29.939874",
-        "Link": "https://hsbnoticias.com/noticias/nacional/ecopetrol-reporto-el-hallazgo-de-un-pozo-para-extraer-crudo-567705",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:38.142602",
+        "Link": "https://hsbnoticias.com/noticias/nacional/mision-de-la-oea-inicia-despliegue-en-el-pais-para-vigilar-l-567921",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 088": {
-        "Date": "2019-10-19 12:41:30.800648",
-        "Link": "https://hsbnoticias.com/noticias/nacional/la-superintendencia-de-salud-anuncia-la-liquidacion-de-la-ep-566769",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:40.970529",
+        "Link": "https://hsbnoticias.com/noticias/nacional/personas-en-condicion-de-discapacidad-no-tendran-restriccion-567939",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 089": {
-        "Date": "2019-10-19 12:41:33.406007",
-        "Link": "https://hsbnoticias.com/noticias/nacional/mision-de-la-oea-inicia-despliegue-en-el-pais-para-vigilar-l-567921",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:43.334002",
+        "Link": "https://hsbnoticias.com/noticias/nacional/pilotos-de-la-fuerza-aerea-del-peru-se-entrenan-en-colombia-567933",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 090": {
-        "Date": "2019-10-19 12:41:36.271852",
-        "Link": "https://hsbnoticias.com/noticias/nacional/personas-en-condicion-de-discapacidad-no-tendran-restriccion-567939",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:45.944166",
+        "Link": "https://hsbnoticias.com/noticias/nacional/procuraduria-hace-nuevo-llamado-para-proteger-el-derecho-l-567515",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 091": {
-        "Date": "2019-10-19 12:41:38.407684",
-        "Link": "https://hsbnoticias.com/noticias/nacional/pilotos-de-la-fuerza-aerea-del-peru-se-entrenan-en-colombia-567933",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:48.381893",
+        "Link": "https://hsbnoticias.com/noticias/nacional/restringido-nuevamente-el-paso-de-vehiculos-particulares-hac-566873",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 092": {
-        "Date": "2019-10-19 12:41:41.608345",
-        "Link": "https://hsbnoticias.com/noticias/nacional/presidente-duque-inauguro-la-conferencia-iberoamericana-de-m-567819",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:49.492215",
+        "Link": "https://hsbnoticias.com/noticias/opini%C3%B3n",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 093": {
-        "Date": "2019-10-19 12:41:44.231791",
-        "Link": "https://hsbnoticias.com/noticias/nacional/procuraduria-hace-nuevo-llamado-para-proteger-el-derecho-l-567515",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:50.510517",
+        "Link": "https://hsbnoticias.com/noticias/paranormal",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 094": {
-        "Date": "2019-10-19 12:41:51.677986",
-        "Link": "https://hsbnoticias.com/noticias/nacional/restringido-nuevamente-el-paso-de-vehiculos-particulares-hac-566873",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:52.962877",
+        "Link": "https://hsbnoticias.com/noticias/paranormal/no-lo-podra-creer-aparece-supuesta-imagen-asociada-jesucri-567808",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 095": {
-        "Date": "2019-10-19 12:41:54.406208",
-        "Link": "https://hsbnoticias.com/noticias/opini%C3%B3n",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:54.537547",
+        "Link": "https://hsbnoticias.com/noticias/paranormal/no-lo-podra-creer-avistan-supuestos-ovnis-en-el-mar-de-carol-565366",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 096": {
-        "Date": "2019-10-19 12:41:56.556502",
-        "Link": "https://hsbnoticias.com/noticias/opini%C3%B3n/la-mirada-de-quique-563030",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:55.565614",
+        "Link": "https://hsbnoticias.com/noticias/paranormal/nos-espian-los-extraterrestres-traves-de-sondas-estarian-o-563582",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 097": {
-        "Date": "2019-10-19 12:41:58.622177",
-        "Link": "https://hsbnoticias.com/noticias/paranormal",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:56.588985",
+        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 098": {
-        "Date": "2019-10-19 12:42:00.814592",
-        "Link": "https://hsbnoticias.com/noticias/paranormal/no-lo-podra-creer-aparece-supuesta-imagen-asociada-jesucri-567808",
-        "Status": "200"
+        "Date": "2019-10-19 20:35:59.417287",
+        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/atencion-publican-falsa-encuesta-de-intencion-de-voto-la-566543",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 099": {
-        "Date": "2019-10-19 12:42:01.731947",
-        "Link": "https://hsbnoticias.com/noticias/paranormal/no-lo-podra-creer-avistan-supuestos-ovnis-en-el-mar-de-carol-565366",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:00.382996",
+        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/ivan-cepeda-pide-capturar-y-encarcelar-diego-cadena-abogad-566745",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 100": {
-        "Date": "2019-10-19 12:42:02.639594",
-        "Link": "https://hsbnoticias.com/noticias/paranormal/nos-espian-los-extraterrestres-traves-de-sondas-estarian-o-563582",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:04.587622",
+        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/la-democracia-importa-impacto-del-proyecto-accion-democratic-567502",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 101": {
-        "Date": "2019-10-19 12:42:06.566297",
-        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:07.927533",
+        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/por-abuso-de-autoridad-destituyen-e-inhabilitan-por-12-anos-566788",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 102": {
-        "Date": "2019-10-19 12:42:10.162377",
-        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/atencion-publican-falsa-encuesta-de-intencion-de-voto-la-566543",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:08.937538",
+        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/por-eleccion-de-personero-suspendieron-cuatro-meses-tres-c-566481",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 103": {
-        "Date": "2019-10-19 12:42:11.048537",
-        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/ivan-cepeda-pide-capturar-y-encarcelar-diego-cadena-abogad-566745",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:10.015400",
+        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/transformare-bogota-yo-amo-y-sueno-con-esta-ciudad-miguel-u-566570",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 104": {
-        "Date": "2019-10-19 12:42:14.029688",
-        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/la-democracia-importa-impacto-del-proyecto-accion-democratic-567502",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:11.921163",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 105": {
-        "Date": "2019-10-19 12:42:14.912865",
-        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/por-abuso-de-autoridad-destituyen-e-inhabilitan-por-12-anos-566788",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:13.826971",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/asi-es-gabi-wolscham-la-preciosa-y-sexy-rubia-con-curvas-que-559675",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 106": {
-        "Date": "2019-10-19 12:42:17.476321",
-        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/por-eleccion-de-personero-suspendieron-cuatro-meses-tres-c-566481",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:15.093375",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/atencion-terminator-dark-fate-recibio-clasificacion-r-ojo-al-568140",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 107": {
-        "Date": "2019-10-19 12:42:18.344419",
-        "Link": "https://hsbnoticias.com/noticias/pol%C3%ADtica/transformare-bogota-yo-amo-y-sueno-con-esta-ciudad-miguel-u-566570",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:18.267896",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/carmen-villalobos-punto-de-casarse-publico-brutal-bikinazo-567889",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 108": {
-        "Date": "2019-10-19 12:42:19.198852",
-        "Link": "https://hsbnoticias.com/noticias/vida-moderna",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:19.237819",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/carnavales-de-pasto-2020-ya-tiene-su-reina-quien-es-valentin-568084",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 109": {
-        "Date": "2019-10-19 12:42:20.067190",
-        "Link": "https://hsbnoticias.com/noticias/vida-moderna/asi-es-gabi-wolscham-la-preciosa-y-sexy-rubia-con-curvas-que-559675",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:20.223606",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/carolina-cruz-aparecio-con-el-torso-completamente-desnudo-qu-568129",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 110": {
-        "Date": "2019-10-19 12:42:22.470776",
-        "Link": "https://hsbnoticias.com/noticias/vida-moderna/carmen-villalobos-punto-de-casarse-publico-brutal-bikinazo-567889",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:23.592863",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/cuales-fueron-los-inventos-de-thomas-edison-se-cumplen-88-567762",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 111": {
-        "Date": "2019-10-19 12:42:25.635691",
-        "Link": "https://hsbnoticias.com/noticias/vida-moderna/cuales-fueron-los-inventos-de-thomas-edison-se-cumplen-88-567762",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:26.475973",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/j-balvin-monto-su-propio-negocio-de-brasieres-y-ahora-busca-568040",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 112": {
-        "Date": "2019-10-19 12:42:28.442542",
-        "Link": "https://hsbnoticias.com/noticias/vida-moderna/la-filarmonica-joven-de-colombia-diego-torres-y-coro-de-misi-567920",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:29.183459",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/lady-gaga-se-porto-como-una-chica-rebelde-y-mostro-mas-de-la-568103",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 113": {
-        "Date": "2019-10-19 12:42:30.995358",
-        "Link": "https://hsbnoticias.com/noticias/vida-moderna/llego-el-dia-se-caso-rafael-nadal-y-mery-perello-tras-15-ano-567961",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:30.902069",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/las-dejo-al-aire-andrea-valdiri-mostro-sus-bubis-y-antojo-568057",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 114": {
-        "Date": "2019-10-19 12:42:33.002782",
-        "Link": "https://hsbnoticias.com/noticias/vida-moderna/pio-perilla-pilar-cabrera-estrenan-cancion-para-que-todos-se-567976",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:33.935838",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/matador-sacudio-las-redes-con-su-caricatura-machista-mujeres-568073",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 115": {
-        "Date": "2019-10-19 12:42:35.679768",
-        "Link": "https://hsbnoticias.com/noticias/vida-moderna/primeras-imagenes-asi-luce-carmen-villalobos-camino-al-altar-567898",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:36.224644",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/paola-jara-poso-como-toda-una-bomba-sexy-asi-alboroto-instag-568098",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 116": {
-        "Date": "2019-10-19 12:42:36.524185",
-        "Link": "https://hsbnoticias.com/noticias/vida-moderna/ya-son-marido-y-mujer-un-fieston-la-boda-de-carmen-villalobo-568004",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:37.268694",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/primeras-imagenes-asi-luce-carmen-villalobos-camino-al-altar-567898",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 117": {
-        "Date": "2019-10-19 12:42:38.764311",
-        "Link": "https://hsbnoticias.com/noticias/viral",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:38.357831",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/se-desnudaron-laura-acuna-y-carolina-soto-se-quitaron-toda-l-568047",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 118": {
-        "Date": "2019-10-19 12:42:40.917560",
-        "Link": "https://hsbnoticias.com/noticias/viral/pasion-terrorifica-captan-estudiantes-teniendo-sexo-en-tum-567954",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:39.362519",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/se-saco-todo-katherine-porto-disfruto-de-un-merecido-relax-e-568112",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 119": {
-        "Date": "2019-10-19 12:42:43.015403",
-        "Link": "https://hsbnoticias.com/noticias/viral/perreo-tras-las-rejas-recluso-se-graba-bailando-twerking-con-567896",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:40.387654",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/thalia-de-yo-me-llamo-alboroto-jessi-uribe-con-amor-la-m-568122",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 120": {
-        "Date": "2019-10-19 12:42:43.858692",
-        "Link": "https://hsbnoticias.com/noticias/viral/si-que-arde-barcelona-mujer-tiene-sexo-en-un-balcon-en-medio-567783",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:41.449274",
+        "Link": "https://hsbnoticias.com/noticias/vida-moderna/ya-son-marido-y-mujer-un-fieston-la-boda-de-carmen-villalobo-568004",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 121": {
-        "Date": "2019-10-19 12:42:44.723610",
-        "Link": "https://hsbnoticias.com/periodistas",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:44.330574",
+        "Link": "https://hsbnoticias.com/noticias/viral",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 122": {
-        "Date": "2019-10-19 12:42:46.849316",
-        "Link": "https://hsbnoticias.com/rss",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:45.404806",
+        "Link": "https://hsbnoticias.com/noticias/viral/le-dieron-palo-en-bucaramanga-por-abusar-carnalmente-de-su-p-568029",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 123": {
-        "Date": "2019-10-19 12:42:47.590935",
-        "Link": "https://hsbnoticias.com/rss.xml",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:47.996145",
+        "Link": "https://hsbnoticias.com/noticias/viral/pasion-terrorifica-captan-estudiantes-teniendo-sexo-en-tum-567954",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 124": {
-        "Date": "2019-10-19 12:42:49.909904",
-        "Link": "https://hsbnoticias.com/servicios/convertir-monedas",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:50.564668",
+        "Link": "https://hsbnoticias.com/noticias/viral/perreo-tras-las-rejas-recluso-se-graba-bailando-twerking-con-567896",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 125": {
-        "Date": "2019-10-19 12:42:51.555288",
-        "Link": "https://hsbnoticias.com/servicios/pronostico-del-clima-en-colombia",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:51.648967",
+        "Link": "https://hsbnoticias.com/periodistas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 126": {
-        "Date": "2019-10-19 12:42:53.551096",
-        "Link": "https://hsbnoticias.com/servicios/se-busca",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:53.801652",
+        "Link": "https://hsbnoticias.com/rss",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 127": {
-        "Date": "2019-10-19 12:42:55.220382",
-        "Link": "https://hsbnoticias.com/sitios/DiarioDelSur",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:55.090584",
+        "Link": "https://hsbnoticias.com/rss.xml",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 128": {
-        "Date": "2019-10-19 12:42:58.728402",
-        "Link": "https://hsbnoticias.com/sitios/ElPeriodicoDeportivo",
-        "Status": "200"
+        "Date": "2019-10-19 20:36:59.330738",
+        "Link": "https://hsbnoticias.com/servicios/convertir-monedas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 129": {
-        "Date": "2019-10-19 12:43:00.714136",
-        "Link": "https://hsbnoticias.com/sitios/Extra",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:01.703839",
+        "Link": "https://hsbnoticias.com/servicios/pronostico-del-clima-en-colombia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 130": {
-        "Date": "2019-10-19 12:43:04.412958",
-        "Link": "https://hsbnoticias.com/taxonomy/term/95606/",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:06.650770",
+        "Link": "https://hsbnoticias.com/servicios/se-busca",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 131": {
-        "Date": "2019-10-19 12:43:07.815475",
-        "Link": "https://hsbnoticias.com/temas/chica-instagram",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:08.961434",
+        "Link": "https://hsbnoticias.com/sitios/DiarioDelSur",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 132": {
-        "Date": "2019-10-19 12:43:10.851647",
-        "Link": "https://hsbnoticias.com/temas/di%C3%A1logos-de-la-habana",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:13.581754",
+        "Link": "https://hsbnoticias.com/sitios/ElPeriodicoDeportivo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 133": {
-        "Date": "2019-10-19 12:43:13.803618",
-        "Link": "https://hsbnoticias.com/temas/odebrecht",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:15.993923",
+        "Link": "https://hsbnoticias.com/sitios/Extra",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 134": {
-        "Date": "2019-10-19 12:43:17.127171",
-        "Link": "https://hsbnoticias.com/temas/recomendado",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:18.662554",
+        "Link": "https://hsbnoticias.com/taxonomy/term/95606/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 135": {
-        "Date": "2019-10-19 12:43:19.426205",
-        "Link": "https://hsbnoticias.com/trafico/bogota",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:21.344156",
+        "Link": "https://hsbnoticias.com/temas/chica-instagram",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 136": {
-        "Date": "2019-10-19 12:43:21.339586",
-        "Link": "https://hsbnoticias.com/trafico/cali",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:25.821626",
+        "Link": "https://hsbnoticias.com/temas/di%C3%A1logos-de-la-habana",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 137": {
-        "Date": "2019-10-19 12:43:23.410172",
-        "Link": "https://hsbnoticias.com/trafico/medellin",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:29.283255",
+        "Link": "https://hsbnoticias.com/temas/odebrecht",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 138": {
-        "Date": "2019-10-19 12:43:25.767943",
-        "Link": "https://hsbnoticias.com/trafico/pasto",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:32.302515",
+        "Link": "https://hsbnoticias.com/temas/recomendado",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 139": {
-        "Date": "2019-10-19 12:43:26.598562",
-        "Link": "https://hsbnoticias.com/user",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:33.428676",
+        "Link": "https://hsbnoticias.com/trafico/bogota",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 140": {
-        "Date": "2019-10-19 12:43:27.527696",
-        "Link": "https://hsbnoticias.com/user/password",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:36.429919",
+        "Link": "https://hsbnoticias.com/trafico/cali",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 141": {
-        "Date": "2019-10-19 12:43:28.469553",
-        "Link": "https://hsbnoticias.com/user/register",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:39.676293",
+        "Link": "https://hsbnoticias.com/trafico/medellin",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 142": {
-        "Date": "2019-10-19 12:43:29.755798",
-        "Link": "https://www.facebook.com/Hsbnoticias/",
-        "Status": "200"
+        "Date": "2019-10-19 20:37:41.865998",
+        "Link": "https://hsbnoticias.com/trafico/pasto",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     },
     "Check 143": {
-        "Date": "2019-10-19 12:43:30.822040",
+        "Date": "2019-10-19 20:37:42.888544",
+        "Link": "https://hsbnoticias.com/user",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 144": {
+        "Date": "2019-10-19 20:37:44.077520",
+        "Link": "https://hsbnoticias.com/user/password",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 145": {
+        "Date": "2019-10-19 20:37:45.071774",
+        "Link": "https://hsbnoticias.com/user/register",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 146": {
+        "Date": "2019-10-19 20:37:46.937733",
+        "Link": "https://www.facebook.com/Hsbnoticias/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 147": {
+        "Date": "2019-10-19 20:37:48.235027",
         "Link": "https://www.youtube.com/HSBNOTICIAS",
-        "Status": "200"
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
     }
 }

@@ -1,0 +1,2594 @@
+{
+    "Check 001": {
+        "Date": "2019-10-19 19:05:15.845413",
+        "Link": "http://sicfacilita.sic.gov.co/SICFacilita/consumidor",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 002": {
+        "Date": "2019-10-19 19:05:16.350620",
+        "Link": "http://unete.dafiti.com.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 003": {
+        "Date": "2019-10-19 19:05:17.473997",
+        "Link": "http://www.sic.gov.co/",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": "NO IP"
+        }
+    },
+    "Check 004": {
+        "Date": "2019-10-19 19:05:19.058999",
+        "Link": "https://app.adjust.com/avuhg2_nxttat",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 005": {
+        "Date": "2019-10-19 19:05:21.210857",
+        "Link": "https://app.adjust.com/mtkppn_xlh04i",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 006": {
+        "Date": "2019-10-19 19:05:21.587014",
+        "Link": "https://ipad.dafiti.com.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 007": {
+        "Date": "2019-10-19 19:05:21.968057",
+        "Link": "https://m.dafiti.com.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 008": {
+        "Date": "2019-10-19 19:05:22.848741",
+        "Link": "https://secure.dafiti.com.co/cart/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 009": {
+        "Date": "2019-10-19 19:05:23.965650",
+        "Link": "https://secure.dafiti.com.co/customer/account/logout/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 010": {
+        "Date": "2019-10-19 19:05:25.000896",
+        "Link": "https://secure.dafiti.com.co/customer/wishlist/index/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 011": {
+        "Date": "2019-10-19 19:05:26.185137",
+        "Link": "https://www.ccce.org.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 012": {
+        "Date": "2019-10-19 19:05:26.600318",
+        "Link": "https://www.dafiti.cl/cyberday/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 013": {
+        "Date": "2019-10-19 19:05:27.113390",
+        "Link": "https://www.dafiti.com.ar/cyber-monday/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 014": {
+        "Date": "2019-10-19 19:05:27.630407",
+        "Link": "https://www.dafiti.com.br/black-friday/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 015": {
+        "Date": "2019-10-19 19:05:28.031175",
+        "Link": "https://www.dafiti.com.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 016": {
+        "Date": "2019-10-19 19:05:28.467679",
+        "Link": "https://www.dafiti.com.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 017": {
+        "Date": "2019-10-19 19:05:29.063343",
+        "Link": "https://www.dafiti.com.co/Fila/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 018": {
+        "Date": "2019-10-19 19:05:29.480241",
+        "Link": "https://www.dafiti.com.co/accesorios/converse/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 019": {
+        "Date": "2019-10-19 19:05:29.893760",
+        "Link": "https://www.dafiti.com.co/accesorios/desigual/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 020": {
+        "Date": "2019-10-19 19:05:30.369477",
+        "Link": "https://www.dafiti.com.co/accesorios/invicta/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 021": {
+        "Date": "2019-10-19 19:05:31.001472",
+        "Link": "https://www.dafiti.com.co/accesorios/tommy-hilfiger/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 022": {
+        "Date": "2019-10-19 19:05:31.406096",
+        "Link": "https://www.dafiti.com.co/accesorios/us-polo-assn/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 023": {
+        "Date": "2019-10-19 19:05:31.835883",
+        "Link": "https://www.dafiti.com.co/accesorios/velez/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 024": {
+        "Date": "2019-10-19 19:05:32.329571",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-basquet/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 025": {
+        "Date": "2019-10-19 19:05:32.767367",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-boxeo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 026": {
+        "Date": "2019-10-19 19:05:33.198872",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-ciclismo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 027": {
+        "Date": "2019-10-19 19:05:33.618856",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-fitness/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 028": {
+        "Date": "2019-10-19 19:05:34.056095",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-futbol/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 029": {
+        "Date": "2019-10-19 19:05:34.488909",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-futsal/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 030": {
+        "Date": "2019-10-19 19:05:35.132696",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-lifestyle/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 031": {
+        "Date": "2019-10-19 19:05:35.532844",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-natacion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 032": {
+        "Date": "2019-10-19 19:05:35.977472",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-outdoor/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 033": {
+        "Date": "2019-10-19 19:05:36.512577",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-running/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 034": {
+        "Date": "2019-10-19 19:05:36.949209",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-skate/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 035": {
+        "Date": "2019-10-19 19:05:37.377117",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-tennis/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 036": {
+        "Date": "2019-10-19 19:05:37.819879",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-training/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 037": {
+        "Date": "2019-10-19 19:05:38.243504",
+        "Link": "https://www.dafiti.com.co/actividades-deportivas-yoga/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 038": {
+        "Date": "2019-10-19 19:05:38.756584",
+        "Link": "https://www.dafiti.com.co/adidas-originals/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 039": {
+        "Date": "2019-10-19 19:05:39.470631",
+        "Link": "https://www.dafiti.com.co/adidas-performance/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 040": {
+        "Date": "2019-10-19 19:05:39.928414",
+        "Link": "https://www.dafiti.com.co/adidas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 041": {
+        "Date": "2019-10-19 19:05:41.409934",
+        "Link": "https://www.dafiti.com.co/asics/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 042": {
+        "Date": "2019-10-19 19:05:44.016979",
+        "Link": "https://www.dafiti.com.co/atencion-al-cliente/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 043": {
+        "Date": "2019-10-19 19:05:44.504389",
+        "Link": "https://www.dafiti.com.co/audio/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 044": {
+        "Date": "2019-10-19 19:05:44.895617",
+        "Link": "https://www.dafiti.com.co/aviso-cumplimiento/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 045": {
+        "Date": "2019-10-19 19:05:45.276109",
+        "Link": "https://www.dafiti.com.co/aviso-de-privacidad/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 046": {
+        "Date": "2019-10-19 19:05:45.733129",
+        "Link": "https://www.dafiti.com.co/belleza/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 047": {
+        "Date": "2019-10-19 19:05:46.195298",
+        "Link": "https://www.dafiti.com.co/beverly-hills-polo-club/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 048": {
+        "Date": "2019-10-19 19:05:46.571982",
+        "Link": "https://www.dafiti.com.co/black-friday/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 049": {
+        "Date": "2019-10-19 19:05:47.142142",
+        "Link": "https://www.dafiti.com.co/bose/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 050": {
+        "Date": "2019-10-19 19:05:47.559507",
+        "Link": "https://www.dafiti.com.co/brahma/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 051": {
+        "Date": "2019-10-19 19:05:48.025148",
+        "Link": "https://www.dafiti.com.co/brooksfield/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 052": {
+        "Date": "2019-10-19 19:05:48.517550",
+        "Link": "https://www.dafiti.com.co/casio/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 053": {
+        "Date": "2019-10-19 19:05:48.951827",
+        "Link": "https://www.dafiti.com.co/chat.dafiti.com.co/client.php",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 054": {
+        "Date": "2019-10-19 19:05:49.399077",
+        "Link": "https://www.dafiti.com.co/converse/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 055": {
+        "Date": "2019-10-19 19:05:49.817685",
+        "Link": "https://www.dafiti.com.co/croydon/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 056": {
+        "Date": "2019-10-19 19:05:50.776784",
+        "Link": "https://www.dafiti.com.co/cupones/",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 057": {
+        "Date": "2019-10-19 19:05:51.515062",
+        "Link": "https://www.dafiti.com.co/cyberdays/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 058": {
+        "Date": "2019-10-19 19:05:51.942839",
+        "Link": "https://www.dafiti.com.co/cyberlunes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 059": {
+        "Date": "2019-10-19 19:05:52.460883",
+        "Link": "https://www.dafiti.com.co/deporte/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 060": {
+        "Date": "2019-10-19 19:05:53.025946",
+        "Link": "https://www.dafiti.com.co/deportes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 061": {
+        "Date": "2019-10-19 19:05:53.489331",
+        "Link": "https://www.dafiti.com.co/deportes/novedades/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 062": {
+        "Date": "2019-10-19 19:05:53.899061",
+        "Link": "https://www.dafiti.com.co/desigual/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 063": {
+        "Date": "2019-10-19 19:05:54.352739",
+        "Link": "https://www.dafiti.com.co/diesel/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 064": {
+        "Date": "2019-10-19 19:05:54.796849",
+        "Link": "https://www.dafiti.com.co/epk/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 065": {
+        "Date": "2019-10-19 19:05:55.326731",
+        "Link": "https://www.dafiti.com.co/femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 066": {
+        "Date": "2019-10-19 19:05:55.773777",
+        "Link": "https://www.dafiti.com.co/femenino/accesorios/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 067": {
+        "Date": "2019-10-19 19:05:56.334138",
+        "Link": "https://www.dafiti.com.co/femenino/accesorios/billeteras-accesorios-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 068": {
+        "Date": "2019-10-19 19:05:56.822010",
+        "Link": "https://www.dafiti.com.co/femenino/accesorios/bolsos-carteras/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 069": {
+        "Date": "2019-10-19 19:05:57.327192",
+        "Link": "https://www.dafiti.com.co/femenino/accesorios/cinturones-accesorios-femenio/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 070": {
+        "Date": "2019-10-19 19:06:03.160530",
+        "Link": "https://www.dafiti.com.co/femenino/accesorios/gafas-accesorios-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 071": {
+        "Date": "2019-10-19 19:06:03.877206",
+        "Link": "https://www.dafiti.com.co/femenino/accesorios/joyeria-bisuteria/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 072": {
+        "Date": "2019-10-19 19:06:04.928913",
+        "Link": "https://www.dafiti.com.co/femenino/accesorios/maletas-morrales-accesorios-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 073": {
+        "Date": "2019-10-19 19:06:05.740253",
+        "Link": "https://www.dafiti.com.co/femenino/accesorios/relojes-accesorios-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 074": {
+        "Date": "2019-10-19 19:06:06.486956",
+        "Link": "https://www.dafiti.com.co/femenino/deportes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 075": {
+        "Date": "2019-10-19 19:06:07.319620",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 076": {
+        "Date": "2019-10-19 19:06:07.828984",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/accesorios-deportivos-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 077": {
+        "Date": "2019-10-19 19:06:08.560773",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/equipamiento-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 078": {
+        "Date": "2019-10-19 19:06:09.183775",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/leggings-capris-ropa-deportes-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 079": {
+        "Date": "2019-10-19 19:06:09.810718",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/ropa-camisetas-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 080": {
+        "Date": "2019-10-19 19:06:10.536921",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/ropa-chaquetas_y_chalecos-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 081": {
+        "Date": "2019-10-19 19:06:11.442333",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/ropa-pantalones-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 082": {
+        "Date": "2019-10-19 19:06:12.032815",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/tenis-deportivos-depor-fem/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 083": {
+        "Date": "2019-10-19 19:06:12.659007",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/vestuario-deportes-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 084": {
+        "Date": "2019-10-19 19:06:13.252276",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/zapatos-botas-femenino-dep/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 085": {
+        "Date": "2019-10-19 19:06:13.830702",
+        "Link": "https://www.dafiti.com.co/femenino/deportes/zapatos-deporte-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 086": {
+        "Date": "2019-10-19 19:06:14.373698",
+        "Link": "https://www.dafiti.com.co/femenino/vestuario/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 087": {
+        "Date": "2019-10-19 19:06:14.952925",
+        "Link": "https://www.dafiti.com.co/femenino/vestuario/blusas-camisas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 088": {
+        "Date": "2019-10-19 19:06:16.144728",
+        "Link": "https://www.dafiti.com.co/femenino/vestuario/faldas-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 089": {
+        "Date": "2019-10-19 19:06:18.691146",
+        "Link": "https://www.dafiti.com.co/femenino/vestuario/pantalones-mujer/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 090": {
+        "Date": "2019-10-19 19:06:19.233611",
+        "Link": "https://www.dafiti.com.co/femenino/vestuario/sacos-buzos-fem/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 091": {
+        "Date": "2019-10-19 19:06:19.820306",
+        "Link": "https://www.dafiti.com.co/femenino/vestuario/vestuario-femenino-camisetas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 092": {
+        "Date": "2019-10-19 19:06:20.604191",
+        "Link": "https://www.dafiti.com.co/femenino/vestuario/vestuario-ropa-interior-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 093": {
+        "Date": "2019-10-19 19:06:21.150624",
+        "Link": "https://www.dafiti.com.co/femenino/vestuario/vestuario-vestidos-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 094": {
+        "Date": "2019-10-19 19:06:21.673705",
+        "Link": "https://www.dafiti.com.co/femenino/vestuario/vestuario_mujer-chaquetas_chalecos_y_abrigos-fememnino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 095": {
+        "Date": "2019-10-19 19:06:22.292126",
+        "Link": "https://www.dafiti.com.co/femenino/vestuario/vestuario_mujer-jeans-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 096": {
+        "Date": "2019-10-19 19:06:22.873758",
+        "Link": "https://www.dafiti.com.co/femenino/zapatos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 097": {
+        "Date": "2019-10-19 19:06:23.442069",
+        "Link": "https://www.dafiti.com.co/femenino/zapatos/tenis-fem/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 098": {
+        "Date": "2019-10-19 19:06:24.015871",
+        "Link": "https://www.dafiti.com.co/femenino/zapatos/zapatos-baletas-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 099": {
+        "Date": "2019-10-19 19:06:24.666196",
+        "Link": "https://www.dafiti.com.co/femenino/zapatos/zapatos-botas-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 100": {
+        "Date": "2019-10-19 19:06:25.238956",
+        "Link": "https://www.dafiti.com.co/femenino/zapatos/zapatos-casuales-y-oxford/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 101": {
+        "Date": "2019-10-19 19:06:25.949614",
+        "Link": "https://www.dafiti.com.co/femenino/zapatos/zapatos-mocasines-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 102": {
+        "Date": "2019-10-19 19:06:26.721820",
+        "Link": "https://www.dafiti.com.co/femenino/zapatos/zapatos-sandalias-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 103": {
+        "Date": "2019-10-19 19:06:27.344608",
+        "Link": "https://www.dafiti.com.co/femenino/zapatos/zapatos-tacones-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 104": {
+        "Date": "2019-10-19 19:06:27.886302",
+        "Link": "https://www.dafiti.com.co/fila/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 105": {
+        "Date": "2019-10-19 19:06:28.507762",
+        "Link": "https://www.dafiti.com.co/fisher-price/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 106": {
+        "Date": "2019-10-19 19:06:29.118816",
+        "Link": "https://www.dafiti.com.co/funko/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 107": {
+        "Date": "2019-10-19 19:06:29.644693",
+        "Link": "https://www.dafiti.com.co/glosario/a/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 108": {
+        "Date": "2019-10-19 19:06:30.111934",
+        "Link": "https://www.dafiti.com.co/glosario/b/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 109": {
+        "Date": "2019-10-19 19:06:30.607394",
+        "Link": "https://www.dafiti.com.co/glosario/c/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 110": {
+        "Date": "2019-10-19 19:06:31.243892",
+        "Link": "https://www.dafiti.com.co/glosario/d/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 111": {
+        "Date": "2019-10-19 19:06:31.768855",
+        "Link": "https://www.dafiti.com.co/glosario/e/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 112": {
+        "Date": "2019-10-19 19:06:32.276596",
+        "Link": "https://www.dafiti.com.co/glosario/f/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 113": {
+        "Date": "2019-10-19 19:06:32.752063",
+        "Link": "https://www.dafiti.com.co/glosario/g/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 114": {
+        "Date": "2019-10-19 19:06:33.233873",
+        "Link": "https://www.dafiti.com.co/glosario/h/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 115": {
+        "Date": "2019-10-19 19:06:33.731907",
+        "Link": "https://www.dafiti.com.co/glosario/i/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 116": {
+        "Date": "2019-10-19 19:06:34.244489",
+        "Link": "https://www.dafiti.com.co/glosario/j/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 117": {
+        "Date": "2019-10-19 19:06:34.849874",
+        "Link": "https://www.dafiti.com.co/glosario/k/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 118": {
+        "Date": "2019-10-19 19:06:35.343702",
+        "Link": "https://www.dafiti.com.co/glosario/l/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 119": {
+        "Date": "2019-10-19 19:06:35.855318",
+        "Link": "https://www.dafiti.com.co/glosario/m/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 120": {
+        "Date": "2019-10-19 19:06:36.444659",
+        "Link": "https://www.dafiti.com.co/glosario/n/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 121": {
+        "Date": "2019-10-19 19:06:37.004105",
+        "Link": "https://www.dafiti.com.co/glosario/o/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 122": {
+        "Date": "2019-10-19 19:06:37.531522",
+        "Link": "https://www.dafiti.com.co/glosario/p/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 123": {
+        "Date": "2019-10-19 19:06:38.259250",
+        "Link": "https://www.dafiti.com.co/glosario/q/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 124": {
+        "Date": "2019-10-19 19:06:39.106826",
+        "Link": "https://www.dafiti.com.co/glosario/r/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 125": {
+        "Date": "2019-10-19 19:06:39.845862",
+        "Link": "https://www.dafiti.com.co/glosario/s/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 126": {
+        "Date": "2019-10-19 19:06:40.361239",
+        "Link": "https://www.dafiti.com.co/glosario/t/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 127": {
+        "Date": "2019-10-19 19:06:41.177419",
+        "Link": "https://www.dafiti.com.co/glosario/u/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 128": {
+        "Date": "2019-10-19 19:06:41.775859",
+        "Link": "https://www.dafiti.com.co/glosario/v/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 129": {
+        "Date": "2019-10-19 19:06:42.306587",
+        "Link": "https://www.dafiti.com.co/glosario/w/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 130": {
+        "Date": "2019-10-19 19:06:42.776162",
+        "Link": "https://www.dafiti.com.co/glosario/x/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 131": {
+        "Date": "2019-10-19 19:06:43.427858",
+        "Link": "https://www.dafiti.com.co/glosario/y/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 132": {
+        "Date": "2019-10-19 19:06:43.896682",
+        "Link": "https://www.dafiti.com.co/glosario/z/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 133": {
+        "Date": "2019-10-19 19:06:44.435359",
+        "Link": "https://www.dafiti.com.co/guess/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 134": {
+        "Date": "2019-10-19 19:06:44.998980",
+        "Link": "https://www.dafiti.com.co/infantil/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 135": {
+        "Date": "2019-10-19 19:06:45.574765",
+        "Link": "https://www.dafiti.com.co/infantil/deportes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 136": {
+        "Date": "2019-10-19 19:06:46.143983",
+        "Link": "https://www.dafiti.com.co/infantil/deportes/infantil-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 137": {
+        "Date": "2019-10-19 19:06:46.758639",
+        "Link": "https://www.dafiti.com.co/infantil/deportes/infantil-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 138": {
+        "Date": "2019-10-19 19:06:47.659971",
+        "Link": "https://www.dafiti.com.co/infantil/novedades/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 139": {
+        "Date": "2019-10-19 19:06:48.361555",
+        "Link": "https://www.dafiti.com.co/infantil/vestuario/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 140": {
+        "Date": "2019-10-19 19:06:49.098256",
+        "Link": "https://www.dafiti.com.co/infantil/zapatos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 141": {
+        "Date": "2019-10-19 19:06:50.047752",
+        "Link": "https://www.dafiti.com.co/infantil/zapatos/ninas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 142": {
+        "Date": "2019-10-19 19:06:50.871061",
+        "Link": "https://www.dafiti.com.co/infantil/zapatos/unisex/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 143": {
+        "Date": "2019-10-19 19:06:51.447791",
+        "Link": "https://www.dafiti.com.co/infantil/zapatos/zapatos-ninos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 144": {
+        "Date": "2019-10-19 19:06:51.971944",
+        "Link": "https://www.dafiti.com.co/invicta/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 145": {
+        "Date": "2019-10-19 19:06:53.520334",
+        "Link": "https://www.dafiti.com.co/jack-jones/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 146": {
+        "Date": "2019-10-19 19:06:55.939091",
+        "Link": "https://www.dafiti.com.co/koaj/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 147": {
+        "Date": "2019-10-19 19:06:56.532787",
+        "Link": "https://www.dafiti.com.co/le-coq-sportif/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 148": {
+        "Date": "2019-10-19 19:06:57.135893",
+        "Link": "https://www.dafiti.com.co/levis/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 149": {
+        "Date": "2019-10-19 19:06:57.967681",
+        "Link": "https://www.dafiti.com.co/los-gomosos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 150": {
+        "Date": "2019-10-19 19:06:58.493732",
+        "Link": "https://www.dafiti.com.co/lotto/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 151": {
+        "Date": "2019-10-19 19:06:59.125196",
+        "Link": "https://www.dafiti.com.co/mango-mng/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 152": {
+        "Date": "2019-10-19 19:06:59.647502",
+        "Link": "https://www.dafiti.com.co/marcas-premium/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 153": {
+        "Date": "2019-10-19 19:07:00.651874",
+        "Link": "https://www.dafiti.com.co/marcas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 154": {
+        "Date": "2019-10-19 19:07:01.596430",
+        "Link": "https://www.dafiti.com.co/marcas/accesorios/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 155": {
+        "Date": "2019-10-19 19:07:02.097717",
+        "Link": "https://www.dafiti.com.co/marcas/deportes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 156": {
+        "Date": "2019-10-19 19:07:02.590800",
+        "Link": "https://www.dafiti.com.co/marcas/vestuario/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 157": {
+        "Date": "2019-10-19 19:07:03.312460",
+        "Link": "https://www.dafiti.com.co/marcas/zapatos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 158": {
+        "Date": "2019-10-19 19:07:03.832472",
+        "Link": "https://www.dafiti.com.co/marketing-personal/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 159": {
+        "Date": "2019-10-19 19:07:04.318294",
+        "Link": "https://www.dafiti.com.co/masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 160": {
+        "Date": "2019-10-19 19:07:04.831644",
+        "Link": "https://www.dafiti.com.co/masculino/accesorios/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 161": {
+        "Date": "2019-10-19 19:07:05.352125",
+        "Link": "https://www.dafiti.com.co/masculino/accesorios/billeteras-accesorios-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 162": {
+        "Date": "2019-10-19 19:07:05.858866",
+        "Link": "https://www.dafiti.com.co/masculino/accesorios/bufandas-y-corbatas-accesorios-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 163": {
+        "Date": "2019-10-19 19:07:06.371022",
+        "Link": "https://www.dafiti.com.co/masculino/accesorios/cinturones-accesorios-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 164": {
+        "Date": "2019-10-19 19:07:07.014242",
+        "Link": "https://www.dafiti.com.co/masculino/accesorios/gafas-accesorios-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 165": {
+        "Date": "2019-10-19 19:07:07.540653",
+        "Link": "https://www.dafiti.com.co/masculino/accesorios/maletas-morrales-accesorios-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 166": {
+        "Date": "2019-10-19 19:07:08.061702",
+        "Link": "https://www.dafiti.com.co/masculino/accesorios/maletines-bolsos-accesorios-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 167": {
+        "Date": "2019-10-19 19:07:08.578196",
+        "Link": "https://www.dafiti.com.co/masculino/accesorios/relojes-accesorios-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 168": {
+        "Date": "2019-10-19 19:07:09.172462",
+        "Link": "https://www.dafiti.com.co/masculino/deportes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 169": {
+        "Date": "2019-10-19 19:07:09.696353",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 170": {
+        "Date": "2019-10-19 19:07:10.240874",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/accesorios-deportivos-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 171": {
+        "Date": "2019-10-19 19:07:10.969686",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/buzos-hoodies-deportes-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 172": {
+        "Date": "2019-10-19 19:07:11.658436",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/equipamiento-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 173": {
+        "Date": "2019-10-19 19:07:12.293234",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/maletas-morrales-deportes-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 174": {
+        "Date": "2019-10-19 19:07:12.876709",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/ropa-camisetas-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 175": {
+        "Date": "2019-10-19 19:07:13.382453",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/ropa-pantalones-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 176": {
+        "Date": "2019-10-19 19:07:13.902730",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/tenis-deportivos-depor-masc/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 177": {
+        "Date": "2019-10-19 19:07:14.413348",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/vestuario-deportes-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 178": {
+        "Date": "2019-10-19 19:07:15.046645",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/zapatos-botas-masculino-dep/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 179": {
+        "Date": "2019-10-19 19:07:15.581772",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/zapatos-deporte-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 180": {
+        "Date": "2019-10-19 19:07:16.128865",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/zapatos-deporte-masculino/nike/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 181": {
+        "Date": "2019-10-19 19:07:16.728107",
+        "Link": "https://www.dafiti.com.co/masculino/deportes/zapatos-guayos-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 182": {
+        "Date": "2019-10-19 19:07:17.253322",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 183": {
+        "Date": "2019-10-19 19:07:17.776980",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/chaquetas-chalecos-ropa-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 184": {
+        "Date": "2019-10-19 19:07:18.305185",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/polos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 185": {
+        "Date": "2019-10-19 19:07:18.932542",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/ropa-interior-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 186": {
+        "Date": "2019-10-19 19:07:19.444948",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/sacos-buzos-cardigans/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 187": {
+        "Date": "2019-10-19 19:07:20.022120",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/vestuario-bermudas-pantalonetas-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 188": {
+        "Date": "2019-10-19 19:07:21.053219",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/vestuario-camisas-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 189": {
+        "Date": "2019-10-19 19:07:21.574292",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/vestuario-camisetas-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 190": {
+        "Date": "2019-10-19 19:07:22.133727",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/vestuario-jeans-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 191": {
+        "Date": "2019-10-19 19:07:22.648318",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/vestuario-pantalones-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 192": {
+        "Date": "2019-10-19 19:07:23.216863",
+        "Link": "https://www.dafiti.com.co/masculino/vestuario/vestuario-traje-de-bano-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 193": {
+        "Date": "2019-10-19 19:07:23.728766",
+        "Link": "https://www.dafiti.com.co/masculino/zapatos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 194": {
+        "Date": "2019-10-19 19:07:24.275369",
+        "Link": "https://www.dafiti.com.co/masculino/zapatos/sandalias-playeras-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 195": {
+        "Date": "2019-10-19 19:07:24.847755",
+        "Link": "https://www.dafiti.com.co/masculino/zapatos/tenis-moda-mas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 196": {
+        "Date": "2019-10-19 19:07:25.360411",
+        "Link": "https://www.dafiti.com.co/masculino/zapatos/tenis/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 197": {
+        "Date": "2019-10-19 19:07:25.866871",
+        "Link": "https://www.dafiti.com.co/masculino/zapatos/zapatos-botas-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 198": {
+        "Date": "2019-10-19 19:07:26.382243",
+        "Link": "https://www.dafiti.com.co/masculino/zapatos/zapatos-casuales-oxfords-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 199": {
+        "Date": "2019-10-19 19:07:27.020227",
+        "Link": "https://www.dafiti.com.co/masculino/zapatos/zapatos-formales-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 200": {
+        "Date": "2019-10-19 19:07:27.569057",
+        "Link": "https://www.dafiti.com.co/masculino/zapatos/zapatos-mocasines-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 201": {
+        "Date": "2019-10-19 19:07:28.135435",
+        "Link": "https://www.dafiti.com.co/mercedes-campuzano/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 202": {
+        "Date": "2019-10-19 19:07:32.482917",
+        "Link": "https://www.dafiti.com.co/michael-kors/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 203": {
+        "Date": "2019-10-19 19:07:33.203048",
+        "Link": "https://www.dafiti.com.co/moleca/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 204": {
+        "Date": "2019-10-19 19:07:33.781248",
+        "Link": "https://www.dafiti.com.co/nautica/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 205": {
+        "Date": "2019-10-19 19:07:34.868582",
+        "Link": "https://www.dafiti.com.co/new-balance/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 206": {
+        "Date": "2019-10-19 19:07:40.530790",
+        "Link": "https://www.dafiti.com.co/newsletter",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 207": {
+        "Date": "2019-10-19 19:07:41.171854",
+        "Link": "https://www.dafiti.com.co/nike/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 208": {
+        "Date": "2019-10-19 19:07:41.795058",
+        "Link": "https://www.dafiti.com.co/novedades-accesorios-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 209": {
+        "Date": "2019-10-19 19:07:42.459621",
+        "Link": "https://www.dafiti.com.co/novedades-accesorios-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 210": {
+        "Date": "2019-10-19 19:07:43.212942",
+        "Link": "https://www.dafiti.com.co/novedades-deportes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 211": {
+        "Date": "2019-10-19 19:07:43.835117",
+        "Link": "https://www.dafiti.com.co/novedades-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 212": {
+        "Date": "2019-10-19 19:07:44.519639",
+        "Link": "https://www.dafiti.com.co/novedades-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 213": {
+        "Date": "2019-10-19 19:07:45.161546",
+        "Link": "https://www.dafiti.com.co/novedades-ropa-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 214": {
+        "Date": "2019-10-19 19:07:45.824382",
+        "Link": "https://www.dafiti.com.co/novedades-ropa-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 215": {
+        "Date": "2019-10-19 19:07:46.464235",
+        "Link": "https://www.dafiti.com.co/novedades-zapatos-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 216": {
+        "Date": "2019-10-19 19:07:47.145542",
+        "Link": "https://www.dafiti.com.co/novedades-zapatos-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 217": {
+        "Date": "2019-10-19 19:07:47.816038",
+        "Link": "https://www.dafiti.com.co/ocean-pacific/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 218": {
+        "Date": "2019-10-19 19:07:48.444967",
+        "Link": "https://www.dafiti.com.co/paris-district/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 219": {
+        "Date": "2019-10-19 19:07:48.981090",
+        "Link": "https://www.dafiti.com.co/perfumes-hombre-belleza-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 220": {
+        "Date": "2019-10-19 19:07:49.439849",
+        "Link": "https://www.dafiti.com.co/pink-october/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 221": {
+        "Date": "2019-10-19 19:07:50.057241",
+        "Link": "https://www.dafiti.com.co/politica-de-datos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 222": {
+        "Date": "2019-10-19 19:07:50.879885",
+        "Link": "https://www.dafiti.com.co/politica-de-privacidad/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 223": {
+        "Date": "2019-10-19 19:07:51.355088",
+        "Link": "https://www.dafiti.com.co/pqrs/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 224": {
+        "Date": "2019-10-19 19:07:51.881624",
+        "Link": "https://www.dafiti.com.co/precio-especial-accesorios-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 225": {
+        "Date": "2019-10-19 19:07:52.393499",
+        "Link": "https://www.dafiti.com.co/precio-especial-accesorios-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 226": {
+        "Date": "2019-10-19 19:07:52.925827",
+        "Link": "https://www.dafiti.com.co/precio-especial-deportes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 227": {
+        "Date": "2019-10-19 19:07:53.458835",
+        "Link": "https://www.dafiti.com.co/precio-especial-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 228": {
+        "Date": "2019-10-19 19:07:53.998186",
+        "Link": "https://www.dafiti.com.co/precio-especial-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 229": {
+        "Date": "2019-10-19 19:07:54.517026",
+        "Link": "https://www.dafiti.com.co/precio-especial-ropa-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 230": {
+        "Date": "2019-10-19 19:07:55.113775",
+        "Link": "https://www.dafiti.com.co/precio-especial-ropa-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 231": {
+        "Date": "2019-10-19 19:07:55.644618",
+        "Link": "https://www.dafiti.com.co/precio-especial-zapatos-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 232": {
+        "Date": "2019-10-19 19:07:56.184628",
+        "Link": "https://www.dafiti.com.co/precio-especial-zapatos-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 233": {
+        "Date": "2019-10-19 19:07:56.765927",
+        "Link": "https://www.dafiti.com.co/precio-especial/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 234": {
+        "Date": "2019-10-19 19:07:57.309606",
+        "Link": "https://www.dafiti.com.co/puma/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 235": {
+        "Date": "2019-10-19 19:07:57.816037",
+        "Link": "https://www.dafiti.com.co/qupid/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 236": {
+        "Date": "2019-10-19 19:07:58.331631",
+        "Link": "https://www.dafiti.com.co/racketball-paga-3-lleva-4/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 237": {
+        "Date": "2019-10-19 19:07:58.961218",
+        "Link": "https://www.dafiti.com.co/ray-ban/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 238": {
+        "Date": "2019-10-19 19:07:59.461311",
+        "Link": "https://www.dafiti.com.co/recien-nacida-0-18-meses/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 239": {
+        "Date": "2019-10-19 19:07:59.992917",
+        "Link": "https://www.dafiti.com.co/recien-nacido/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 240": {
+        "Date": "2019-10-19 19:08:00.510718",
+        "Link": "https://www.dafiti.com.co/reebok/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 241": {
+        "Date": "2019-10-19 19:08:01.048696",
+        "Link": "https://www.dafiti.com.co/ropa-bebe-ninas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 242": {
+        "Date": "2019-10-19 19:08:01.561603",
+        "Link": "https://www.dafiti.com.co/ropa-bebe-nino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 243": {
+        "Date": "2019-10-19 19:08:02.123964",
+        "Link": "https://www.dafiti.com.co/ropa-nina/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 244": {
+        "Date": "2019-10-19 19:08:02.679474",
+        "Link": "https://www.dafiti.com.co/ropa-nino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 245": {
+        "Date": "2019-10-19 19:08:03.245359",
+        "Link": "https://www.dafiti.com.co/rose-pistol/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 246": {
+        "Date": "2019-10-19 19:08:03.753202",
+        "Link": "https://www.dafiti.com.co/royal-county-of-berkshire-polo-club/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 247": {
+        "Date": "2019-10-19 19:08:04.259915",
+        "Link": "https://www.dafiti.com.co/saeta/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 248": {
+        "Date": "2019-10-19 19:08:04.896054",
+        "Link": "https://www.dafiti.com.co/san-polos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 249": {
+        "Date": "2019-10-19 19:08:05.385872",
+        "Link": "https://www.dafiti.com.co/selection-femenino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 250": {
+        "Date": "2019-10-19 19:08:05.890081",
+        "Link": "https://www.dafiti.com.co/selection-masculino/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 251": {
+        "Date": "2019-10-19 19:08:06.400741",
+        "Link": "https://www.dafiti.com.co/skechers/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 252": {
+        "Date": "2019-10-19 19:08:06.966357",
+        "Link": "https://www.dafiti.com.co/smartfashion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 253": {
+        "Date": "2019-10-19 19:08:07.469801",
+        "Link": "https://www.dafiti.com.co/swatch/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 254": {
+        "Date": "2019-10-19 19:08:08.006856",
+        "Link": "https://www.dafiti.com.co/terminos-y-condiciones/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 255": {
+        "Date": "2019-10-19 19:08:09.691465",
+        "Link": "https://www.dafiti.com.co/tienda-luxottica/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 256": {
+        "Date": "2019-10-19 19:08:11.255273",
+        "Link": "https://www.dafiti.com.co/tienda-nike/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 257": {
+        "Date": "2019-10-19 19:08:11.954507",
+        "Link": "https://www.dafiti.com.co/tienda-rcbpc/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 258": {
+        "Date": "2019-10-19 19:08:12.500565",
+        "Link": "https://www.dafiti.com.co/tienda-rosepistol/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 259": {
+        "Date": "2019-10-19 19:08:12.984976",
+        "Link": "https://www.dafiti.com.co/tienda-top-marcas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 260": {
+        "Date": "2019-10-19 19:08:13.502828",
+        "Link": "https://www.dafiti.com.co/timberland/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 261": {
+        "Date": "2019-10-19 19:08:14.034501",
+        "Link": "https://www.dafiti.com.co/todo-para-el-com01604/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 262": {
+        "Date": "2019-10-19 19:08:14.569698",
+        "Link": "https://www.dafiti.com.co/todos-los-productos/molekinho--molekinha/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 263": {
+        "Date": "2019-10-19 19:08:15.101249",
+        "Link": "https://www.dafiti.com.co/todos-los-productos/offcorss/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 264": {
+        "Date": "2019-10-19 19:08:15.628716",
+        "Link": "https://www.dafiti.com.co/tommy-hilfiger/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 265": {
+        "Date": "2019-10-19 19:08:16.253980",
+        "Link": "https://www.dafiti.com.co/udner-armour/",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": "USER ERROR"
+        }
+    },
+    "Check 266": {
+        "Date": "2019-10-19 19:08:17.216516",
+        "Link": "https://www.dafiti.com.co/under-armour/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 267": {
+        "Date": "2019-10-19 19:08:18.029392",
+        "Link": "https://www.dafiti.com.co/us-polo-assn/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 268": {
+        "Date": "2019-10-19 19:08:18.671318",
+        "Link": "https://www.dafiti.com.co/velez/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 269": {
+        "Date": "2019-10-19 19:08:19.287288",
+        "Link": "https://www.dafiti.com.co/vestuario/active/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 270": {
+        "Date": "2019-10-19 19:08:19.809435",
+        "Link": "https://www.dafiti.com.co/vestuario/brooksfield/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 271": {
+        "Date": "2019-10-19 19:08:20.763352",
+        "Link": "https://www.dafiti.com.co/vestuario/desigual/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 272": {
+        "Date": "2019-10-19 19:08:21.280394",
+        "Link": "https://www.dafiti.com.co/vestuario/koaj/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 273": {
+        "Date": "2019-10-19 19:08:21.795731",
+        "Link": "https://www.dafiti.com.co/vestuario/levis/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 274": {
+        "Date": "2019-10-19 19:08:22.303331",
+        "Link": "https://www.dafiti.com.co/vestuario/nautica/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 275": {
+        "Date": "2019-10-19 19:08:22.867493",
+        "Link": "https://www.dafiti.com.co/vestuario/paris-district/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 276": {
+        "Date": "2019-10-19 19:08:23.397215",
+        "Link": "https://www.dafiti.com.co/vestuario/tommy-hilfiger/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 277": {
+        "Date": "2019-10-19 19:08:23.902877",
+        "Link": "https://www.dafiti.com.co/vestuario/us-polo-assn/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 278": {
+        "Date": "2019-10-19 19:08:24.406955",
+        "Link": "https://www.dafiti.com.co/vizzano/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 279": {
+        "Date": "2019-10-19 19:08:24.922795",
+        "Link": "https://www.dafiti.com.co/zapatos//san-polos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 280": {
+        "Date": "2019-10-19 19:08:25.434472",
+        "Link": "https://www.dafiti.com.co/zapatos//tellenzi/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 281": {
+        "Date": "2019-10-19 19:08:25.960767",
+        "Link": "https://www.dafiti.com.co/zapatos/beira-rio/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 282": {
+        "Date": "2019-10-19 19:08:26.463927",
+        "Link": "https://www.dafiti.com.co/zapatos/beverly-hills-polo-club/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 283": {
+        "Date": "2019-10-19 19:08:27.000907",
+        "Link": "https://www.dafiti.com.co/zapatos/levis/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 284": {
+        "Date": "2019-10-19 19:08:27.513414",
+        "Link": "https://www.dafiti.com.co/zapatos/moleca/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 285": {
+        "Date": "2019-10-19 19:08:28.028503",
+        "Link": "https://www.dafiti.com.co/zapatos/polo-ralph-lauren/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 286": {
+        "Date": "2019-10-19 19:08:28.548997",
+        "Link": "https://www.dafiti.com.co/zapatos/royal-county-of-berkshire-polo-club/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 287": {
+        "Date": "2019-10-19 19:08:29.077404",
+        "Link": "https://www.dafiti.com.co/zapatos/tommy-hilfiger/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    },
+    "Check 288": {
+        "Date": "2019-10-19 19:08:29.587744",
+        "Link": "https://www.dafiti.com.co/zapatos/us-polo-assn/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": "SUCCESSFUL"
+        }
+    }
+}

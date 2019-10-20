@@ -1,0 +1,821 @@
+{
+    "Check 001": {
+        "Date": "2019-10-19 22:19:53.145401",
+        "Link": "http://activisual.net",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 002": {
+        "Date": "2019-10-19 22:19:54.431437",
+        "Link": "http://hsbnoticias.com/noticias/paranormal",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 003": {
+        "Date": "2019-10-19 22:19:55.337290",
+        "Link": "https://diariodelcauca.com.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 004": {
+        "Date": "2019-10-19 22:19:57.048050",
+        "Link": "https://diariodelcauca.com.co/clasificados/vehiculos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 005": {
+        "Date": "2019-10-19 22:19:57.940464",
+        "Link": "https://diariodelcauca.com.co/contacto",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 006": {
+        "Date": "2019-10-19 22:19:58.804674",
+        "Link": "https://diariodelcauca.com.co/encuestas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 007": {
+        "Date": "2019-10-19 22:19:59.587017",
+        "Link": "https://diariodelcauca.com.co/encuestas/cual-cree-que-es-el-mayor-problema-que-afrontan-los-estudian",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 008": {
+        "Date": "2019-10-19 22:20:00.925048",
+        "Link": "https://diariodelcauca.com.co/noticias/Especiales",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 009": {
+        "Date": "2019-10-19 22:20:04.474126",
+        "Link": "https://diariodelcauca.com.co/noticias/bogota/soldado-mato-de-un-disparo-su-companero-en-el-interior-de-568012",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 010": {
+        "Date": "2019-10-19 22:20:05.326846",
+        "Link": "https://diariodelcauca.com.co/noticias/bogota/tusa-mortal-se-atraveso-el-corazon-con-un-cuchillo-sangre-y-567970",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 011": {
+        "Date": "2019-10-19 22:20:06.263781",
+        "Link": "https://diariodelcauca.com.co/noticias/ciencia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 012": {
+        "Date": "2019-10-19 22:20:09.922506",
+        "Link": "https://diariodelcauca.com.co/noticias/ciencia/19-de-octubre-un-dia-para-tocarte-los-senos-dia-mundial-del-567949",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 013": {
+        "Date": "2019-10-19 22:20:15.166276",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 014": {
+        "Date": "2019-10-19 22:20:16.074085",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/apoyando-las-fuerzas-armadas-colombia-disputa-los-juegos-m-568059",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 015": {
+        "Date": "2019-10-19 22:20:19.936291",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/cambio-radical-para-la-copa-libertadores-polemica-medida-se-567967",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 016": {
+        "Date": "2019-10-19 22:20:21.207570",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/cerca-de-la-eliminacion-deportivo-pasto-se-alejo-de-los-ocho-568079",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 017": {
+        "Date": "2019-10-19 22:20:25.338168",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/cerca-del-titulo-cristian-rodriguez-avanzo-semifinales-del-568045",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 018": {
+        "Date": "2019-10-19 22:20:27.546091",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/los-juegos-nacionales-tendran-mas-de-8000-deportistas-en-co-568048",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 019": {
+        "Date": "2019-10-19 22:20:30.464192",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/mucha-atencion-habria-posible-fecha-de-inicio-para-paro-de-f-567958",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 020": {
+        "Date": "2019-10-19 22:20:33.468810",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/noticia-inesperada-para-nairo-quintana-sobre-su-presencia-en-567802",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 021": {
+        "Date": "2019-10-19 22:20:34.393121",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/otra-mala-noticia-para-nairo-quintana-su-peor-final-con-el-m-566484",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 022": {
+        "Date": "2019-10-19 22:20:37.423206",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/queiroz-alejo-falcao-y-james-de-la-seleccion-colombia-fede-568068",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 023": {
+        "Date": "2019-10-19 22:20:38.270441",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/siguen-las-malas-noticias-en-el-junior-de-barranquilla-ante-566802",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 024": {
+        "Date": "2019-10-19 22:20:40.885043",
+        "Link": "https://diariodelcauca.com.co/noticias/deportes/van-por-la-clasificacion-posibles-formaciones-de-junior-de-b-568088",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 025": {
+        "Date": "2019-10-19 22:20:41.769067",
+        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 026": {
+        "Date": "2019-10-19 22:20:44.595423",
+        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/cafe-cultivado-por-exguerrilleros-de-las-farc-gano-prestigio-567799",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 027": {
+        "Date": "2019-10-19 22:20:47.316725",
+        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/comunidades-afrodescendientes-de-tumaco-viven-la-feria-de-567919",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 028": {
+        "Date": "2019-10-19 22:20:49.709999",
+        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/la-tercerizacion-de-reclutamiento-le-ayuda-ahorrar-tiempo-567834",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 029": {
+        "Date": "2019-10-19 22:20:51.838126",
+        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/leal-coins-la-nueva-manera-de-comprar-en-colombia-conozca-co-567803",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 030": {
+        "Date": "2019-10-19 22:20:54.316039",
+        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/paises-iberoamericanos-anuncian-creacion-de-nuevo-mercado-re-567826",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 031": {
+        "Date": "2019-10-19 22:20:56.708702",
+        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/severa-crisis-en-venezuela-segun-cifras-oficiales-inflacion-567930",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 032": {
+        "Date": "2019-10-19 22:20:59.577328",
+        "Link": "https://diariodelcauca.com.co/noticias/en-vivo",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 033": {
+        "Date": "2019-10-19 22:21:00.448879",
+        "Link": "https://diariodelcauca.com.co/noticias/en-vivo/en-vivo-enterese-de-los-movimientos-teluricos-en-colombia-y-395078",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 034": {
+        "Date": "2019-10-19 22:21:04.287456",
+        "Link": "https://diariodelcauca.com.co/noticias/internacional/conozca-al-llamado-grupo-de-puebla-acusados-de-desestabiliza-568072",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 035": {
+        "Date": "2019-10-19 22:21:05.190836",
+        "Link": "https://diariodelcauca.com.co/noticias/internacional/iniciaran-juicio-politico-contra-trump-presumen-que-busco-ay-561783",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 036": {
+        "Date": "2019-10-19 22:21:06.047031",
+        "Link": "https://diariodelcauca.com.co/noticias/internacional/la-peculiar-sesion-de-fotos-de-vladimir-putin-para-celebrar-564888",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 037": {
+        "Date": "2019-10-19 22:21:06.903726",
+        "Link": "https://diariodelcauca.com.co/noticias/judicial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 038": {
+        "Date": "2019-10-19 22:21:10.156138",
+        "Link": "https://diariodelcauca.com.co/noticias/judicial/autoridades-desmantelan-en-huila-locales-desde-donde-vendian-568041",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 039": {
+        "Date": "2019-10-19 22:21:13.233630",
+        "Link": "https://diariodelcauca.com.co/noticias/judicial/dos-motociclistas-protagonistas-de-aparatoso-y-lamentable-ac-568121",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 040": {
+        "Date": "2019-10-19 22:21:16.026702",
+        "Link": "https://diariodelcauca.com.co/noticias/judicial/en-medio-de-ataque-sicarial-menor-habria-matado-balazos-568104",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 041": {
+        "Date": "2019-10-19 22:21:16.897754",
+        "Link": "https://diariodelcauca.com.co/noticias/judicial/espeluznante-accidente-paralizo-la-pasto-ipiales-un-pesa-566335",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 042": {
+        "Date": "2019-10-19 22:21:18.909881",
+        "Link": "https://diariodelcauca.com.co/noticias/judicial/fatal-agresion-maltrato-hasta-el-cansancio-su-esposa-e-hij-568086",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 043": {
+        "Date": "2019-10-19 22:21:19.780331",
+        "Link": "https://diariodelcauca.com.co/noticias/judicial/la-borrachera-le-termino-cobrando-la-vida-violento-choque-de-566532",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 044": {
+        "Date": "2019-10-19 22:21:22.092173",
+        "Link": "https://diariodelcauca.com.co/noticias/judicial/mediante-la-modalidad-de-cosquilleo-le-robo-150-mil-pesos-568051",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 045": {
+        "Date": "2019-10-19 22:21:23.775125",
+        "Link": "https://diariodelcauca.com.co/noticias/judicial/todo-termino-en-tragedia-cuando-se-dirigia-trabajar-impact-568069",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 046": {
+        "Date": "2019-10-19 22:21:24.640509",
+        "Link": "https://diariodelcauca.com.co/noticias/local",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 047": {
+        "Date": "2019-10-19 22:21:26.400333",
+        "Link": "https://diariodelcauca.com.co/noticias/local/avistamiento-de-aves-en-zona-rural-de-popayan-561321",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 048": {
+        "Date": "2019-10-19 22:21:28.096918",
+        "Link": "https://diariodelcauca.com.co/noticias/local/emprendimientos-locales-recibieron-reconocimiento-567751",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 049": {
+        "Date": "2019-10-19 22:21:30.010953",
+        "Link": "https://diariodelcauca.com.co/noticias/local/encuentro-de-genero-y-etnicidad-en-popayan-567754",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 050": {
+        "Date": "2019-10-19 22:21:31.705524",
+        "Link": "https://diariodelcauca.com.co/noticias/local/la-lucha-diaria-de-los-inmigrantes-venezolanos-561317",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 051": {
+        "Date": "2019-10-19 22:21:33.597108",
+        "Link": "https://diariodelcauca.com.co/noticias/local/muchos-desconocen-cual-es-la-labor-de-la-asamblea-ruiz-567791",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 052": {
+        "Date": "2019-10-19 22:21:35.318817",
+        "Link": "https://diariodelcauca.com.co/noticias/local/otro-escandalo-por-venta-de-avales-de-asi-en-el-cauca-567759",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 053": {
+        "Date": "2019-10-19 22:21:37.477711",
+        "Link": "https://diariodelcauca.com.co/noticias/local/pavimento-entregado-hace-una-semana-presenta-desperfectos-567747",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 054": {
+        "Date": "2019-10-19 22:21:39.766877",
+        "Link": "https://diariodelcauca.com.co/noticias/local/realizaron-evento-de-comunicacion-y-paz-567753",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 055": {
+        "Date": "2019-10-19 22:21:40.648375",
+        "Link": "https://diariodelcauca.com.co/noticias/multimedia/portadas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 056": {
+        "Date": "2019-10-19 22:21:41.460529",
+        "Link": "https://diariodelcauca.com.co/noticias/multimedia/videos-virales",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 057": {
+        "Date": "2019-10-19 22:21:42.324027",
+        "Link": "https://diariodelcauca.com.co/noticias/nacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 058": {
+        "Date": "2019-10-19 22:21:44.672445",
+        "Link": "https://diariodelcauca.com.co/noticias/nacional/habilitado-transito-de-vehiculos-particulares-los-fines-de-s-568039",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 059": {
+        "Date": "2019-10-19 22:21:47.178214",
+        "Link": "https://diariodelcauca.com.co/noticias/nacional/procuraduria-hace-nuevo-llamado-para-proteger-el-derecho-l-567515",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 060": {
+        "Date": "2019-10-19 22:21:48.874602",
+        "Link": "https://diariodelcauca.com.co/noticias/nacional/prosperidad-social-ratifica-lucha-por-la-equidad-y-la-supera-567641",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 061": {
+        "Date": "2019-10-19 22:21:50.880459",
+        "Link": "https://diariodelcauca.com.co/noticias/nacional/restringido-nuevamente-el-paso-de-vehiculos-particulares-hac-566873",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 062": {
+        "Date": "2019-10-19 22:21:52.955997",
+        "Link": "https://diariodelcauca.com.co/noticias/opini%C3%B3n",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 063": {
+        "Date": "2019-10-19 22:21:54.262290",
+        "Link": "https://diariodelcauca.com.co/noticias/paranormal",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 064": {
+        "Date": "2019-10-19 22:21:56.030222",
+        "Link": "https://diariodelcauca.com.co/noticias/paranormal/no-lo-podra-creer-aparece-supuesta-imagen-asociada-jesucri-567808",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 065": {
+        "Date": "2019-10-19 22:21:56.876663",
+        "Link": "https://diariodelcauca.com.co/noticias/paranormal/no-lo-podra-creer-avistan-supuestos-ovnis-en-el-mar-de-carol-565366",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 066": {
+        "Date": "2019-10-19 22:21:57.702615",
+        "Link": "https://diariodelcauca.com.co/noticias/paranormal/nos-espian-los-extraterrestres-traves-de-sondas-estarian-o-563582",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 067": {
+        "Date": "2019-10-19 22:21:59.274470",
+        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 068": {
+        "Date": "2019-10-19 22:22:00.109892",
+        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/analizan-candidatos-en-el-cauca-567470",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 069": {
+        "Date": "2019-10-19 22:22:01.006660",
+        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/ivan-cepeda-pide-capturar-y-encarcelar-diego-cadena-abogad-566745",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 070": {
+        "Date": "2019-10-19 22:22:04.549821",
+        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/la-democracia-importa-impacto-del-proyecto-accion-democratic-567502",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 071": {
+        "Date": "2019-10-19 22:22:07.309558",
+        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/los-candidatos-la-alcaldia-debatieron-sobre-el-anarkos-567785",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 072": {
+        "Date": "2019-10-19 22:22:08.165077",
+        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/por-abuso-de-autoridad-destituyen-e-inhabilitan-por-12-anos-566788",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 073": {
+        "Date": "2019-10-19 22:22:10.155818",
+        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/walteros-otra-vez-alcalde-de-popayan-567793",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 074": {
+        "Date": "2019-10-19 22:22:11.169548",
+        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 075": {
+        "Date": "2019-10-19 22:22:12.145461",
+        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/adios-larry-junstrom-murio-los-70-anos-exbajista-de-la-b-564875",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 076": {
+        "Date": "2019-10-19 22:22:13.032296",
+        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/asi-es-gabi-wolscham-la-preciosa-y-sexy-rubia-con-curvas-que-559675",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 077": {
+        "Date": "2019-10-19 22:22:15.562055",
+        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/cuales-fueron-los-inventos-de-thomas-edison-se-cumplen-88-567762",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 078": {
+        "Date": "2019-10-19 22:22:18.240583",
+        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/la-filarmonica-joven-de-colombia-diego-torres-y-coro-de-misi-567920",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 079": {
+        "Date": "2019-10-19 22:22:25.700659",
+        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/matador-sacudio-las-redes-con-su-caricatura-machista-mujeres-568073",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 080": {
+        "Date": "2019-10-19 22:22:28.043456",
+        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/payaneses-ganaron-premio-nacional-de-musica-en-ibague-567729",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 081": {
+        "Date": "2019-10-19 22:22:30.613317",
+        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/procesos-de-autoreconocimiento-traves-del-arte-567744",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 082": {
+        "Date": "2019-10-19 22:22:31.580198",
+        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/realizaran-homenaje-camilo-sesto-y-jose-jose-565850",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 083": {
+        "Date": "2019-10-19 22:22:33.655743",
+        "Link": "https://diariodelcauca.com.co/noticias/viral/le-dieron-palo-en-bucaramanga-por-abusar-carnalmente-de-su-p-568029",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 084": {
+        "Date": "2019-10-19 22:22:36.151000",
+        "Link": "https://diariodelcauca.com.co/noticias/viral/pasion-terrorifica-captan-estudiantes-teniendo-sexo-en-tum-567954",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 085": {
+        "Date": "2019-10-19 22:22:38.127157",
+        "Link": "https://diariodelcauca.com.co/noticias/viral/perreo-tras-las-rejas-recluso-se-graba-bailando-twerking-con-567896",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 086": {
+        "Date": "2019-10-19 22:22:39.056504",
+        "Link": "https://diariodelcauca.com.co/periodistas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 087": {
+        "Date": "2019-10-19 22:22:40.789892",
+        "Link": "https://diariodelcauca.com.co/rss",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 088": {
+        "Date": "2019-10-19 22:22:41.995252",
+        "Link": "https://diariodelcauca.com.co/rss.xml",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 089": {
+        "Date": "2019-10-19 22:22:42.981516",
+        "Link": "https://diariodelcauca.com.co/temas/chica-instagram",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 090": {
+        "Date": "2019-10-19 22:22:43.925898",
+        "Link": "https://diariodelcauca.com.co/temas/recomendado",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 091": {
+        "Date": "2019-10-19 22:22:45.507693",
+        "Link": "https://www.facebook.com/Hsbnoticias/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}
