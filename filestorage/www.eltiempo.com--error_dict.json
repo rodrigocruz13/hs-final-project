@@ -1,0 +1,65 @@
+{
+    "Check 626": {
+        "Date": "2019-10-20 13:34:19.777228",
+        "Link": "http://www.guiaacademica.com/asesora/",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 631": {
+        "Date": "2019-10-20 13:34:30.033604",
+        "Link": "https://cursoscortos.eltiempo.com/",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 634": {
+        "Date": "2019-10-20 13:34:35.098599",
+        "Link": "https://play.google.com/store/apps/details",
+        "Status": {
+            "Code": "400",
+            "Meaning": "Bad Request: The request cannot be fulfilled due to bad syntax",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 656": {
+        "Date": "2019-10-20 13:35:06.234518",
+        "Link": "https://www.ceet.co/",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 657": {
+        "Date": "2019-10-20 13:35:06.813436",
+        "Link": "https://www.ceet.co/linea-etica",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 658": {
+        "Date": "2019-10-20 13:35:07.396874",
+        "Link": "https://www.ceet.co/solicitud-reversion-de-pago",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 678": {
+        "Date": "2019-10-20 13:35:37.252606",
+        "Link": "https://www.guiaacademica.com/noticias/posgrado/trabajas-en-temas-energeticos-preparate-de-la-mejor-manera-5510",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

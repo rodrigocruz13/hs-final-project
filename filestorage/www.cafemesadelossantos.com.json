@@ -1,6 +1,6 @@
 {
     "Check 001": {
-        "Date": "2019-10-20 02:24:32.910483",
+        "Date": "2019-10-20 20:03:02.702704",
         "Link": "http://kalsolucionesweb.net",
         "Status": {
             "Code": "999",
@@ -9,7 +9,7 @@
         }
     },
     "Check 002": {
-        "Date": "2019-10-20 02:24:35.489041",
+        "Date": "2019-10-20 20:03:04.435946",
         "Link": "http://www.cafemesadelossantos.com/",
         "Status": {
             "Code": "200",
@@ -18,16 +18,7 @@
         }
     },
     "Check 003": {
-        "Date": "2019-10-20 02:24:37.004326",
-        "Link": "http://www.cafemesadelossantos.com/&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light",
-        "Status": {
-            "Code": "404",
-            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
-            "Type": " USER ERROR "
-        }
-    },
-    "Check 004": {
-        "Date": "2019-10-20 02:24:39.055530",
+        "Date": "2019-10-20 20:03:06.061690",
         "Link": "http://www.cafemesadelossantos.com/113-coffee-records/",
         "Status": {
             "Code": "200",
@@ -35,8 +26,8 @@
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 005": {
-        "Date": "2019-10-20 02:24:40.764422",
+    "Check 004": {
+        "Date": "2019-10-20 20:03:07.690062",
         "Link": "http://www.cafemesadelossantos.com/certificacion/",
         "Status": {
             "Code": "200",
@@ -44,8 +35,8 @@
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 006": {
-        "Date": "2019-10-20 02:24:42.604271",
+    "Check 005": {
+        "Date": "2019-10-20 20:03:09.288010",
         "Link": "http://www.cafemesadelossantos.com/cupping-extravaganza/",
         "Status": {
             "Code": "200",
@@ -53,8 +44,8 @@
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 007": {
-        "Date": "2019-10-20 02:24:44.484834",
+    "Check 006": {
+        "Date": "2019-10-20 20:03:11.077735",
         "Link": "http://www.cafemesadelossantos.com/green-coffee/",
         "Status": {
             "Code": "200",
@@ -62,26 +53,26 @@
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 008": {
-        "Date": "2019-10-20 02:25:05.626614",
+    "Check 007": {
+        "Date": "2019-10-20 20:03:12.619305",
         "Link": "http://www.cafemesadelossantos.com/maderas-finas/",
         "Status": {
-            "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": " IP PROBLEM "
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 008": {
+        "Date": "2019-10-20 20:03:14.116109",
+        "Link": "http://www.cafemesadelossantos.com/my-account/lost-password/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
     "Check 009": {
-        "Date": "2019-10-20 02:25:26.830966",
-        "Link": "http://www.cafemesadelossantos.com/my-account/lost-password/",
-        "Status": {
-            "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": " IP PROBLEM "
-        }
-    },
-    "Check 010": {
-        "Date": "2019-10-20 02:25:28.801558",
+        "Date": "2019-10-20 20:03:15.757126",
         "Link": "http://www.cafemesadelossantos.com/noticias/",
         "Status": {
             "Code": "200",
@@ -89,8 +80,8 @@
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 011": {
-        "Date": "2019-10-20 02:25:30.748198",
+    "Check 010": {
+        "Date": "2019-10-20 20:03:17.435605",
         "Link": "http://www.cafemesadelossantos.com/oferta-turistica/",
         "Status": {
             "Code": "200",
@@ -98,8 +89,8 @@
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 012": {
-        "Date": "2019-10-20 02:25:32.749175",
+    "Check 011": {
+        "Date": "2019-10-20 20:03:18.997394",
         "Link": "http://www.cafemesadelossantos.com/portafolio-del-cafe/",
         "Status": {
             "Code": "200",
@@ -107,8 +98,8 @@
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 013": {
-        "Date": "2019-10-20 02:25:35.586237",
+    "Check 012": {
+        "Date": "2019-10-20 20:03:21.188866",
         "Link": "http://www.cafemesadelossantos.com/tienda/",
         "Status": {
             "Code": "200",
@@ -116,8 +107,8 @@
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 014": {
-        "Date": "2019-10-20 02:25:36.656846",
+    "Check 013": {
+        "Date": "2019-10-20 20:03:22.309323",
         "Link": "https://twitter.com/@Mesadelossantos",
         "Status": {
             "Code": "200",
@@ -125,8 +116,107 @@
             "Type": " SUCCESSFUL "
         }
     },
+    "Check 014": {
+        "Date": "2019-10-20 20:03:24.386301",
+        "Link": "https://www.cafemesadelossantos.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
     "Check 015": {
-        "Date": "2019-10-20 02:25:37.627800",
+        "Date": "2019-10-20 20:03:26.428407",
+        "Link": "https://www.cafemesadelossantos.com/113-coffee-records/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 016": {
+        "Date": "2019-10-20 20:03:28.452862",
+        "Link": "https://www.cafemesadelossantos.com/certificacion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 017": {
+        "Date": "2019-10-20 20:03:30.382073",
+        "Link": "https://www.cafemesadelossantos.com/cupping-extravaganza/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 018": {
+        "Date": "2019-10-20 20:03:32.502092",
+        "Link": "https://www.cafemesadelossantos.com/green-coffee/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 019": {
+        "Date": "2019-10-20 20:03:34.377202",
+        "Link": "https://www.cafemesadelossantos.com/maderas-finas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 020": {
+        "Date": "2019-10-20 20:03:36.306158",
+        "Link": "https://www.cafemesadelossantos.com/my-account/lost-password/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 021": {
+        "Date": "2019-10-20 20:03:38.272772",
+        "Link": "https://www.cafemesadelossantos.com/noticias/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 022": {
+        "Date": "2019-10-20 20:03:40.232029",
+        "Link": "https://www.cafemesadelossantos.com/oferta-turistica/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 023": {
+        "Date": "2019-10-20 20:03:42.090263",
+        "Link": "https://www.cafemesadelossantos.com/portafolio-del-cafe/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 024": {
+        "Date": "2019-10-20 20:03:44.583696",
+        "Link": "https://www.cafemesadelossantos.com/tienda/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 025": {
+        "Date": "2019-10-20 20:03:45.173495",
         "Link": "https://www.instagram.com/cafemesadelossantos/",
         "Status": {
             "Code": "200",

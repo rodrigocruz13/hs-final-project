@@ -1,34 +1,7 @@
 {
     "Check 001": {
-        "Date": "2019-10-20 02:24:32.910483",
+        "Date": "2019-10-20 20:03:02.702704",
         "Link": "http://kalsolucionesweb.net",
-        "Status": {
-            "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": " IP PROBLEM "
-        }
-    },
-    "Check 003": {
-        "Date": "2019-10-20 02:24:37.004326",
-        "Link": "http://www.cafemesadelossantos.com/&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light",
-        "Status": {
-            "Code": "404",
-            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
-            "Type": " USER ERROR "
-        }
-    },
-    "Check 008": {
-        "Date": "2019-10-20 02:25:05.626614",
-        "Link": "http://www.cafemesadelossantos.com/maderas-finas/",
-        "Status": {
-            "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": " IP PROBLEM "
-        }
-    },
-    "Check 009": {
-        "Date": "2019-10-20 02:25:26.830966",
-        "Link": "http://www.cafemesadelossantos.com/my-account/lost-password/",
         "Status": {
             "Code": "999",
             "Meaning": "Error: Server IP address could not be found",

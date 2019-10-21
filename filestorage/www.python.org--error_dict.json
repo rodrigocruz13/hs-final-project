@@ -1,0 +1,38 @@
+{
+    "Check 062": {
+        "Date": "2019-10-20 10:48:09.916422",
+        "Link": "https://www.python.org/docs.python.org/3/tutorial/",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 063": {
+        "Date": "2019-10-20 10:48:10.679112",
+        "Link": "https://www.python.org/docs.python.org/3/tutorial/controlflow.html",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 064": {
+        "Date": "2019-10-20 10:48:11.487459",
+        "Link": "https://www.python.org/docs.python.org/3/tutorial/introduction.html",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 083": {
+        "Date": "2019-10-20 10:48:26.851351",
+        "Link": "https://www.python.org/jobs.python.org",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    }
+}

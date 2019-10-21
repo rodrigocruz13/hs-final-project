@@ -26,19 +26,27 @@ def read_and_validate_url():
 
     validate_domain = __import__('web-scraping').validate_domain
 
-    url = None
-    while (url is None):
+    url_0 = None
+    while (url_0 is None):
         address = input("Type a valid URL with the format http: ... :  ")
-        url = validate_domain(address)
-    return (url)
+        address.replace(' ', '')
+        url_0 = validate_domain(address)
+
+    if (url_0[4] == ':'):
+        url_1 = validate_domain(url_0[0:4] + 's' + url_0[4:])
+    else:
+        url_1 = validate_domain(url_0[0:4] + url_0[5:])
+
+    return ([url_0, url_1])
 
 
 def now_stamp():
-    """ Function that returns the current time in string format
-    Returns:
-        Current time in str format
+    """
+    Purpose:   Function that returns the current time in string format.
+    Arguments: - None.
+    Returns:   - Current time in str format.
     """
 
     from datetime import datetime
-    # current date and time
+
     return str(datetime.now())

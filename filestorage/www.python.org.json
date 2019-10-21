@@ -1,0 +1,938 @@
+{
+    "Check 001": {
+        "Date": "2019-10-20 10:46:56.780459",
+        "Link": "http://brochure.getpython.info/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 002": {
+        "Date": "2019-10-20 10:46:58.422255",
+        "Link": "http://browsehappy.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 003": {
+        "Date": "2019-10-20 10:46:58.996690",
+        "Link": "http://docs.python.org/3/tutorial/introduction.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 004": {
+        "Date": "2019-10-20 10:47:01.205611",
+        "Link": "http://feedproxy.google.com/~r/PythonInsider/~3/JAw1EKIElcE/python-375-is-now-available.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 005": {
+        "Date": "2019-10-20 10:47:03.174354",
+        "Link": "http://feedproxy.google.com/~r/PythonInsider/~3/NSJOxfu3Kw0/python-2717-released.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 006": {
+        "Date": "2019-10-20 10:47:04.807557",
+        "Link": "http://feedproxy.google.com/~r/PythonInsider/~3/sn3iQBaTaSo/python-380-is-now-available.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 007": {
+        "Date": "2019-10-20 10:47:06.697441",
+        "Link": "http://feedproxy.google.com/~r/PythonInsider/~3/xqZ5QYaC5Xo/python-358rc2-is-now-available.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 008": {
+        "Date": "2019-10-20 10:47:07.126910",
+        "Link": "http://ipython.org",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 009": {
+        "Date": "2019-10-20 10:47:09.499183",
+        "Link": "http://planetpython.org/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 010": {
+        "Date": "2019-10-20 10:47:10.976331",
+        "Link": "http://pycon.blogspot.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 011": {
+        "Date": "2019-10-20 10:47:11.914730",
+        "Link": "http://pyfound.blogspot.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 012": {
+        "Date": "2019-10-20 10:47:15.381568",
+        "Link": "http://python.org/dev/peps/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 013": {
+        "Date": "2019-10-20 10:47:15.930919",
+        "Link": "http://roundup.sourceforge.net/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 014": {
+        "Date": "2019-10-20 10:47:17.885794",
+        "Link": "http://wiki.python.org/moin/Languages",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 015": {
+        "Date": "2019-10-20 10:47:18.575013",
+        "Link": "http://www.web2py.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 016": {
+        "Date": "2019-10-20 10:47:20.499959",
+        "Link": "http://www.wxpython.org/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 017": {
+        "Date": "2019-10-20 10:47:22.136821",
+        "Link": "https://blog.python.org",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 018": {
+        "Date": "2019-10-20 10:47:24.190390",
+        "Link": "https://bugs.python.org/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 019": {
+        "Date": "2019-10-20 10:47:24.917541",
+        "Link": "https://devguide.python.org/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 020": {
+        "Date": "2019-10-20 10:47:30.462826",
+        "Link": "https://docs.python.org",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 021": {
+        "Date": "2019-10-20 10:47:31.031521",
+        "Link": "https://docs.python.org/3/license.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 022": {
+        "Date": "2019-10-20 10:47:31.550696",
+        "Link": "https://docs.python.org/faq/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 023": {
+        "Date": "2019-10-20 10:47:32.958086",
+        "Link": "https://github.com/python/pythondotorg/issues",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 024": {
+        "Date": "2019-10-20 10:47:34.632375",
+        "Link": "https://mail.python.org/mailman/listinfo/python-dev",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 025": {
+        "Date": "2019-10-20 10:47:35.459308",
+        "Link": "https://mailchi.mp/python/python-software-foundation-q3-newsletter",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 026": {
+        "Date": "2019-10-20 10:47:36.506200",
+        "Link": "https://pypi.python.org/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 027": {
+        "Date": "2019-10-20 10:47:38.065068",
+        "Link": "https://status.python.org/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 028": {
+        "Date": "2019-10-20 10:47:39.206652",
+        "Link": "https://twitter.com/ThePSF",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 029": {
+        "Date": "2019-10-20 10:47:40.505942",
+        "Link": "https://wiki.python.org/moin/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 030": {
+        "Date": "2019-10-20 10:47:41.856658",
+        "Link": "https://wiki.python.org/moin/BeginnersGuide",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 031": {
+        "Date": "2019-10-20 10:47:43.126901",
+        "Link": "https://wiki.python.org/moin/PythonBooks",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 032": {
+        "Date": "2019-10-20 10:47:44.742302",
+        "Link": "https://wiki.python.org/moin/PythonEventsCalendar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 033": {
+        "Date": "2019-10-20 10:47:47.480880",
+        "Link": "https://www.facebook.com/pythonlang",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 034": {
+        "Date": "2019-10-20 10:47:48.602099",
+        "Link": "https://www.openstack.org",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 035": {
+        "Date": "2019-10-20 10:47:49.194057",
+        "Link": "https://www.python.org/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 036": {
+        "Date": "2019-10-20 10:47:49.942293",
+        "Link": "https://www.python.org/about/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 037": {
+        "Date": "2019-10-20 10:47:50.705413",
+        "Link": "https://www.python.org/about/apps",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 038": {
+        "Date": "2019-10-20 10:47:51.293998",
+        "Link": "https://www.python.org/about/apps/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 039": {
+        "Date": "2019-10-20 10:47:51.872705",
+        "Link": "https://www.python.org/about/gettingstarted/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 040": {
+        "Date": "2019-10-20 10:47:52.569789",
+        "Link": "https://www.python.org/about/help/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 041": {
+        "Date": "2019-10-20 10:47:53.261934",
+        "Link": "https://www.python.org/about/legal/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 042": {
+        "Date": "2019-10-20 10:47:54.014502",
+        "Link": "https://www.python.org/about/quotes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 043": {
+        "Date": "2019-10-20 10:47:54.719316",
+        "Link": "https://www.python.org/blogs/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 044": {
+        "Date": "2019-10-20 10:47:55.538972",
+        "Link": "https://www.python.org/community/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 045": {
+        "Date": "2019-10-20 10:47:56.405506",
+        "Link": "https://www.python.org/community/awards",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 046": {
+        "Date": "2019-10-20 10:47:57.056084",
+        "Link": "https://www.python.org/community/diversity/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 047": {
+        "Date": "2019-10-20 10:47:58.036431",
+        "Link": "https://www.python.org/community/forums/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 048": {
+        "Date": "2019-10-20 10:47:58.643028",
+        "Link": "https://www.python.org/community/irc/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 049": {
+        "Date": "2019-10-20 10:47:59.282552",
+        "Link": "https://www.python.org/community/lists/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 050": {
+        "Date": "2019-10-20 10:47:59.876015",
+        "Link": "https://www.python.org/community/logos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 051": {
+        "Date": "2019-10-20 10:48:00.636481",
+        "Link": "https://www.python.org/community/merchandise/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 052": {
+        "Date": "2019-10-20 10:48:01.703510",
+        "Link": "https://www.python.org/community/sigs/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 053": {
+        "Date": "2019-10-20 10:48:02.469737",
+        "Link": "https://www.python.org/community/survey",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 054": {
+        "Date": "2019-10-20 10:48:03.095302",
+        "Link": "https://www.python.org/community/workshops/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 055": {
+        "Date": "2019-10-20 10:48:03.846621",
+        "Link": "https://www.python.org/dev/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 056": {
+        "Date": "2019-10-20 10:48:04.791701",
+        "Link": "https://www.python.org/dev/core-mentorship/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 057": {
+        "Date": "2019-10-20 10:48:06.012591",
+        "Link": "https://www.python.org/dev/peps/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 058": {
+        "Date": "2019-10-20 10:48:06.918384",
+        "Link": "https://www.python.org/dev/peps/peps.rss",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 059": {
+        "Date": "2019-10-20 10:48:07.592654",
+        "Link": "https://www.python.org/doc/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 060": {
+        "Date": "2019-10-20 10:48:08.466909",
+        "Link": "https://www.python.org/doc/av",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 061": {
+        "Date": "2019-10-20 10:48:09.168672",
+        "Link": "https://www.python.org/doc/essays/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 062": {
+        "Date": "2019-10-20 10:48:09.916422",
+        "Link": "https://www.python.org/docs.python.org/3/tutorial/",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 063": {
+        "Date": "2019-10-20 10:48:10.679112",
+        "Link": "https://www.python.org/docs.python.org/3/tutorial/controlflow.html",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 064": {
+        "Date": "2019-10-20 10:48:11.487459",
+        "Link": "https://www.python.org/docs.python.org/3/tutorial/introduction.html",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 065": {
+        "Date": "2019-10-20 10:48:12.363114",
+        "Link": "https://www.python.org/download/alternatives",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 066": {
+        "Date": "2019-10-20 10:48:12.993589",
+        "Link": "https://www.python.org/download/other/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 067": {
+        "Date": "2019-10-20 10:48:13.760252",
+        "Link": "https://www.python.org/downloads/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 068": {
+        "Date": "2019-10-20 10:48:14.696709",
+        "Link": "https://www.python.org/downloads/mac-osx/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 069": {
+        "Date": "2019-10-20 10:48:15.378379",
+        "Link": "https://www.python.org/downloads/release/python-380/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 070": {
+        "Date": "2019-10-20 10:48:16.416766",
+        "Link": "https://www.python.org/downloads/source/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 071": {
+        "Date": "2019-10-20 10:48:17.904350",
+        "Link": "https://www.python.org/downloads/windows/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 072": {
+        "Date": "2019-10-20 10:48:18.772676",
+        "Link": "https://www.python.org/events/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 073": {
+        "Date": "2019-10-20 10:48:19.458059",
+        "Link": "https://www.python.org/events/calendars/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 074": {
+        "Date": "2019-10-20 10:48:20.152178",
+        "Link": "https://www.python.org/events/python-events",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 075": {
+        "Date": "2019-10-20 10:48:20.920476",
+        "Link": "https://www.python.org/events/python-events/852/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 076": {
+        "Date": "2019-10-20 10:48:21.617535",
+        "Link": "https://www.python.org/events/python-events/853/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 077": {
+        "Date": "2019-10-20 10:48:22.317769",
+        "Link": "https://www.python.org/events/python-events/865/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 078": {
+        "Date": "2019-10-20 10:48:23.020888",
+        "Link": "https://www.python.org/events/python-events/866/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 079": {
+        "Date": "2019-10-20 10:48:23.720232",
+        "Link": "https://www.python.org/events/python-events/past/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 080": {
+        "Date": "2019-10-20 10:48:24.416980",
+        "Link": "https://www.python.org/events/python-user-group/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 081": {
+        "Date": "2019-10-20 10:48:25.232406",
+        "Link": "https://www.python.org/events/python-user-group/862/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 082": {
+        "Date": "2019-10-20 10:48:25.929543",
+        "Link": "https://www.python.org/events/python-user-group/past/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 083": {
+        "Date": "2019-10-20 10:48:26.851351",
+        "Link": "https://www.python.org/jobs.python.org",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 084": {
+        "Date": "2019-10-20 10:48:27.649651",
+        "Link": "https://www.python.org/jobs/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 085": {
+        "Date": "2019-10-20 10:48:28.353980",
+        "Link": "https://www.python.org/news/security/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 086": {
+        "Date": "2019-10-20 10:48:29.011621",
+        "Link": "https://www.python.org/privacy/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 087": {
+        "Date": "2019-10-20 10:48:29.769988",
+        "Link": "https://www.python.org/psf-landing/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 088": {
+        "Date": "2019-10-20 10:48:30.453233",
+        "Link": "https://www.python.org/psf/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 089": {
+        "Date": "2019-10-20 10:48:31.238377",
+        "Link": "https://www.python.org/psf/annual-report/2019/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 090": {
+        "Date": "2019-10-20 10:48:31.959287",
+        "Link": "https://www.python.org/psf/conduct/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 091": {
+        "Date": "2019-10-20 10:48:33.165392",
+        "Link": "https://www.python.org/psf/donations/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 092": {
+        "Date": "2019-10-20 10:48:33.884172",
+        "Link": "https://www.python.org/psf/newsletter/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 093": {
+        "Date": "2019-10-20 10:48:34.649278",
+        "Link": "https://www.python.org/psf/sponsorship/sponsors/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 094": {
+        "Date": "2019-10-20 10:48:35.389877",
+        "Link": "https://www.python.org/shell/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 095": {
+        "Date": "2019-10-20 10:48:36.087144",
+        "Link": "https://www.python.org/success-stories/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 096": {
+        "Date": "2019-10-20 10:48:36.789269",
+        "Link": "https://www.python.org/success-stories/category/arts/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 097": {
+        "Date": "2019-10-20 10:48:37.491378",
+        "Link": "https://www.python.org/success-stories/category/business/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 098": {
+        "Date": "2019-10-20 10:48:38.187811",
+        "Link": "https://www.python.org/success-stories/category/education/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 099": {
+        "Date": "2019-10-20 10:48:38.852310",
+        "Link": "https://www.python.org/success-stories/category/engineering/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 100": {
+        "Date": "2019-10-20 10:48:39.448629",
+        "Link": "https://www.python.org/success-stories/category/government/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 101": {
+        "Date": "2019-10-20 10:48:40.052558",
+        "Link": "https://www.python.org/success-stories/category/scientific/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 102": {
+        "Date": "2019-10-20 10:48:40.648980",
+        "Link": "https://www.python.org/success-stories/category/software-development/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 103": {
+        "Date": "2019-10-20 10:48:41.252212",
+        "Link": "https://www.python.org/success-stories/saving-the-world-with-open-data-and-python/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 104": {
+        "Date": "2019-10-20 10:48:42.219275",
+        "Link": "https://www.python.org/users/membership/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

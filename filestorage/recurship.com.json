@@ -1,0 +1,173 @@
+{
+    "Check 001": {
+        "Date": "2019-10-20 12:50:16.286348",
+        "Link": "http://recurship.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 002": {
+        "Date": "2019-10-20 12:50:17.269465",
+        "Link": "http://recurship.com/about/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 003": {
+        "Date": "2019-10-20 12:50:19.859809",
+        "Link": "http://recurship.com/blog/2018/04/29/2018-4-29-understanding-advanced-dependancy-injection-in-angular/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 004": {
+        "Date": "2019-10-20 12:50:20.873900",
+        "Link": "http://recurship.com/blog/2018/05/12/keynote-five-years-of-angular/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 005": {
+        "Date": "2019-10-20 12:50:21.838169",
+        "Link": "http://recurship.com/blog/2018/05/31/2018-5-31-angular-as-a-strategy-for-collaboration-and-scale/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 006": {
+        "Date": "2019-10-20 12:50:22.830185",
+        "Link": "http://recurship.com/blog/2018/05/31/2018-5-31-supercharging-the-angular-cli-with-nx/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 007": {
+        "Date": "2019-10-20 12:50:23.804428",
+        "Link": "http://recurship.com/blog/2018/06/03/2018-5-31-angulars-user-authentication-tool-belt/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 008": {
+        "Date": "2019-10-20 12:50:25.051092",
+        "Link": "http://recurship.com/blog/2018/06/03/2018-5-31-real-time-stream-processing-with-reactive-extensions-rx/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 009": {
+        "Date": "2019-10-20 12:50:26.046182",
+        "Link": "http://recurship.com/blog/2018/06/03/2018-5-31-xfvrq9aauqkayhkd4kzp7gsbfg2bfl/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 010": {
+        "Date": "2019-10-20 12:50:27.025681",
+        "Link": "http://recurship.com/blog/2018/06/03/2018-6-1-jjknwadn9ivw1gba3wxsspjlpe9grk/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 011": {
+        "Date": "2019-10-20 12:50:28.124624",
+        "Link": "http://recurship.com/blog/2018/06/03/2018-6-4-ngrx-selectors-how-to-stop-worrying-about-your-store-structure/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 012": {
+        "Date": "2019-10-20 12:50:29.130447",
+        "Link": "http://recurship.com/blog/2018/07/08/2018-7-8-sastaticket-acquires-recurship/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 013": {
+        "Date": "2019-10-20 12:50:30.114654",
+        "Link": "http://recurship.com/blog/author/mashhoodr/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 014": {
+        "Date": "2019-10-20 12:50:31.099890",
+        "Link": "http://recurship.com/blog/category/uncategorized/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 015": {
+        "Date": "2019-10-20 12:50:32.091715",
+        "Link": "http://recurship.com/build-a-mvp/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 016": {
+        "Date": "2019-10-20 12:50:33.282739",
+        "Link": "http://recurship.com/careers/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 017": {
+        "Date": "2019-10-20 12:50:39.243994",
+        "Link": "http://recurship.com/contact/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 018": {
+        "Date": "2019-10-20 12:50:40.257934",
+        "Link": "http://recurship.com/page/2/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 019": {
+        "Date": "2019-10-20 12:50:41.350245",
+        "Link": "http://recurship.com/playthinks/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}
