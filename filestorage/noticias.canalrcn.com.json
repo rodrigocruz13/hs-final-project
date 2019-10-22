@@ -1,7 +1,7 @@
 {
     "Check 0001": {
-        "Date": "2019-10-21 14:58:54.396115",
-        "Link": "http://statcounter.com",
+        "Date": "2019-10-21 12:56:54.739078",
+        "Link": "http://noticias.canalrcn.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -9,8 +9,8 @@
         }
     },
     "Check 0002": {
-        "Date": "2019-10-21 14:58:48.188670",
-        "Link": "http://www.vortexhydroenergy.com",
+        "Date": "2019-10-21 12:56:54.739332",
+        "Link": "http://noticias.canalrcn.com/emisiones",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -18,8 +18,8 @@
         }
     },
     "Check 0003": {
-        "Date": "2019-10-21 14:58:53.207739",
-        "Link": "http://www.vortexhydroenergy.com/about",
+        "Date": "2019-10-21 12:56:54.739462",
+        "Link": "http://prensa.canalrcn.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -27,8 +27,8 @@
         }
     },
     "Check 0004": {
-        "Date": "2019-10-21 14:58:48.225318",
-        "Link": "http://www.vortexhydroenergy.com/contact",
+        "Date": "2019-10-21 12:56:54.739587",
+        "Link": "http://ventasint.canalrcn.com/es/home",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -36,8 +36,8 @@
         }
     },
     "Check 0005": {
-        "Date": "2019-10-21 14:58:48.627525",
-        "Link": "http://www.vortexhydroenergy.com/deployments/2009-towing-tank",
+        "Date": "2019-10-21 12:56:54.739702",
+        "Link": "http://www.asomedios.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -45,8 +45,8 @@
         }
     },
     "Check 0006": {
-        "Date": "2019-10-21 14:58:48.604227",
-        "Link": "http://www.vortexhydroenergy.com/deployments/2010-mrelab",
+        "Date": "2019-10-21 12:56:54.739827",
+        "Link": "http://www.canalrcn.com/basic-page/politica-de-cookies-canalrcn-76212",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -54,8 +54,8 @@
         }
     },
     "Check 0007": {
-        "Date": "2019-10-21 14:58:48.399985",
-        "Link": "http://www.vortexhydroenergy.com/deployments/2010-saint-clair-river",
+        "Date": "2019-10-21 12:56:54.739977",
+        "Link": "http://www.fides.org.co",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -63,8 +63,8 @@
         }
     },
     "Check 0008": {
-        "Date": "2019-10-21 14:58:48.512897",
-        "Link": "http://www.vortexhydroenergy.com/deployments/2012-netherlands",
+        "Date": "2019-10-21 12:56:54.740112",
+        "Link": "http://www.iabcolombia.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -72,8 +72,8 @@
         }
     },
     "Check 0009": {
-        "Date": "2019-10-21 14:58:53.221829",
-        "Link": "http://www.vortexhydroenergy.com/deployments/2012-saint-clair-river",
+        "Date": "2019-10-21 12:56:54.740228",
+        "Link": "http://www.oal.com.co/empresas/rcn-cine",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -81,8 +81,8 @@
         }
     },
     "Check 0010": {
-        "Date": "2019-10-21 14:58:53.230960",
-        "Link": "http://www.vortexhydroenergy.com/deployments/2013-ohmsett",
+        "Date": "2019-10-21 12:56:54.740339",
+        "Link": "http://www.rcncomerciales.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -90,8 +90,8 @@
         }
     },
     "Check 0011": {
-        "Date": "2019-10-21 14:58:48.324924",
-        "Link": "http://www.vortexhydroenergy.com/deployments/2016-saint-clair-river",
+        "Date": "2019-10-21 12:56:54.740445",
+        "Link": "http://www.rcnnovelas.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -99,8 +99,8 @@
         }
     },
     "Check 0012": {
-        "Date": "2019-10-21 14:58:53.261275",
-        "Link": "http://www.vortexhydroenergy.com/lab",
+        "Date": "2019-10-21 12:56:54.740579",
+        "Link": "http://www.tachopistacho.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -108,8 +108,8 @@
         }
     },
     "Check 0013": {
-        "Date": "2019-10-21 14:58:53.304816",
-        "Link": "http://www.vortexhydroenergy.com/publications",
+        "Date": "2019-10-21 12:56:54.740699",
+        "Link": "http://www.winsports.co",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -117,8 +117,8 @@
         }
     },
     "Check 0014": {
-        "Date": "2019-10-21 14:58:53.289739",
-        "Link": "http://www.vortexhydroenergy.com/technology/environment",
+        "Date": "2019-10-21 12:56:54.740813",
+        "Link": "https://bit.ly/33KbdtQ",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -126,8 +126,8 @@
         }
     },
     "Check 0015": {
-        "Date": "2019-10-21 14:58:48.364917",
-        "Link": "http://www.vortexhydroenergy.com/technology/how-it-works",
+        "Date": "2019-10-21 12:56:54.740929",
+        "Link": "https://deportes.canalrcn.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -135,8 +135,8 @@
         }
     },
     "Check 0016": {
-        "Date": "2019-10-21 14:58:48.532187",
-        "Link": "http://www.vortexhydroenergy.com/technology/milestones",
+        "Date": "2019-10-21 12:56:54.741067",
+        "Link": "https://login.microsoftonline.com/login.srf",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -144,8 +144,8 @@
         }
     },
     "Check 0017": {
-        "Date": "2019-10-21 14:58:48.542031",
-        "Link": "http://www.vortexhydroenergy.com/technology/the-device",
+        "Date": "2019-10-21 12:56:54.741198",
+        "Link": "https://noticias.canalrcn.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -153,8 +153,8 @@
         }
     },
     "Check 0018": {
-        "Date": "2019-10-21 14:58:48.245623",
-        "Link": "https://www.vortexhydroenergy.com",
+        "Date": "2019-10-21 12:56:54.741320",
+        "Link": "https://noticias.canalrcn.com/emisiones",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -162,8 +162,8 @@
         }
     },
     "Check 0019": {
-        "Date": "2019-10-21 14:58:48.505634",
-        "Link": "https://www.vortexhydroenergy.com/about",
+        "Date": "2019-10-21 12:56:54.741435",
+        "Link": "https://twitter.com/CanalRCN",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -171,8 +171,8 @@
         }
     },
     "Check 0020": {
-        "Date": "2019-10-21 14:58:48.232684",
-        "Link": "https://www.vortexhydroenergy.com/contact",
+        "Date": "2019-10-21 12:56:54.741552",
+        "Link": "https://twitter.com/noticiasrcn",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -180,8 +180,8 @@
         }
     },
     "Check 0021": {
-        "Date": "2019-10-21 14:58:48.620176",
-        "Link": "https://www.vortexhydroenergy.com/deployments/2009-towing-tank",
+        "Date": "2019-10-21 12:56:54.741655",
+        "Link": "https://www.canalrcn.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -189,8 +189,8 @@
         }
     },
     "Check 0022": {
-        "Date": "2019-10-21 14:58:48.612106",
-        "Link": "https://www.vortexhydroenergy.com/deployments/2010-mrelab",
+        "Date": "2019-10-21 12:56:54.741763",
+        "Link": "https://www.canalrcn.com/atencion-al-inversionista",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -198,8 +198,8 @@
         }
     },
     "Check 0023": {
-        "Date": "2019-10-21 14:58:48.389005",
-        "Link": "https://www.vortexhydroenergy.com/deployments/2010-saint-clair-river",
+        "Date": "2019-10-21 12:56:54.741889",
+        "Link": "https://www.canalrcn.com/atencionaltelevidente",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -207,8 +207,8 @@
         }
     },
     "Check 0024": {
-        "Date": "2019-10-21 14:58:48.443270",
-        "Link": "https://www.vortexhydroenergy.com/deployments/2012-netherlands",
+        "Date": "2019-10-21 12:56:54.741994",
+        "Link": "https://www.canalrcn.com/basic-page/linea-etica-canalrcn-69211",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -216,8 +216,8 @@
         }
     },
     "Check 0025": {
-        "Date": "2019-10-21 14:58:48.262558",
-        "Link": "https://www.vortexhydroenergy.com/deployments/2012-saint-clair-river",
+        "Date": "2019-10-21 12:56:54.742099",
+        "Link": "https://www.canalrcn.com/basic-page/oferta-basica-de-acceso-y-uso-de-infraestructura",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -225,8 +225,8 @@
         }
     },
     "Check 0026": {
-        "Date": "2019-10-21 14:58:48.478689",
-        "Link": "https://www.vortexhydroenergy.com/deployments/2013-ohmsett",
+        "Date": "2019-10-21 12:56:54.742198",
+        "Link": "https://www.canalrcn.com/basic-page/protecci%C3%B3n-de-datos-canalrcn-10331",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -234,8 +234,8 @@
         }
     },
     "Check 0027": {
-        "Date": "2019-10-21 14:58:48.315870",
-        "Link": "https://www.vortexhydroenergy.com/deployments/2016-saint-clair-river",
+        "Date": "2019-10-21 12:56:54.742306",
+        "Link": "https://www.canalrcn.com/basic-page/protecci%C3%B3n-de-datos-ntn24-canalrcn-77971",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -243,8 +243,8 @@
         }
     },
     "Check 0028": {
-        "Date": "2019-10-21 14:58:48.273433",
-        "Link": "https://www.vortexhydroenergy.com/lab",
+        "Date": "2019-10-21 12:56:54.742434",
+        "Link": "https://www.canalrcn.com/descargas/cod_autorregulacion.pdf",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -252,8 +252,8 @@
         }
     },
     "Check 0029": {
-        "Date": "2019-10-21 14:58:48.432020",
-        "Link": "https://www.vortexhydroenergy.com/publications",
+        "Date": "2019-10-21 12:56:54.742560",
+        "Link": "https://www.canalrcn.com/programas",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -261,8 +261,8 @@
         }
     },
     "Check 0030": {
-        "Date": "2019-10-21 14:58:49.093531",
-        "Link": "https://www.vortexhydroenergy.com/technology/environment",
+        "Date": "2019-10-21 12:56:54.742670",
+        "Link": "https://www.canalrcn.com/rse",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -270,8 +270,8 @@
         }
     },
     "Check 0031": {
-        "Date": "2019-10-21 14:58:48.377243",
-        "Link": "https://www.vortexhydroenergy.com/technology/how-it-works",
+        "Date": "2019-10-21 12:56:54.742776",
+        "Link": "https://www.canalrcn.com/rse/articulo-noticia/informes-de-sostenibilidad-rcn-television-responsabilidad-social-76",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -279,8 +279,8 @@
         }
     },
     "Check 0032": {
-        "Date": "2019-10-21 14:58:48.317753",
-        "Link": "https://www.vortexhydroenergy.com/technology/milestones",
+        "Date": "2019-10-21 12:56:54.742882",
+        "Link": "https://www.canalrcn.com/streamingrcn",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -288,8 +288,80 @@
         }
     },
     "Check 0033": {
-        "Date": "2019-10-21 14:58:48.497775",
-        "Link": "https://www.vortexhydroenergy.com/technology/the-device",
+        "Date": "2019-10-21 12:56:54.743025",
+        "Link": "https://www.canalrcn.com/super-like",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0034": {
+        "Date": "2019-10-21 12:56:54.743134",
+        "Link": "https://www.facebook.com/CanalRCN",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0035": {
+        "Date": "2019-10-21 12:56:54.743240",
+        "Link": "https://www.instagram.com/canalrcn",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0036": {
+        "Date": "2019-10-21 12:56:54.743344",
+        "Link": "https://www.larepublica.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0037": {
+        "Date": "2019-10-21 12:56:54.743473",
+        "Link": "https://www.ntn24.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0038": {
+        "Date": "2019-10-21 12:56:54.743586",
+        "Link": "https://www.nuestrateleinternacional.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0039": {
+        "Date": "2019-10-21 12:56:54.743699",
+        "Link": "https://www.rcnradio.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0040": {
+        "Date": "2019-10-21 12:56:54.743812",
+        "Link": "https://www.tdtparatodos.tv",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0041": {
+        "Date": "2019-10-21 12:56:54.743930",
+        "Link": "https://www.youtube.com/channel/UCSCAJJ1RJ4rfRTVW4gjYTpQ",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",

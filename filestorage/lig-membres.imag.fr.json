@@ -1,65 +1,128 @@
 {
-    "Check 001": {
-        "Date": "2019-10-19 18:15:34.600644",
-        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Contact.html",
+    "Check 0001": {
+        "Date": "2019-10-21 15:33:36.969877",
+        "Link": "http://lig-membres.imag.fr",
         "Status": {
-            "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": "NO IP"
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
-    "Check 002": {
-        "Date": "2019-10-19 18:15:35.055493",
-        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Courses.html",
+    "Check 0002": {
+        "Date": "2019-10-21 15:33:36.692222",
+        "Link": "http://lig-membres.imag.fr/modele",
         "Status": {
-            "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": "NO IP"
+            "Code": "500",
+            "Meaning": "Internal Server Error: A generic error message, given when no more specific message is suitable",
+            "Type": "SERVER ERROR"
         }
     },
-    "Check 003": {
-        "Date": "2019-10-19 18:15:35.337401",
-        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Entertain.html",
+    "Check 0003": {
+        "Date": "2019-10-21 15:33:37.691739",
+        "Link": "http://lig-membres.imag.fr/tutoriel2",
         "Status": {
-            "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": "NO IP"
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
-    "Check 004": {
-        "Date": "2019-10-19 18:15:35.816685",
-        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Links.html",
+    "Check 0004": {
+        "Date": "2019-10-21 15:33:37.802696",
+        "Link": "http://lig-membres.imag.fr/wordpress-mode-demploi",
         "Status": {
-            "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": "NO IP"
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
-    "Check 005": {
-        "Date": "2019-10-19 18:15:36.036382",
-        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Photos.html",
+    "Check 0005": {
+        "Date": "2019-10-21 15:33:38.128821",
+        "Link": "http://lig-membres.imag.fr/wp-login.php",
         "Status": {
-            "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": "NO IP"
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
-    "Check 006": {
-        "Date": "2019-10-19 18:15:36.450060",
-        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/Research.html",
+    "Check 0006": {
+        "Date": "2019-10-21 15:33:56.598799",
+        "Link": "http://membres-dev.imag.fr",
         "Status": {
             "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": "NO IP"
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
         }
     },
-    "Check 007": {
-        "Date": "2019-10-19 18:15:41.821399",
-        "Link": "http://www.win.trlabs.ca/%7Ebhatdinu/index.html",
+    "Check 0007": {
+        "Date": "2019-10-21 15:33:35.936849",
+        "Link": "http://www.liglab.fr",
         "Status": {
-            "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
-            "Type": "NO IP"
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 15:33:37.026804",
+        "Link": "http://www.woothemes.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0009": {
+        "Date": "2019-10-21 15:33:36.253449",
+        "Link": "http://www.yann.com/en/wp-plugins/yd-wpmu-bloglist-widget",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0010": {
+        "Date": "2019-10-21 15:33:37.556825",
+        "Link": "https://lig-membres.imag.fr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0011": {
+        "Date": "2019-10-21 15:33:38.917317",
+        "Link": "https://lig-membres.imag.fr/exemple",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 15:33:38.813828",
+        "Link": "https://lig-membres.imag.fr/tutoriel2",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0013": {
+        "Date": "2019-10-21 15:33:38.757026",
+        "Link": "https://lig-membres.imag.fr/wordpress-mode-demploi",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0014": {
+        "Date": "2019-10-21 15:33:37.327080",
+        "Link": "https://lig-membres.imag.fr/wp-login.php",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     }
 }

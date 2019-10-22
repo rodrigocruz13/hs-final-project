@@ -1,0 +1,11 @@
+{
+    "Check 0103": {
+        "Date": "2019-10-21 11:35:01.007553",
+        "Link": "https://www.foxnews.com/person/m/mark-minnella.html",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    }
+}

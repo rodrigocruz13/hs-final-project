@@ -1,0 +1,38 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 00:32:07.980099",
+        "Link": "http://www.amazon.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 00:32:07.980334",
+        "Link": "http://www.amazon.com/dogsofamazon/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 00:32:07.980457",
+        "Link": "https://www.amazon.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 00:32:07.980566",
+        "Link": "https://www.amazon.com/dogsofamazon/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

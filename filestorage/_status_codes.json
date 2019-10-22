@@ -49,5 +49,5 @@
 	"504": "Gateway Timeout: The server was acting as a gateway or proxy and did not receive a timely response from the upstream server",
 	"505": "HTTP Version Not Supported: The server does not support the HTTP protocol version used in the request",
 	"511": "Network Authentication Required: The client needs to authenticate to gain network access",
-	"999": "Error: Server IP address could not be found"
+	"999": "Server IP address could not be found"
 }

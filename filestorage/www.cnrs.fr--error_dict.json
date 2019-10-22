@@ -1,0 +1,38 @@
+{
+    "Check 0061": {
+        "Date": "2019-10-21 15:35:42.606941",
+        "Link": "https://carnetsdescience-larevue.fr/2019/04/25/6",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0064": {
+        "Date": "2019-10-21 15:35:41.835998",
+        "Link": "https://fr.linkedin.com/company/cnrs",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0065": {
+        "Date": "2019-10-21 15:35:41.874373",
+        "Link": "https://intranet.cnrs.fr",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0066": {
+        "Date": "2019-10-21 15:35:41.922113",
+        "Link": "https://intranet.cnrs.fr/Pages/default.aspx",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

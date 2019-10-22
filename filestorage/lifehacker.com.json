@@ -1,7 +1,7 @@
 {
     "Check 0001": {
-        "Date": "2019-10-21 10:36:12.478594",
-        "Link": "http://recurship.com",
+        "Date": "2019-10-21 17:54:15.989735",
+        "Link": "http://lifehacker.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -9,8 +9,8 @@
         }
     },
     "Check 0002": {
-        "Date": "2019-10-21 10:36:12.478915",
-        "Link": "http://recurship.com/about",
+        "Date": "2019-10-21 17:54:16.001063",
+        "Link": "https://kinja.com/bethskw",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -18,8 +18,8 @@
         }
     },
     "Check 0003": {
-        "Date": "2019-10-21 10:36:12.479063",
-        "Link": "http://recurship.com/blog/2018/04/29/2018-4-29-understanding-advanced-dependancy-injection-in-angular",
+        "Date": "2019-10-21 17:54:15.334573",
+        "Link": "https://kinja.com/hessebrendan",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -27,8 +27,8 @@
         }
     },
     "Check 0004": {
-        "Date": "2019-10-21 10:36:12.479192",
-        "Link": "http://recurship.com/blog/2018/05/12/keynote-five-years-of-angular",
+        "Date": "2019-10-21 17:54:14.872620",
+        "Link": "https://kinja.com/joelkahn",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -36,8 +36,8 @@
         }
     },
     "Check 0005": {
-        "Date": "2019-10-21 10:36:12.479297",
-        "Link": "http://recurship.com/blog/2018/05/31/2018-5-31-angular-as-a-strategy-for-collaboration-and-scale",
+        "Date": "2019-10-21 17:54:15.489049",
+        "Link": "https://kinja.com/lisatella",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -45,8 +45,8 @@
         }
     },
     "Check 0006": {
-        "Date": "2019-10-21 10:36:12.479404",
-        "Link": "http://recurship.com/blog/2018/05/31/2018-5-31-supercharging-the-angular-cli-with-nx",
+        "Date": "2019-10-21 17:54:16.037824",
+        "Link": "https://kinja.com/melissakirsch",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -54,8 +54,8 @@
         }
     },
     "Check 0007": {
-        "Date": "2019-10-21 10:36:12.479573",
-        "Link": "http://recurship.com/blog/2018/06/03/2018-5-31-angulars-user-authentication-tool-belt",
+        "Date": "2019-10-21 17:54:15.978481",
+        "Link": "https://kinja.com/thedavidmurphy",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -63,8 +63,8 @@
         }
     },
     "Check 0008": {
-        "Date": "2019-10-21 10:36:12.480061",
-        "Link": "http://recurship.com/blog/2018/06/03/2018-5-31-real-time-stream-processing-with-reactive-extensions-rx",
+        "Date": "2019-10-21 17:54:15.586287",
+        "Link": "https://lifehacker.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -72,8 +72,8 @@
         }
     },
     "Check 0009": {
-        "Date": "2019-10-21 10:36:12.480325",
-        "Link": "http://recurship.com/blog/2018/06/03/2018-5-31-xfvrq9aauqkayhkd4kzp7gsbfg2bfl",
+        "Date": "2019-10-21 17:54:15.076108",
+        "Link": "https://lifehacker.com/c/saving-money",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -81,8 +81,8 @@
         }
     },
     "Check 0010": {
-        "Date": "2019-10-21 10:36:12.480519",
-        "Link": "http://recurship.com/blog/2018/06/03/2018-6-1-jjknwadn9ivw1gba3wxsspjlpe9grk",
+        "Date": "2019-10-21 17:54:14.929799",
+        "Link": "https://lifehacker.com/c/streaming",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -90,8 +90,8 @@
         }
     },
     "Check 0011": {
-        "Date": "2019-10-21 10:36:12.480672",
-        "Link": "http://recurship.com/blog/2018/06/03/2018-6-4-ngrx-selectors-how-to-stop-worrying-about-your-store-structure",
+        "Date": "2019-10-21 17:54:15.096995",
+        "Link": "https://lifehacker.com/c/video",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -99,8 +99,8 @@
         }
     },
     "Check 0012": {
-        "Date": "2019-10-21 10:36:12.480795",
-        "Link": "http://recurship.com/blog/2018/07/08/2018-7-8-sastaticket-acquires-recurship",
+        "Date": "2019-10-21 17:54:15.288740",
+        "Link": "https://lifehacker.com/carve-your-pumpkin-with-a-melon-baller-and-a-grapefruit-1839164439",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -108,8 +108,8 @@
         }
     },
     "Check 0013": {
-        "Date": "2019-10-21 10:36:12.480922",
-        "Link": "http://recurship.com/build-a-mvp",
+        "Date": "2019-10-21 17:54:15.424418",
+        "Link": "https://lifehacker.com/disney-might-not-work-on-your-device-1839229645",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -117,8 +117,8 @@
         }
     },
     "Check 0014": {
-        "Date": "2019-10-21 10:36:12.481037",
-        "Link": "http://recurship.com/careers",
+        "Date": "2019-10-21 17:54:15.002295",
+        "Link": "https://lifehacker.com/how-to-watch-tonights-orionid-meteor-shower-1839225877",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -126,8 +126,8 @@
         }
     },
     "Check 0015": {
-        "Date": "2019-10-21 10:36:12.481147",
-        "Link": "http://recurship.com/contact",
+        "Date": "2019-10-21 17:54:15.513277",
+        "Link": "https://lifehacker.com/the-most-effective-strategies-to-score-tickets-to-star-1839227054",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -135,8 +135,8 @@
         }
     },
     "Check 0016": {
-        "Date": "2019-10-21 10:36:12.481262",
-        "Link": "http://recurship.com/page/2",
+        "Date": "2019-10-21 17:54:15.993109",
+        "Link": "https://lifehacker.com/whats-coming-and-going-from-netflix-the-week-of-october-1839056459",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -144,8 +144,8 @@
         }
     },
     "Check 0017": {
-        "Date": "2019-10-21 10:36:12.481374",
-        "Link": "http://recurship.com/playthinks",
+        "Date": "2019-10-21 17:54:15.573869",
+        "Link": "https://twocents.lifehacker.com/2500-is-your-new-emergency-savings-goal-1839234959",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",

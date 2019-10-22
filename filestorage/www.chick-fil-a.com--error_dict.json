@@ -1,0 +1,56 @@
+{
+    "Check 0006": {
+        "Date": "2019-10-21 16:05:09.388790",
+        "Link": "http://www.chick-fil-a.com/Catering",
+        "Status": {
+            "Code": "500",
+            "Meaning": "Internal Server Error: A generic error message, given when no more specific message is suitable",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0031": {
+        "Date": "2019-10-21 16:05:06.353097",
+        "Link": "http://www.chick-fil-a.com/Menu-Items/Chicken-Tortilla-Soup",
+        "Status": {
+            "Code": "500",
+            "Meaning": "Internal Server Error: A generic error message, given when no more specific message is suitable",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0083": {
+        "Date": "2019-10-21 16:05:02.356931",
+        "Link": "https://play.google.com/store/apps/details",
+        "Status": {
+            "Code": "400",
+            "Meaning": "Bad Request: The request cannot be fulfilled due to bad syntax",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0106": {
+        "Date": "2019-10-21 16:05:03.883491",
+        "Link": "https://www.chick-fil-a.com/Catering",
+        "Status": {
+            "Code": "500",
+            "Meaning": "Internal Server Error: A generic error message, given when no more specific message is suitable",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0131": {
+        "Date": "2019-10-21 16:05:05.429347",
+        "Link": "https://www.chick-fil-a.com/Menu-Items/Chicken-Tortilla-Soup",
+        "Status": {
+            "Code": "500",
+            "Meaning": "Internal Server Error: A generic error message, given when no more specific message is suitable",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0183": {
+        "Date": "2019-10-21 16:05:10.359494",
+        "Link": "https://www.linkedin.com/company/chick-fil-a-corporate/careers",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "Check 0003": {
+        "Date": "2019-10-21 15:50:48.378360",
+        "Link": "http://unidaddemedios.infocontacto",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 15:50:48.374532",
+        "Link": "http://unidaddemedios.infoplanes",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0005": {
+        "Date": "2019-10-21 15:50:48.373999",
+        "Link": "http://unidaddemedios.infoproductos/el-callejero",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 15:50:48.377494",
+        "Link": "http://unidaddemedios.infoproductos/opinion-caribe",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0007": {
+        "Date": "2019-10-21 15:50:51.751511",
+        "Link": "http://unidaddemediossas.com/nosotros",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 15:50:49.085802",
+        "Link": "https://twitter.com/opinion_caribe",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    }
+}

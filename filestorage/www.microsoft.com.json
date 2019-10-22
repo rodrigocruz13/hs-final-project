@@ -1,553 +1,497 @@
 {
-    "Check 001": {
-        "Date": "2019-10-20 21:15:53.589275",
-        "Link": "http://www.montgomeryzoo.com/",
+    "Check 0001": {
+        "Date": "2019-10-21 00:35:00.369973",
+        "Link": "http://www.microsoft.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 002": {
-        "Date": "2019-10-20 21:15:56.253484",
-        "Link": "http://www.montgomeryzoo.com/Home/Components/Calendar/Event/5654/2981",
+    "Check 0002": {
+        "Date": "2019-10-21 00:35:00.370177",
+        "Link": "https://account.microsoft.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 003": {
-        "Date": "2019-10-20 21:15:58.420072",
-        "Link": "http://www.montgomeryzoo.com/Home/Components/Calendar/Event/5656/2981",
+    "Check 0003": {
+        "Date": "2019-10-21 00:35:00.370289",
+        "Link": "https://account.microsoft.com/orders",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 004": {
-        "Date": "2019-10-20 21:15:59.909158",
-        "Link": "http://www.montgomeryzoo.com/Home/Components/Calendar/Event/5658/2981",
+    "Check 0004": {
+        "Date": "2019-10-21 00:35:00.370374",
+        "Link": "https://azure.microsoft.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 005": {
-        "Date": "2019-10-20 21:16:01.927056",
-        "Link": "http://www.montgomeryzoo.com/Home/Components/Calendar/Event/5733/2981",
+    "Check 0005": {
+        "Date": "2019-10-21 00:35:00.370457",
+        "Link": "https://azure.microsoft.com/es-mx/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 006": {
-        "Date": "2019-10-20 21:16:03.794151",
-        "Link": "http://www.montgomeryzoo.com/animal-realms",
+    "Check 0006": {
+        "Date": "2019-10-21 00:35:00.370537",
+        "Link": "https://careers.microsoft.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 007": {
-        "Date": "2019-10-20 21:16:05.154861",
-        "Link": "http://www.montgomeryzoo.com/education",
+    "Check 0007": {
+        "Date": "2019-10-21 00:35:00.370616",
+        "Link": "https://channel9.msdn.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 008": {
-        "Date": "2019-10-20 21:16:27.822629",
-        "Link": "http://www.montgomeryzoo.com/education/volunteer-opportunities",
+    "Check 0008": {
+        "Date": "2019-10-21 00:35:00.370694",
+        "Link": "https://choice.microsoft.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 009": {
-        "Date": "2019-10-20 21:16:29.184558",
-        "Link": "http://www.montgomeryzoo.com/education/zoo2go",
+    "Check 0009": {
+        "Date": "2019-10-21 00:35:00.370771",
+        "Link": "https://developer.microsoft.com/es-es/office",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 010": {
-        "Date": "2019-10-20 21:16:30.308813",
-        "Link": "http://www.montgomeryzoo.com/experiences",
+    "Check 0010": {
+        "Date": "2019-10-21 00:35:00.370848",
+        "Link": "https://developer.microsoft.com/es-mx/windows",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 011": {
-        "Date": "2019-10-20 21:16:32.012197",
-        "Link": "http://www.montgomeryzoo.com/experiences/animal-encounters",
+    "Check 0011": {
+        "Date": "2019-10-21 00:35:00.370926",
+        "Link": "https://docs.microsoft.com/es-co/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 012": {
-        "Date": "2019-10-20 21:16:33.861204",
-        "Link": "http://www.montgomeryzoo.com/experiences/conserve-wildlife",
+    "Check 0012": {
+        "Date": "2019-10-21 00:35:00.371003",
+        "Link": "https://facebook.com/MSFTColombia",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 013": {
-        "Date": "2019-10-20 21:16:35.372913",
-        "Link": "http://www.montgomeryzoo.com/home-zoo",
+    "Check 0013": {
+        "Date": "2019-10-21 00:35:00.371084",
+        "Link": "https://go.microsoft.com/fwlink/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 014": {
-        "Date": "2019-10-20 21:16:36.992859",
-        "Link": "http://www.montgomeryzoo.com/mann-museum",
+    "Check 0014": {
+        "Date": "2019-10-21 00:35:00.371163",
+        "Link": "https://go.microsoft.com/fwlink/p/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 015": {
-        "Date": "2019-10-20 21:16:39.401033",
-        "Link": "http://www.montgomeryzoo.com/mann-museum/museum-news",
+    "Check 0015": {
+        "Date": "2019-10-21 00:35:00.371241",
+        "Link": "https://msdn.microsoft.com/es-co",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 016": {
-        "Date": "2019-10-20 21:16:41.750465",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit",
+    "Check 0016": {
+        "Date": "2019-10-21 00:35:00.371324",
+        "Link": "https://onedrive.live.com/about/es-mx/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 017": {
-        "Date": "2019-10-20 21:17:04.752739",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/about-us",
+    "Check 0017": {
+        "Date": "2019-10-21 00:35:00.371417",
+        "Link": "https://outlook.live.com/owa/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 018": {
-        "Date": "2019-10-20 21:17:06.209790",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/about-us/latest-news",
+    "Check 0018": {
+        "Date": "2019-10-21 00:35:00.371509",
+        "Link": "https://partner.microsoft.com/es-co/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 019": {
-        "Date": "2019-10-20 21:17:08.188915",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/birthday-parties",
+    "Check 0019": {
+        "Date": "2019-10-21 00:35:00.371589",
+        "Link": "https://privacy.microsoft.com/es-co",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 020": {
-        "Date": "2019-10-20 21:17:10.783597",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/event-calendar",
+    "Check 0020": {
+        "Date": "2019-10-21 00:35:00.371669",
+        "Link": "https://products.office.com/ES-co/home",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 021": {
-        "Date": "2019-10-20 21:17:12.086583",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/group-information",
+    "Check 0021": {
+        "Date": "2019-10-21 00:35:00.371746",
+        "Link": "https://products.office.com/es-co/academic/compare-office-365-education-plans",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 022": {
-        "Date": "2019-10-20 21:17:14.589173",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/programs-tours",
+    "Check 0022": {
+        "Date": "2019-10-21 00:35:00.371824",
+        "Link": "https://store.office.com/es-co/appshome.aspx",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 023": {
-        "Date": "2019-10-20 21:17:16.440798",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/zoo-map-realms",
+    "Check 0023": {
+        "Date": "2019-10-21 00:35:00.371904",
+        "Link": "https://support.microsoft.com/es-co",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 024": {
-        "Date": "2019-10-20 21:17:17.969763",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/zoo-membership",
+    "Check 0024": {
+        "Date": "2019-10-21 00:35:00.371982",
+        "Link": "https://support.microsoft.com/es-co/contactus",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 025": {
-        "Date": "2019-10-20 21:17:18.835484",
-        "Link": "https://granicus.com/government-website-design",
+    "Check 0025": {
+        "Date": "2019-10-21 00:35:00.372059",
+        "Link": "https://technet.microsoft.com/es-co",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 026": {
-        "Date": "2019-10-20 21:17:19.995872",
-        "Link": "https://twitter.com/zoomannmuseum",
+    "Check 0026": {
+        "Date": "2019-10-21 00:35:00.372139",
+        "Link": "https://twitter.com/MSFTColombia",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 027": {
-        "Date": "2019-10-20 21:17:21.571736",
-        "Link": "https://www.facebook.com/montgomeryzooandmannmuseum/",
+    "Check 0027": {
+        "Date": "2019-10-21 00:35:00.372216",
+        "Link": "https://visualstudio.microsoft.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 028": {
-        "Date": "2019-10-20 21:17:22.882683",
-        "Link": "https://www.flickr.com/photos/montgomeryzoo/",
+    "Check 0028": {
+        "Date": "2019-10-21 00:35:00.372294",
+        "Link": "https://www.linkedin.com/company/1035",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0029": {
+        "Date": "2019-10-21 00:35:00.372374",
+        "Link": "https://www.microsoft.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 029": {
-        "Date": "2019-10-20 21:17:23.659050",
-        "Link": "https://www.instagram.com/montgomeryzoo/",
+    "Check 0030": {
+        "Date": "2019-10-21 00:35:00.372452",
+        "Link": "https://www.microsoft.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 030": {
-        "Date": "2019-10-20 21:17:25.174826",
-        "Link": "https://www.montgomeryzoo.com/",
+    "Check 0031": {
+        "Date": "2019-10-21 00:35:00.372529",
+        "Link": "https://www.microsoft.com/cloud-platform/windows-server",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 031": {
-        "Date": "2019-10-20 21:17:27.718698",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5545/2981",
+    "Check 0032": {
+        "Date": "2019-10-21 00:35:00.372607",
+        "Link": "https://www.microsoft.com/en-us/locale.aspx",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 032": {
-        "Date": "2019-10-20 21:17:30.363704",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5651/2981",
+    "Check 0033": {
+        "Date": "2019-10-21 00:35:00.372686",
+        "Link": "https://www.microsoft.com/es-co/about",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 033": {
-        "Date": "2019-10-20 21:17:31.825611",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5654/2981",
+    "Check 0034": {
+        "Date": "2019-10-21 00:35:00.372765",
+        "Link": "https://www.microsoft.com/es-co/download",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 034": {
-        "Date": "2019-10-20 21:17:33.463117",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5656/2981",
+    "Check 0035": {
+        "Date": "2019-10-21 00:35:00.372842",
+        "Link": "https://www.microsoft.com/es-co/download/default.aspx",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 035": {
-        "Date": "2019-10-20 21:17:35.331292",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5657/2981",
+    "Check 0036": {
+        "Date": "2019-10-21 00:35:00.372925",
+        "Link": "https://www.microsoft.com/es-co/enterprise",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 036": {
-        "Date": "2019-10-20 21:17:36.706880",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5658/2981",
+    "Check 0037": {
+        "Date": "2019-10-21 00:35:00.373003",
+        "Link": "https://www.microsoft.com/es-co/microsoft-365",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 037": {
-        "Date": "2019-10-20 21:17:38.216079",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5660/2981",
+    "Check 0038": {
+        "Date": "2019-10-21 00:35:00.373080",
+        "Link": "https://www.microsoft.com/es-co/sitemap.aspx",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 038": {
-        "Date": "2019-10-20 21:17:39.885622",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5733/2981",
+    "Check 0039": {
+        "Date": "2019-10-21 00:35:00.373158",
+        "Link": "https://www.microsoft.com/es-co/store/b/gift-cards",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 039": {
-        "Date": "2019-10-20 21:17:41.670102",
-        "Link": "https://www.montgomeryzoo.com/animal-realms",
+    "Check 0040": {
+        "Date": "2019-10-21 00:35:00.373240",
+        "Link": "https://www.microsoft.com/es-co/store/b/home",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 040": {
-        "Date": "2019-10-20 21:17:42.721269",
-        "Link": "https://www.montgomeryzoo.com/education",
+    "Check 0041": {
+        "Date": "2019-10-21 00:35:00.373323",
+        "Link": "https://www.microsoft.com/es-co/store/games/windows",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 041": {
-        "Date": "2019-10-20 21:17:43.529785",
-        "Link": "https://www.montgomeryzoo.com/education/volunteer-opportunities",
+    "Check 0042": {
+        "Date": "2019-10-21 00:35:00.373403",
+        "Link": "https://www.microsoft.com/es-co/windows/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 042": {
-        "Date": "2019-10-20 21:17:44.674518",
-        "Link": "https://www.montgomeryzoo.com/education/zoo2go",
+    "Check 0043": {
+        "Date": "2019-10-21 00:35:00.373481",
+        "Link": "https://www.microsoft.com/es-co/windows/devices",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 043": {
-        "Date": "2019-10-20 21:17:46.013657",
-        "Link": "https://www.montgomeryzoo.com/experiences",
+    "Check 0044": {
+        "Date": "2019-10-21 00:35:00.373559",
+        "Link": "https://www.microsoft.com/es-co/windows/windows-10-apps",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 044": {
-        "Date": "2019-10-20 21:17:46.719770",
-        "Link": "https://www.montgomeryzoo.com/experiences/animal-encounters",
+    "Check 0045": {
+        "Date": "2019-10-21 00:35:00.373643",
+        "Link": "https://www.microsoft.com/es-co/windows/windows-10-games",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 045": {
-        "Date": "2019-10-20 21:17:47.861611",
-        "Link": "https://www.montgomeryzoo.com/experiences/conserve-wildlife",
+    "Check 0046": {
+        "Date": "2019-10-21 00:35:00.373722",
+        "Link": "https://www.microsoft.com/es-mx/education",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 046": {
-        "Date": "2019-10-20 21:17:49.021243",
-        "Link": "https://www.montgomeryzoo.com/home-zoo",
+    "Check 0047": {
+        "Date": "2019-10-21 00:35:00.373801",
+        "Link": "https://www.microsoft.com/es-xl/dynamics365/home",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 047": {
-        "Date": "2019-10-20 21:17:50.249635",
-        "Link": "https://www.montgomeryzoo.com/mann-museum",
+    "Check 0048": {
+        "Date": "2019-10-21 00:35:00.373880",
+        "Link": "https://www.microsoft.com/es-xl/sql-server/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 048": {
-        "Date": "2019-10-20 21:17:51.575557",
-        "Link": "https://www.montgomeryzoo.com/mann-museum/museum-news",
+    "Check 0049": {
+        "Date": "2019-10-21 00:35:00.373964",
+        "Link": "https://www.microsoft.com/investor/default.aspx",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 049": {
-        "Date": "2019-10-20 21:17:53.015814",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit",
+    "Check 0050": {
+        "Date": "2019-10-21 00:35:00.374043",
+        "Link": "https://www.microsoft.com/net/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 050": {
-        "Date": "2019-10-20 21:17:54.124698",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/about-us",
+    "Check 0051": {
+        "Date": "2019-10-21 00:35:00.374122",
+        "Link": "https://www.microsoft.com/trademarks",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 051": {
-        "Date": "2019-10-20 21:17:55.551463",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/about-us/latest-news",
+    "Check 0052": {
+        "Date": "2019-10-21 00:35:00.374203",
+        "Link": "https://www.onenote.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 052": {
-        "Date": "2019-10-20 21:17:58.686874",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/birthday-parties",
+    "Check 0053": {
+        "Date": "2019-10-21 00:35:00.374281",
+        "Link": "https://www.skype.com/es/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 053": {
-        "Date": "2019-10-20 21:18:00.525624",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/event-calendar",
+    "Check 0054": {
+        "Date": "2019-10-21 00:35:00.374380",
+        "Link": "https://www.xbox.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 054": {
-        "Date": "2019-10-20 21:18:02.000545",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/group-information",
+    "Check 0055": {
+        "Date": "2019-10-21 00:35:00.374463",
+        "Link": "https://www.xbox.com/es-co/games/xbox-one",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
-    },
-    "Check 055": {
-        "Date": "2019-10-20 21:18:04.487398",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/programs-tours",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 056": {
-        "Date": "2019-10-20 21:18:05.481635",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/zoo-map-realms",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 057": {
-        "Date": "2019-10-20 21:18:06.782818",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/zoo-membership",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 058": {
-        "Date": "2019-10-20 21:18:08.557118",
-        "Link": "https://www.yahoo.com/news/weather/united-states/montgomery/montgomery-12773394",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 059": {
-        "Date": "2019-10-20 21:18:09.832743",
-        "Link": "https://www.youtube.com/user/MtgyZooMannMuseum",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 060": {
-        "Date": "2019-10-20 21:18:12.296321",
-        "Link": "https://youtu.be/bJed-mqON1U",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 061": {
-        "Date": "2019-10-20 21:18:13.862251",
-        "Link": "https://youtu.be/u1nOs_LRB8w",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Name": "www.montgomeryzoo.com",
-    "Time (s)": 141.99289226531982
+    }
 }

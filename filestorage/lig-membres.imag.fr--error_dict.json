@@ -1,0 +1,20 @@
+{
+    "Check 0002": {
+        "Date": "2019-10-21 15:33:36.692222",
+        "Link": "http://lig-membres.imag.fr/modele",
+        "Status": {
+            "Code": "500",
+            "Meaning": "Internal Server Error: A generic error message, given when no more specific message is suitable",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 15:33:56.598799",
+        "Link": "http://membres-dev.imag.fr",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

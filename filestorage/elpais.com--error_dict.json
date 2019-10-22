@@ -1,0 +1,146 @@
+{
+    "Check 0018": {
+        "Date": "2019-10-21 02:13:55.069367",
+        "Link": "http://www.huffingtonpost.es",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0050": {
+        "Date": "2019-10-21 02:13:55.071893",
+        "Link": "https://deportes.elpais.com",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0083": {
+        "Date": "2019-10-21 02:13:55.074487",
+        "Link": "https://elpais.com/autor/el_pais/a",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0084": {
+        "Date": "2019-10-21 02:13:55.074565",
+        "Link": "https://elpais.com/autor/enric_gonzalez/a",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0140": {
+        "Date": "2019-10-21 02:13:55.079009",
+        "Link": "https://elpais.com/deportes/2019/10/20/actualidad/1571593661_908036.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0143": {
+        "Date": "2019-10-21 02:13:55.079243",
+        "Link": "https://elpais.com/economia/2019/10/18/actualidad/1571353061_323418.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0200": {
+        "Date": "2019-10-21 02:13:55.083802",
+        "Link": "https://elpais.com/internacional/2019/10/19/actualidad/1571510177_822791.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0238": {
+        "Date": "2019-10-21 02:13:55.086808",
+        "Link": "https://elpais.com/suscripciones/elpaismas.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0274": {
+        "Date": "2019-10-21 02:13:55.089657",
+        "Link": "https://elpais.com/tag/listado",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0316": {
+        "Date": "2019-10-21 02:13:55.092962",
+        "Link": "https://verne.elpais.com/verne/2018/10/01/articulo/1538386654_578049.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0324": {
+        "Date": "2019-10-21 02:13:55.093601",
+        "Link": "https://www.emagister.com.mx/cursolanding",
+        "Status": {
+            "Code": "500",
+            "Meaning": "Internal Server Error: A generic error message, given when no more specific message is suitable",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0326": {
+        "Date": "2019-10-21 02:13:55.093758",
+        "Link": "https://www.emagister.com/express/informatica-10/mba-master-big-data-business-intelligence-cursos-3453730.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0327": {
+        "Date": "2019-10-21 02:13:55.093844",
+        "Link": "https://www.emagister.com/express/mba-master-direccion-hotelera-turismo-cursos-3344156.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0328": {
+        "Date": "2019-10-21 02:13:55.093923",
+        "Link": "https://www.emagister.com/express/mba-master-marketing-digital-ecommerce-cursos-3024348.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0329": {
+        "Date": "2019-10-21 02:13:55.094001",
+        "Link": "https://www.emagister.com/express/mba-master-project-management-cursos-3407589.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0331": {
+        "Date": "2019-10-21 02:13:55.094162",
+        "Link": "https://www.huffingtonpost.es/entry/la-comentadisima-foto-de-telma-ortiz-hermana-de-letizia-en-los-premios-princesa-de-asturias_es_5da9ec5fe4b0e0f0378b6512",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

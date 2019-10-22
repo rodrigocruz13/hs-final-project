@@ -1,0 +1,1316 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 11:35:00.995325",
+        "Link": "http://www.foxnews.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 11:35:00.995573",
+        "Link": "https://help.foxnews.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 11:35:00.995696",
+        "Link": "https://nation.foxnews.com/watch/af9c4ccf320756e94031dfc4198d1bc2",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 11:35:00.995803",
+        "Link": "https://radio.foxnews.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0005": {
+        "Date": "2019-10-21 11:35:00.995906",
+        "Link": "https://radio.foxnews.com/podcast",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 11:35:00.996008",
+        "Link": "https://radio.foxnews.com/podcast/fox-news-rundown",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0007": {
+        "Date": "2019-10-21 11:35:00.996111",
+        "Link": "https://video.foxbusiness.com/v/6096484968001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 11:35:00.996217",
+        "Link": "https://video.foxnews.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0009": {
+        "Date": "2019-10-21 11:35:00.996327",
+        "Link": "https://video.foxnews.com/v/1241186546001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0010": {
+        "Date": "2019-10-21 11:35:00.996430",
+        "Link": "https://video.foxnews.com/v/6096256622001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0011": {
+        "Date": "2019-10-21 11:35:00.996530",
+        "Link": "https://video.foxnews.com/v/6096337893001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 11:35:00.996630",
+        "Link": "https://video.foxnews.com/v/6096340455001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0013": {
+        "Date": "2019-10-21 11:35:00.996732",
+        "Link": "https://video.foxnews.com/v/6096351663001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0014": {
+        "Date": "2019-10-21 11:35:00.996835",
+        "Link": "https://video.foxnews.com/v/6096399220001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0015": {
+        "Date": "2019-10-21 11:35:00.996935",
+        "Link": "https://video.foxnews.com/v/6096417230001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0016": {
+        "Date": "2019-10-21 11:35:00.997035",
+        "Link": "https://video.foxnews.com/v/6096423832001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0017": {
+        "Date": "2019-10-21 11:35:00.997135",
+        "Link": "https://video.foxnews.com/v/6096423912001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0018": {
+        "Date": "2019-10-21 11:35:00.997235",
+        "Link": "https://video.foxnews.com/v/6096447852001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0019": {
+        "Date": "2019-10-21 11:35:00.997344",
+        "Link": "https://video.foxnews.com/v/6096448180001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0020": {
+        "Date": "2019-10-21 11:35:00.997445",
+        "Link": "https://video.foxnews.com/v/6096450847001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0021": {
+        "Date": "2019-10-21 11:35:00.997544",
+        "Link": "https://video.foxnews.com/v/6096458516001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0022": {
+        "Date": "2019-10-21 11:35:00.997644",
+        "Link": "https://video.foxnews.com/v/6096461321001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0023": {
+        "Date": "2019-10-21 11:35:00.997745",
+        "Link": "https://video.foxnews.com/v/6096465454001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0024": {
+        "Date": "2019-10-21 11:35:00.997846",
+        "Link": "https://www.foxbusiness.com/business-leaders/pge-wildfire-safety-blackouts-bill-johnson",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0025": {
+        "Date": "2019-10-21 11:35:00.997945",
+        "Link": "https://www.foxbusiness.com/category/business-leaders.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0026": {
+        "Date": "2019-10-21 11:35:00.998045",
+        "Link": "https://www.foxbusiness.com/category/personal-finance",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0027": {
+        "Date": "2019-10-21 11:35:00.998146",
+        "Link": "https://www.foxbusiness.com/category/technology",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0028": {
+        "Date": "2019-10-21 11:35:00.998248",
+        "Link": "https://www.foxbusiness.com/lifestyle/jeff-bezos-girlfriend-lauren-sanchez-divorce-finalized",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0029": {
+        "Date": "2019-10-21 11:35:00.998394",
+        "Link": "https://www.foxbusiness.com/lifestyle/walmart-breakfast-meats-food",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0030": {
+        "Date": "2019-10-21 11:35:00.998519",
+        "Link": "https://www.foxbusiness.com/markets",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0031": {
+        "Date": "2019-10-21 11:35:00.998634",
+        "Link": "https://www.foxbusiness.com/markets/mark-minnella-timothy-plan-rings-bell-nyse-christian-investors",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0032": {
+        "Date": "2019-10-21 11:35:00.998752",
+        "Link": "https://www.foxbusiness.com/money",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0033": {
+        "Date": "2019-10-21 11:35:00.998866",
+        "Link": "https://www.foxbusiness.com/money/millennial-millionaire-retired-30",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0034": {
+        "Date": "2019-10-21 11:35:00.998975",
+        "Link": "https://www.foxnews.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0035": {
+        "Date": "2019-10-21 11:35:00.999087",
+        "Link": "https://www.foxnews.com/alerts/subscribe",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0036": {
+        "Date": "2019-10-21 11:35:00.999190",
+        "Link": "https://www.foxnews.com/auto",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0037": {
+        "Date": "2019-10-21 11:35:00.999313",
+        "Link": "https://www.foxnews.com/auto/2020-subaru-outback-test-drive",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0038": {
+        "Date": "2019-10-21 11:35:00.999419",
+        "Link": "https://www.foxnews.com/auto/car-collection-seized-bankrupt-d-c-solar-auction",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0039": {
+        "Date": "2019-10-21 11:35:00.999521",
+        "Link": "https://www.foxnews.com/auto/patent-new-ford-bronco-topless",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0040": {
+        "Date": "2019-10-21 11:35:00.999625",
+        "Link": "https://www.foxnews.com/category/fox-news-salutes.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0041": {
+        "Date": "2019-10-21 11:35:00.999722",
+        "Link": "https://www.foxnews.com/category/good-news.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0042": {
+        "Date": "2019-10-21 11:35:00.999829",
+        "Link": "https://www.foxnews.com/category/health/cancer",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0043": {
+        "Date": "2019-10-21 11:35:00.999946",
+        "Link": "https://www.foxnews.com/category/health/healthy-living/childrens-health",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0044": {
+        "Date": "2019-10-21 11:35:01.000052",
+        "Link": "https://www.foxnews.com/category/media/fox-news-flash",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0045": {
+        "Date": "2019-10-21 11:35:01.000144",
+        "Link": "https://www.foxnews.com/category/politics/elections",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0046": {
+        "Date": "2019-10-21 11:35:01.000223",
+        "Link": "https://www.foxnews.com/category/real-estate.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0047": {
+        "Date": "2019-10-21 11:35:01.000310",
+        "Link": "https://www.foxnews.com/category/style-and-beauty",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0048": {
+        "Date": "2019-10-21 11:35:01.000387",
+        "Link": "https://www.foxnews.com/category/tech/technologies/drones",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0049": {
+        "Date": "2019-10-21 11:35:01.000464",
+        "Link": "https://www.foxnews.com/category/tech/topics/security",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0050": {
+        "Date": "2019-10-21 11:35:01.000541",
+        "Link": "https://www.foxnews.com/category/us/economy",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0051": {
+        "Date": "2019-10-21 11:35:01.000617",
+        "Link": "https://www.foxnews.com/category/us/immigration",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0052": {
+        "Date": "2019-10-21 11:35:01.000696",
+        "Link": "https://www.foxnews.com/category/world/environment",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0053": {
+        "Date": "2019-10-21 11:35:01.000772",
+        "Link": "https://www.foxnews.com/category/world/world-religion",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0054": {
+        "Date": "2019-10-21 11:35:01.000849",
+        "Link": "https://www.foxnews.com/contact",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0055": {
+        "Date": "2019-10-21 11:35:01.000926",
+        "Link": "https://www.foxnews.com/entertainment",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0056": {
+        "Date": "2019-10-21 11:35:01.001040",
+        "Link": "https://www.foxnews.com/entertainment/amber-heard-jason-momoa-no-nipple-instagram",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0057": {
+        "Date": "2019-10-21 11:35:01.001161",
+        "Link": "https://www.foxnews.com/entertainment/britney-spears-back-to-blonde-fun",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0058": {
+        "Date": "2019-10-21 11:35:01.001426",
+        "Link": "https://www.foxnews.com/entertainment/britney-spears-gym-workout-legs-shaking",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0059": {
+        "Date": "2019-10-21 11:35:01.001598",
+        "Link": "https://www.foxnews.com/entertainment/felicity-huffman-seen-in-prison-jumpsuit-for-first-time",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0060": {
+        "Date": "2019-10-21 11:35:01.001734",
+        "Link": "https://www.foxnews.com/entertainment/julianne-hough-ivf-journey-liberating",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0061": {
+        "Date": "2019-10-21 11:35:01.001831",
+        "Link": "https://www.foxnews.com/entertainment/kanye-west-jesus-is-king-documentary-movie-trailer",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0062": {
+        "Date": "2019-10-21 11:35:01.001924",
+        "Link": "https://www.foxnews.com/entertainment/kourtney-kardashian-convenience-store-outfits",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0063": {
+        "Date": "2019-10-21 11:35:01.002004",
+        "Link": "https://www.foxnews.com/entertainment/lady-gaga-body-xray-falling-onstage",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0064": {
+        "Date": "2019-10-21 11:35:01.002088",
+        "Link": "https://www.foxnews.com/entertainment/maggie-rogers-sexually-harassed-performing-live",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0065": {
+        "Date": "2019-10-21 11:35:01.002165",
+        "Link": "https://www.foxnews.com/entertainment/megan-fox-brian-austin-green-kids-photos-disneyland",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0066": {
+        "Date": "2019-10-21 11:35:01.002245",
+        "Link": "https://www.foxnews.com/entertainment/meghan-markle-itv-documentary-royal-life",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0067": {
+        "Date": "2019-10-21 11:35:01.002327",
+        "Link": "https://www.foxnews.com/entertainment/michael-douglas-son-cameron-drugs-parties",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0068": {
+        "Date": "2019-10-21 11:35:01.002524",
+        "Link": "https://www.foxnews.com/entertainment/michelle-pfeiffer-struggled-inappropriate-high-power-industry-person",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0069": {
+        "Date": "2019-10-21 11:35:01.002659",
+        "Link": "https://www.foxnews.com/entertainment/miley-cyrus-bashes-liam-hemsworth-on-instagram-i-thought-all-guys-were-evil",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0070": {
+        "Date": "2019-10-21 11:35:01.002797",
+        "Link": "https://www.foxnews.com/entertainment/steve-harvey-stepdaughter-arrested-hit-and-run",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0071": {
+        "Date": "2019-10-21 11:35:01.002975",
+        "Link": "https://www.foxnews.com/faith-values",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0072": {
+        "Date": "2019-10-21 11:35:01.003196",
+        "Link": "https://www.foxnews.com/faith-values/pastor-joseph-prince-communion-america-tour",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0073": {
+        "Date": "2019-10-21 11:35:01.003420",
+        "Link": "https://www.foxnews.com/food-drink",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0074": {
+        "Date": "2019-10-21 11:35:01.003596",
+        "Link": "https://www.foxnews.com/food-drink/burger-king-debuts-ghost-whopper-with-white-cheddar-infused-buns",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0075": {
+        "Date": "2019-10-21 11:35:01.003720",
+        "Link": "https://www.foxnews.com/food-drink/dominos-japan-selling-halloween-roulette-pizza-slathering-one-random-slice-with-ghost-pepper-sauce",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0076": {
+        "Date": "2019-10-21 11:35:01.003881",
+        "Link": "https://www.foxnews.com/foxaroundtheworld",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0077": {
+        "Date": "2019-10-21 11:35:01.004101",
+        "Link": "https://www.foxnews.com/go",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0078": {
+        "Date": "2019-10-21 11:35:01.004692",
+        "Link": "https://www.foxnews.com/great-outdoors/hunt-the-hunters-deer-stands-wisconsin-vandalized-with-anti-hunting-messages",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0079": {
+        "Date": "2019-10-21 11:35:01.004861",
+        "Link": "https://www.foxnews.com/great-outdoors/new-california-law-allow-drivers-roadkill",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0080": {
+        "Date": "2019-10-21 11:35:01.004962",
+        "Link": "https://www.foxnews.com/health/dad-skin-cancer-neck-back",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0081": {
+        "Date": "2019-10-21 11:35:01.005043",
+        "Link": "https://www.foxnews.com/health/legionnaires-outbreak-north-carolina-state-fair-fourth-death",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0082": {
+        "Date": "2019-10-21 11:35:01.005121",
+        "Link": "https://www.foxnews.com/health/walmart-great-value-frozen-meat-recalled",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0083": {
+        "Date": "2019-10-21 11:35:01.005205",
+        "Link": "https://www.foxnews.com/lifestyle/barber-accomodate-autistic-boy",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0084": {
+        "Date": "2019-10-21 11:35:01.005306",
+        "Link": "https://www.foxnews.com/lifestyle/extreme-yoga-woman-fell-balcony-recovering",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0085": {
+        "Date": "2019-10-21 11:35:01.005570",
+        "Link": "https://www.foxnews.com/lifestyle/grandma-55-pound-weight-loss-younger-men-compliment",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0086": {
+        "Date": "2019-10-21 11:35:01.005703",
+        "Link": "https://www.foxnews.com/lifestyle/homeowner-censors-halloween-decoration-hoa-mooning-pumpkin",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0087": {
+        "Date": "2019-10-21 11:35:01.005825",
+        "Link": "https://www.foxnews.com/lifestyle/instagram-amazing-lipstick-viral",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0088": {
+        "Date": "2019-10-21 11:35:01.005933",
+        "Link": "https://www.foxnews.com/lifestyle/lululemon-investigating-factory-workers-beaten-verbally-harassed",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0089": {
+        "Date": "2019-10-21 11:35:01.006043",
+        "Link": "https://www.foxnews.com/lifestyle/popeyes-chicken-sandwich-halloween-costume-yandy",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0090": {
+        "Date": "2019-10-21 11:35:01.006147",
+        "Link": "https://www.foxnews.com/media",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0091": {
+        "Date": "2019-10-21 11:35:01.006260",
+        "Link": "https://www.foxnews.com/media/aoc-blasted-gop-challenger-bernie-rally-amazon",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0092": {
+        "Date": "2019-10-21 11:35:01.006372",
+        "Link": "https://www.foxnews.com/media/demario-davis-man-of-god-headbands-jump-as-he-announces-120k-for-local-hospital",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0093": {
+        "Date": "2019-10-21 11:35:01.006476",
+        "Link": "https://www.foxnews.com/media/demario-davis-pope-francis-headband",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0094": {
+        "Date": "2019-10-21 11:35:01.006581",
+        "Link": "https://www.foxnews.com/media/nbc-sexual-assault-story-weinstein",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0095": {
+        "Date": "2019-10-21 11:35:01.006684",
+        "Link": "https://www.foxnews.com/media/us-marine-jumped-grenade-message-for-americans",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0096": {
+        "Date": "2019-10-21 11:35:01.006794",
+        "Link": "https://www.foxnews.com/official-polls",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0097": {
+        "Date": "2019-10-21 11:35:01.006902",
+        "Link": "https://www.foxnews.com/opinion",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0098": {
+        "Date": "2019-10-21 11:35:01.007006",
+        "Link": "https://www.foxnews.com/opinion/joshua-rogers-marry-her-mom",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0099": {
+        "Date": "2019-10-21 11:35:01.007110",
+        "Link": "https://www.foxnews.com/opinion/michael-bloomberg-enter-2020-presidential-race-michael-goodwin",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0100": {
+        "Date": "2019-10-21 11:35:01.007223",
+        "Link": "https://www.foxnews.com/opinion/us-turkey-syria-kurds-dobbins-martini",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0101": {
+        "Date": "2019-10-21 11:35:01.007332",
+        "Link": "https://www.foxnews.com/opinion/whitney-munro-stop-shaming-working-people-power-jobs",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0102": {
+        "Date": "2019-10-21 11:35:01.007442",
+        "Link": "https://www.foxnews.com/person/d/james-dobbins.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0103": {
+        "Date": "2019-10-21 11:35:01.007553",
+        "Link": "https://www.foxnews.com/person/m/mark-minnella.html",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0104": {
+        "Date": "2019-10-21 11:35:01.007671",
+        "Link": "https://www.foxnews.com/person/p/liz-peek.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0105": {
+        "Date": "2019-10-21 11:35:01.007786",
+        "Link": "https://www.foxnews.com/politics.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0106": {
+        "Date": "2019-10-21 11:35:01.007894",
+        "Link": "https://www.foxnews.com/politics/2020-dems-dismiss-hillary-clintons-attacks-rally-to-tulsi-gabbards-defense-over-russia-claim",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0107": {
+        "Date": "2019-10-21 11:35:01.008002",
+        "Link": "https://www.foxnews.com/politics/buttigieg-on-the-rise-in-new-post-debate-iowa-poll",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0108": {
+        "Date": "2019-10-21 11:35:01.008115",
+        "Link": "https://www.foxnews.com/politics/how-trump-impeachment-scandal-is-playing-in-ukraine",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0109": {
+        "Date": "2019-10-21 11:35:01.008207",
+        "Link": "https://www.foxnews.com/politics/impending-fisa-report-to-spark-new-probes-deliver-information-in-other-reviews",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0110": {
+        "Date": "2019-10-21 11:35:01.008328",
+        "Link": "https://www.foxnews.com/politics/pelosi-impeachment-inquiry-schiff-handoff-reporters-notebook",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0111": {
+        "Date": "2019-10-21 11:35:01.008447",
+        "Link": "https://www.foxnews.com/politics/social-media-responds-to-mitt-romneys-apparent-pierre-delecto-twitter-account",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0112": {
+        "Date": "2019-10-21 11:35:01.008547",
+        "Link": "https://www.foxnews.com/real-estate/legally-haunted-new-york-home-for-sale",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0113": {
+        "Date": "2019-10-21 11:35:01.008626",
+        "Link": "https://www.foxnews.com/real-estate/ohio-county-georgia-home-1-dollar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0114": {
+        "Date": "2019-10-21 11:35:01.008705",
+        "Link": "https://www.foxnews.com/real-estate/property-brothers-renovate-wish-golden-girls",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0115": {
+        "Date": "2019-10-21 11:35:01.008782",
+        "Link": "https://www.foxnews.com/science",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0116": {
+        "Date": "2019-10-21 11:35:01.008860",
+        "Link": "https://www.foxnews.com/science/17-foot-great-white-shark-bites-cage",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0117": {
+        "Date": "2019-10-21 11:35:01.008937",
+        "Link": "https://www.foxnews.com/science/ancient-cockroaches-of-the-sea-fossilized-while-playing-follow-the-leader",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0118": {
+        "Date": "2019-10-21 11:35:01.009015",
+        "Link": "https://www.foxnews.com/science/montana-fishermen-bobcat-lake",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0119": {
+        "Date": "2019-10-21 11:35:01.009092",
+        "Link": "https://www.foxnews.com/science/pontius-pilate-road-jerusalem-temple-mount",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0120": {
+        "Date": "2019-10-21 11:35:01.009171",
+        "Link": "https://www.foxnews.com/shows/hannity",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0121": {
+        "Date": "2019-10-21 11:35:01.009265",
+        "Link": "https://www.foxnews.com/sports",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0122": {
+        "Date": "2019-10-21 11:35:01.009365",
+        "Link": "https://www.foxnews.com/sports/49ers-redskins-mud-weather-photo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0123": {
+        "Date": "2019-10-21 11:35:01.009445",
+        "Link": "https://www.foxnews.com/sports/astros-carlos-correa-rivalry-yankees-apex-predator",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0124": {
+        "Date": "2019-10-21 11:35:01.009528",
+        "Link": "https://www.foxnews.com/sports/florida-atlantic-lane-kiffin-fined-referee-meme",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0125": {
+        "Date": "2019-10-21 11:35:01.009607",
+        "Link": "https://www.foxnews.com/sports/olympic-fencer-fundraising-2020-tokyo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0126": {
+        "Date": "2019-10-21 11:35:01.009689",
+        "Link": "https://www.foxnews.com/tech",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0127": {
+        "Date": "2019-10-21 11:35:01.009767",
+        "Link": "https://www.foxnews.com/tech.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0128": {
+        "Date": "2019-10-21 11:35:01.009845",
+        "Link": "https://www.foxnews.com/tech/7-high-tech-gadgets-fall-excursions",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0129": {
+        "Date": "2019-10-21 11:35:01.009923",
+        "Link": "https://www.foxnews.com/tech/california-statewide-earthquake-early-warning-system",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0130": {
+        "Date": "2019-10-21 11:35:01.010000",
+        "Link": "https://www.foxnews.com/terms-of-use",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0131": {
+        "Date": "2019-10-21 11:35:01.010076",
+        "Link": "https://www.foxnews.com/travel/british-airways-flight-attendant-suspended-fight-boyfriend-pilot",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0132": {
+        "Date": "2019-10-21 11:35:01.010154",
+        "Link": "https://www.foxnews.com/travel/disney-world-skyliner-reopens-malfunction",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0133": {
+        "Date": "2019-10-21 11:35:01.010234",
+        "Link": "https://www.foxnews.com/us",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0134": {
+        "Date": "2019-10-21 11:35:01.010312",
+        "Link": "https://www.foxnews.com/us/family-of-veteran-who-died-under-suspicious-circumstances-at-va-hospital-sues-department-of-veterans-affairs",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0135": {
+        "Date": "2019-10-21 11:35:01.010394",
+        "Link": "https://www.foxnews.com/us/lead-baby-foods-study-dr-siegel",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0136": {
+        "Date": "2019-10-21 11:35:01.010475",
+        "Link": "https://www.foxnews.com/us/new-mexico-vietnam-veteran-marine-hospice-care-reunites-dog",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0137": {
+        "Date": "2019-10-21 11:35:01.010571",
+        "Link": "https://www.foxnews.com/us/oregon-pacific-crest-trail-hiker-rescued",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0138": {
+        "Date": "2019-10-21 11:35:01.010649",
+        "Link": "https://www.foxnews.com/us/philadelphia-2-year-old-dead-11-month-old-shot",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0139": {
+        "Date": "2019-10-21 11:35:01.010726",
+        "Link": "https://www.foxnews.com/us/soldier-amputated-leg-save-buddies",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0140": {
+        "Date": "2019-10-21 11:35:01.010803",
+        "Link": "https://www.foxnews.com/us/tupac-shakur-tennessee-arrested",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0141": {
+        "Date": "2019-10-21 11:35:01.010881",
+        "Link": "https://www.foxnews.com/world",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0142": {
+        "Date": "2019-10-21 11:35:01.010958",
+        "Link": "https://www.foxnews.com/world/american-military-vehicles-pelted-with-potatoes-as-troops-move-out-of-syria",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0143": {
+        "Date": "2019-10-21 11:35:01.011077",
+        "Link": "https://www.foxnews.com/world/argentina-woman-rescue-train-tracks-video",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0144": {
+        "Date": "2019-10-21 11:35:01.011154",
+        "Link": "https://www.foxnews.com/world/brexit-uk-speaker-vote-boris-johnson",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0145": {
+        "Date": "2019-10-21 11:35:01.011246",
+        "Link": "https://www.foxnews.com/world/chinese-military-official-takes-swipes-at-america",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0146": {
+        "Date": "2019-10-21 11:35:01.011352",
+        "Link": "https://www.foxnews.com/world/wikileaks-julian-assange-appears-in-court",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

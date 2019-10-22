@@ -1,6 +1,42 @@
 {
-    "Check 008": {
-        "Date": "2019-10-19 22:20:00.925048",
+    "Check 0008": {
+        "Date": "2019-10-21 15:55:45.979652",
+        "Link": "http://diariodelcauca.com.co/noticias/Especiales",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0028": {
+        "Date": "2019-10-21 15:55:46.547924",
+        "Link": "http://diariodelcauca.com.co/noticias/en-vivo",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0054": {
+        "Date": "2019-10-21 15:55:46.684346",
+        "Link": "http://diariodelcauca.com.co/noticias/multimedia/videos-virales",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0062": {
+        "Date": "2019-10-21 15:55:41.192816",
+        "Link": "http://diariodelcauca.com.co/noticias/paranormal",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0097": {
+        "Date": "2019-10-21 15:55:46.237312",
         "Link": "https://diariodelcauca.com.co/noticias/Especiales",
         "Status": {
             "Code": "404",
@@ -8,8 +44,8 @@
             "Type": " USER ERROR "
         }
     },
-    "Check 032": {
-        "Date": "2019-10-19 22:20:59.577328",
+    "Check 0117": {
+        "Date": "2019-10-21 15:55:39.976053",
         "Link": "https://diariodelcauca.com.co/noticias/en-vivo",
         "Status": {
             "Code": "404",
@@ -17,8 +53,8 @@
             "Type": " USER ERROR "
         }
     },
-    "Check 056": {
-        "Date": "2019-10-19 22:21:41.460529",
+    "Check 0143": {
+        "Date": "2019-10-21 15:55:41.388384",
         "Link": "https://diariodelcauca.com.co/noticias/multimedia/videos-virales",
         "Status": {
             "Code": "404",
@@ -26,8 +62,8 @@
             "Type": " USER ERROR "
         }
     },
-    "Check 063": {
-        "Date": "2019-10-19 22:21:54.262290",
+    "Check 0151": {
+        "Date": "2019-10-21 15:55:39.989292",
         "Link": "https://diariodelcauca.com.co/noticias/paranormal",
         "Status": {
             "Code": "404",

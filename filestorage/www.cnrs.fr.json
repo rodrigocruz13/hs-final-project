@@ -1,7 +1,7 @@
 {
     "Check 0001": {
-        "Date": "2019-10-21 15:40:13.181250",
-        "Link": "http://elcallejero.co/",
+        "Date": "2019-10-21 15:35:43.089121",
+        "Link": "http://80ans.cnrs.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -9,8 +9,8 @@
         }
     },
     "Check 0002": {
-        "Date": "2019-10-21 15:38:45.246642",
-        "Link": "http://twitter.com/ElCallejeroSM",
+        "Date": "2019-10-21 15:35:44.710869",
+        "Link": "http://blog-rh.cnrs.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -18,8 +18,8 @@
         }
     },
     "Check 0003": {
-        "Date": "2019-10-21 15:38:43.761871",
-        "Link": "http://www.magdalena.gov.co",
+        "Date": "2019-10-21 15:35:42.173799",
+        "Link": "http://carrieres.cnrs.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -27,8 +27,8 @@
         }
     },
     "Check 0004": {
-        "Date": "2019-10-21 15:39:53.415882",
-        "Link": "https://elcallejero.co/",
+        "Date": "2019-10-21 15:35:41.752906",
+        "Link": "http://carrieres.cnrs.fr/fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -36,8 +36,8 @@
         }
     },
     "Check 0005": {
-        "Date": "2019-10-21 15:38:44.925166",
-        "Link": "https://hotelmix.es/weather/santa-marta-26812",
+        "Date": "2019-10-21 15:35:41.774119",
+        "Link": "http://carrieres.cnrs.fr/fr/nos-engagements",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -45,17 +45,17 @@
         }
     },
     "Check 0006": {
-        "Date": "2019-10-21 15:38:44.679144",
-        "Link": "https://mellogobernador.com",
+        "Date": "2019-10-21 15:35:42.197482",
+        "Link": "http://erc.cnrs.fr",
         "Status": {
-            "Code": "406",
-            "Meaning": "Not Acceptable: The server can only generate a response that is not accepted by the client",
-            "Type": " USER ERROR "
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
     "Check 0007": {
-        "Date": "2019-10-21 15:38:47.963955",
-        "Link": "https://opinioncaribe.com",
+        "Date": "2019-10-21 15:35:37.778102",
+        "Link": "http://histoire.cnrs.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -63,8 +63,8 @@
         }
     },
     "Check 0008": {
-        "Date": "2019-10-21 15:38:47.096291",
-        "Link": "https://unidaddemedios.info",
+        "Date": "2019-10-21 15:35:42.208009",
+        "Link": "http://kit-web.cnrs.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -72,8 +72,8 @@
         }
     },
     "Check 0009": {
-        "Date": "2019-10-21 15:38:48.057910",
-        "Link": "https://unidaddemedios.info/cotizar",
+        "Date": "2019-10-21 15:35:42.715620",
+        "Link": "http://www.carrieres.cnrs.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -81,8 +81,8 @@
         }
     },
     "Check 0010": {
-        "Date": "2019-10-21 15:38:45.095452",
-        "Link": "https://wa.me/573504424439",
+        "Date": "2019-10-21 15:35:43.618321",
+        "Link": "http://www.cnrs.fr/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -90,8 +90,8 @@
         }
     },
     "Check 0011": {
-        "Date": "2019-10-21 15:38:56.451462",
-        "Link": "https://www.elcallejero.co",
+        "Date": "2019-10-21 15:35:42.859133",
+        "Link": "http://www.cnrs.fr/en",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -99,8 +99,8 @@
         }
     },
     "Check 0012": {
-        "Date": "2019-10-21 15:39:46.111170",
-        "Link": "https://www.elcallejero.co/2016/10/11/muerto-tres-heridos-deja-accidente-la-via-barranquilla",
+        "Date": "2019-10-21 15:35:42.032128",
+        "Link": "http://www.cnrs.fr/espace-presse",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -108,8 +108,8 @@
         }
     },
     "Check 0013": {
-        "Date": "2019-10-21 15:39:48.361206",
-        "Link": "https://www.elcallejero.co/2016/11/11/sueno-con-ser-licenciado-del-deporte-jose-francisco",
+        "Date": "2019-10-21 15:35:43.342431",
+        "Link": "http://www.cnrs.fr/fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -117,8 +117,8 @@
         }
     },
     "Check 0014": {
-        "Date": "2019-10-21 15:39:43.726570",
-        "Link": "https://www.elcallejero.co/2017/01/05/cuando-lo-llevaron-la-clinica-le-dijeron-habia-muerto-hace-tres-anos",
+        "Date": "2019-10-21 15:35:42.236662",
+        "Link": "http://www.cnrs.fr/fr/accessibilite",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -126,8 +126,8 @@
         }
     },
     "Check 0015": {
-        "Date": "2019-10-21 15:39:30.360126",
-        "Link": "https://www.elcallejero.co/2017/01/16/comunidad-apedrea-presunto-ladron-en-el-barrio-el-cisne",
+        "Date": "2019-10-21 15:35:46.924281",
+        "Link": "http://www.cnrs.fr/fr/agenda",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -135,8 +135,8 @@
         }
     },
     "Check 0016": {
-        "Date": "2019-10-21 15:39:43.332459",
-        "Link": "https://www.elcallejero.co/2017/03/15/hoy-inicia-pago-de-incentivos-de-familias-en-accion",
+        "Date": "2019-10-21 15:35:47.209278",
+        "Link": "http://www.cnrs.fr/fr/annuaires-du-cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -144,8 +144,8 @@
         }
     },
     "Check 0017": {
-        "Date": "2019-10-21 15:39:44.452769",
-        "Link": "https://www.elcallejero.co/2017/07/05/hemorroide-inflamada-por-mojon-atorado-asomao-asi-reseno-la-consulta-una-clinica-en-monteria-una-paciente",
+        "Date": "2019-10-21 15:35:42.015651",
+        "Link": "http://www.cnrs.fr/fr/carte-didentite",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -153,8 +153,8 @@
         }
     },
     "Check 0018": {
-        "Date": "2019-10-21 15:40:08.406669",
-        "Link": "https://www.elcallejero.co/2017/07/06/capturan-dos-personas-por-robo-pasajeros-de-una-buseta",
+        "Date": "2019-10-21 15:35:37.833751",
+        "Link": "http://www.cnrs.fr/fr/cbox/ontheweb",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -162,8 +162,8 @@
         }
     },
     "Check 0019": {
-        "Date": "2019-10-21 15:39:42.735570",
-        "Link": "https://www.elcallejero.co/2019/09/17/festicaribe-celebra-sus-30-anos-con-ascenso-a-categoria-nacional",
+        "Date": "2019-10-21 15:35:42.264724",
+        "Link": "http://www.cnrs.fr/fr/cnrsinfo/forum-nouveaux-mondes",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -171,8 +171,8 @@
         }
     },
     "Check 0020": {
-        "Date": "2019-10-21 15:40:08.401592",
-        "Link": "https://www.elcallejero.co/2019/09/19/efecto-werther-la-razon-por-la-que-se-contagia-el-suicidio",
+        "Date": "2019-10-21 15:35:42.003860",
+        "Link": "http://www.cnrs.fr/fr/cnrsinfo/le-cnrs-proteste-vigoureusement-contre-la-detention-de-deux-chercheurs-en-iran",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -180,8 +180,8 @@
         }
     },
     "Check 0021": {
-        "Date": "2019-10-21 15:40:09.451439",
-        "Link": "https://www.elcallejero.co/2019/10/01/alcides-romero-se-corona-como-soberano-del-carnaval-2020",
+        "Date": "2019-10-21 15:35:45.081672",
+        "Link": "http://www.cnrs.fr/fr/cnrsinfo/le-cnrs-signe-une-convention-de-site-avec-sigma-et-luniversite-clermont-auvergne",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -189,8 +189,8 @@
         }
     },
     "Check 0022": {
-        "Date": "2019-10-21 15:39:34.389351",
-        "Link": "https://www.elcallejero.co/2019/10/01/los-hombres-con-barriga-son-mejores-en-la-cama-segun-la-ciencia",
+        "Date": "2019-10-21 15:35:45.195043",
+        "Link": "http://www.cnrs.fr/fr/cnrsinfo/le-laboratoire-international-environnement-sante-societes-reconduit-en-afrique-de-louest",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -198,8 +198,8 @@
         }
     },
     "Check 0023": {
-        "Date": "2019-10-21 15:40:07.886357",
-        "Link": "https://www.elcallejero.co/2019/10/04/nuevo-parque-de-la-provincia-en-valledupar-le-rinde-homenaje-al-magdalena-grande",
+        "Date": "2019-10-21 15:35:45.557667",
+        "Link": "http://www.cnrs.fr/fr/credits",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -207,8 +207,8 @@
         }
     },
     "Check 0024": {
-        "Date": "2019-10-21 15:39:44.088039",
-        "Link": "https://www.elcallejero.co/2019/10/06/vuelve-y-juega-otro-atentado-en-cienaga-deja-dos-heridos",
+        "Date": "2019-10-21 15:35:42.675478",
+        "Link": "http://www.cnrs.fr/fr/delegations-regionales-du-cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -216,8 +216,8 @@
         }
     },
     "Check 0025": {
-        "Date": "2019-10-21 15:39:32.770311",
-        "Link": "https://www.elcallejero.co/2019/10/07/le-disparo-a-un-policia-y-lo-capturaron",
+        "Date": "2019-10-21 15:35:45.001766",
+        "Link": "http://www.cnrs.fr/fr/documentation",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -225,8 +225,8 @@
         }
     },
     "Check 0026": {
-        "Date": "2019-10-21 15:39:54.025319",
-        "Link": "https://www.elcallejero.co/2019/10/07/zona-bananera-y-cienaga-en-alerta-roja-por-crecientes-subitas-ideam",
+        "Date": "2019-10-21 15:35:45.054797",
+        "Link": "http://www.cnrs.fr/fr/espace-presse",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -234,8 +234,8 @@
         }
     },
     "Check 0027": {
-        "Date": "2019-10-21 15:39:48.475038",
-        "Link": "https://www.elcallejero.co/2019/10/08/crean-cerveza-a-partir-de-agua-tratada-y-de-agua-de-lluvia",
+        "Date": "2019-10-21 15:35:45.237919",
+        "Link": "http://www.cnrs.fr/fr/evenement/nouveaux-mondes-le-forum-du-cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -243,8 +243,8 @@
         }
     },
     "Check 0028": {
-        "Date": "2019-10-21 15:39:28.524147",
-        "Link": "https://www.elcallejero.co/2019/10/09/inicia-el-festival-internacional-cine-al-mar",
+        "Date": "2019-10-21 15:35:41.880860",
+        "Link": "http://www.cnrs.fr/fr/faq",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -252,8 +252,8 @@
         }
     },
     "Check 0029": {
-        "Date": "2019-10-21 15:40:12.614164",
-        "Link": "https://www.elcallejero.co/2019/10/12/atacar-flagelos-como-el-hurto-homicidio-y-extorsion-compromiso-de-el-mello",
+        "Date": "2019-10-21 15:35:44.977770",
+        "Link": "http://www.cnrs.fr/fr/form/lettre-innovation-inscription",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -261,8 +261,8 @@
         }
     },
     "Check 0030": {
-        "Date": "2019-10-21 15:39:28.372734",
-        "Link": "https://www.elcallejero.co/2019/10/12/sabor-musical-en-el-festival-de-tambores-del-caribe",
+        "Date": "2019-10-21 15:35:45.168651",
+        "Link": "http://www.cnrs.fr/fr/infrastructures-de-recherche",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -270,8 +270,8 @@
         }
     },
     "Check 0031": {
-        "Date": "2019-10-21 15:39:33.645946",
-        "Link": "https://www.elcallejero.co/2019/10/13/por-que-somos-infieles",
+        "Date": "2019-10-21 15:35:42.498962",
+        "Link": "http://www.cnrs.fr/fr/innovation",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -279,8 +279,8 @@
         }
     },
     "Check 0032": {
-        "Date": "2019-10-21 15:39:38.407180",
-        "Link": "https://www.elcallejero.co/2019/10/14/corredor-vial-el-gran-corredor-del-rio-una-de-las-apuestas-de-el-mello",
+        "Date": "2019-10-21 15:35:42.315430",
+        "Link": "http://www.cnrs.fr/fr/international",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -288,8 +288,8 @@
         }
     },
     "Check 0033": {
-        "Date": "2019-10-21 15:40:17.282049",
-        "Link": "https://www.elcallejero.co/2019/10/14/dia-de-morir-ambulancia-que-transportaba-un-herido-se-estrello-causandole-la-muerte",
+        "Date": "2019-10-21 15:35:42.248257",
+        "Link": "http://www.cnrs.fr/fr/la-pollinisation-par-les-abeilles-accroit-la-rentabilite-des-cultures-de-colza",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -297,8 +297,8 @@
         }
     },
     "Check 0034": {
-        "Date": "2019-10-21 15:39:43.796014",
-        "Link": "https://www.elcallejero.co/2019/10/15/cayeron-por-andar-armados-en-santa-marta-y-cienaga",
+        "Date": "2019-10-21 15:35:42.189831",
+        "Link": "http://www.cnrs.fr/fr/la-recherche",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -306,8 +306,8 @@
         }
     },
     "Check 0035": {
-        "Date": "2019-10-21 15:39:51.770148",
-        "Link": "https://www.elcallejero.co/2019/10/15/incautados-mas-de-20-millones-de-pesos-en-el-licor",
+        "Date": "2019-10-21 15:35:42.594493",
+        "Link": "http://www.cnrs.fr/fr/le-cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -315,8 +315,8 @@
         }
     },
     "Check 0036": {
-        "Date": "2019-10-21 15:39:33.819624",
-        "Link": "https://www.elcallejero.co/2019/10/16/abandonan-a-recien-nacida-en-un-anden-en-bogota",
+        "Date": "2019-10-21 15:35:42.361000",
+        "Link": "http://www.cnrs.fr/fr/le-comite-national-de-la-recherche-scientifique",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -324,8 +324,8 @@
         }
     },
     "Check 0037": {
-        "Date": "2019-10-21 15:39:54.145732",
-        "Link": "https://www.elcallejero.co/2019/10/16/ana-del-castillo-es-tendencia-en-colombia-por-llevar-dias-tomando",
+        "Date": "2019-10-21 15:35:42.311694",
+        "Link": "http://www.cnrs.fr/fr/les-instituts-du-cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -333,8 +333,8 @@
         }
     },
     "Check 0038": {
-        "Date": "2019-10-21 15:39:34.334257",
-        "Link": "https://www.elcallejero.co/2019/10/16/andaba-armado-y-la-policia-lo-capturo",
+        "Date": "2019-10-21 15:35:45.154266",
+        "Link": "http://www.cnrs.fr/fr/mentions-legales",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -342,8 +342,8 @@
         }
     },
     "Check 0039": {
-        "Date": "2019-10-21 15:39:26.585309",
-        "Link": "https://www.elcallejero.co/2019/10/16/el-millonario-amor-de-modelo-barranquillera-con-gringo",
+        "Date": "2019-10-21 15:35:44.988930",
+        "Link": "http://www.cnrs.fr/fr/news-list",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -351,8 +351,8 @@
         }
     },
     "Check 0040": {
-        "Date": "2019-10-21 15:39:32.755157",
-        "Link": "https://www.elcallejero.co/2019/10/16/hija-de-aida-merlano-pone-publica-su-cuenta-de-instagram-para-hablar-de-su-vida-y-aclarar-rumores-de-su-captura",
+        "Date": "2019-10-21 15:35:42.042088",
+        "Link": "http://www.cnrs.fr/fr/personne/esther-duflo",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -360,8 +360,8 @@
         }
     },
     "Check 0041": {
-        "Date": "2019-10-21 15:40:17.588757",
-        "Link": "https://www.elcallejero.co/2019/10/16/por-primera-vez-comentario-de-youtube-llega-a-1-millon-de-me-gusta",
+        "Date": "2019-10-21 15:35:44.805539",
+        "Link": "http://www.cnrs.fr/fr/ressources",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -369,8 +369,8 @@
         }
     },
     "Check 0042": {
-        "Date": "2019-10-21 15:39:34.548419",
-        "Link": "https://www.elcallejero.co/2019/10/17/asesinan-a-lideresa-wayuu-en-riohacha",
+        "Date": "2019-10-21 15:35:44.926553",
+        "Link": "http://www.cnrs.fr/fr/rgpd",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -378,8 +378,8 @@
         }
     },
     "Check 0043": {
-        "Date": "2019-10-21 15:39:45.285431",
-        "Link": "https://www.elcallejero.co/2019/10/17/fortalecer-la-infraestructura-en-salud-del-magdalena-una-de-las-propuestas-de-el-mello",
+        "Date": "2019-10-21 15:35:45.114090",
+        "Link": "http://www.cnrs.fr/fr/talent/index",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -387,8 +387,8 @@
         }
     },
     "Check 0044": {
-        "Date": "2019-10-21 15:39:33.481295",
-        "Link": "https://www.elcallejero.co/2019/10/18/el-me-ayudo-pero-no-pense-que-queria-algo-a-cambio-paola-ariza",
+        "Date": "2019-10-21 15:35:45.064660",
+        "Link": "http://www.cnrs.fr/fr/tous-nos-rss",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -396,8 +396,8 @@
         }
     },
     "Check 0045": {
-        "Date": "2019-10-21 15:39:28.469069",
-        "Link": "https://www.elcallejero.co/2019/10/18/haz-clic-para-rezar-el-vaticano-lanza-un-rosario-inteligente-para-que-los-mas-jovenes-oren",
+        "Date": "2019-10-21 15:35:46.644970",
+        "Link": "http://www.cnrs.fr/inc",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -405,8 +405,8 @@
         }
     },
     "Check 0046": {
-        "Date": "2019-10-21 15:39:53.298002",
-        "Link": "https://www.elcallejero.co/2019/10/18/la-amarraron-a-un-arbol-la-abuso-violaron",
+        "Date": "2019-10-21 15:35:47.602809",
+        "Link": "http://www.cnrs.fr/inee",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -414,8 +414,8 @@
         }
     },
     "Check 0047": {
-        "Date": "2019-10-21 15:39:32.806533",
-        "Link": "https://www.elcallejero.co/2019/10/18/me-comprometo-a-cerrar-la-brecha-productiva-del-campo-luis-miguel-el-mello-cotes",
+        "Date": "2019-10-21 15:35:42.341807",
+        "Link": "http://www.cnrs.fr/innovation",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -423,8 +423,8 @@
         }
     },
     "Check 0048": {
-        "Date": "2019-10-21 15:39:33.932757",
-        "Link": "https://www.elcallejero.co/2019/10/19/conoce-los-dos-nuevos-proyectos-para-el-plan-departamental-de-aguas",
+        "Date": "2019-10-21 15:35:44.114694",
+        "Link": "http://www.cnrs.fr/inp",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -432,8 +432,8 @@
         }
     },
     "Check 0049": {
-        "Date": "2019-10-21 15:39:34.273954",
-        "Link": "https://www.elcallejero.co/2019/10/19/el-mello-firmo-el-gran-pacto-por-la-educacion",
+        "Date": "2019-10-21 15:35:39.353815",
+        "Link": "http://www.cnrs.fr/ins2i",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -441,8 +441,8 @@
         }
     },
     "Check 0050": {
-        "Date": "2019-10-21 15:40:10.384453",
-        "Link": "https://www.elcallejero.co/2019/10/20/breiner-se-mato-tras-chocar-contra-un-poste",
+        "Date": "2019-10-21 15:35:44.557231",
+        "Link": "http://www.cnrs.fr/insb",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -450,8 +450,8 @@
         }
     },
     "Check 0051": {
-        "Date": "2019-10-21 15:39:57.598007",
-        "Link": "https://www.elcallejero.co/2019/10/20/duro-contra-la-delincuencia-coronel-berdugo",
+        "Date": "2019-10-21 15:35:39.395115",
+        "Link": "http://www.cnrs.fr/inshs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -459,8 +459,8 @@
         }
     },
     "Check 0052": {
-        "Date": "2019-10-21 15:40:07.454925",
-        "Link": "https://www.elcallejero.co/2019/10/20/el-magdalena-centro-le-dijo-si-a-amed-zawady-pupo",
+        "Date": "2019-10-21 15:35:39.810496",
+        "Link": "http://www.cnrs.fr/insis",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -468,8 +468,8 @@
         }
     },
     "Check 0053": {
-        "Date": "2019-10-21 15:39:35.009089",
-        "Link": "https://www.elcallejero.co/2019/10/20/el-marido-la-mato-de-un-cuchillazo",
+        "Date": "2019-10-21 15:35:47.532472",
+        "Link": "http://www.cnrs.fr/insmi",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -477,8 +477,8 @@
         }
     },
     "Check 0054": {
-        "Date": "2019-10-21 15:39:34.847342",
-        "Link": "https://www.elcallejero.co/2019/10/20/hospital-julio-mendez-barreneche-pionero-en-el-caribe-colombiano",
+        "Date": "2019-10-21 15:35:37.401966",
+        "Link": "http://www.cnrs.fr/international",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -486,8 +486,8 @@
         }
     },
     "Check 0055": {
-        "Date": "2019-10-21 15:40:10.094141",
-        "Link": "https://www.elcallejero.co/2019/10/20/incautan-mas-de-80-millones-de-pesos-en-mercancia-de-contrabando",
+        "Date": "2019-10-21 15:35:38.043490",
+        "Link": "http://www.cnrs.fr/la-recherche",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -495,8 +495,8 @@
         }
     },
     "Check 0056": {
-        "Date": "2019-10-21 15:40:19.666754",
-        "Link": "https://www.elcallejero.co/2019/10/20/mas-de-5000-magdalenenses-presentan-hoy-la-prueba-saber-pro-o-ecaes",
+        "Date": "2019-10-21 15:35:37.667185",
+        "Link": "http://www.cnrs.fr/search",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -504,8 +504,8 @@
         }
     },
     "Check 0057": {
-        "Date": "2019-10-21 15:39:55.191805",
-        "Link": "https://www.elcallejero.co/2019/10/21/3-340-observadores-de-la-moe-para-las-elecciones-regionales",
+        "Date": "2019-10-21 15:35:42.520018",
+        "Link": "http://www.cnrs.fr/talent/index",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -513,8 +513,8 @@
         }
     },
     "Check 0058": {
-        "Date": "2019-10-21 15:39:58.768174",
-        "Link": "https://www.elcallejero.co/2019/10/21/ciudadano-pierde-la-llave-de-su-carro",
+        "Date": "2019-10-21 15:35:43.350876",
+        "Link": "http://www.facebook.fr/cnrs.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -522,8 +522,8 @@
         }
     },
     "Check 0059": {
-        "Date": "2019-10-21 15:39:54.124909",
-        "Link": "https://www.elcallejero.co/2019/10/21/comite-nacional-del-sistema-de-responsabilidad-penal-para-adolescentes-sesiono-en-el-magdalena",
+        "Date": "2019-10-21 15:35:38.768334",
+        "Link": "http://www.in2p3.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -531,8 +531,8 @@
         }
     },
     "Check 0060": {
-        "Date": "2019-10-21 15:40:09.859931",
-        "Link": "https://www.elcallejero.co/2019/10/21/conoce-los-beneficios-de-votar-en-las-elecciones-regionales-del-27-de-octubre",
+        "Date": "2019-10-21 15:35:42.619501",
+        "Link": "http://www.insu.cnrs.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -540,17 +540,17 @@
         }
     },
     "Check 0061": {
-        "Date": "2019-10-21 15:39:55.298659",
-        "Link": "https://www.elcallejero.co/2019/10/21/desmanes-en-cierre-de-campana-en-plato-dejo-varios-heridos",
+        "Date": "2019-10-21 15:35:42.606941",
+        "Link": "https://carnetsdescience-larevue.fr/2019/04/25/6",
         "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
         }
     },
     "Check 0062": {
-        "Date": "2019-10-21 15:39:59.678066",
-        "Link": "https://www.elcallejero.co/2019/10/21/el-carnicero-tatuador-confiesa-el-crimen-de-una-joven-en-madrid-la-mate-por-reirse-de-mi-acento-colombiano",
+        "Date": "2019-10-21 15:35:43.257076",
+        "Link": "https://emploi.cnrs.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -558,8 +558,8 @@
         }
     },
     "Check 0063": {
-        "Date": "2019-10-21 15:39:53.502809",
-        "Link": "https://www.elcallejero.co/2019/10/21/jornada-de-limpieza-en-playa-de-el-rodadero",
+        "Date": "2019-10-21 15:35:43.067704",
+        "Link": "https://fr-fr.facebook.com/cnrs.fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -567,35 +567,35 @@
         }
     },
     "Check 0064": {
-        "Date": "2019-10-21 15:39:53.839708",
-        "Link": "https://www.elcallejero.co/2019/10/21/la-registraduria-entregara-cedulas-hasta-este-viernes-25-de-octubre",
+        "Date": "2019-10-21 15:35:41.835998",
+        "Link": "https://fr.linkedin.com/company/cnrs",
         "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
         }
     },
     "Check 0065": {
-        "Date": "2019-10-21 15:40:20.129407",
-        "Link": "https://www.elcallejero.co/2019/10/21/santa-marta-vivira-la-xi-semana-internacional",
+        "Date": "2019-10-21 15:35:41.874373",
+        "Link": "https://intranet.cnrs.fr",
         "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
         }
     },
     "Check 0066": {
-        "Date": "2019-10-21 15:40:15.287219",
-        "Link": "https://www.elcallejero.co/2019/10/21/se-bajaron-a-alias-toyo-a-bala",
+        "Date": "2019-10-21 15:35:41.922113",
+        "Link": "https://intranet.cnrs.fr/Pages/default.aspx",
         "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
         }
     },
     "Check 0067": {
-        "Date": "2019-10-21 15:39:55.570176",
-        "Link": "https://www.elcallejero.co/category/barrios",
+        "Date": "2019-10-21 15:35:43.964717",
+        "Link": "https://sagascience.com/mendeleiev",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -603,8 +603,8 @@
         }
     },
     "Check 0068": {
-        "Date": "2019-10-21 15:40:09.420737",
-        "Link": "https://www.elcallejero.co/category/cienaga",
+        "Date": "2019-10-21 15:35:42.480619",
+        "Link": "https://twitter.com/CNRS",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -612,8 +612,8 @@
         }
     },
     "Check 0069": {
-        "Date": "2019-10-21 15:39:42.660340",
-        "Link": "https://www.elcallejero.co/category/denuncias",
+        "Date": "2019-10-21 15:35:37.660933",
+        "Link": "https://twitter.com/cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -621,8 +621,8 @@
         }
     },
     "Check 0070": {
-        "Date": "2019-10-21 15:40:15.048267",
-        "Link": "https://www.elcallejero.co/category/departamento",
+        "Date": "2019-10-21 15:35:48.406340",
+        "Link": "https://www.cnrs.fr/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -630,8 +630,8 @@
         }
     },
     "Check 0071": {
-        "Date": "2019-10-21 15:39:44.303380",
-        "Link": "https://www.elcallejero.co/category/deportes",
+        "Date": "2019-10-21 15:35:48.777281",
+        "Link": "https://www.cnrs.fr/en",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -639,8 +639,8 @@
         }
     },
     "Check 0072": {
-        "Date": "2019-10-21 15:40:27.315854",
-        "Link": "https://www.elcallejero.co/category/farandula",
+        "Date": "2019-10-21 15:35:48.474545",
+        "Link": "https://www.cnrs.fr/fr",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -648,8 +648,8 @@
         }
     },
     "Check 0073": {
-        "Date": "2019-10-21 15:40:23.947053",
-        "Link": "https://www.elcallejero.co/category/internacional",
+        "Date": "2019-10-21 15:35:43.020199",
+        "Link": "https://www.cnrs.fr/fr/accessibilite",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -657,8 +657,8 @@
         }
     },
     "Check 0074": {
-        "Date": "2019-10-21 15:40:24.575611",
-        "Link": "https://www.elcallejero.co/category/judiciales",
+        "Date": "2019-10-21 15:35:42.568246",
+        "Link": "https://www.cnrs.fr/fr/agenda",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -666,8 +666,8 @@
         }
     },
     "Check 0075": {
-        "Date": "2019-10-21 15:39:44.393855",
-        "Link": "https://www.elcallejero.co/category/lo-ultimo",
+        "Date": "2019-10-21 15:35:42.914331",
+        "Link": "https://www.cnrs.fr/fr/annuaires-du-cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -675,8 +675,8 @@
         }
     },
     "Check 0076": {
-        "Date": "2019-10-21 15:40:19.098241",
-        "Link": "https://www.elcallejero.co/category/magdalena",
+        "Date": "2019-10-21 15:35:45.691026",
+        "Link": "https://www.cnrs.fr/fr/carte-didentite",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -684,8 +684,8 @@
         }
     },
     "Check 0077": {
-        "Date": "2019-10-21 15:40:20.871303",
-        "Link": "https://www.elcallejero.co/category/nacional",
+        "Date": "2019-10-21 15:35:45.389465",
+        "Link": "https://www.cnrs.fr/fr/cbox/ontheweb",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -693,8 +693,8 @@
         }
     },
     "Check 0078": {
-        "Date": "2019-10-21 15:39:43.940635",
-        "Link": "https://www.elcallejero.co/category/opinion",
+        "Date": "2019-10-21 15:35:46.180087",
+        "Link": "https://www.cnrs.fr/fr/credits",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -702,8 +702,8 @@
         }
     },
     "Check 0079": {
-        "Date": "2019-10-21 15:40:25.756201",
-        "Link": "https://www.elcallejero.co/category/politica",
+        "Date": "2019-10-21 15:35:43.970012",
+        "Link": "https://www.cnrs.fr/fr/delegations-regionales-du-cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -711,8 +711,8 @@
         }
     },
     "Check 0080": {
-        "Date": "2019-10-21 15:40:31.924625",
-        "Link": "https://www.elcallejero.co/category/positivo",
+        "Date": "2019-10-21 15:35:45.657311",
+        "Link": "https://www.cnrs.fr/fr/depuis-80-ans-le-cnrs-batit-de-nouveaux-mondes",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -720,8 +720,8 @@
         }
     },
     "Check 0081": {
-        "Date": "2019-10-21 15:40:15.211220",
-        "Link": "https://www.elcallejero.co/category/salud",
+        "Date": "2019-10-21 15:35:42.941642",
+        "Link": "https://www.cnrs.fr/fr/documentation",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -729,8 +729,8 @@
         }
     },
     "Check 0082": {
-        "Date": "2019-10-21 15:40:25.865993",
-        "Link": "https://www.elcallejero.co/category/santa-marta",
+        "Date": "2019-10-21 15:35:45.722688",
+        "Link": "https://www.cnrs.fr/fr/espace-presse",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -738,8 +738,8 @@
         }
     },
     "Check 0083": {
-        "Date": "2019-10-21 15:40:25.230739",
-        "Link": "https://www.elcallejero.co/category/sociales",
+        "Date": "2019-10-21 15:35:43.137051",
+        "Link": "https://www.cnrs.fr/fr/evenement/nouveaux-mondes-le-forum-du-cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -747,8 +747,8 @@
         }
     },
     "Check 0084": {
-        "Date": "2019-10-21 15:40:29.575351",
-        "Link": "https://www.elcallejero.co/category/tecnologia",
+        "Date": "2019-10-21 15:35:42.511874",
+        "Link": "https://www.cnrs.fr/fr/faq",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -756,8 +756,8 @@
         }
     },
     "Check 0085": {
-        "Date": "2019-10-21 15:39:51.167865",
-        "Link": "https://www.elcallejero.co/contactenos",
+        "Date": "2019-10-21 15:35:45.706892",
+        "Link": "https://www.cnrs.fr/fr/form/lettre-innovation-inscription",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -765,8 +765,8 @@
         }
     },
     "Check 0086": {
-        "Date": "2019-10-21 15:39:41.970299",
-        "Link": "https://www.elcallejero.co/formato-pqrs",
+        "Date": "2019-10-21 15:35:46.080036",
+        "Link": "https://www.cnrs.fr/fr/infrastructures-de-recherche",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -774,8 +774,8 @@
         }
     },
     "Check 0087": {
-        "Date": "2019-10-21 15:40:17.987339",
-        "Link": "https://www.elcallejero.co/politica-tratamiento-de-la-informacion-el-callejero",
+        "Date": "2019-10-21 15:35:46.052715",
+        "Link": "https://www.cnrs.fr/fr/innovation",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -783,8 +783,8 @@
         }
     },
     "Check 0088": {
-        "Date": "2019-10-21 15:40:13.151489",
-        "Link": "https://www.elcallejero.co/tag/abuso-sexual",
+        "Date": "2019-10-21 15:35:43.417002",
+        "Link": "https://www.cnrs.fr/fr/international",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -792,8 +792,8 @@
         }
     },
     "Check 0089": {
-        "Date": "2019-10-21 15:39:45.315473",
-        "Link": "https://www.elcallejero.co/tag/accidente",
+        "Date": "2019-10-21 15:35:45.606590",
+        "Link": "https://www.cnrs.fr/fr/la-bioluminescence-une-caracteristique-des-organismes-des-profondeurs-marines",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -801,8 +801,8 @@
         }
     },
     "Check 0090": {
-        "Date": "2019-10-21 15:39:59.067697",
-        "Link": "https://www.elcallejero.co/tag/barranquilla",
+        "Date": "2019-10-21 15:35:43.272357",
+        "Link": "https://www.cnrs.fr/fr/la-recherche",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -810,8 +810,8 @@
         }
     },
     "Check 0091": {
-        "Date": "2019-10-21 15:40:08.906895",
-        "Link": "https://www.elcallejero.co/tag/captura",
+        "Date": "2019-10-21 15:35:43.106221",
+        "Link": "https://www.cnrs.fr/fr/la-science-agit-pour-legalite-hommefemme",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -819,8 +819,8 @@
         }
     },
     "Check 0092": {
-        "Date": "2019-10-21 15:40:27.466893",
-        "Link": "https://www.elcallejero.co/tag/capturado",
+        "Date": "2019-10-21 15:35:45.821474",
+        "Link": "https://www.cnrs.fr/fr/le-cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -828,8 +828,8 @@
         }
     },
     "Check 0093": {
-        "Date": "2019-10-21 15:40:20.347091",
-        "Link": "https://www.elcallejero.co/tag/cienaga",
+        "Date": "2019-10-21 15:35:42.897787",
+        "Link": "https://www.cnrs.fr/fr/le-comite-national-de-la-recherche-scientifique",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -837,8 +837,8 @@
         }
     },
     "Check 0094": {
-        "Date": "2019-10-21 15:39:45.021848",
-        "Link": "https://www.elcallejero.co/tag/colombia",
+        "Date": "2019-10-21 15:35:43.039769",
+        "Link": "https://www.cnrs.fr/fr/les-instituts-du-cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -846,8 +846,8 @@
         }
     },
     "Check 0095": {
-        "Date": "2019-10-21 15:40:20.987995",
-        "Link": "https://www.elcallejero.co/tag/contrabando",
+        "Date": "2019-10-21 15:35:42.491675",
+        "Link": "https://www.cnrs.fr/fr/mentions-legales",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -855,8 +855,8 @@
         }
     },
     "Check 0096": {
-        "Date": "2019-10-21 15:40:29.799832",
-        "Link": "https://www.elcallejero.co/tag/denuncia",
+        "Date": "2019-10-21 15:35:42.805222",
+        "Link": "https://www.cnrs.fr/fr/news-list",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -864,8 +864,8 @@
         }
     },
     "Check 0097": {
-        "Date": "2019-10-21 15:40:29.897687",
-        "Link": "https://www.elcallejero.co/tag/fiscalia",
+        "Date": "2019-10-21 15:35:43.654499",
+        "Link": "https://www.cnrs.fr/fr/ressources",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -873,8 +873,8 @@
         }
     },
     "Check 0098": {
-        "Date": "2019-10-21 15:40:31.091485",
-        "Link": "https://www.elcallejero.co/tag/hombre",
+        "Date": "2019-10-21 15:35:45.415693",
+        "Link": "https://www.cnrs.fr/fr/rgpd",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -882,8 +882,8 @@
         }
     },
     "Check 0099": {
-        "Date": "2019-10-21 15:40:29.918023",
-        "Link": "https://www.elcallejero.co/tag/homicidio",
+        "Date": "2019-10-21 15:35:42.660289",
+        "Link": "https://www.cnrs.fr/fr/talent/index",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -891,8 +891,8 @@
         }
     },
     "Check 0100": {
-        "Date": "2019-10-21 15:40:30.018522",
-        "Link": "https://www.elcallejero.co/tag/hurto",
+        "Date": "2019-10-21 15:35:45.634400",
+        "Link": "https://www.cnrs.fr/fr/tous-nos-rss",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -900,8 +900,8 @@
         }
     },
     "Check 0101": {
-        "Date": "2019-10-21 15:40:31.114930",
-        "Link": "https://www.elcallejero.co/tag/incautacion",
+        "Date": "2019-10-21 15:35:46.166445",
+        "Link": "https://www.cnrs.fr/search",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -909,8 +909,8 @@
         }
     },
     "Check 0102": {
-        "Date": "2019-10-21 15:40:22.464988",
-        "Link": "https://www.elcallejero.co/tag/magdalena",
+        "Date": "2019-10-21 15:35:48.172335",
+        "Link": "https://www.instagram.com/cnrs",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -918,8 +918,8 @@
         }
     },
     "Check 0103": {
-        "Date": "2019-10-21 15:40:20.467513",
-        "Link": "https://www.elcallejero.co/tag/muerto",
+        "Date": "2019-10-21 15:35:44.964206",
+        "Link": "https://www.instagram.com/p/B1-ohREDgFn",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -927,8 +927,8 @@
         }
     },
     "Check 0104": {
-        "Date": "2019-10-21 15:40:33.192964",
-        "Link": "https://www.elcallejero.co/tag/mujer",
+        "Date": "2019-10-21 15:35:47.918770",
+        "Link": "https://www.instagram.com/p/B15es0ujL0W",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -936,8 +936,8 @@
         }
     },
     "Check 0105": {
-        "Date": "2019-10-21 15:40:20.789830",
-        "Link": "https://www.elcallejero.co/tag/noticias",
+        "Date": "2019-10-21 15:35:37.196922",
+        "Link": "https://www.instagram.com/p/B2GtOLCDO9j",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -945,8 +945,8 @@
         }
     },
     "Check 0106": {
-        "Date": "2019-10-21 15:40:31.854915",
-        "Link": "https://www.elcallejero.co/tag/policia",
+        "Date": "2019-10-21 15:35:37.264139",
+        "Link": "https://www.instagram.com/p/B2LgYRDDjsI",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -954,8 +954,8 @@
         }
     },
     "Check 0107": {
-        "Date": "2019-10-21 15:40:35.854200",
-        "Link": "https://www.elcallejero.co/tag/policia-del-magdalena",
+        "Date": "2019-10-21 15:35:37.254409",
+        "Link": "https://www.instagram.com/p/B2Qrr04DckJ",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -963,8 +963,8 @@
         }
     },
     "Check 0108": {
-        "Date": "2019-10-21 15:40:34.770716",
-        "Link": "https://www.elcallejero.co/tag/puebloviejo",
+        "Date": "2019-10-21 15:35:37.216275",
+        "Link": "https://www.instagram.com/p/B2gGg6XJT3r",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -972,62 +972,8 @@
         }
     },
     "Check 0109": {
-        "Date": "2019-10-21 15:40:33.383309",
-        "Link": "https://www.elcallejero.co/tag/santa-marta",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 0110": {
-        "Date": "2019-10-21 15:40:21.032336",
-        "Link": "https://www.elcallejero.co/tag/seleccion-colombia",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 0111": {
-        "Date": "2019-10-21 15:40:31.439116",
-        "Link": "https://www.elcallejero.co/tag/unimagdalena",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 0112": {
-        "Date": "2019-10-21 15:40:34.835108",
-        "Link": "https://www.elcallejero.co/tag/violencia",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 0113": {
-        "Date": "2019-10-21 15:40:34.307777",
-        "Link": "https://www.elcallejero.co/terminos-y-condiciones",
-        "Status": {
-            "Code": "200",
-            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
-            "Type": " SUCCESSFUL "
-        }
-    },
-    "Check 0114": {
-        "Date": "2019-10-21 15:38:49.987490",
-        "Link": "https://www.mellogobernador.com",
-        "Status": {
-            "Code": "406",
-            "Meaning": "Not Acceptable: The server can only generate a response that is not accepted by the client",
-            "Type": " USER ERROR "
-        }
-    },
-    "Check 0115": {
-        "Date": "2019-10-21 15:38:45.363733",
-        "Link": "https://www.youtube.com/channel/UCeOACV0UDbShh334OCmSOyQ",
+        "Date": "2019-10-21 15:35:38.424974",
+        "Link": "https://www.youtube.com/channel/UCAxljKT0ujiJZhGC8Ood7mw",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",

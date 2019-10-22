@@ -1,0 +1,209 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 15:51:03.351490",
+        "Link": " https://unidaddemedios.info/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 15:50:53.991799",
+        "Link": "http://elcallejero.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 15:50:48.378360",
+        "Link": "http://unidaddemedios.infocontacto",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 15:50:48.374532",
+        "Link": "http://unidaddemedios.infoplanes",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0005": {
+        "Date": "2019-10-21 15:50:48.373999",
+        "Link": "http://unidaddemedios.infoproductos/el-callejero",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 15:50:48.377494",
+        "Link": "http://unidaddemedios.infoproductos/opinion-caribe",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0007": {
+        "Date": "2019-10-21 15:50:51.751511",
+        "Link": "http://unidaddemediossas.com/nosotros",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 15:51:09.627782",
+        "Link": "http://www.unidaddemediossas.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0009": {
+        "Date": "2019-10-21 15:50:50.196869",
+        "Link": "https://instagram.com/isacris_gr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0010": {
+        "Date": "2019-10-21 15:50:51.947279",
+        "Link": "https://opinioncaribe.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0011": {
+        "Date": "2019-10-21 15:50:49.966052",
+        "Link": "https://twitter.com/isacris_gr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 15:50:49.085802",
+        "Link": "https://twitter.com/opinion_caribe",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0013": {
+        "Date": "2019-10-21 15:50:49.484279",
+        "Link": "https://twitter.com/paolaramirez41",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0014": {
+        "Date": "2019-10-21 15:51:05.386367",
+        "Link": "https://unidaddemedios.info",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0015": {
+        "Date": "2019-10-21 15:51:08.646406",
+        "Link": "https://unidaddemedios.info/contacto",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0016": {
+        "Date": "2019-10-21 15:51:09.503523",
+        "Link": "https://unidaddemedios.info/cotizar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0017": {
+        "Date": "2019-10-21 15:51:09.302765",
+        "Link": "https://unidaddemedios.info/directorio",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0018": {
+        "Date": "2019-10-21 15:51:08.985067",
+        "Link": "https://unidaddemedios.info/nosotros",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0019": {
+        "Date": "2019-10-21 15:51:09.061117",
+        "Link": "https://unidaddemedios.info/nosotros/propuesta-de-valor",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0020": {
+        "Date": "2019-10-21 15:51:09.545948",
+        "Link": "https://unidaddemedios.info/planes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0021": {
+        "Date": "2019-10-21 15:51:09.182903",
+        "Link": "https://unidaddemedios.info/productos/el-callejero",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0022": {
+        "Date": "2019-10-21 15:51:09.302831",
+        "Link": "https://unidaddemedios.info/productos/opinion-caribe",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0023": {
+        "Date": "2019-10-21 15:50:49.398508",
+        "Link": "https://www.instagram.com/by_vicro",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

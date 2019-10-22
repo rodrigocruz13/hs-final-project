@@ -1,0 +1,101 @@
+{
+    "Check 0009": {
+        "Date": "2019-10-21 12:59:05.194117",
+        "Link": "http://caracol.com.co/especiales/boletines-informativos",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0015": {
+        "Date": "2019-10-21 12:59:05.194847",
+        "Link": "http://caracol.com.co/estaticos/ser-en-tu-movil",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0062": {
+        "Date": "2019-10-21 12:59:05.199834",
+        "Link": "http://caracol.com.co/tag/listado",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0070": {
+        "Date": "2019-10-21 12:59:05.201052",
+        "Link": "http://pubads.g.doubleclick.net/gampad/clk",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0080": {
+        "Date": "2019-10-21 12:59:05.202582",
+        "Link": "http://www.huffingtonpost.es",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0108": {
+        "Date": "2019-10-21 12:59:05.207121",
+        "Link": "https://alacarta.caracol.com.co/parrilla/bogota",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0137": {
+        "Date": "2019-10-21 12:59:05.210001",
+        "Link": "https://caracol.com.co/especiales/boletines-informativos",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0143": {
+        "Date": "2019-10-21 12:59:05.210466",
+        "Link": "https://caracol.com.co/estaticos/ser-en-tu-movil",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0228": {
+        "Date": "2019-10-21 12:59:05.220179",
+        "Link": "https://caracol.com.co/tag/listado",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0239": {
+        "Date": "2019-10-21 12:59:05.221819",
+        "Link": "https://instagram.com/caracol_radio",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0246": {
+        "Date": "2019-10-21 12:59:05.222836",
+        "Link": "https://www.caracol.com.co",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

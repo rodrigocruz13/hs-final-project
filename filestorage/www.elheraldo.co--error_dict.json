@@ -1,0 +1,20 @@
+{
+    "Check 0012": {
+        "Date": "2019-10-21 13:11:14.131604",
+        "Link": "http://stage.elheraldo.co/politicas-cookies-487110",
+        "Status": {
+            "Code": "401",
+            "Meaning": "Unauthorized: The request was a legal request, but the server is refusing to respond to it. For use when authentication is possible but has failed or not yet been provided",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0204": {
+        "Date": "2019-10-21 13:11:14.149377",
+        "Link": "https://elheraldo.pressreader.com/el-heraldo-colombia",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

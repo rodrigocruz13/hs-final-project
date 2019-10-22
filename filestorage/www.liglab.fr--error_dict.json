@@ -1,0 +1,20 @@
+{
+    "Check 0045": {
+        "Date": "2019-10-21 15:34:39.402354",
+        "Link": "http://www.upmf-grenoble.fr",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0047": {
+        "Date": "2019-10-21 15:34:59.916014",
+        "Link": "https://service.aximag.fr/xwiki/bin/view/imag/LIG-LAB",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

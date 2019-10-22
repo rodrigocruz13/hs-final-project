@@ -1,24 +1,177 @@
 {
-    "Check 626": {
-        "Date": "2019-10-20 13:34:19.777228",
-        "Link": "http://www.guiaacademica.com/asesora/",
+    "Check 0036": {
+        "Date": "2019-10-21 17:09:06.632481",
+        "Link": "http://www.eltiempo.com/colombia/medellin/obras-que-no-entregara-la-alcaldia-de-medellin-en-2019-424534",
         "Status": {
             "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
+            "Meaning": "Server IP address could not be found",
             "Type": " IP PROBLEM "
         }
     },
-    "Check 631": {
-        "Date": "2019-10-20 13:34:30.033604",
-        "Link": "https://cursoscortos.eltiempo.com/",
+    "Check 0038": {
+        "Date": "2019-10-21 17:09:07.393663",
+        "Link": "http://www.eltiempo.com/colombia/otras-ciudades/especial-sobre-bicentenario-de-colombia-2019-368714",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0061": {
+        "Date": "2019-10-21 17:09:11.404415",
+        "Link": "http://www.eltiempo.com/cultura/gente/famosas-que-han-estado-en-la-carcel-425292",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0133": {
+        "Date": "2019-10-21 17:09:06.573919",
+        "Link": "http://www.eltiempo.com/noticias/huella-social",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0153": {
+        "Date": "2019-10-21 17:09:11.402517",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/alexander-cambero",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0169": {
+        "Date": "2019-10-21 17:09:06.680370",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/andres-valencia-pinzon",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0283": {
+        "Date": "2019-10-21 17:09:25.348335",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/francisco-cajiao",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0289": {
+        "Date": "2019-10-21 17:09:06.950085",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/gabriel-silva-lujan/un-nuevo-duque-columna-de-gabriel-silva-lujan-425124",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0299": {
+        "Date": "2019-10-21 17:09:11.403130",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/gloria-helena-rey",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0341": {
+        "Date": "2019-10-21 17:09:11.968112",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/javier-alexander-borda-diaz-1",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0353": {
+        "Date": "2019-10-21 17:09:06.609381",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/jorge-armando-otalora",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0387": {
+        "Date": "2019-10-21 17:09:10.326572",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/juan-manuel-santos",
+        "Status": {
+            "Code": "408",
+            "Meaning": "Request Timeout: The server timed out waiting for the request",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0412": {
+        "Date": "2019-10-21 17:09:15.613618",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/luis-almagro",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0471": {
+        "Date": "2019-10-21 17:09:11.402351",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/miguel-silva",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0473": {
+        "Date": "2019-10-21 17:09:11.402912",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/moises-naim",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0510": {
+        "Date": "2019-10-21 17:09:06.629604",
+        "Link": "http://www.eltiempo.com/opinion/columnistas/rafael-de-brigard",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0627": {
+        "Date": "2019-10-21 17:08:42.107448",
+        "Link": "http://www.guiaacademica.com/asesora",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0631": {
+        "Date": "2019-10-21 17:09:01.798310",
+        "Link": "https://cursoscortos.eltiempo.com",
         "Status": {
             "Code": "403",
             "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
             "Type": " USER ERROR "
         }
     },
-    "Check 634": {
-        "Date": "2019-10-20 13:34:35.098599",
+    "Check 0633": {
+        "Date": "2019-10-21 17:09:03.565783",
+        "Link": "https://itunes.apple.com/us/app/el-tiempo-noticias/id1002696749",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0634": {
+        "Date": "2019-10-21 17:09:16.159132",
         "Link": "https://play.google.com/store/apps/details",
         "Status": {
             "Code": "400",
@@ -26,39 +179,93 @@
             "Type": " USER ERROR "
         }
     },
-    "Check 656": {
-        "Date": "2019-10-20 13:35:06.234518",
-        "Link": "https://www.ceet.co/",
+    "Check 0652": {
+        "Date": "2019-10-21 17:09:23.076740",
+        "Link": "https://twitter.com/eltiempo",
         "Status": {
             "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
+            "Meaning": "Server IP address could not be found",
             "Type": " IP PROBLEM "
         }
     },
-    "Check 657": {
-        "Date": "2019-10-20 13:35:06.813436",
+    "Check 0655": {
+        "Date": "2019-10-21 17:08:49.216386",
+        "Link": "https://www.ceet.co",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0656": {
+        "Date": "2019-10-21 17:08:55.035953",
         "Link": "https://www.ceet.co/linea-etica",
         "Status": {
             "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
+            "Meaning": "Server IP address could not be found",
             "Type": " IP PROBLEM "
         }
     },
-    "Check 658": {
-        "Date": "2019-10-20 13:35:07.396874",
+    "Check 0657": {
+        "Date": "2019-10-21 17:08:48.464536",
         "Link": "https://www.ceet.co/solicitud-reversion-de-pago",
         "Status": {
             "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
+            "Meaning": "Server IP address could not be found",
             "Type": " IP PROBLEM "
         }
     },
-    "Check 678": {
-        "Date": "2019-10-20 13:35:37.252606",
+    "Check 0673": {
+        "Date": "2019-10-21 17:09:06.111501",
+        "Link": "https://www.eltiempo.com/colombia/barranquilla/balacera-en-el-norte-de-barranquilla-deja-dos-personas-muertas-425352",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0814": {
+        "Date": "2019-10-21 17:09:20.076731",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/andres-villamizar",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0838": {
+        "Date": "2019-10-21 17:09:21.661657",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/camilo-herrera-mora",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 1063": {
+        "Date": "2019-10-21 17:09:26.926328",
+        "Link": "https://www.eltiempo.com/opinion/columnistas/luis-gilberto-murillo",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 1278": {
+        "Date": "2019-10-21 17:09:22.439315",
+        "Link": "https://www.guiaacademica.com/noticias/posgrado/el-desafio-actual-de-los-profesionales-es-mantenerse-vigentes-5508",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 1279": {
+        "Date": "2019-10-21 17:09:11.593326",
         "Link": "https://www.guiaacademica.com/noticias/posgrado/trabajas-en-temas-energeticos-preparate-de-la-mejor-manera-5510",
         "Status": {
             "Code": "999",
-            "Meaning": "Error: Server IP address could not be found",
+            "Meaning": "Server IP address could not be found",
             "Type": " IP PROBLEM "
         }
     }

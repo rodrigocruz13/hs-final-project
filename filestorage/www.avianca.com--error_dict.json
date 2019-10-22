@@ -1,0 +1,20 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 15:37:34.444939",
+        "Link": "http://www.avianca.com/",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 15:37:34.550635",
+        "Link": "https://www.avianca.com/",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    }
+}

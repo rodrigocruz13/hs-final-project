@@ -1,0 +1,20 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 15:36:32.273158",
+        "Link": "http://carnetsdescience-larevue.fr/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 15:36:32.816640",
+        "Link": "https://carnetsdescience-larevue.fr/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

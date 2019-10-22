@@ -1,0 +1,29 @@
+{
+    "Check 0002": {
+        "Date": "2019-10-21 01:04:14.302832",
+        "Link": "https://markupgrade.com/docs/SOHO_COM.pdf",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 01:04:14.302988",
+        "Link": "https://superlander.com/",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 01:04:14.303134",
+        "Link": "https://www.linkedin.com/in/tatiana-shuvalova-bonneau/",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

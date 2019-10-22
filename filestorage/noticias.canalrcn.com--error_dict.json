@@ -1,0 +1,11 @@
+{
+    "Check 0033": {
+        "Date": "2019-10-21 12:56:54.743025",
+        "Link": "https://www.canalrcn.com/super-like",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    }
+}

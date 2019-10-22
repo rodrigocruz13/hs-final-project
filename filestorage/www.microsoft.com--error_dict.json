@@ -1,0 +1,11 @@
+{
+    "Check 0028": {
+        "Date": "2019-10-21 00:35:00.372294",
+        "Link": "https://www.linkedin.com/company/1035",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

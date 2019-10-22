@@ -1,0 +1,56 @@
+{
+    "Check 0005": {
+        "Date": "2019-10-21 00:41:36.921327",
+        "Link": "http://suscripciones.elespectador.com/",
+        "Status": {
+            "Code": "503",
+            "Meaning": "Service Unavailable: The server is currently unavailable (overloaded or down)",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 00:41:36.921660",
+        "Link": "http://www.caracolnext.com/",
+        "Status": {
+            "Code": "406",
+            "Meaning": "Not Acceptable: The server can only generate a response that is not accepted by the client",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0009": {
+        "Date": "2019-10-21 00:41:36.921749",
+        "Link": "http://www.caracolplay.com/",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0069": {
+        "Date": "2019-10-21 00:41:36.926972",
+        "Link": "http://www.elespectador.com/entretenimiento/",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0160": {
+        "Date": "2019-10-21 00:41:36.934771",
+        "Link": "http://www.sic.gov.co/",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0312": {
+        "Date": "2019-10-21 00:41:36.946874",
+        "Link": "https://www.facebook.com/CirculoDeExperiencias/",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    }
+}

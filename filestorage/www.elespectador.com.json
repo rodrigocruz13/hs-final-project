@@ -1,0 +1,2846 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 00:41:36.920610",
+        "Link": "http://foros.elespectador.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 00:41:36.920953",
+        "Link": "http://judiciales.elespectador.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 00:41:36.921106",
+        "Link": "http://lakalle.bluradio.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 00:41:36.921221",
+        "Link": "http://noticias.caracoltv.com/urna-virtual",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0005": {
+        "Date": "2019-10-21 00:41:36.921327",
+        "Link": "http://suscripciones.elespectador.com/",
+        "Status": {
+            "Code": "503",
+            "Meaning": "Service Unavailable: The server is currently unavailable (overloaded or down)",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 00:41:36.921436",
+        "Link": "http://www.ami.org.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0007": {
+        "Date": "2019-10-21 00:41:36.921539",
+        "Link": "http://www.bluradio.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 00:41:36.921660",
+        "Link": "http://www.caracolnext.com/",
+        "Status": {
+            "Code": "406",
+            "Meaning": "Not Acceptable: The server can only generate a response that is not accepted by the client",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0009": {
+        "Date": "2019-10-21 00:41:36.921749",
+        "Link": "http://www.caracolplay.com/",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0010": {
+        "Date": "2019-10-21 00:41:36.921833",
+        "Link": "http://www.caracoltv.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0011": {
+        "Date": "2019-10-21 00:41:36.921918",
+        "Link": "http://www.caracoltvcorporativo.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 00:41:36.922001",
+        "Link": "http://www.elespectador.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0013": {
+        "Date": "2019-10-21 00:41:36.922085",
+        "Link": "http://www.elespectador.com/caricaturistas/betto",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0014": {
+        "Date": "2019-10-21 00:41:36.922169",
+        "Link": "http://www.elespectador.com/caricaturistas/gova",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0015": {
+        "Date": "2019-10-21 00:41:36.922252",
+        "Link": "http://www.elespectador.com/caricaturistas/magola",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0016": {
+        "Date": "2019-10-21 00:41:36.922336",
+        "Link": "http://www.elespectador.com/caricaturistas/mico",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0017": {
+        "Date": "2019-10-21 00:41:36.922420",
+        "Link": "http://www.elespectador.com/caricaturistas/nieves",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0018": {
+        "Date": "2019-10-21 00:41:36.922502",
+        "Link": "http://www.elespectador.com/caricaturistas/osuna",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0019": {
+        "Date": "2019-10-21 00:41:36.922588",
+        "Link": "http://www.elespectador.com/cdn-cgi/l/email-protection",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0020": {
+        "Date": "2019-10-21 00:41:36.922672",
+        "Link": "http://www.elespectador.com/colombia2020/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0021": {
+        "Date": "2019-10-21 00:41:36.922754",
+        "Link": "http://www.elespectador.com/colombia2020/justicia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0022": {
+        "Date": "2019-10-21 00:41:36.922837",
+        "Link": "http://www.elespectador.com/colombia2020/opinion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0023": {
+        "Date": "2019-10-21 00:41:36.922921",
+        "Link": "http://www.elespectador.com/colombia2020/pais/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0024": {
+        "Date": "2019-10-21 00:41:36.923005",
+        "Link": "http://www.elespectador.com/colombia2020/pedagogia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0025": {
+        "Date": "2019-10-21 00:41:36.923088",
+        "Link": "http://www.elespectador.com/colombia2020/politica/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0026": {
+        "Date": "2019-10-21 00:41:36.923171",
+        "Link": "http://www.elespectador.com/colombia2020/territorio/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0027": {
+        "Date": "2019-10-21 00:41:36.923262",
+        "Link": "http://www.elespectador.com/constenimiento-al-sufragante-caricatura-887001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0028": {
+        "Date": "2019-10-21 00:41:36.923345",
+        "Link": "http://www.elespectador.com/contenido-exclusivo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0029": {
+        "Date": "2019-10-21 00:41:36.923455",
+        "Link": "http://www.elespectador.com/cromos/astrologia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0030": {
+        "Date": "2019-10-21 00:41:36.923548",
+        "Link": "http://www.elespectador.com/cromos/columnistas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0031": {
+        "Date": "2019-10-21 00:41:36.923632",
+        "Link": "http://www.elespectador.com/cromos/estilo-de-vida/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0032": {
+        "Date": "2019-10-21 00:41:36.923715",
+        "Link": "http://www.elespectador.com/cromos/gastronomia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0033": {
+        "Date": "2019-10-21 00:41:36.923799",
+        "Link": "http://www.elespectador.com/cromos/maternidad-y-bienestar/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0034": {
+        "Date": "2019-10-21 00:41:36.923883",
+        "Link": "http://www.elespectador.com/cromos/maternidad-y-bienestar/divertimente-la-nueva-linea-de-juegos-para-acompanar-descubrir-el-talento-de-los-ninos-articulo-886915",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0035": {
+        "Date": "2019-10-21 00:41:36.923965",
+        "Link": "http://www.elespectador.com/cromos/moda/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0036": {
+        "Date": "2019-10-21 00:41:36.924049",
+        "Link": "http://www.elespectador.com/cromos/moda/aunque-es-de-noche-la-coleccion-de-manuela-alvarez-en-la-que-trabajo-con-tejedoras-indigenas-galeria-886882",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0037": {
+        "Date": "2019-10-21 00:41:36.924132",
+        "Link": "http://www.elespectador.com/cromos/vida-social/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0038": {
+        "Date": "2019-10-21 00:41:36.924215",
+        "Link": "http://www.elespectador.com/cromos/vida-social/cae-la-mayor-red-de-pornografia-infantil-del-mundo-por-el-rastreo-de-bitcoins-articulo-886926",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0039": {
+        "Date": "2019-10-21 00:41:36.924298",
+        "Link": "http://www.elespectador.com/deli-cromos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0040": {
+        "Date": "2019-10-21 00:41:36.924381",
+        "Link": "http://www.elespectador.com/deli-cromos/aprende-preparar-un-arroz-chaufa-de-pollo-con-camarones-video-880530",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0041": {
+        "Date": "2019-10-21 00:41:36.924464",
+        "Link": "http://www.elespectador.com/deli-cromos/ceviche-clasico-de-pescado-video-873720",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0042": {
+        "Date": "2019-10-21 00:41:36.924615",
+        "Link": "http://www.elespectador.com/deli-cromos/lomo-saltado-limeno-video-876053",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0043": {
+        "Date": "2019-10-21 00:41:36.924708",
+        "Link": "http://www.elespectador.com/deli-cromos/paso-paso-para-preparar-una-causa-limena-video-878236",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0044": {
+        "Date": "2019-10-21 00:41:36.924797",
+        "Link": "http://www.elespectador.com/deli-cromos/pescado-la-chorrillana-video-885167",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0045": {
+        "Date": "2019-10-21 00:41:36.924892",
+        "Link": "http://www.elespectador.com/deli-cromos/tiradito-tricolor-video-882852",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0046": {
+        "Date": "2019-10-21 00:41:36.924978",
+        "Link": "http://www.elespectador.com/deportes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0047": {
+        "Date": "2019-10-21 00:41:36.925062",
+        "Link": "http://www.elespectador.com/deportes/automovilismo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0048": {
+        "Date": "2019-10-21 00:41:36.925146",
+        "Link": "http://www.elespectador.com/deportes/baloncesto/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0049": {
+        "Date": "2019-10-21 00:41:36.925230",
+        "Link": "http://www.elespectador.com/deportes/beisbol/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0050": {
+        "Date": "2019-10-21 00:41:36.925324",
+        "Link": "http://www.elespectador.com/deportes/beisbol/astros-nacionales-la-serie-mundial-termino-la-temporada-de-ensueno-para-gio-urshela-articulo-886975",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0051": {
+        "Date": "2019-10-21 00:41:36.925408",
+        "Link": "http://www.elespectador.com/deportes/ciclismo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0052": {
+        "Date": "2019-10-21 00:41:36.925515",
+        "Link": "http://www.elespectador.com/deportes/futbol-colombiano/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0053": {
+        "Date": "2019-10-21 00:41:36.925601",
+        "Link": "http://www.elespectador.com/deportes/futbol-colombiano/en-la-liga-aguila-unos-van-alegres-y-otros-van-llorando-articulo-886991",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0054": {
+        "Date": "2019-10-21 00:41:36.925685",
+        "Link": "http://www.elespectador.com/deportes/futbol-colombiano/la-epica-remontada-de-santa-fe-quedo-un-triunfo-de-los-cuadrangulares-articulo-887011",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0055": {
+        "Date": "2019-10-21 00:41:36.925769",
+        "Link": "http://www.elespectador.com/deportes/futbol-internacional/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0056": {
+        "Date": "2019-10-21 00:41:36.925861",
+        "Link": "http://www.elespectador.com/deportes/futbol-internacional/otro-boca-river-que-paraliza-argentina-articulo-886979",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0057": {
+        "Date": "2019-10-21 00:41:36.925946",
+        "Link": "http://www.elespectador.com/deportes/golf/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0058": {
+        "Date": "2019-10-21 00:41:36.926031",
+        "Link": "http://www.elespectador.com/deportes/partidos-de-futbol-hoy-en-vivo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0059": {
+        "Date": "2019-10-21 00:41:36.926120",
+        "Link": "http://www.elespectador.com/deportes/tenis/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0060": {
+        "Date": "2019-10-21 00:41:36.926204",
+        "Link": "http://www.elespectador.com/economia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0061": {
+        "Date": "2019-10-21 00:41:36.926287",
+        "Link": "http://www.elespectador.com/economia/fui-la-verdadera-victima-del-robo-al-banco-de-la-republica-marco-emilio-zabala-video-886920",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0062": {
+        "Date": "2019-10-21 00:41:36.926370",
+        "Link": "http://www.elespectador.com/economia/los-25-anos-del-robo-del-siglo-en-colombia-articulo-886780",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0063": {
+        "Date": "2019-10-21 00:41:36.926457",
+        "Link": "http://www.elespectador.com/economia/puede-la-tecnologia-reemplazar-la-creatividad-articulo-886968",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0064": {
+        "Date": "2019-10-21 00:41:36.926541",
+        "Link": "http://www.elespectador.com/elecciones2019/cauca-entre-votos-coca-oro-y-guerra-articulo-887007",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0065": {
+        "Date": "2019-10-21 00:41:36.926624",
+        "Link": "http://www.elespectador.com/elecciones2019/el-regano-de-aurelio-iragorri-los-candidatos-de-la-u-en-santander-articulo-886917",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0066": {
+        "Date": "2019-10-21 00:41:36.926715",
+        "Link": "http://www.elespectador.com/elecciones2019/la-pelea-por-el-poder-en-quindio-articulo-886798",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0067": {
+        "Date": "2019-10-21 00:41:36.926805",
+        "Link": "http://www.elespectador.com/elecciones2019/por-que-hay-mas-violencia-pero-menos-riesgo-electoral-articulo-887008",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0068": {
+        "Date": "2019-10-21 00:41:36.926889",
+        "Link": "http://www.elespectador.com/elecciones2019/susana-muhamad-por-un-plan-de-accion-del-cambio-climatico-en-bogota-articulo-886929",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0069": {
+        "Date": "2019-10-21 00:41:36.926972",
+        "Link": "http://www.elespectador.com/entretenimiento/",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0070": {
+        "Date": "2019-10-21 00:41:36.927058",
+        "Link": "http://www.elespectador.com/entretenimiento/cine/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0071": {
+        "Date": "2019-10-21 00:41:36.927149",
+        "Link": "http://www.elespectador.com/entretenimiento/eventos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0072": {
+        "Date": "2019-10-21 00:41:36.927233",
+        "Link": "http://www.elespectador.com/entretenimiento/gente/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0073": {
+        "Date": "2019-10-21 00:41:36.927316",
+        "Link": "http://www.elespectador.com/entretenimiento/medios/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0074": {
+        "Date": "2019-10-21 00:41:36.927400",
+        "Link": "http://www.elespectador.com/entretenimiento/medios/jared-padalecki-sam-winchester-hace-parte-de-mi-psique-articulo-886938",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0075": {
+        "Date": "2019-10-21 00:41:36.927486",
+        "Link": "http://www.elespectador.com/entretenimiento/musica/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0076": {
+        "Date": "2019-10-21 00:41:36.927575",
+        "Link": "http://www.elespectador.com/entretenimiento/musica/jack-back-el-alter-ego-de-david-guetta-que-lo-pone-como-el-mejor-dj-productor-de-2019-articulo-887010",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0077": {
+        "Date": "2019-10-21 00:41:36.927659",
+        "Link": "http://www.elespectador.com/entretenimiento/un-chat-con/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0078": {
+        "Date": "2019-10-21 00:41:36.927743",
+        "Link": "http://www.elespectador.com/entretenimiento/un-chat-con/viviana-hurtado-y-boja-aca-la-belleza-detras-de-los-escombros-articulo-886961",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0079": {
+        "Date": "2019-10-21 00:41:36.927827",
+        "Link": "http://www.elespectador.com/especiales/autos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0080": {
+        "Date": "2019-10-21 00:41:36.927910",
+        "Link": "http://www.elespectador.com/especiales/mundo-destinos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0081": {
+        "Date": "2019-10-21 00:41:36.927993",
+        "Link": "http://www.elespectador.com/files/akshardhamjpg",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0082": {
+        "Date": "2019-10-21 00:41:36.928078",
+        "Link": "http://www.elespectador.com/files/herreraarboledawebjpg",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0083": {
+        "Date": "2019-10-21 00:41:36.928161",
+        "Link": "http://www.elespectador.com/files/oct-21-pag-29drupalmainimageimagevar17206220191020043033jpg",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0084": {
+        "Date": "2019-10-21 00:41:36.928245",
+        "Link": "http://www.elespectador.com/horoscopo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0085": {
+        "Date": "2019-10-21 00:41:36.928328",
+        "Link": "http://www.elespectador.com/magola-caricatura-887000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0086": {
+        "Date": "2019-10-21 00:41:36.928418",
+        "Link": "http://www.elespectador.com/mico-caricatura-886891",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0087": {
+        "Date": "2019-10-21 00:41:36.928516",
+        "Link": "http://www.elespectador.com/muerden-la-mano-el-1-2-3-caricatura-887002",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0088": {
+        "Date": "2019-10-21 00:41:36.928600",
+        "Link": "http://www.elespectador.com/nieves-caricatura-887004",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0089": {
+        "Date": "2019-10-21 00:41:36.928683",
+        "Link": "http://www.elespectador.com/noticias/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0090": {
+        "Date": "2019-10-21 00:41:36.928766",
+        "Link": "http://www.elespectador.com/noticias/actualidad/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0091": {
+        "Date": "2019-10-21 00:41:36.928850",
+        "Link": "http://www.elespectador.com/noticias/actualidad/la-mate-por-reirse-de-mi-acento-dijo-colombiano-que-asesino-mujer-en-espana-articulo-886973",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0092": {
+        "Date": "2019-10-21 00:41:36.928943",
+        "Link": "http://www.elespectador.com/noticias/actualidad/vice/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0093": {
+        "Date": "2019-10-21 00:41:36.929027",
+        "Link": "http://www.elespectador.com/noticias/actualidad/yomu-cinco-disciplinas-para-lograr-presencia-y-calma-articulo-886701",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0094": {
+        "Date": "2019-10-21 00:41:36.929111",
+        "Link": "http://www.elespectador.com/noticias/alto-turmeque/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0095": {
+        "Date": "2019-10-21 00:41:36.929194",
+        "Link": "http://www.elespectador.com/noticias/bogota/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0096": {
+        "Date": "2019-10-21 00:41:36.929278",
+        "Link": "http://www.elespectador.com/noticias/bogota/concejo-comenzara-la-votacion-del-proyecto-pot-de-bogota-articulo-886966",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0097": {
+        "Date": "2019-10-21 00:41:36.929364",
+        "Link": "http://www.elespectador.com/noticias/bogota/emprendimiento-clave-en-la-carrera-por-la-alcaldia-articulo-886958",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0098": {
+        "Date": "2019-10-21 00:41:36.929449",
+        "Link": "http://www.elespectador.com/noticias/bogota/estos-son-los-cortes-de-agua-que-habra-esta-semana-en-bogota-articulo-886974",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0099": {
+        "Date": "2019-10-21 00:41:36.929538",
+        "Link": "http://www.elespectador.com/noticias/ciencia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0100": {
+        "Date": "2019-10-21 00:41:36.929622",
+        "Link": "http://www.elespectador.com/noticias/cultura/existio-alguna-vez-el-nadaismo-articulo-887009",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0101": {
+        "Date": "2019-10-21 00:41:36.929706",
+        "Link": "http://www.elespectador.com/noticias/educacion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0102": {
+        "Date": "2019-10-21 00:41:36.929789",
+        "Link": "http://www.elespectador.com/noticias/el-mundo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0103": {
+        "Date": "2019-10-21 00:41:36.929872",
+        "Link": "http://www.elespectador.com/noticias/el-mundo/escandalo-en-el-vaticano-se-usaron-donaciones-para-comprar-apartamentos-de-lujo-articulo-886945",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0104": {
+        "Date": "2019-10-21 00:41:36.929958",
+        "Link": "http://www.elespectador.com/noticias/el-mundo/las-muchas-razones-del-estallido-social-en-chile-articulo-886982",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0105": {
+        "Date": "2019-10-21 00:41:36.930041",
+        "Link": "http://www.elespectador.com/noticias/el-mundo/suicidios-una-silenciosa-consecuencia-en-bahamas-tras-el-paso-del-huracan-dorian-articulo-886702",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0106": {
+        "Date": "2019-10-21 00:41:36.930125",
+        "Link": "http://www.elespectador.com/noticias/investigacion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0107": {
+        "Date": "2019-10-21 00:41:36.930208",
+        "Link": "http://www.elespectador.com/noticias/investigacion/lupa-la-cadena-de-almacenes-tierra-santa-articulo-886788",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0108": {
+        "Date": "2019-10-21 00:41:36.930297",
+        "Link": "http://www.elespectador.com/noticias/judicial/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0109": {
+        "Date": "2019-10-21 00:41:36.930383",
+        "Link": "http://www.elespectador.com/noticias/judicial/los-pagos-que-habria-hecho-julio-gerlein-la-red-de-compra-de-votos-de-aida-merlano-articulo-886790",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0110": {
+        "Date": "2019-10-21 00:41:36.930466",
+        "Link": "http://www.elespectador.com/noticias/medio-ambiente/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0111": {
+        "Date": "2019-10-21 00:41:36.930550",
+        "Link": "http://www.elespectador.com/noticias/medio-ambiente/no-conozco-un-lugar-con-una-diversidad-como-la-de-colombia-articulo-886935",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0112": {
+        "Date": "2019-10-21 00:41:36.930633",
+        "Link": "http://www.elespectador.com/noticias/nacional/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0113": {
+        "Date": "2019-10-21 00:41:36.930724",
+        "Link": "http://www.elespectador.com/noticias/nacional/carolina-boetti-la-primera-trans-reparada-por-culpa-de-la-dictadura-argentina-articulo-886763",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0114": {
+        "Date": "2019-10-21 00:41:36.930809",
+        "Link": "http://www.elespectador.com/noticias/noticias-de-cultura/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0115": {
+        "Date": "2019-10-21 00:41:36.930893",
+        "Link": "http://www.elespectador.com/noticias/noticias-de-cultura/sobre-la-costumbre-de-encontrarse-muertos-en-medellin-articulo-886943",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0116": {
+        "Date": "2019-10-21 00:41:36.930985",
+        "Link": "http://www.elespectador.com/noticias/paz/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0117": {
+        "Date": "2019-10-21 00:41:36.931070",
+        "Link": "http://www.elespectador.com/noticias/politica/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0118": {
+        "Date": "2019-10-21 00:41:36.931153",
+        "Link": "http://www.elespectador.com/noticias/redes-sociales/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0119": {
+        "Date": "2019-10-21 00:41:36.931238",
+        "Link": "http://www.elespectador.com/noticias/salud/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0120": {
+        "Date": "2019-10-21 00:41:36.931325",
+        "Link": "http://www.elespectador.com/noticias/salud/el-suicidio-se-convirtio-en-la-segunda-causa-de-muerte-en-los-jovenes-norteamericanos-articulo-886930",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0121": {
+        "Date": "2019-10-21 00:41:36.931410",
+        "Link": "http://www.elespectador.com/noticias/salud/mas-de-119-paises-del-mundo-no-tienen-suficiente-suministro-de-sangre-articulo-886907",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0122": {
+        "Date": "2019-10-21 00:41:36.931494",
+        "Link": "http://www.elespectador.com/opinion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0123": {
+        "Date": "2019-10-21 00:41:36.931579",
+        "Link": "http://www.elespectador.com/opinion/antieditorial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0124": {
+        "Date": "2019-10-21 00:41:36.931663",
+        "Link": "http://www.elespectador.com/opinion/antisociales-manipuladores-y-protestas-columna-886948",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0125": {
+        "Date": "2019-10-21 00:41:36.931748",
+        "Link": "http://www.elespectador.com/opinion/articulacion-universitaria-con-la-paz-columna-886956",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0126": {
+        "Date": "2019-10-21 00:41:36.931832",
+        "Link": "http://www.elespectador.com/opinion/cartas-de-los-lectores",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0127": {
+        "Date": "2019-10-21 00:41:36.931921",
+        "Link": "http://www.elespectador.com/opinion/columna-del-lector",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0128": {
+        "Date": "2019-10-21 00:41:36.932013",
+        "Link": "http://www.elespectador.com/opinion/columnistas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0129": {
+        "Date": "2019-10-21 00:41:36.932099",
+        "Link": "http://www.elespectador.com/opinion/de-la-precariedad-vive-nuestro-sistema-politico-columna-886954",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0130": {
+        "Date": "2019-10-21 00:41:36.932183",
+        "Link": "http://www.elespectador.com/opinion/economia-nobel-en-ciencia-politica-columna-886932",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0131": {
+        "Date": "2019-10-21 00:41:36.932266",
+        "Link": "http://www.elespectador.com/opinion/editorial/mexico-cuando-el-narco-es-la-ley-articulo-886946",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0132": {
+        "Date": "2019-10-21 00:41:36.932352",
+        "Link": "http://www.elespectador.com/opinion/felipe-janica",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0133": {
+        "Date": "2019-10-21 00:41:36.932436",
+        "Link": "http://www.elespectador.com/opinion/gazapera-44/la-subasta-de-20-anos-columna-886967",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0134": {
+        "Date": "2019-10-21 00:41:36.932527",
+        "Link": "http://www.elespectador.com/opinion/inteligencia-o-superficialidad-artificial-columna-886953",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0135": {
+        "Date": "2019-10-21 00:41:36.932614",
+        "Link": "http://www.elespectador.com/opinion/juan-carlos-gomez",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0136": {
+        "Date": "2019-10-21 00:41:36.932703",
+        "Link": "http://www.elespectador.com/opinion/lorenzo-madrigal",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0137": {
+        "Date": "2019-10-21 00:41:36.932788",
+        "Link": "http://www.elespectador.com/opinion/luis-carlos-velez",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0138": {
+        "Date": "2019-10-21 00:41:36.932872",
+        "Link": "http://www.elespectador.com/opinion/luis-carvajal-basto",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0139": {
+        "Date": "2019-10-21 00:41:36.932955",
+        "Link": "http://www.elespectador.com/opinion/ojo-con-el-chavismo-columna-886949",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0140": {
+        "Date": "2019-10-21 00:41:36.933039",
+        "Link": "http://www.elespectador.com/opinion/pedro-viveros",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0141": {
+        "Date": "2019-10-21 00:41:36.933123",
+        "Link": "http://www.elespectador.com/opinion/planificacion-urbana-en-valledupar-columna-886947",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0142": {
+        "Date": "2019-10-21 00:41:36.933206",
+        "Link": "http://www.elespectador.com/opinion/salomon-kalmanovitz",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0143": {
+        "Date": "2019-10-21 00:41:36.933293",
+        "Link": "http://www.elespectador.com/opinion/santiago-montenegro",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0144": {
+        "Date": "2019-10-21 00:41:36.933391",
+        "Link": "http://www.elespectador.com/opinion/se-buscan-mas-roosevelts-y-mas-santos-columna-886931",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0145": {
+        "Date": "2019-10-21 00:41:36.933481",
+        "Link": "http://www.elespectador.com/opinion/senor-superintendente-donde-estan-los-recursos-del-sistema-de-salud-columna-886955",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0146": {
+        "Date": "2019-10-21 00:41:36.933566",
+        "Link": "http://www.elespectador.com/opinion/ya-llego-la-fecha-columna-886952",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0147": {
+        "Date": "2019-10-21 00:41:36.933650",
+        "Link": "http://www.elespectador.com/politica-de-tratamiento-de-datos-basic-page-705163",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0148": {
+        "Date": "2019-10-21 00:41:36.933734",
+        "Link": "http://www.elespectador.com/tarot",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0149": {
+        "Date": "2019-10-21 00:41:36.933817",
+        "Link": "http://www.elespectador.com/tecnologia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0150": {
+        "Date": "2019-10-21 00:41:36.933901",
+        "Link": "http://www.elespectador.com/tecnologia/league-legends-en-netflix-y-otras-noticias-tecnologicas-de-la-semana-articulo-886986",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0151": {
+        "Date": "2019-10-21 00:41:36.933984",
+        "Link": "http://www.elespectador.com/tecnologia/south-park-cerca-de-acuerdo-por-derechos-de-streaming-en-eeuu-articulo-886997",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0152": {
+        "Date": "2019-10-21 00:41:36.934067",
+        "Link": "http://www.elespectador.com/tecnologia/twitter-asegura-que-los-lideres-mundiales-no-estan-por-encima-de-sus-reglas-articulo-886957",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0153": {
+        "Date": "2019-10-21 00:41:36.934169",
+        "Link": "http://www.elespectador.com/user",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0154": {
+        "Date": "2019-10-21 00:41:36.934257",
+        "Link": "http://www.elespectador.com/vandalaje-caricatura-887003",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0155": {
+        "Date": "2019-10-21 00:41:36.934351",
+        "Link": "http://www.elespectador.com/vivir/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0156": {
+        "Date": "2019-10-21 00:41:36.934435",
+        "Link": "http://www.golcaracol.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0157": {
+        "Date": "2019-10-21 00:41:36.934520",
+        "Link": "http://www.iabcolombia.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0158": {
+        "Date": "2019-10-21 00:41:36.934603",
+        "Link": "http://www.noticiascaracol.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0159": {
+        "Date": "2019-10-21 00:41:36.934687",
+        "Link": "http://www.shock.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0160": {
+        "Date": "2019-10-21 00:41:36.934771",
+        "Link": "http://www.sic.gov.co/",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0161": {
+        "Date": "2019-10-21 00:41:36.934856",
+        "Link": "https://blogs.elespectador.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0162": {
+        "Date": "2019-10-21 00:41:36.934939",
+        "Link": "https://hjck.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0163": {
+        "Date": "2019-10-21 00:41:36.935017",
+        "Link": "https://libertadoras.elespectador.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0164": {
+        "Date": "2019-10-21 00:41:36.935094",
+        "Link": "https://twitter.com/elespectador",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0165": {
+        "Date": "2019-10-21 00:41:36.935172",
+        "Link": "https://volkgames.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0166": {
+        "Date": "2019-10-21 00:41:36.935259",
+        "Link": "https://www.elespectador.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0167": {
+        "Date": "2019-10-21 00:41:36.935337",
+        "Link": "https://www.elespectador.com/caricaturistas/betto",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0168": {
+        "Date": "2019-10-21 00:41:36.935414",
+        "Link": "https://www.elespectador.com/caricaturistas/gova",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0169": {
+        "Date": "2019-10-21 00:41:36.935496",
+        "Link": "https://www.elespectador.com/caricaturistas/magola",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0170": {
+        "Date": "2019-10-21 00:41:36.935573",
+        "Link": "https://www.elespectador.com/caricaturistas/mico",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0171": {
+        "Date": "2019-10-21 00:41:36.935651",
+        "Link": "https://www.elespectador.com/caricaturistas/nieves",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0172": {
+        "Date": "2019-10-21 00:41:36.935728",
+        "Link": "https://www.elespectador.com/caricaturistas/osuna",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0173": {
+        "Date": "2019-10-21 00:41:36.935815",
+        "Link": "https://www.elespectador.com/cdn-cgi/l/email-protection",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0174": {
+        "Date": "2019-10-21 00:41:36.935894",
+        "Link": "https://www.elespectador.com/colombia2020/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0175": {
+        "Date": "2019-10-21 00:41:36.935972",
+        "Link": "https://www.elespectador.com/colombia2020/justicia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0176": {
+        "Date": "2019-10-21 00:41:36.936056",
+        "Link": "https://www.elespectador.com/colombia2020/opinion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0177": {
+        "Date": "2019-10-21 00:41:36.936135",
+        "Link": "https://www.elespectador.com/colombia2020/pais/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0178": {
+        "Date": "2019-10-21 00:41:36.936222",
+        "Link": "https://www.elespectador.com/colombia2020/pedagogia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0179": {
+        "Date": "2019-10-21 00:41:36.936300",
+        "Link": "https://www.elespectador.com/colombia2020/politica/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0180": {
+        "Date": "2019-10-21 00:41:36.936377",
+        "Link": "https://www.elespectador.com/colombia2020/territorio/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0181": {
+        "Date": "2019-10-21 00:41:36.936454",
+        "Link": "https://www.elespectador.com/constenimiento-al-sufragante-caricatura-887001",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0182": {
+        "Date": "2019-10-21 00:41:36.936532",
+        "Link": "https://www.elespectador.com/contenido-exclusivo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0183": {
+        "Date": "2019-10-21 00:41:36.936609",
+        "Link": "https://www.elespectador.com/cromos/astrologia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0184": {
+        "Date": "2019-10-21 00:41:36.936687",
+        "Link": "https://www.elespectador.com/cromos/columnistas/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0185": {
+        "Date": "2019-10-21 00:41:36.936765",
+        "Link": "https://www.elespectador.com/cromos/estilo-de-vida/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0186": {
+        "Date": "2019-10-21 00:41:36.936843",
+        "Link": "https://www.elespectador.com/cromos/gastronomia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0187": {
+        "Date": "2019-10-21 00:41:36.936922",
+        "Link": "https://www.elespectador.com/cromos/maternidad-y-bienestar/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0188": {
+        "Date": "2019-10-21 00:41:36.937000",
+        "Link": "https://www.elespectador.com/cromos/maternidad-y-bienestar/divertimente-la-nueva-linea-de-juegos-para-acompanar-descubrir-el-talento-de-los-ninos-articulo-886915",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0189": {
+        "Date": "2019-10-21 00:41:36.937077",
+        "Link": "https://www.elespectador.com/cromos/moda/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0190": {
+        "Date": "2019-10-21 00:41:36.937172",
+        "Link": "https://www.elespectador.com/cromos/moda/aunque-es-de-noche-la-coleccion-de-manuela-alvarez-en-la-que-trabajo-con-tejedoras-indigenas-galeria-886882",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0191": {
+        "Date": "2019-10-21 00:41:36.937262",
+        "Link": "https://www.elespectador.com/cromos/vida-social/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0192": {
+        "Date": "2019-10-21 00:41:36.937342",
+        "Link": "https://www.elespectador.com/cromos/vida-social/cae-la-mayor-red-de-pornografia-infantil-del-mundo-por-el-rastreo-de-bitcoins-articulo-886926",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0193": {
+        "Date": "2019-10-21 00:41:36.937420",
+        "Link": "https://www.elespectador.com/deli-cromos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0194": {
+        "Date": "2019-10-21 00:41:36.937497",
+        "Link": "https://www.elespectador.com/deli-cromos/aprende-preparar-un-arroz-chaufa-de-pollo-con-camarones-video-880530",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0195": {
+        "Date": "2019-10-21 00:41:36.937575",
+        "Link": "https://www.elespectador.com/deli-cromos/ceviche-clasico-de-pescado-video-873720",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0196": {
+        "Date": "2019-10-21 00:41:36.937652",
+        "Link": "https://www.elespectador.com/deli-cromos/lomo-saltado-limeno-video-876053",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0197": {
+        "Date": "2019-10-21 00:41:36.937737",
+        "Link": "https://www.elespectador.com/deli-cromos/paso-paso-para-preparar-una-causa-limena-video-878236",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0198": {
+        "Date": "2019-10-21 00:41:36.937816",
+        "Link": "https://www.elespectador.com/deli-cromos/pescado-la-chorrillana-video-885167",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0199": {
+        "Date": "2019-10-21 00:41:36.937893",
+        "Link": "https://www.elespectador.com/deli-cromos/tiradito-tricolor-video-882852",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0200": {
+        "Date": "2019-10-21 00:41:36.937983",
+        "Link": "https://www.elespectador.com/deportes/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0201": {
+        "Date": "2019-10-21 00:41:36.938062",
+        "Link": "https://www.elespectador.com/deportes/automovilismo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0202": {
+        "Date": "2019-10-21 00:41:36.938142",
+        "Link": "https://www.elespectador.com/deportes/baloncesto/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0203": {
+        "Date": "2019-10-21 00:41:36.938220",
+        "Link": "https://www.elespectador.com/deportes/beisbol/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0204": {
+        "Date": "2019-10-21 00:41:36.938297",
+        "Link": "https://www.elespectador.com/deportes/beisbol/astros-nacionales-la-serie-mundial-termino-la-temporada-de-ensueno-para-gio-urshela-articulo-886975",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0205": {
+        "Date": "2019-10-21 00:41:36.938374",
+        "Link": "https://www.elespectador.com/deportes/ciclismo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0206": {
+        "Date": "2019-10-21 00:41:36.938451",
+        "Link": "https://www.elespectador.com/deportes/futbol-colombiano/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0207": {
+        "Date": "2019-10-21 00:41:36.938529",
+        "Link": "https://www.elespectador.com/deportes/futbol-colombiano/en-la-liga-aguila-unos-van-alegres-y-otros-van-llorando-articulo-886991",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0208": {
+        "Date": "2019-10-21 00:41:36.938611",
+        "Link": "https://www.elespectador.com/deportes/futbol-colombiano/la-epica-remontada-de-santa-fe-quedo-un-triunfo-de-los-cuadrangulares-articulo-887011",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0209": {
+        "Date": "2019-10-21 00:41:36.938689",
+        "Link": "https://www.elespectador.com/deportes/futbol-internacional/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0210": {
+        "Date": "2019-10-21 00:41:36.938766",
+        "Link": "https://www.elespectador.com/deportes/futbol-internacional/otro-boca-river-que-paraliza-argentina-articulo-886979",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0211": {
+        "Date": "2019-10-21 00:41:36.938843",
+        "Link": "https://www.elespectador.com/deportes/golf/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0212": {
+        "Date": "2019-10-21 00:41:36.938920",
+        "Link": "https://www.elespectador.com/deportes/partidos-de-futbol-hoy-en-vivo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0213": {
+        "Date": "2019-10-21 00:41:36.938997",
+        "Link": "https://www.elespectador.com/deportes/tenis/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0214": {
+        "Date": "2019-10-21 00:41:36.939074",
+        "Link": "https://www.elespectador.com/economia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0215": {
+        "Date": "2019-10-21 00:41:36.939157",
+        "Link": "https://www.elespectador.com/economia/fui-la-verdadera-victima-del-robo-al-banco-de-la-republica-marco-emilio-zabala-video-886920",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0216": {
+        "Date": "2019-10-21 00:41:36.939241",
+        "Link": "https://www.elespectador.com/economia/los-25-anos-del-robo-del-siglo-en-colombia-articulo-886780",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0217": {
+        "Date": "2019-10-21 00:41:36.939325",
+        "Link": "https://www.elespectador.com/economia/puede-la-tecnologia-reemplazar-la-creatividad-articulo-886968",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0218": {
+        "Date": "2019-10-21 00:41:36.939410",
+        "Link": "https://www.elespectador.com/elecciones2019",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0219": {
+        "Date": "2019-10-21 00:41:36.939488",
+        "Link": "https://www.elespectador.com/elecciones2019/cauca-entre-votos-coca-oro-y-guerra-articulo-887007",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0220": {
+        "Date": "2019-10-21 00:41:36.939565",
+        "Link": "https://www.elespectador.com/elecciones2019/el-regano-de-aurelio-iragorri-los-candidatos-de-la-u-en-santander-articulo-886917",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0221": {
+        "Date": "2019-10-21 00:41:36.939644",
+        "Link": "https://www.elespectador.com/elecciones2019/la-pelea-por-el-poder-en-quindio-articulo-886798",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0222": {
+        "Date": "2019-10-21 00:41:36.939722",
+        "Link": "https://www.elespectador.com/elecciones2019/por-que-hay-mas-violencia-pero-menos-riesgo-electoral-articulo-887008",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0223": {
+        "Date": "2019-10-21 00:41:36.939800",
+        "Link": "https://www.elespectador.com/elecciones2019/susana-muhamad-por-un-plan-de-accion-del-cambio-climatico-en-bogota-articulo-886929",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0224": {
+        "Date": "2019-10-21 00:41:36.939877",
+        "Link": "https://www.elespectador.com/entretenimiento/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0225": {
+        "Date": "2019-10-21 00:41:36.939954",
+        "Link": "https://www.elespectador.com/entretenimiento/cine/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0226": {
+        "Date": "2019-10-21 00:41:36.940032",
+        "Link": "https://www.elespectador.com/entretenimiento/eventos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0227": {
+        "Date": "2019-10-21 00:41:36.940111",
+        "Link": "https://www.elespectador.com/entretenimiento/gente/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0228": {
+        "Date": "2019-10-21 00:41:36.940188",
+        "Link": "https://www.elespectador.com/entretenimiento/medios/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0229": {
+        "Date": "2019-10-21 00:41:36.940265",
+        "Link": "https://www.elespectador.com/entretenimiento/medios/jared-padalecki-sam-winchester-hace-parte-de-mi-psique-articulo-886938",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0230": {
+        "Date": "2019-10-21 00:41:36.940342",
+        "Link": "https://www.elespectador.com/entretenimiento/musica/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0231": {
+        "Date": "2019-10-21 00:41:36.940420",
+        "Link": "https://www.elespectador.com/entretenimiento/musica/jack-back-el-alter-ego-de-david-guetta-que-lo-pone-como-el-mejor-dj-productor-de-2019-articulo-887010",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0232": {
+        "Date": "2019-10-21 00:41:36.940497",
+        "Link": "https://www.elespectador.com/entretenimiento/un-chat-con/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0233": {
+        "Date": "2019-10-21 00:41:36.940589",
+        "Link": "https://www.elespectador.com/entretenimiento/un-chat-con/viviana-hurtado-y-boja-aca-la-belleza-detras-de-los-escombros-articulo-886961",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0234": {
+        "Date": "2019-10-21 00:41:36.940674",
+        "Link": "https://www.elespectador.com/especiales/autos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0235": {
+        "Date": "2019-10-21 00:41:36.940753",
+        "Link": "https://www.elespectador.com/especiales/mundo-destinos/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0236": {
+        "Date": "2019-10-21 00:41:36.940830",
+        "Link": "https://www.elespectador.com/files/akshardhamjpg",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0237": {
+        "Date": "2019-10-21 00:41:36.940908",
+        "Link": "https://www.elespectador.com/files/herreraarboledawebjpg",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0238": {
+        "Date": "2019-10-21 00:41:36.940986",
+        "Link": "https://www.elespectador.com/files/oct-21-pag-29drupalmainimageimagevar17206220191020043033jpg",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0239": {
+        "Date": "2019-10-21 00:41:36.941074",
+        "Link": "https://www.elespectador.com/horoscopo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0240": {
+        "Date": "2019-10-21 00:41:36.941153",
+        "Link": "https://www.elespectador.com/magola-caricatura-887000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0241": {
+        "Date": "2019-10-21 00:41:36.941230",
+        "Link": "https://www.elespectador.com/mico-caricatura-886891",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0242": {
+        "Date": "2019-10-21 00:41:36.941307",
+        "Link": "https://www.elespectador.com/muerden-la-mano-el-1-2-3-caricatura-887002",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0243": {
+        "Date": "2019-10-21 00:41:36.941389",
+        "Link": "https://www.elespectador.com/nieves-caricatura-887004",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0244": {
+        "Date": "2019-10-21 00:41:36.941467",
+        "Link": "https://www.elespectador.com/noticias/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0245": {
+        "Date": "2019-10-21 00:41:36.941544",
+        "Link": "https://www.elespectador.com/noticias/actualidad/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0246": {
+        "Date": "2019-10-21 00:41:36.941622",
+        "Link": "https://www.elespectador.com/noticias/actualidad/la-mate-por-reirse-de-mi-acento-dijo-colombiano-que-asesino-mujer-en-espana-articulo-886973",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0247": {
+        "Date": "2019-10-21 00:41:36.941699",
+        "Link": "https://www.elespectador.com/noticias/actualidad/vice/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0248": {
+        "Date": "2019-10-21 00:41:36.941777",
+        "Link": "https://www.elespectador.com/noticias/actualidad/yomu-cinco-disciplinas-para-lograr-presencia-y-calma-articulo-886701",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0249": {
+        "Date": "2019-10-21 00:41:36.941854",
+        "Link": "https://www.elespectador.com/noticias/alto-turmeque/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0250": {
+        "Date": "2019-10-21 00:41:36.941931",
+        "Link": "https://www.elespectador.com/noticias/bogota/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0251": {
+        "Date": "2019-10-21 00:41:36.942012",
+        "Link": "https://www.elespectador.com/noticias/bogota/concejo-comenzara-la-votacion-del-proyecto-pot-de-bogota-articulo-886966",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0252": {
+        "Date": "2019-10-21 00:41:36.942093",
+        "Link": "https://www.elespectador.com/noticias/bogota/emprendimiento-clave-en-la-carrera-por-la-alcaldia-articulo-886958",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0253": {
+        "Date": "2019-10-21 00:41:36.942170",
+        "Link": "https://www.elespectador.com/noticias/bogota/estos-son-los-cortes-de-agua-que-habra-esta-semana-en-bogota-articulo-886974",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0254": {
+        "Date": "2019-10-21 00:41:36.942247",
+        "Link": "https://www.elespectador.com/noticias/ciencia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0255": {
+        "Date": "2019-10-21 00:41:36.942325",
+        "Link": "https://www.elespectador.com/noticias/cultura/existio-alguna-vez-el-nadaismo-articulo-887009",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0256": {
+        "Date": "2019-10-21 00:41:36.942402",
+        "Link": "https://www.elespectador.com/noticias/educacion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0257": {
+        "Date": "2019-10-21 00:41:36.942479",
+        "Link": "https://www.elespectador.com/noticias/el-mundo/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0258": {
+        "Date": "2019-10-21 00:41:36.942556",
+        "Link": "https://www.elespectador.com/noticias/el-mundo/escandalo-en-el-vaticano-se-usaron-donaciones-para-comprar-apartamentos-de-lujo-articulo-886945",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0259": {
+        "Date": "2019-10-21 00:41:36.942634",
+        "Link": "https://www.elespectador.com/noticias/el-mundo/las-muchas-razones-del-estallido-social-en-chile-articulo-886982",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0260": {
+        "Date": "2019-10-21 00:41:36.942723",
+        "Link": "https://www.elespectador.com/noticias/el-mundo/suicidios-una-silenciosa-consecuencia-en-bahamas-tras-el-paso-del-huracan-dorian-articulo-886702",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0261": {
+        "Date": "2019-10-21 00:41:36.942802",
+        "Link": "https://www.elespectador.com/noticias/investigacion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0262": {
+        "Date": "2019-10-21 00:41:36.942880",
+        "Link": "https://www.elespectador.com/noticias/investigacion/lupa-la-cadena-de-almacenes-tierra-santa-articulo-886788",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0263": {
+        "Date": "2019-10-21 00:41:36.942957",
+        "Link": "https://www.elespectador.com/noticias/judicial/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0264": {
+        "Date": "2019-10-21 00:41:36.943054",
+        "Link": "https://www.elespectador.com/noticias/judicial/los-pagos-que-habria-hecho-julio-gerlein-la-red-de-compra-de-votos-de-aida-merlano-articulo-886790",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0265": {
+        "Date": "2019-10-21 00:41:36.943152",
+        "Link": "https://www.elespectador.com/noticias/medio-ambiente/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0266": {
+        "Date": "2019-10-21 00:41:36.943241",
+        "Link": "https://www.elespectador.com/noticias/medio-ambiente/no-conozco-un-lugar-con-una-diversidad-como-la-de-colombia-articulo-886935",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0267": {
+        "Date": "2019-10-21 00:41:36.943321",
+        "Link": "https://www.elespectador.com/noticias/nacional/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0268": {
+        "Date": "2019-10-21 00:41:36.943404",
+        "Link": "https://www.elespectador.com/noticias/nacional/carolina-boetti-la-primera-trans-reparada-por-culpa-de-la-dictadura-argentina-articulo-886763",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0269": {
+        "Date": "2019-10-21 00:41:36.943484",
+        "Link": "https://www.elespectador.com/noticias/noticias-de-cultura/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0270": {
+        "Date": "2019-10-21 00:41:36.943561",
+        "Link": "https://www.elespectador.com/noticias/noticias-de-cultura/sobre-la-costumbre-de-encontrarse-muertos-en-medellin-articulo-886943",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0271": {
+        "Date": "2019-10-21 00:41:36.943639",
+        "Link": "https://www.elespectador.com/noticias/paz/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0272": {
+        "Date": "2019-10-21 00:41:36.943723",
+        "Link": "https://www.elespectador.com/noticias/politica/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0273": {
+        "Date": "2019-10-21 00:41:36.943803",
+        "Link": "https://www.elespectador.com/noticias/redes-sociales/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0274": {
+        "Date": "2019-10-21 00:41:36.943880",
+        "Link": "https://www.elespectador.com/noticias/salud/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0275": {
+        "Date": "2019-10-21 00:41:36.943958",
+        "Link": "https://www.elespectador.com/noticias/salud/el-suicidio-se-convirtio-en-la-segunda-causa-de-muerte-en-los-jovenes-norteamericanos-articulo-886930",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0276": {
+        "Date": "2019-10-21 00:41:36.944038",
+        "Link": "https://www.elespectador.com/noticias/salud/mas-de-119-paises-del-mundo-no-tienen-suficiente-suministro-de-sangre-articulo-886907",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0277": {
+        "Date": "2019-10-21 00:41:36.944120",
+        "Link": "https://www.elespectador.com/opinion/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0278": {
+        "Date": "2019-10-21 00:41:36.944199",
+        "Link": "https://www.elespectador.com/opinion/antieditorial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0279": {
+        "Date": "2019-10-21 00:41:36.944278",
+        "Link": "https://www.elespectador.com/opinion/antisociales-manipuladores-y-protestas-columna-886948",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0280": {
+        "Date": "2019-10-21 00:41:36.944356",
+        "Link": "https://www.elespectador.com/opinion/articulacion-universitaria-con-la-paz-columna-886956",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0281": {
+        "Date": "2019-10-21 00:41:36.944442",
+        "Link": "https://www.elespectador.com/opinion/cartas-de-los-lectores",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0282": {
+        "Date": "2019-10-21 00:41:36.944519",
+        "Link": "https://www.elespectador.com/opinion/columna-del-lector",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0283": {
+        "Date": "2019-10-21 00:41:36.944597",
+        "Link": "https://www.elespectador.com/opinion/columnistas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0284": {
+        "Date": "2019-10-21 00:41:36.944674",
+        "Link": "https://www.elespectador.com/opinion/de-la-precariedad-vive-nuestro-sistema-politico-columna-886954",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0285": {
+        "Date": "2019-10-21 00:41:36.944751",
+        "Link": "https://www.elespectador.com/opinion/economia-nobel-en-ciencia-politica-columna-886932",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0286": {
+        "Date": "2019-10-21 00:41:36.944829",
+        "Link": "https://www.elespectador.com/opinion/editorial/mexico-cuando-el-narco-es-la-ley-articulo-886946",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0287": {
+        "Date": "2019-10-21 00:41:36.944907",
+        "Link": "https://www.elespectador.com/opinion/felipe-janica",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0288": {
+        "Date": "2019-10-21 00:41:36.944988",
+        "Link": "https://www.elespectador.com/opinion/gazapera-44/la-subasta-de-20-anos-columna-886967",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0289": {
+        "Date": "2019-10-21 00:41:36.945066",
+        "Link": "https://www.elespectador.com/opinion/inteligencia-o-superficialidad-artificial-columna-886953",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0290": {
+        "Date": "2019-10-21 00:41:36.945148",
+        "Link": "https://www.elespectador.com/opinion/juan-carlos-gomez",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0291": {
+        "Date": "2019-10-21 00:41:36.945226",
+        "Link": "https://www.elespectador.com/opinion/lorenzo-madrigal",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0292": {
+        "Date": "2019-10-21 00:41:36.945303",
+        "Link": "https://www.elespectador.com/opinion/luis-carlos-velez",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0293": {
+        "Date": "2019-10-21 00:41:36.945380",
+        "Link": "https://www.elespectador.com/opinion/luis-carvajal-basto",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0294": {
+        "Date": "2019-10-21 00:41:36.945457",
+        "Link": "https://www.elespectador.com/opinion/ojo-con-el-chavismo-columna-886949",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0295": {
+        "Date": "2019-10-21 00:41:36.945534",
+        "Link": "https://www.elespectador.com/opinion/pedro-viveros",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0296": {
+        "Date": "2019-10-21 00:41:36.945612",
+        "Link": "https://www.elespectador.com/opinion/planificacion-urbana-en-valledupar-columna-886947",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0297": {
+        "Date": "2019-10-21 00:41:36.945689",
+        "Link": "https://www.elespectador.com/opinion/salomon-kalmanovitz",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0298": {
+        "Date": "2019-10-21 00:41:36.945766",
+        "Link": "https://www.elespectador.com/opinion/santiago-montenegro",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0299": {
+        "Date": "2019-10-21 00:41:36.945849",
+        "Link": "https://www.elespectador.com/opinion/se-buscan-mas-roosevelts-y-mas-santos-columna-886931",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0300": {
+        "Date": "2019-10-21 00:41:36.945928",
+        "Link": "https://www.elespectador.com/opinion/senor-superintendente-donde-estan-los-recursos-del-sistema-de-salud-columna-886955",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0301": {
+        "Date": "2019-10-21 00:41:36.946007",
+        "Link": "https://www.elespectador.com/opinion/ya-llego-la-fecha-columna-886952",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0302": {
+        "Date": "2019-10-21 00:41:36.946092",
+        "Link": "https://www.elespectador.com/politica-de-tratamiento-de-datos-basic-page-705163",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0303": {
+        "Date": "2019-10-21 00:41:36.946170",
+        "Link": "https://www.elespectador.com/static_specials/337/pauta/index.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0304": {
+        "Date": "2019-10-21 00:41:36.946248",
+        "Link": "https://www.elespectador.com/tarot",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0305": {
+        "Date": "2019-10-21 00:41:36.946327",
+        "Link": "https://www.elespectador.com/tecnologia/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0306": {
+        "Date": "2019-10-21 00:41:36.946404",
+        "Link": "https://www.elespectador.com/tecnologia/league-legends-en-netflix-y-otras-noticias-tecnologicas-de-la-semana-articulo-886986",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0307": {
+        "Date": "2019-10-21 00:41:36.946486",
+        "Link": "https://www.elespectador.com/tecnologia/south-park-cerca-de-acuerdo-por-derechos-de-streaming-en-eeuu-articulo-886997",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0308": {
+        "Date": "2019-10-21 00:41:36.946564",
+        "Link": "https://www.elespectador.com/tecnologia/twitter-asegura-que-los-lideres-mundiales-no-estan-por-encima-de-sus-reglas-articulo-886957",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0309": {
+        "Date": "2019-10-21 00:41:36.946642",
+        "Link": "https://www.elespectador.com/user",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0310": {
+        "Date": "2019-10-21 00:41:36.946719",
+        "Link": "https://www.elespectador.com/vandalaje-caricatura-887003",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0311": {
+        "Date": "2019-10-21 00:41:36.946796",
+        "Link": "https://www.elespectador.com/vivir/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0312": {
+        "Date": "2019-10-21 00:41:36.946874",
+        "Link": "https://www.facebook.com/CirculoDeExperiencias/",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0313": {
+        "Date": "2019-10-21 00:41:36.946967",
+        "Link": "https://www.facebook.com/elespectadorcom",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0314": {
+        "Date": "2019-10-21 00:41:36.947047",
+        "Link": "https://www.instagram.com/elespectador/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0315": {
+        "Date": "2019-10-21 00:41:36.947129",
+        "Link": "https://www.spreaker.com/show/voces-desde-el-territorio",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0316": {
+        "Date": "2019-10-21 00:41:36.947214",
+        "Link": "https://www.youtube.com/user/Elespectadorcom",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

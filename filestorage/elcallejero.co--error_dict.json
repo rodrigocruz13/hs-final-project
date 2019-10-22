@@ -1,0 +1,20 @@
+{
+    "Check 0006": {
+        "Date": "2019-10-21 15:38:44.679144",
+        "Link": "https://mellogobernador.com",
+        "Status": {
+            "Code": "406",
+            "Meaning": "Not Acceptable: The server can only generate a response that is not accepted by the client",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0114": {
+        "Date": "2019-10-21 15:38:49.987490",
+        "Link": "https://www.mellogobernador.com",
+        "Status": {
+            "Code": "406",
+            "Meaning": "Not Acceptable: The server can only generate a response that is not accepted by the client",
+            "Type": " USER ERROR "
+        }
+    }
+}

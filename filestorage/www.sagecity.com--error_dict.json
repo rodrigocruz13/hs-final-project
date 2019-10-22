@@ -1,0 +1,11 @@
+{
+    "Check 0042": {
+        "Date": "2019-10-21 17:46:45.162164",
+        "Link": "https://www.linkedin.com/company/sage-software",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

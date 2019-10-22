@@ -1,0 +1,11 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 17:52:41.591556",
+        "Link": "http://add.my.yahoo.com/content",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    }
+}

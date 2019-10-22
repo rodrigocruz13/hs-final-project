@@ -1,0 +1,767 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 17:46:49.937360",
+        "Link": "http://www.sage.com/company",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 17:46:46.116954",
+        "Link": "http://www.sagecity.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 17:46:46.706235",
+        "Link": "http://www.sagecity.com/ae/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 17:46:50.636625",
+        "Link": "http://www.sagecity.com/au/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0005": {
+        "Date": "2019-10-21 17:46:50.793556",
+        "Link": "http://www.sagecity.com/be",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 17:46:47.320335",
+        "Link": "http://www.sagecity.com/blog",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0007": {
+        "Date": "2019-10-21 17:46:46.482475",
+        "Link": "http://www.sagecity.com/br/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 17:46:46.820428",
+        "Link": "http://www.sagecity.com/bw/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0009": {
+        "Date": "2019-10-21 17:46:46.645078",
+        "Link": "http://www.sagecity.com/ca/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0010": {
+        "Date": "2019-10-21 17:46:46.926143",
+        "Link": "http://www.sagecity.com/developer",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0011": {
+        "Date": "2019-10-21 17:46:47.065061",
+        "Link": "http://www.sagecity.com/es/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 17:46:46.996602",
+        "Link": "http://www.sagecity.com/featuredrss",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0013": {
+        "Date": "2019-10-21 17:46:46.381924",
+        "Link": "http://www.sagecity.com/fr/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0014": {
+        "Date": "2019-10-21 17:46:45.883402",
+        "Link": "http://www.sagecity.com/gb/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0015": {
+        "Date": "2019-10-21 17:46:46.452686",
+        "Link": "http://www.sagecity.com/ie/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0016": {
+        "Date": "2019-10-21 17:46:46.751905",
+        "Link": "http://www.sagecity.com/in/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0017": {
+        "Date": "2019-10-21 17:46:46.383333",
+        "Link": "http://www.sagecity.com/ke/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0018": {
+        "Date": "2019-10-21 17:46:48.318300",
+        "Link": "http://www.sagecity.com/login",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0019": {
+        "Date": "2019-10-21 17:46:45.904759",
+        "Link": "http://www.sagecity.com/ma",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0020": {
+        "Date": "2019-10-21 17:46:50.837677",
+        "Link": "http://www.sagecity.com/my/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0021": {
+        "Date": "2019-10-21 17:46:46.255259",
+        "Link": "http://www.sagecity.com/na/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0022": {
+        "Date": "2019-10-21 17:46:50.579317",
+        "Link": "http://www.sagecity.com/ng/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0023": {
+        "Date": "2019-10-21 17:46:51.132923",
+        "Link": "http://www.sagecity.com/p/communityguidelines.aspx",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0024": {
+        "Date": "2019-10-21 17:46:56.111767",
+        "Link": "http://www.sagecity.com/p/product_groups",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0025": {
+        "Date": "2019-10-21 17:46:46.161199",
+        "Link": "http://www.sagecity.com/pl/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0026": {
+        "Date": "2019-10-21 17:46:46.756097",
+        "Link": "http://www.sagecity.com/pt/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0027": {
+        "Date": "2019-10-21 17:46:46.740251",
+        "Link": "http://www.sagecity.com/sage_city_town_hall",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0028": {
+        "Date": "2019-10-21 17:46:50.912532",
+        "Link": "http://www.sagecity.com/sg/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0029": {
+        "Date": "2019-10-21 17:46:50.738405",
+        "Link": "http://www.sagecity.com/support_communities/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0030": {
+        "Date": "2019-10-21 17:46:46.713764",
+        "Link": "http://www.sagecity.com/tags/Reports",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0031": {
+        "Date": "2019-10-21 17:46:46.397588",
+        "Link": "http://www.sagecity.com/tags/Sage%2b300%2bERP",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0032": {
+        "Date": "2019-10-21 17:46:51.053473",
+        "Link": "http://www.sagecity.com/tags/Sage%2b50",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0033": {
+        "Date": "2019-10-21 17:46:46.532357",
+        "Link": "http://www.sagecity.com/tags/Sage%2b50%2bAccounts",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0034": {
+        "Date": "2019-10-21 17:46:46.754895",
+        "Link": "http://www.sagecity.com/tags/Sage%2bERP%2bX3",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0035": {
+        "Date": "2019-10-21 17:46:51.096830",
+        "Link": "http://www.sagecity.com/tags/X3",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0036": {
+        "Date": "2019-10-21 17:46:47.650345",
+        "Link": "http://www.sagecity.com/tags/payroll",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0037": {
+        "Date": "2019-10-21 17:46:46.744967",
+        "Link": "http://www.sagecity.com/tags/sage%2b100",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0038": {
+        "Date": "2019-10-21 17:46:46.858868",
+        "Link": "http://www.sagecity.com/za/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0039": {
+        "Date": "2019-10-21 17:46:46.801887",
+        "Link": "https://twitter.com/sagegroupplc",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0040": {
+        "Date": "2019-10-21 17:46:46.476500",
+        "Link": "https://www.facebook.com/sage",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0041": {
+        "Date": "2019-10-21 17:46:45.775647",
+        "Link": "https://www.instagram.com/sageofficial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0042": {
+        "Date": "2019-10-21 17:46:45.162164",
+        "Link": "https://www.linkedin.com/company/sage-software",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0043": {
+        "Date": "2019-10-21 17:46:50.015700",
+        "Link": "https://www.sage.com/company/gdpr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0044": {
+        "Date": "2019-10-21 17:46:49.742401",
+        "Link": "https://www.sage.com/company/privacy-notice-and-cookies",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0045": {
+        "Date": "2019-10-21 17:46:45.756332",
+        "Link": "https://www.sagecity.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0046": {
+        "Date": "2019-10-21 17:46:45.574581",
+        "Link": "https://www.sagecity.com/ae/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0047": {
+        "Date": "2019-10-21 17:46:45.612806",
+        "Link": "https://www.sagecity.com/au/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0048": {
+        "Date": "2019-10-21 17:46:45.312787",
+        "Link": "https://www.sagecity.com/be",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0049": {
+        "Date": "2019-10-21 17:46:46.470259",
+        "Link": "https://www.sagecity.com/blog",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0050": {
+        "Date": "2019-10-21 17:46:47.026656",
+        "Link": "https://www.sagecity.com/blog/b/sage-insights/posts/critical-hr-activities",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0051": {
+        "Date": "2019-10-21 17:46:46.218523",
+        "Link": "https://www.sagecity.com/br/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0052": {
+        "Date": "2019-10-21 17:46:46.897366",
+        "Link": "https://www.sagecity.com/bw/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0053": {
+        "Date": "2019-10-21 17:46:45.660440",
+        "Link": "https://www.sagecity.com/ca/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0054": {
+        "Date": "2019-10-21 17:46:46.855096",
+        "Link": "https://www.sagecity.com/developer",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0055": {
+        "Date": "2019-10-21 17:46:45.684295",
+        "Link": "https://www.sagecity.com/es/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0056": {
+        "Date": "2019-10-21 17:46:45.506480",
+        "Link": "https://www.sagecity.com/featuredrss",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0057": {
+        "Date": "2019-10-21 17:46:46.929595",
+        "Link": "https://www.sagecity.com/fr/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0058": {
+        "Date": "2019-10-21 17:46:45.833139",
+        "Link": "https://www.sagecity.com/gb/sage-50-accounts-and-sage-50cloud-accounts-uk/b/sage-50-accounts-and-sage-50cloud-accounts-uk/posts/everything-you-need-for-a-smooth-year-end",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0059": {
+        "Date": "2019-10-21 17:46:47.142109",
+        "Link": "https://www.sagecity.com/gb/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0060": {
+        "Date": "2019-10-21 17:46:46.973320",
+        "Link": "https://www.sagecity.com/ie/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0061": {
+        "Date": "2019-10-21 17:46:45.689852",
+        "Link": "https://www.sagecity.com/in/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0062": {
+        "Date": "2019-10-21 17:46:50.293853",
+        "Link": "https://www.sagecity.com/ke/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0063": {
+        "Date": "2019-10-21 17:46:47.976891",
+        "Link": "https://www.sagecity.com/login",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0064": {
+        "Date": "2019-10-21 17:46:45.670813",
+        "Link": "https://www.sagecity.com/ma",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0065": {
+        "Date": "2019-10-21 17:46:50.335438",
+        "Link": "https://www.sagecity.com/my/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0066": {
+        "Date": "2019-10-21 17:46:50.173594",
+        "Link": "https://www.sagecity.com/na/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0067": {
+        "Date": "2019-10-21 17:46:50.613851",
+        "Link": "https://www.sagecity.com/ng/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0068": {
+        "Date": "2019-10-21 17:46:50.816639",
+        "Link": "https://www.sagecity.com/p/communityguidelines.aspx",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0069": {
+        "Date": "2019-10-21 17:46:51.364201",
+        "Link": "https://www.sagecity.com/p/product_groups",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0070": {
+        "Date": "2019-10-21 17:46:50.357733",
+        "Link": "https://www.sagecity.com/pl/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0071": {
+        "Date": "2019-10-21 17:46:45.366786",
+        "Link": "https://www.sagecity.com/pt/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0072": {
+        "Date": "2019-10-21 17:46:46.907706",
+        "Link": "https://www.sagecity.com/sage_city_town_hall",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0073": {
+        "Date": "2019-10-21 17:46:45.382898",
+        "Link": "https://www.sagecity.com/sg/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0074": {
+        "Date": "2019-10-21 17:46:50.593839",
+        "Link": "https://www.sagecity.com/support_communities/sage_erp_x3/b/sageerp_x3_product_support_blog/posts/production-lead-time-and-the-relational-dependence-on-the-load-calculation",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0075": {
+        "Date": "2019-10-21 17:46:50.677273",
+        "Link": "https://www.sagecity.com/support_communities/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0076": {
+        "Date": "2019-10-21 17:46:51.083524",
+        "Link": "https://www.sagecity.com/tags/Reports",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0077": {
+        "Date": "2019-10-21 17:46:46.276734",
+        "Link": "https://www.sagecity.com/tags/Sage%2b300%2bERP",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0078": {
+        "Date": "2019-10-21 17:46:50.714157",
+        "Link": "https://www.sagecity.com/tags/Sage%2b50",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0079": {
+        "Date": "2019-10-21 17:46:50.430239",
+        "Link": "https://www.sagecity.com/tags/Sage%2b50%2bAccounts",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0080": {
+        "Date": "2019-10-21 17:46:50.462313",
+        "Link": "https://www.sagecity.com/tags/Sage%2bERP%2bX3",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0081": {
+        "Date": "2019-10-21 17:46:50.771673",
+        "Link": "https://www.sagecity.com/tags/X3",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0082": {
+        "Date": "2019-10-21 17:46:51.164249",
+        "Link": "https://www.sagecity.com/tags/payroll",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0083": {
+        "Date": "2019-10-21 17:46:51.179907",
+        "Link": "https://www.sagecity.com/tags/sage%2b100",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0084": {
+        "Date": "2019-10-21 17:46:50.379385",
+        "Link": "https://www.sagecity.com/za/subgrouplist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0085": {
+        "Date": "2019-10-21 17:46:51.877997",
+        "Link": "https://www.youtube.com/sage",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

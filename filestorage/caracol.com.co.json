@@ -1,0 +1,2252 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 12:59:05.192833",
+        "Link": "http://caracol.com.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 12:59:05.193181",
+        "Link": "http://caracol.com.co/agr/argumentando_pais/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 12:59:05.193343",
+        "Link": "http://caracol.com.co/autor/carlos_castro_arias/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 12:59:05.193510",
+        "Link": "http://caracol.com.co/autor/radio_caracol/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0005": {
+        "Date": "2019-10-21 12:59:05.193629",
+        "Link": "http://caracol.com.co/buscador",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 12:59:05.193747",
+        "Link": "http://caracol.com.co/emisora/2019/10/21/pereira/1571650469_584903.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0007": {
+        "Date": "2019-10-21 12:59:05.193873",
+        "Link": "http://caracol.com.co/emisora/2019/10/21/santa_marta/1571665674_014837.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 12:59:05.193989",
+        "Link": "http://caracol.com.co/emisora/bogota",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0009": {
+        "Date": "2019-10-21 12:59:05.194117",
+        "Link": "http://caracol.com.co/especiales/boletines-informativos",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0010": {
+        "Date": "2019-10-21 12:59:05.194233",
+        "Link": "http://caracol.com.co/especiales/clientes/formato_creacion.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0011": {
+        "Date": "2019-10-21 12:59:05.194345",
+        "Link": "http://caracol.com.co/estaticos/aviso-legal",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 12:59:05.194460",
+        "Link": "http://caracol.com.co/estaticos/politica-privacidad",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0013": {
+        "Date": "2019-10-21 12:59:05.194574",
+        "Link": "http://caracol.com.co/estaticos/recursosgraficos/especiales/2019/09/especial-elecciones/index.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0014": {
+        "Date": "2019-10-21 12:59:05.194687",
+        "Link": "http://caracol.com.co/estaticos/registro-proveedores",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0015": {
+        "Date": "2019-10-21 12:59:05.194847",
+        "Link": "http://caracol.com.co/estaticos/ser-en-tu-movil",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0016": {
+        "Date": "2019-10-21 12:59:05.194976",
+        "Link": "http://caracol.com.co/programa/2019/10/21/6am_hoy_por_hoy/1571658690_724063.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0017": {
+        "Date": "2019-10-21 12:59:05.195068",
+        "Link": "http://caracol.com.co/programa/2019/10/21/6am_hoy_por_hoy/1571659993_952644.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0018": {
+        "Date": "2019-10-21 12:59:05.195152",
+        "Link": "http://caracol.com.co/radio/2019/09/17/politica/1568676204_403265.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0019": {
+        "Date": "2019-10-21 12:59:05.195230",
+        "Link": "http://caracol.com.co/radio/2019/10/03/tendencias/1570059057_354215.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0020": {
+        "Date": "2019-10-21 12:59:05.195309",
+        "Link": "http://caracol.com.co/radio/2019/10/08/deportes/1570553300_811793.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0021": {
+        "Date": "2019-10-21 12:59:05.195442",
+        "Link": "http://caracol.com.co/radio/2019/10/18/politica/1571410600_446991.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0022": {
+        "Date": "2019-10-21 12:59:05.195523",
+        "Link": "http://caracol.com.co/radio/2019/10/19/politica/1571499467_728895.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0023": {
+        "Date": "2019-10-21 12:59:05.195606",
+        "Link": "http://caracol.com.co/radio/2019/10/19/tendencias/1571516020_754990.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0024": {
+        "Date": "2019-10-21 12:59:05.195682",
+        "Link": "http://caracol.com.co/radio/2019/10/20/deportes/1571605186_038129.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0025": {
+        "Date": "2019-10-21 12:59:05.195759",
+        "Link": "http://caracol.com.co/radio/2019/10/21/deportes/1571657981_045677.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0026": {
+        "Date": "2019-10-21 12:59:05.195860",
+        "Link": "http://caracol.com.co/radio/2019/10/21/deportes/1571669840_119655.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0027": {
+        "Date": "2019-10-21 12:59:05.195939",
+        "Link": "http://caracol.com.co/radio/2019/10/21/deportes/1571670697_777973.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0028": {
+        "Date": "2019-10-21 12:59:05.196015",
+        "Link": "http://caracol.com.co/radio/2019/10/21/deportes/1571676284_079033.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0029": {
+        "Date": "2019-10-21 12:59:05.196092",
+        "Link": "http://caracol.com.co/radio/2019/10/21/entretenimiento/1571670533_584790.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0030": {
+        "Date": "2019-10-21 12:59:05.196168",
+        "Link": "http://caracol.com.co/radio/2019/10/21/entretenimiento/1571673727_939925.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0031": {
+        "Date": "2019-10-21 12:59:05.196245",
+        "Link": "http://caracol.com.co/radio/2019/10/21/entretenimiento/1571675888_200857.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0032": {
+        "Date": "2019-10-21 12:59:05.196325",
+        "Link": "http://caracol.com.co/radio/2019/10/21/entretenimiento/1571676531_582334.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0033": {
+        "Date": "2019-10-21 12:59:05.196451",
+        "Link": "http://caracol.com.co/radio/2019/10/21/internacional/1571645176_502454.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0034": {
+        "Date": "2019-10-21 12:59:05.196580",
+        "Link": "http://caracol.com.co/radio/2019/10/21/internacional/1571647553_298151.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0035": {
+        "Date": "2019-10-21 12:59:05.196786",
+        "Link": "http://caracol.com.co/radio/2019/10/21/internacional/1571672499_800829.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0036": {
+        "Date": "2019-10-21 12:59:05.196898",
+        "Link": "http://caracol.com.co/radio/2019/10/21/judicial/1571666798_988519.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0037": {
+        "Date": "2019-10-21 12:59:05.197005",
+        "Link": "http://caracol.com.co/radio/2019/10/21/nacional/1571670415_154947.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0038": {
+        "Date": "2019-10-21 12:59:05.197105",
+        "Link": "http://caracol.com.co/radio/2019/10/21/politica/1571671057_376092.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0039": {
+        "Date": "2019-10-21 12:59:05.197205",
+        "Link": "http://caracol.com.co/radio/2019/10/21/tendencias/1571671301_459596.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0040": {
+        "Date": "2019-10-21 12:59:05.197305",
+        "Link": "http://caracol.com.co/radio/contactos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0041": {
+        "Date": "2019-10-21 12:59:05.197406",
+        "Link": "http://caracol.com.co/radio/emisoras",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0042": {
+        "Date": "2019-10-21 12:59:05.197526",
+        "Link": "http://caracol.com.co/radio/podcasts",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0043": {
+        "Date": "2019-10-21 12:59:05.197629",
+        "Link": "http://caracol.com.co/radio/programas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0044": {
+        "Date": "2019-10-21 12:59:05.197730",
+        "Link": "http://caracol.com.co/radio/ultimas_noticias",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0045": {
+        "Date": "2019-10-21 12:59:05.197884",
+        "Link": "http://caracol.com.co/seccion/cultura",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0046": {
+        "Date": "2019-10-21 12:59:05.198016",
+        "Link": "http://caracol.com.co/seccion/deportes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0047": {
+        "Date": "2019-10-21 12:59:05.198121",
+        "Link": "http://caracol.com.co/seccion/economia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0048": {
+        "Date": "2019-10-21 12:59:05.198222",
+        "Link": "http://caracol.com.co/seccion/entretenimiento",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0049": {
+        "Date": "2019-10-21 12:59:05.198325",
+        "Link": "http://caracol.com.co/seccion/especiales",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0050": {
+        "Date": "2019-10-21 12:59:05.198499",
+        "Link": "http://caracol.com.co/seccion/internacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0051": {
+        "Date": "2019-10-21 12:59:05.198613",
+        "Link": "http://caracol.com.co/seccion/judicial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0052": {
+        "Date": "2019-10-21 12:59:05.198725",
+        "Link": "http://caracol.com.co/seccion/nacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0053": {
+        "Date": "2019-10-21 12:59:05.198844",
+        "Link": "http://caracol.com.co/seccion/politica",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0054": {
+        "Date": "2019-10-21 12:59:05.198952",
+        "Link": "http://caracol.com.co/seccion/regional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0055": {
+        "Date": "2019-10-21 12:59:05.199061",
+        "Link": "http://caracol.com.co/seccion/salud",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0056": {
+        "Date": "2019-10-21 12:59:05.199168",
+        "Link": "http://caracol.com.co/seccion/tecnologia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0057": {
+        "Date": "2019-10-21 12:59:05.199283",
+        "Link": "http://caracol.com.co/seccion/tendencias",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0058": {
+        "Date": "2019-10-21 12:59:05.199389",
+        "Link": "http://caracol.com.co/tag/c/444b289ebeee3eb0bed2bb38fce78790",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0059": {
+        "Date": "2019-10-21 12:59:05.199492",
+        "Link": "http://caracol.com.co/tag/c/95b9eb030a82d1652452da9d7d1841fd",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0060": {
+        "Date": "2019-10-21 12:59:05.199595",
+        "Link": "http://caracol.com.co/tag/c/9f69c309a626668290bb5c29d1d8a212",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0061": {
+        "Date": "2019-10-21 12:59:05.199697",
+        "Link": "http://caracol.com.co/tag/liga_colombiana/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0062": {
+        "Date": "2019-10-21 12:59:05.199834",
+        "Link": "http://caracol.com.co/tag/listado",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0063": {
+        "Date": "2019-10-21 12:59:05.199975",
+        "Link": "http://caracol.com.co/tag/videos/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0064": {
+        "Date": "2019-10-21 12:59:05.200090",
+        "Link": "http://colombia.as.com/colombia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0065": {
+        "Date": "2019-10-21 12:59:05.200215",
+        "Link": "http://elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0066": {
+        "Date": "2019-10-21 12:59:05.200458",
+        "Link": "http://elpais.com/elpais/icon.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0067": {
+        "Date": "2019-10-21 12:59:05.200614",
+        "Link": "http://elpais.com/elpais/planeta_futuro.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0068": {
+        "Date": "2019-10-21 12:59:05.200744",
+        "Link": "http://los40.com.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0069": {
+        "Date": "2019-10-21 12:59:05.200929",
+        "Link": "http://pluralportugal.pt",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0070": {
+        "Date": "2019-10-21 12:59:05.201052",
+        "Link": "http://pubads.g.doubleclick.net/gampad/clk",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0071": {
+        "Date": "2019-10-21 12:59:05.201168",
+        "Link": "http://radiocomercial.iol.pt",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0072": {
+        "Date": "2019-10-21 12:59:05.201280",
+        "Link": "http://santillanacompartir.com.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0073": {
+        "Date": "2019-10-21 12:59:05.201392",
+        "Link": "http://smoda.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0074": {
+        "Date": "2019-10-21 12:59:05.201521",
+        "Link": "http://usuariosnews.cadenaser.com/newsletters",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0075": {
+        "Date": "2019-10-21 12:59:05.201635",
+        "Link": "http://wradio.com.co/dmz/mediaKit",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0076": {
+        "Date": "2019-10-21 12:59:05.201747",
+        "Link": "http://www.adnradio.cl",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0077": {
+        "Date": "2019-10-21 12:59:05.202092",
+        "Link": "http://www.cadenadial.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0078": {
+        "Date": "2019-10-21 12:59:05.202288",
+        "Link": "http://www.continental.com.ar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0079": {
+        "Date": "2019-10-21 12:59:05.202444",
+        "Link": "http://www.facebook.com/caracolradio",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0080": {
+        "Date": "2019-10-21 12:59:05.202582",
+        "Link": "http://www.huffingtonpost.es",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0081": {
+        "Date": "2019-10-21 12:59:05.202707",
+        "Link": "http://www.instagram.com/caracolradio",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0082": {
+        "Date": "2019-10-21 12:59:05.202893",
+        "Link": "http://www.kebuena.com.mx",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0083": {
+        "Date": "2019-10-21 12:59:05.203048",
+        "Link": "http://www.loqueleo.com/co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0084": {
+        "Date": "2019-10-21 12:59:05.203196",
+        "Link": "http://www.los40classic.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0085": {
+        "Date": "2019-10-21 12:59:05.203325",
+        "Link": "http://www.maxima.fm",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0086": {
+        "Date": "2019-10-21 12:59:05.203466",
+        "Link": "http://www.meristation.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0087": {
+        "Date": "2019-10-21 12:59:05.203625",
+        "Link": "http://www.moderna.com.br/pagina-inicial.htm",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0088": {
+        "Date": "2019-10-21 12:59:05.203767",
+        "Link": "http://www.podiumpodcast.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0089": {
+        "Date": "2019-10-21 12:59:05.204120",
+        "Link": "http://www.prisa.com/es",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0090": {
+        "Date": "2019-10-21 12:59:05.204373",
+        "Link": "http://www.richmondelt.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0091": {
+        "Date": "2019-10-21 12:59:05.204546",
+        "Link": "http://www.santillana.com/es",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0092": {
+        "Date": "2019-10-21 12:59:05.204677",
+        "Link": "http://www.sistemauno.com/web/index.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0093": {
+        "Date": "2019-10-21 12:59:05.204865",
+        "Link": "http://www.tvi.iol.pt",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0094": {
+        "Date": "2019-10-21 12:59:05.205176",
+        "Link": "http://www.tvi24.iol.pt",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0095": {
+        "Date": "2019-10-21 12:59:05.205361",
+        "Link": "http://www.wradio.com.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0096": {
+        "Date": "2019-10-21 12:59:05.205520",
+        "Link": "http://www.youtube.com/user/CaracolRadioOficial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0097": {
+        "Date": "2019-10-21 12:59:05.205646",
+        "Link": "https://alacarta.caracol.com.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0098": {
+        "Date": "2019-10-21 12:59:05.205764",
+        "Link": "https://alacarta.caracol.com.co/audio/1569524088_537538",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0099": {
+        "Date": "2019-10-21 12:59:05.205899",
+        "Link": "https://alacarta.caracol.com.co/audio/caracol_radio_6amhoyporhoy_20190926_050000_060000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0100": {
+        "Date": "2019-10-21 12:59:05.206021",
+        "Link": "https://alacarta.caracol.com.co/audio/caracol_radio_6amhoyporhoy_20190926_060000_070000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0101": {
+        "Date": "2019-10-21 12:59:05.206141",
+        "Link": "https://alacarta.caracol.com.co/audio/caracol_radio_6amhoyporhoy_20190926_070000_080000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0102": {
+        "Date": "2019-10-21 12:59:05.206288",
+        "Link": "https://alacarta.caracol.com.co/audio/caracol_radio_6amhoyporhoy_20190926_080000_090000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0103": {
+        "Date": "2019-10-21 12:59:05.206420",
+        "Link": "https://alacarta.caracol.com.co/audio/caracol_radio_6amhoyporhoy_20190926_090000_100000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0104": {
+        "Date": "2019-10-21 12:59:05.206541",
+        "Link": "https://alacarta.caracol.com.co/audio/caracol_radio_hoyporhoy_20190926_100000_110000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0105": {
+        "Date": "2019-10-21 12:59:05.206676",
+        "Link": "https://alacarta.caracol.com.co/audio/caracol_radio_hoyporhoy_20190926_110000_120000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0106": {
+        "Date": "2019-10-21 12:59:05.206857",
+        "Link": "https://alacarta.caracol.com.co/audio/caracol_radio_noticierodelmediodia_20190926_120000_130000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0107": {
+        "Date": "2019-10-21 12:59:05.206997",
+        "Link": "https://alacarta.caracol.com.co/audio/caracol_radio_vbarcaracol_20190926_140000_150000",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0108": {
+        "Date": "2019-10-21 12:59:05.207121",
+        "Link": "https://alacarta.caracol.com.co/parrilla/bogota",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0109": {
+        "Date": "2019-10-21 12:59:05.207247",
+        "Link": "https://alacarta.caracol.com.co/programa/6am_hoy_por_hoy",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0110": {
+        "Date": "2019-10-21 12:59:05.207381",
+        "Link": "https://alacarta.caracol.com.co/programa/hoy_por_hoy",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0111": {
+        "Date": "2019-10-21 12:59:05.207549",
+        "Link": "https://alacarta.caracol.com.co/programa/lo_mas_caracol",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0112": {
+        "Date": "2019-10-21 12:59:05.207682",
+        "Link": "https://cadenaser.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0113": {
+        "Date": "2019-10-21 12:59:05.207792",
+        "Link": "https://caracol.com.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0114": {
+        "Date": "2019-10-21 12:59:05.207921",
+        "Link": "https://caracol.com.co/agr/al_final_del_dia/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0115": {
+        "Date": "2019-10-21 12:59:05.208009",
+        "Link": "https://caracol.com.co/agr/amigos_tic/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0116": {
+        "Date": "2019-10-21 12:59:05.208088",
+        "Link": "https://caracol.com.co/agr/archivo_radioacktiva/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0117": {
+        "Date": "2019-10-21 12:59:05.208166",
+        "Link": "https://caracol.com.co/agr/blog_memoria/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0118": {
+        "Date": "2019-10-21 12:59:05.208270",
+        "Link": "https://caracol.com.co/agr/conversaciones_w/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0119": {
+        "Date": "2019-10-21 12:59:05.208360",
+        "Link": "https://caracol.com.co/agr/el_librero/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0120": {
+        "Date": "2019-10-21 12:59:05.208440",
+        "Link": "https://caracol.com.co/agr/nfl_por_caracol/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0121": {
+        "Date": "2019-10-21 12:59:05.208517",
+        "Link": "https://caracol.com.co/agr/pantalleros_el_podcast/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0122": {
+        "Date": "2019-10-21 12:59:05.208594",
+        "Link": "https://caracol.com.co/agr/sabores_locales/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0123": {
+        "Date": "2019-10-21 12:59:05.208672",
+        "Link": "https://caracol.com.co/autor/carlos_castro_arias/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0124": {
+        "Date": "2019-10-21 12:59:05.208767",
+        "Link": "https://caracol.com.co/autor/radio_caracol/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0125": {
+        "Date": "2019-10-21 12:59:05.208876",
+        "Link": "https://caracol.com.co/buscador",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0126": {
+        "Date": "2019-10-21 12:59:05.208968",
+        "Link": "https://caracol.com.co/emisora/2018/02/06/medellin/1517952588_502718.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0127": {
+        "Date": "2019-10-21 12:59:05.209054",
+        "Link": "https://caracol.com.co/emisora/2018/10/04/cartagena/1538672153_298291.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0128": {
+        "Date": "2019-10-21 12:59:05.209133",
+        "Link": "https://caracol.com.co/emisora/2019/10/17/cartagena/1571280169_414179.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0129": {
+        "Date": "2019-10-21 12:59:05.209210",
+        "Link": "https://caracol.com.co/emisora/2019/10/17/cartagena/1571340466_571831.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0130": {
+        "Date": "2019-10-21 12:59:05.209339",
+        "Link": "https://caracol.com.co/emisora/2019/10/19/pereira/1571499574_763796.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0131": {
+        "Date": "2019-10-21 12:59:05.209463",
+        "Link": "https://caracol.com.co/emisora/2019/10/20/barranquilla/1571594389_466750.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0132": {
+        "Date": "2019-10-21 12:59:05.209563",
+        "Link": "https://caracol.com.co/emisora/2019/10/21/bucaramanga/1571664609_358379.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0133": {
+        "Date": "2019-10-21 12:59:05.209643",
+        "Link": "https://caracol.com.co/emisora/2019/10/21/ibague/1571673665_643769.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0134": {
+        "Date": "2019-10-21 12:59:05.209721",
+        "Link": "https://caracol.com.co/emisora/2019/10/21/pereira/1571650469_584903.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0135": {
+        "Date": "2019-10-21 12:59:05.209842",
+        "Link": "https://caracol.com.co/emisora/2019/10/21/santa_marta/1571665674_014837.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0136": {
+        "Date": "2019-10-21 12:59:05.209922",
+        "Link": "https://caracol.com.co/emisora/bogota",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0137": {
+        "Date": "2019-10-21 12:59:05.210001",
+        "Link": "https://caracol.com.co/especiales/boletines-informativos",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0138": {
+        "Date": "2019-10-21 12:59:05.210078",
+        "Link": "https://caracol.com.co/especiales/clientes/formato_creacion.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0139": {
+        "Date": "2019-10-21 12:59:05.210158",
+        "Link": "https://caracol.com.co/estaticos/aviso-legal",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0140": {
+        "Date": "2019-10-21 12:59:05.210234",
+        "Link": "https://caracol.com.co/estaticos/politica-privacidad",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0141": {
+        "Date": "2019-10-21 12:59:05.210311",
+        "Link": "https://caracol.com.co/estaticos/recursosgraficos/especiales/2019/09/especial-elecciones/index.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0142": {
+        "Date": "2019-10-21 12:59:05.210388",
+        "Link": "https://caracol.com.co/estaticos/registro-proveedores",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0143": {
+        "Date": "2019-10-21 12:59:05.210466",
+        "Link": "https://caracol.com.co/estaticos/ser-en-tu-movil",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0144": {
+        "Date": "2019-10-21 12:59:05.210551",
+        "Link": "https://caracol.com.co/programa/2019/01/18/6am_hoy_por_hoy/1547813083_511863.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0145": {
+        "Date": "2019-10-21 12:59:05.210629",
+        "Link": "https://caracol.com.co/programa/2019/09/26/6am_hoy_por_hoy/1569512908_835975.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0146": {
+        "Date": "2019-10-21 12:59:05.210706",
+        "Link": "https://caracol.com.co/programa/2019/10/19/el_sabor_de_colombia/1571440429_666799.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0147": {
+        "Date": "2019-10-21 12:59:05.210800",
+        "Link": "https://caracol.com.co/programa/2019/10/20/a_vivir_que_son_dos_dias/1571596342_584769.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0148": {
+        "Date": "2019-10-21 12:59:05.210880",
+        "Link": "https://caracol.com.co/programa/2019/10/20/a_vivir_que_son_dos_dias/1571597827_205367.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0149": {
+        "Date": "2019-10-21 12:59:05.210958",
+        "Link": "https://caracol.com.co/programa/2019/10/21/6am_hoy_por_hoy/1571658690_724063.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0150": {
+        "Date": "2019-10-21 12:59:05.211107",
+        "Link": "https://caracol.com.co/programa/2019/10/21/6am_hoy_por_hoy/1571659993_952644.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0151": {
+        "Date": "2019-10-21 12:59:05.211229",
+        "Link": "https://caracol.com.co/programa/2019/10/21/6am_hoy_por_hoy/1571671310_599960.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0152": {
+        "Date": "2019-10-21 12:59:05.211380",
+        "Link": "https://caracol.com.co/programa/2019/10/21/6am_hoy_por_hoy/1571673193_432424.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0153": {
+        "Date": "2019-10-21 12:59:05.211487",
+        "Link": "https://caracol.com.co/programa/2019/10/21/6am_hoy_por_hoy/1571676509_181414.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0154": {
+        "Date": "2019-10-21 12:59:05.211595",
+        "Link": "https://caracol.com.co/radio/2018/07/07/tendencias/1530919681_507506.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0155": {
+        "Date": "2019-10-21 12:59:05.211696",
+        "Link": "https://caracol.com.co/radio/2019/03/20/internacional/1553087660_087480.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0156": {
+        "Date": "2019-10-21 12:59:05.211802",
+        "Link": "https://caracol.com.co/radio/2019/04/15/cultura/1555331976_021861.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0157": {
+        "Date": "2019-10-21 12:59:05.211907",
+        "Link": "https://caracol.com.co/radio/2019/07/16/tecnologia/1563281648_216437.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0158": {
+        "Date": "2019-10-21 12:59:05.212011",
+        "Link": "https://caracol.com.co/radio/2019/08/04/politica/1564893431_205204.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0159": {
+        "Date": "2019-10-21 12:59:05.212112",
+        "Link": "https://caracol.com.co/radio/2019/08/22/cultura/1566502692_397220.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0160": {
+        "Date": "2019-10-21 12:59:05.212213",
+        "Link": "https://caracol.com.co/radio/2019/08/28/ecologia/1566949485_595637.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0161": {
+        "Date": "2019-10-21 12:59:05.212326",
+        "Link": "https://caracol.com.co/radio/2019/08/29/tecnologia/1567082850_960936.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0162": {
+        "Date": "2019-10-21 12:59:05.212427",
+        "Link": "https://caracol.com.co/radio/2019/09/17/politica/1568676204_403265.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0163": {
+        "Date": "2019-10-21 12:59:05.212529",
+        "Link": "https://caracol.com.co/radio/2019/09/21/cultura/1569018392_760225.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0164": {
+        "Date": "2019-10-21 12:59:05.212638",
+        "Link": "https://caracol.com.co/radio/2019/10/03/tendencias/1570059057_354215.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0165": {
+        "Date": "2019-10-21 12:59:05.212753",
+        "Link": "https://caracol.com.co/radio/2019/10/08/deportes/1570553300_811793.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0166": {
+        "Date": "2019-10-21 12:59:05.212863",
+        "Link": "https://caracol.com.co/radio/2019/10/09/tecnologia/1570630378_009715.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0167": {
+        "Date": "2019-10-21 12:59:05.213008",
+        "Link": "https://caracol.com.co/radio/2019/10/16/cultura/1571239997_359732.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0168": {
+        "Date": "2019-10-21 12:59:05.213146",
+        "Link": "https://caracol.com.co/radio/2019/10/16/deportes/1571227723_975992.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0169": {
+        "Date": "2019-10-21 12:59:05.213249",
+        "Link": "https://caracol.com.co/radio/2019/10/16/salud/1571195426_315744.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0170": {
+        "Date": "2019-10-21 12:59:05.213334",
+        "Link": "https://caracol.com.co/radio/2019/10/17/entretenimiento/1571268860_079510.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0171": {
+        "Date": "2019-10-21 12:59:05.213464",
+        "Link": "https://caracol.com.co/radio/2019/10/17/tendencias/1571341960_378253.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0172": {
+        "Date": "2019-10-21 12:59:05.213543",
+        "Link": "https://caracol.com.co/radio/2019/10/18/deportes/1571417011_288049.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0173": {
+        "Date": "2019-10-21 12:59:05.213636",
+        "Link": "https://caracol.com.co/radio/2019/10/18/economia/1571420415_434097.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0174": {
+        "Date": "2019-10-21 12:59:05.213714",
+        "Link": "https://caracol.com.co/radio/2019/10/18/politica/1571410600_446991.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0175": {
+        "Date": "2019-10-21 12:59:05.213797",
+        "Link": "https://caracol.com.co/radio/2019/10/18/salud/1571426289_224845.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0176": {
+        "Date": "2019-10-21 12:59:05.213873",
+        "Link": "https://caracol.com.co/radio/2019/10/19/internacional/1571495951_388215.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0177": {
+        "Date": "2019-10-21 12:59:05.213950",
+        "Link": "https://caracol.com.co/radio/2019/10/19/internacional/1571497278_847931.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0178": {
+        "Date": "2019-10-21 12:59:05.214026",
+        "Link": "https://caracol.com.co/radio/2019/10/19/nacional/1571452036_190249.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0179": {
+        "Date": "2019-10-21 12:59:05.214103",
+        "Link": "https://caracol.com.co/radio/2019/10/19/nacional/1571513065_288195.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0180": {
+        "Date": "2019-10-21 12:59:05.214180",
+        "Link": "https://caracol.com.co/radio/2019/10/19/politica/1571499467_728895.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0181": {
+        "Date": "2019-10-21 12:59:05.214256",
+        "Link": "https://caracol.com.co/radio/2019/10/19/tendencias/1571516020_754990.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0182": {
+        "Date": "2019-10-21 12:59:05.214334",
+        "Link": "https://caracol.com.co/radio/2019/10/20/deportes/1571605186_038129.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0183": {
+        "Date": "2019-10-21 12:59:05.214411",
+        "Link": "https://caracol.com.co/radio/2019/10/20/tecnologia/1571600190_305283.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0184": {
+        "Date": "2019-10-21 12:59:05.214487",
+        "Link": "https://caracol.com.co/radio/2019/10/20/tecnologia/1571605396_981995.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0185": {
+        "Date": "2019-10-21 12:59:05.214566",
+        "Link": "https://caracol.com.co/radio/2019/10/20/tendencias/1571586571_899831.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0186": {
+        "Date": "2019-10-21 12:59:05.214643",
+        "Link": "https://caracol.com.co/radio/2019/10/21/deportes/1571657981_045677.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0187": {
+        "Date": "2019-10-21 12:59:05.214837",
+        "Link": "https://caracol.com.co/radio/2019/10/21/deportes/1571669840_119655.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0188": {
+        "Date": "2019-10-21 12:59:05.214980",
+        "Link": "https://caracol.com.co/radio/2019/10/21/deportes/1571670697_777973.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0189": {
+        "Date": "2019-10-21 12:59:05.215140",
+        "Link": "https://caracol.com.co/radio/2019/10/21/deportes/1571676284_079033.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0190": {
+        "Date": "2019-10-21 12:59:05.215282",
+        "Link": "https://caracol.com.co/radio/2019/10/21/entretenimiento/1571670533_584790.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0191": {
+        "Date": "2019-10-21 12:59:05.215403",
+        "Link": "https://caracol.com.co/radio/2019/10/21/entretenimiento/1571673727_939925.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0192": {
+        "Date": "2019-10-21 12:59:05.215524",
+        "Link": "https://caracol.com.co/radio/2019/10/21/entretenimiento/1571675888_200857.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0193": {
+        "Date": "2019-10-21 12:59:05.215641",
+        "Link": "https://caracol.com.co/radio/2019/10/21/entretenimiento/1571676531_582334.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0194": {
+        "Date": "2019-10-21 12:59:05.215757",
+        "Link": "https://caracol.com.co/radio/2019/10/21/internacional/1571645176_502454.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0195": {
+        "Date": "2019-10-21 12:59:05.215875",
+        "Link": "https://caracol.com.co/radio/2019/10/21/internacional/1571647553_298151.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0196": {
+        "Date": "2019-10-21 12:59:05.215989",
+        "Link": "https://caracol.com.co/radio/2019/10/21/internacional/1571672499_800829.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0197": {
+        "Date": "2019-10-21 12:59:05.216105",
+        "Link": "https://caracol.com.co/radio/2019/10/21/judicial/1571666798_988519.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0198": {
+        "Date": "2019-10-21 12:59:05.216220",
+        "Link": "https://caracol.com.co/radio/2019/10/21/nacional/1571670415_154947.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0199": {
+        "Date": "2019-10-21 12:59:05.216333",
+        "Link": "https://caracol.com.co/radio/2019/10/21/politica/1571671057_376092.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0200": {
+        "Date": "2019-10-21 12:59:05.216444",
+        "Link": "https://caracol.com.co/radio/2019/10/21/tecnologia/1571669604_383102.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0201": {
+        "Date": "2019-10-21 12:59:05.216563",
+        "Link": "https://caracol.com.co/radio/2019/10/21/tendencias/1571659798_286912.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0202": {
+        "Date": "2019-10-21 12:59:05.216674",
+        "Link": "https://caracol.com.co/radio/2019/10/21/tendencias/1571671301_459596.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0203": {
+        "Date": "2019-10-21 12:59:05.216798",
+        "Link": "https://caracol.com.co/radio/contactos",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0204": {
+        "Date": "2019-10-21 12:59:05.216913",
+        "Link": "https://caracol.com.co/radio/emisoras",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0205": {
+        "Date": "2019-10-21 12:59:05.217020",
+        "Link": "https://caracol.com.co/radio/podcasts",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0206": {
+        "Date": "2019-10-21 12:59:05.217129",
+        "Link": "https://caracol.com.co/radio/programas",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0207": {
+        "Date": "2019-10-21 12:59:05.217261",
+        "Link": "https://caracol.com.co/radio/ultimas_noticias",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0208": {
+        "Date": "2019-10-21 12:59:05.217374",
+        "Link": "https://caracol.com.co/seccion/cultura",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0209": {
+        "Date": "2019-10-21 12:59:05.217478",
+        "Link": "https://caracol.com.co/seccion/deportes",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0210": {
+        "Date": "2019-10-21 12:59:05.217602",
+        "Link": "https://caracol.com.co/seccion/economia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0211": {
+        "Date": "2019-10-21 12:59:05.217704",
+        "Link": "https://caracol.com.co/seccion/entretenimiento",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0212": {
+        "Date": "2019-10-21 12:59:05.217877",
+        "Link": "https://caracol.com.co/seccion/especiales",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0213": {
+        "Date": "2019-10-21 12:59:05.218039",
+        "Link": "https://caracol.com.co/seccion/internacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0214": {
+        "Date": "2019-10-21 12:59:05.218177",
+        "Link": "https://caracol.com.co/seccion/judicial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0215": {
+        "Date": "2019-10-21 12:59:05.218389",
+        "Link": "https://caracol.com.co/seccion/nacional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0216": {
+        "Date": "2019-10-21 12:59:05.218655",
+        "Link": "https://caracol.com.co/seccion/politica",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0217": {
+        "Date": "2019-10-21 12:59:05.218810",
+        "Link": "https://caracol.com.co/seccion/regional",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0218": {
+        "Date": "2019-10-21 12:59:05.218947",
+        "Link": "https://caracol.com.co/seccion/salud",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0219": {
+        "Date": "2019-10-21 12:59:05.219094",
+        "Link": "https://caracol.com.co/seccion/tecnologia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0220": {
+        "Date": "2019-10-21 12:59:05.219215",
+        "Link": "https://caracol.com.co/seccion/tendencias",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0221": {
+        "Date": "2019-10-21 12:59:05.219326",
+        "Link": "https://caracol.com.co/tag/c/444b289ebeee3eb0bed2bb38fce78790",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0222": {
+        "Date": "2019-10-21 12:59:05.219440",
+        "Link": "https://caracol.com.co/tag/c/95b9eb030a82d1652452da9d7d1841fd",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0223": {
+        "Date": "2019-10-21 12:59:05.219566",
+        "Link": "https://caracol.com.co/tag/c/98ea8a76e05c3ba37874237c79ab49f0",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0224": {
+        "Date": "2019-10-21 12:59:05.219698",
+        "Link": "https://caracol.com.co/tag/c/9f69c309a626668290bb5c29d1d8a212",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0225": {
+        "Date": "2019-10-21 12:59:05.219823",
+        "Link": "https://caracol.com.co/tag/dinero/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0226": {
+        "Date": "2019-10-21 12:59:05.219937",
+        "Link": "https://caracol.com.co/tag/elecciones_colombia/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0227": {
+        "Date": "2019-10-21 12:59:05.220054",
+        "Link": "https://caracol.com.co/tag/homenajes/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0228": {
+        "Date": "2019-10-21 12:59:05.220179",
+        "Link": "https://caracol.com.co/tag/listado",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0229": {
+        "Date": "2019-10-21 12:59:05.220292",
+        "Link": "https://caracol.com.co/tag/vehiculos/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0230": {
+        "Date": "2019-10-21 12:59:05.220414",
+        "Link": "https://caracol.com.co/tag/videos/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0231": {
+        "Date": "2019-10-21 12:59:05.220605",
+        "Link": "https://cincodias.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0232": {
+        "Date": "2019-10-21 12:59:05.220754",
+        "Link": "https://colombia.as.com/agr/destacados_as/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0233": {
+        "Date": "2019-10-21 12:59:05.220917",
+        "Link": "https://colombia.as.com/colombia/2019/10/19/futbol/1571520840_246544.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0234": {
+        "Date": "2019-10-21 12:59:05.221193",
+        "Link": "https://colombia.as.com/colombia/2019/10/20/futbol/1571581966_157804.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0235": {
+        "Date": "2019-10-21 12:59:05.221358",
+        "Link": "https://colombia.as.com/colombia/2019/10/20/futbol/1571586782_354739.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0236": {
+        "Date": "2019-10-21 12:59:05.221477",
+        "Link": "https://colombia.as.com/colombia/2019/10/20/futbol/1571595965_340142.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0237": {
+        "Date": "2019-10-21 12:59:05.221589",
+        "Link": "https://colombia.as.com/colombia/2019/10/20/futbol/1571599094_501099.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0238": {
+        "Date": "2019-10-21 12:59:05.221703",
+        "Link": "https://flipboard.com/@CadenaSER",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0239": {
+        "Date": "2019-10-21 12:59:05.221819",
+        "Link": "https://instagram.com/caracol_radio",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0240": {
+        "Date": "2019-10-21 12:59:05.221930",
+        "Link": "https://los40.com.co/los40/2019/10/09/musica/1570626157_377587.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0241": {
+        "Date": "2019-10-21 12:59:05.222109",
+        "Link": "https://twitter.com/caracolradio",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0242": {
+        "Date": "2019-10-21 12:59:05.222325",
+        "Link": "https://usuarios.caracol.com.co/desconectar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0243": {
+        "Date": "2019-10-21 12:59:05.222464",
+        "Link": "https://usuarios.caracol.com.co/login",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0244": {
+        "Date": "2019-10-21 12:59:05.222589",
+        "Link": "https://usuarios.caracol.com.co/perfil",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0245": {
+        "Date": "2019-10-21 12:59:05.222712",
+        "Link": "https://usuarios.caracol.com.co/registro",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0246": {
+        "Date": "2019-10-21 12:59:05.222836",
+        "Link": "https://www.caracol.com.co",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0247": {
+        "Date": "2019-10-21 12:59:05.222957",
+        "Link": "https://www.facebook.com/caracolradio",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0248": {
+        "Date": "2019-10-21 12:59:05.223076",
+        "Link": "https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0249": {
+        "Date": "2019-10-21 12:59:05.223208",
+        "Link": "https://www.twitter.com/caracolradio",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0250": {
+        "Date": "2019-10-21 12:59:05.223328",
+        "Link": "https://www.youtube.com/user/caracolradiooficial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

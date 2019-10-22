@@ -1,553 +1,560 @@
 {
-    "Check 001": {
-        "Date": "2019-10-20 21:15:53.589275",
-        "Link": "http://www.montgomeryzoo.com/",
+    "Check 0001": {
+        "Date": "2019-10-21 17:52:41.591556",
+        "Link": "http://add.my.yahoo.com/content",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 17:52:41.775550",
+        "Link": "http://forums.majorgeeks.com/showthread.php",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 002": {
-        "Date": "2019-10-20 21:15:56.253484",
-        "Link": "http://www.montgomeryzoo.com/Home/Components/Calendar/Event/5654/2981",
+    "Check 0003": {
+        "Date": "2019-10-21 17:52:41.457500",
+        "Link": "http://majorgeeks.tradepub.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 003": {
-        "Date": "2019-10-20 21:15:58.420072",
-        "Link": "http://www.montgomeryzoo.com/Home/Components/Calendar/Event/5656/2981",
+    "Check 0004": {
+        "Date": "2019-10-21 17:52:42.654222",
+        "Link": "http://www.contentteller.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 004": {
-        "Date": "2019-10-20 21:15:59.909158",
-        "Link": "http://www.montgomeryzoo.com/Home/Components/Calendar/Event/5658/2981",
+    "Check 0005": {
+        "Date": "2019-10-21 17:52:41.156690",
+        "Link": "http://www.majorgeeks.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 005": {
-        "Date": "2019-10-20 21:16:01.927056",
-        "Link": "http://www.montgomeryzoo.com/Home/Components/Calendar/Event/5733/2981",
+    "Check 0006": {
+        "Date": "2019-10-21 17:52:41.422028",
+        "Link": "http://www.majorgeeks.com/Victoria_for_DOS_d5687.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 006": {
-        "Date": "2019-10-20 21:16:03.794151",
-        "Link": "http://www.montgomeryzoo.com/animal-realms",
+    "Check 0007": {
+        "Date": "2019-10-21 17:52:40.194426",
+        "Link": "http://www.majorgeeks.com/content/page/majorgeeks_rss_feeds.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 007": {
-        "Date": "2019-10-20 21:16:05.154861",
-        "Link": "http://www.montgomeryzoo.com/education",
+    "Check 0008": {
+        "Date": "2019-10-21 17:52:40.412595",
+        "Link": "http://www.majorgeeks.com/content/page/the_ultimate_list_of_every_known_command_prompt_command.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 008": {
-        "Date": "2019-10-20 21:16:27.822629",
-        "Link": "http://www.montgomeryzoo.com/education/volunteer-opportunities",
+    "Check 0009": {
+        "Date": "2019-10-21 17:52:45.106384",
+        "Link": "http://www.majorgeeks.com/content/page/what_is_a_portable_file_and_why_you_should_always_use_them.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 009": {
-        "Date": "2019-10-20 21:16:29.184558",
-        "Link": "http://www.montgomeryzoo.com/education/zoo2go",
+    "Check 0010": {
+        "Date": "2019-10-21 17:52:40.651715",
+        "Link": "http://www.majorgeeks.com/files/details/advanced_systemcare.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 010": {
-        "Date": "2019-10-20 21:16:30.308813",
-        "Link": "http://www.montgomeryzoo.com/experiences",
+    "Check 0011": {
+        "Date": "2019-10-21 17:52:40.784674",
+        "Link": "http://www.majorgeeks.com/files/details/advanced_x64components.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 011": {
-        "Date": "2019-10-20 21:16:32.012197",
-        "Link": "http://www.montgomeryzoo.com/experiences/animal-encounters",
+    "Check 0012": {
+        "Date": "2019-10-21 17:52:40.979508",
+        "Link": "http://www.majorgeeks.com/files/details/aimp.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 012": {
-        "Date": "2019-10-20 21:16:33.861204",
-        "Link": "http://www.montgomeryzoo.com/experiences/conserve-wildlife",
+    "Check 0013": {
+        "Date": "2019-10-21 17:52:40.995762",
+        "Link": "http://www.majorgeeks.com/files/details/alarmstickies2.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 013": {
-        "Date": "2019-10-20 21:16:35.372913",
-        "Link": "http://www.montgomeryzoo.com/home-zoo",
+    "Check 0014": {
+        "Date": "2019-10-21 17:52:40.956918",
+        "Link": "http://www.majorgeeks.com/files/details/atlantis_word_processor_lite.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 014": {
-        "Date": "2019-10-20 21:16:36.992859",
-        "Link": "http://www.montgomeryzoo.com/mann-museum",
+    "Check 0015": {
+        "Date": "2019-10-21 17:52:41.343110",
+        "Link": "http://www.majorgeeks.com/files/details/bittorrent.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 015": {
-        "Date": "2019-10-20 21:16:39.401033",
-        "Link": "http://www.montgomeryzoo.com/mann-museum/museum-news",
+    "Check 0016": {
+        "Date": "2019-10-21 17:52:40.633167",
+        "Link": "http://www.majorgeeks.com/files/details/black_menu_for_google_(firefox).html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 016": {
-        "Date": "2019-10-20 21:16:41.750465",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit",
+    "Check 0017": {
+        "Date": "2019-10-21 17:52:40.164299",
+        "Link": "http://www.majorgeeks.com/files/details/classyx_pack.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 017": {
-        "Date": "2019-10-20 21:17:04.752739",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/about-us",
+    "Check 0018": {
+        "Date": "2019-10-21 17:52:40.422050",
+        "Link": "http://www.majorgeeks.com/files/details/farbar_recovery_scan_tool.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 018": {
-        "Date": "2019-10-20 21:17:06.209790",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/about-us/latest-news",
+    "Check 0019": {
+        "Date": "2019-10-21 17:52:40.732573",
+        "Link": "http://www.majorgeeks.com/files/details/farbar_recovery_scan_tool_64_bit.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 019": {
-        "Date": "2019-10-20 21:17:08.188915",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/birthday-parties",
+    "Check 0020": {
+        "Date": "2019-10-21 17:52:40.303307",
+        "Link": "http://www.majorgeeks.com/files/details/grub2win_beta.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 020": {
-        "Date": "2019-10-20 21:17:10.783597",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/event-calendar",
+    "Check 0021": {
+        "Date": "2019-10-21 17:52:41.204118",
+        "Link": "http://www.majorgeeks.com/files/details/handbrake.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 021": {
-        "Date": "2019-10-20 21:17:12.086583",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/group-information",
+    "Check 0022": {
+        "Date": "2019-10-21 17:52:41.095898",
+        "Link": "http://www.majorgeeks.com/files/details/k_lite_codec_pack_full.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 022": {
-        "Date": "2019-10-20 21:17:14.589173",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/programs-tours",
+    "Check 0023": {
+        "Date": "2019-10-21 17:52:41.221322",
+        "Link": "http://www.majorgeeks.com/files/details/k_lite_mega_codec_pack.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 023": {
-        "Date": "2019-10-20 21:17:16.440798",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/zoo-map-realms",
+    "Check 0024": {
+        "Date": "2019-10-21 17:52:40.716013",
+        "Link": "http://www.majorgeeks.com/files/details/majorgeeks_com_android_app.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 024": {
-        "Date": "2019-10-20 21:17:17.969763",
-        "Link": "http://www.montgomeryzoo.com/plan-your-visit/zoo-membership",
+    "Check 0025": {
+        "Date": "2019-10-21 17:52:40.774659",
+        "Link": "http://www.majorgeeks.com/files/details/malwarebytes_anti_malware.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 025": {
-        "Date": "2019-10-20 21:17:18.835484",
-        "Link": "https://granicus.com/government-website-design",
+    "Check 0026": {
+        "Date": "2019-10-21 17:52:40.179324",
+        "Link": "http://www.majorgeeks.com/files/details/media_companion_32_bit.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 026": {
-        "Date": "2019-10-20 21:17:19.995872",
-        "Link": "https://twitter.com/zoomannmuseum",
+    "Check 0027": {
+        "Date": "2019-10-21 17:52:40.389949",
+        "Link": "http://www.majorgeeks.com/files/details/media_companion_64_bit.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 027": {
-        "Date": "2019-10-20 21:17:21.571736",
-        "Link": "https://www.facebook.com/montgomeryzooandmannmuseum/",
+    "Check 0028": {
+        "Date": "2019-10-21 17:52:41.439145",
+        "Link": "http://www.majorgeeks.com/files/details/mrviewer.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 028": {
-        "Date": "2019-10-20 21:17:22.882683",
-        "Link": "https://www.flickr.com/photos/montgomeryzoo/",
+    "Check 0029": {
+        "Date": "2019-10-21 17:52:41.156750",
+        "Link": "http://www.majorgeeks.com/files/details/mrviewer_64_bit.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 029": {
-        "Date": "2019-10-20 21:17:23.659050",
-        "Link": "https://www.instagram.com/montgomeryzoo/",
+    "Check 0030": {
+        "Date": "2019-10-21 17:52:41.134745",
+        "Link": "http://www.majorgeeks.com/files/details/seamonkey.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 030": {
-        "Date": "2019-10-20 21:17:25.174826",
-        "Link": "https://www.montgomeryzoo.com/",
+    "Check 0031": {
+        "Date": "2019-10-21 17:52:42.780683",
+        "Link": "http://www.majorgeeks.com/files/details/shotcut.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 031": {
-        "Date": "2019-10-20 21:17:27.718698",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5545/2981",
+    "Check 0032": {
+        "Date": "2019-10-21 17:52:45.241619",
+        "Link": "http://www.majorgeeks.com/files/details/shotcut_32_bit.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 032": {
-        "Date": "2019-10-20 21:17:30.363704",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5651/2981",
+    "Check 0033": {
+        "Date": "2019-10-21 17:52:43.561944",
+        "Link": "http://www.majorgeeks.com/files/details/standard_x64components.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 033": {
-        "Date": "2019-10-20 21:17:31.825611",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5654/2981",
+    "Check 0034": {
+        "Date": "2019-10-21 17:52:40.743077",
+        "Link": "http://www.majorgeeks.com/files/details/turn_off_the_lights_for_firefox.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 034": {
-        "Date": "2019-10-20 21:17:33.463117",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5656/2981",
+    "Check 0035": {
+        "Date": "2019-10-21 17:52:40.325859",
+        "Link": "http://www.majorgeeks.com/files/details/tweaking_com_windows_repair.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 035": {
-        "Date": "2019-10-20 21:17:35.331292",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5657/2981",
+    "Check 0036": {
+        "Date": "2019-10-21 17:52:41.486116",
+        "Link": "http://www.majorgeeks.com/files/details/win7codecs.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 036": {
-        "Date": "2019-10-20 21:17:36.706880",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5658/2981",
+    "Check 0037": {
+        "Date": "2019-10-21 17:52:40.810323",
+        "Link": "http://www.majorgeeks.com/files/details/windows_8_codecs.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 037": {
-        "Date": "2019-10-20 21:17:38.216079",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5660/2981",
+    "Check 0038": {
+        "Date": "2019-10-21 17:52:41.187791",
+        "Link": "http://www.majorgeeks.com/files/details/zhplite.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 038": {
-        "Date": "2019-10-20 21:17:39.885622",
-        "Link": "https://www.montgomeryzoo.com/Home/Components/Calendar/Event/5733/2981",
+    "Check 0039": {
+        "Date": "2019-10-21 17:52:45.268453",
+        "Link": "http://www.majorgeeks.com/mg/sortname/all_in_one.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 039": {
-        "Date": "2019-10-20 21:17:41.670102",
-        "Link": "https://www.montgomeryzoo.com/animal-realms",
+    "Check 0040": {
+        "Date": "2019-10-21 17:52:40.871105",
+        "Link": "http://www.majorgeeks.com/mg/sortname/memory.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 040": {
-        "Date": "2019-10-20 21:17:42.721269",
-        "Link": "https://www.montgomeryzoo.com/education",
+    "Check 0041": {
+        "Date": "2019-10-21 17:52:40.325043",
+        "Link": "http://www.majorgeeks.com/mg/sortname/pc_games.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 041": {
-        "Date": "2019-10-20 21:17:43.529785",
-        "Link": "https://www.montgomeryzoo.com/education/volunteer-opportunities",
+    "Check 0042": {
+        "Date": "2019-10-21 17:52:45.623096",
+        "Link": "http://www.majorgeeks.com/mg/sortname/speed_tweaks_50f8.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 042": {
-        "Date": "2019-10-20 21:17:44.674518",
-        "Link": "https://www.montgomeryzoo.com/education/zoo2go",
+    "Check 0043": {
+        "Date": "2019-10-21 17:52:47.007642",
+        "Link": "http://www.pinterest.com/majorgeeks",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 043": {
-        "Date": "2019-10-20 21:17:46.013657",
-        "Link": "https://www.montgomeryzoo.com/experiences",
+    "Check 0044": {
+        "Date": "2019-10-21 17:52:40.148434",
+        "Link": "https://deals.majorgeeks.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 044": {
-        "Date": "2019-10-20 21:17:46.719770",
-        "Link": "https://www.montgomeryzoo.com/experiences/animal-encounters",
+    "Check 0045": {
+        "Date": "2019-10-21 17:52:41.046288",
+        "Link": "https://deals.majorgeeks.com/sales/lifetime-access-to-stackskills-unlimited",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 045": {
-        "Date": "2019-10-20 21:17:47.861611",
-        "Link": "https://www.montgomeryzoo.com/experiences/conserve-wildlife",
+    "Check 0046": {
+        "Date": "2019-10-21 17:52:40.538183",
+        "Link": "https://deals.majorgeeks.com/sales/micro-drone-3-0-combo-pack-2",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 046": {
-        "Date": "2019-10-20 21:17:49.021243",
-        "Link": "https://www.montgomeryzoo.com/home-zoo",
+    "Check 0047": {
+        "Date": "2019-10-21 17:52:39.954136",
+        "Link": "https://forums.majorgeeks.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 047": {
-        "Date": "2019-10-20 21:17:50.249635",
-        "Link": "https://www.montgomeryzoo.com/mann-museum",
+    "Check 0048": {
+        "Date": "2019-10-21 17:52:41.001238",
+        "Link": "https://mac.majorgeeks.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 048": {
-        "Date": "2019-10-20 21:17:51.575557",
-        "Link": "https://www.montgomeryzoo.com/mann-museum/museum-news",
+    "Check 0049": {
+        "Date": "2019-10-21 17:52:40.610799",
+        "Link": "https://newsblur.com/site/7341318/majorgeeks.comrss",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 049": {
-        "Date": "2019-10-20 21:17:53.015814",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit",
+    "Check 0050": {
+        "Date": "2019-10-21 17:52:40.064474",
+        "Link": "https://ra.majorgeeks.com/www/delivery/ck.php",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 050": {
-        "Date": "2019-10-20 21:17:54.124698",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/about-us",
+    "Check 0051": {
+        "Date": "2019-10-21 17:52:40.937121",
+        "Link": "https://twitter.com/majorgeeks",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 051": {
-        "Date": "2019-10-20 21:17:55.551463",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/about-us/latest-news",
+    "Check 0052": {
+        "Date": "2019-10-21 17:52:42.136369",
+        "Link": "https://www.iolo.com/products/system-mechanic",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 052": {
-        "Date": "2019-10-20 21:17:58.686874",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/birthday-parties",
+    "Check 0053": {
+        "Date": "2019-10-21 17:52:40.347928",
+        "Link": "https://www.majorgeeks.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 053": {
-        "Date": "2019-10-20 21:18:00.525624",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/event-calendar",
+    "Check 0054": {
+        "Date": "2019-10-21 17:52:40.120573",
+        "Link": "https://www.majorgeeks.com/content/page/majorgeeks_newsletter.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 054": {
-        "Date": "2019-10-20 21:18:02.000545",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/group-information",
+    "Check 0055": {
+        "Date": "2019-10-21 17:52:44.904110",
+        "Link": "https://www.majorgeeks.com/files/details/advanced_systemcare.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 055": {
-        "Date": "2019-10-20 21:18:04.487398",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/programs-tours",
+    "Check 0056": {
+        "Date": "2019-10-21 17:52:39.847242",
+        "Link": "https://www.majorgeeks.com/files/details/magic_actions_for_youtube_(chrome).html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 056": {
-        "Date": "2019-10-20 21:18:05.481635",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/zoo-map-realms",
+    "Check 0057": {
+        "Date": "2019-10-21 17:52:40.146627",
+        "Link": "https://www.majorgeeks.com/files/details/magic_actions_for_youtube_(firefox).html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 057": {
-        "Date": "2019-10-20 21:18:06.782818",
-        "Link": "https://www.montgomeryzoo.com/plan-your-visit/zoo-membership",
+    "Check 0058": {
+        "Date": "2019-10-21 17:52:44.862384",
+        "Link": "https://www.majorgeeks.com/files/details/majorgeeks_com_android_app.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 058": {
-        "Date": "2019-10-20 21:18:08.557118",
-        "Link": "https://www.yahoo.com/news/weather/united-states/montgomery/montgomery-12773394",
+    "Check 0059": {
+        "Date": "2019-10-21 17:52:44.879091",
+        "Link": "https://www.majorgeeks.com/files/details/majorgeeks_software_updater.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 059": {
-        "Date": "2019-10-20 21:18:09.832743",
-        "Link": "https://www.youtube.com/user/MtgyZooMannMuseum",
+    "Check 0060": {
+        "Date": "2019-10-21 17:52:39.904029",
+        "Link": "https://www.majorgeeks.com/files/details/tweaking_com_windows_repair.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 060": {
-        "Date": "2019-10-20 21:18:12.296321",
-        "Link": "https://youtu.be/bJed-mqON1U",
+    "Check 0061": {
+        "Date": "2019-10-21 17:52:39.881612",
+        "Link": "https://www.majorgeeks.com/files/details/ydl_ui.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
     },
-    "Check 061": {
-        "Date": "2019-10-20 21:18:13.862251",
-        "Link": "https://youtu.be/u1nOs_LRB8w",
+    "Check 0062": {
+        "Date": "2019-10-21 17:52:40.550571",
+        "Link": "https://www.symbaloo.com/mix/majorgeeks",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
             "Type": " SUCCESSFUL "
         }
-    },
-    "Name": "www.montgomeryzoo.com",
-    "Time (s)": 141.99289226531982
+    }
 }

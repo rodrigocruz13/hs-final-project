@@ -1,0 +1,20 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 02:37:22.630334",
+        "Link": "http://witchmail.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 02:37:22.630564",
+        "Link": "https://www.hugedomains.com/get-more.cfm",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

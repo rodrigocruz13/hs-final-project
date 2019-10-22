@@ -1,7 +1,7 @@
 {
     "Check 0001": {
-        "Date": "2019-10-21 15:55:40.277370",
-        "Link": "http://activisual.net",
+        "Date": "2019-10-21 13:11:01.575498",
+        "Link": "http://cocinarte.co",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -9,8 +9,8 @@
         }
     },
     "Check 0002": {
-        "Date": "2019-10-21 15:55:41.554646",
-        "Link": "http://diariodelcauca.com.co",
+        "Date": "2019-10-21 13:11:01.575715",
+        "Link": "http://www.clasificadosvanguardia.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -18,8 +18,8 @@
         }
     },
     "Check 0003": {
-        "Date": "2019-10-21 15:55:40.903835",
-        "Link": "http://diariodelcauca.com.co/clasificados/vehiculos",
+        "Date": "2019-10-21 13:11:01.575809",
+        "Link": "http://www.peradigital.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -27,8 +27,8 @@
         }
     },
     "Check 0004": {
-        "Date": "2019-10-21 15:55:47.954076",
-        "Link": "http://diariodelcauca.com.co/contacto",
+        "Date": "2019-10-21 13:11:01.575893",
+        "Link": "http://www.qhubo.com",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -36,8 +36,8 @@
         }
     },
     "Check 0005": {
-        "Date": "2019-10-21 15:55:46.316725",
-        "Link": "http://diariodelcauca.com.co/encuestas",
+        "Date": "2019-10-21 13:11:01.575978",
+        "Link": "http://www.revistanovias.com.co",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -45,8 +45,8 @@
         }
     },
     "Check 0006": {
-        "Date": "2019-10-21 15:55:41.563212",
-        "Link": "http://diariodelcauca.com.co/encuestas/cual-cree-que-es-el-mayor-problema-que-afrontan-los-estudian",
+        "Date": "2019-10-21 13:11:01.576056",
+        "Link": "http://www.vanguardia.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -54,8 +54,8 @@
         }
     },
     "Check 0007": {
-        "Date": "2019-10-21 15:55:47.176819",
-        "Link": "http://diariodelcauca.com.co/la-mirada-de-quique-568352",
+        "Date": "2019-10-21 13:11:01.576220",
+        "Link": "http://www.vanguardia.com/area-metropolitana/bucaramanga",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -63,17 +63,17 @@
         }
     },
     "Check 0008": {
-        "Date": "2019-10-21 15:55:45.979652",
-        "Link": "http://diariodelcauca.com.co/noticias/Especiales",
+        "Date": "2019-10-21 13:11:01.576316",
+        "Link": "http://www.vanguardia.com/area-metropolitana/bucaramanga/adecuacion-del-nuevo-relleno-sanitario-debe-iniciar-en-2020-alcalde-d-de-bucaramanga-KX1572851",
         "Status": {
-            "Code": "404",
-            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
-            "Type": " USER ERROR "
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
     "Check 0009": {
-        "Date": "2019-10-21 15:55:45.840257",
-        "Link": "http://diariodelcauca.com.co/noticias/ciencia",
+        "Date": "2019-10-21 13:11:01.576395",
+        "Link": "http://www.vanguardia.com/area-metropolitana/bucaramanga/el-motorfest-enciende-motores-este-fin-de-semana-en-bucaramanga-JA1570139",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -81,8 +81,8 @@
         }
     },
     "Check 0010": {
-        "Date": "2019-10-21 15:55:46.231402",
-        "Link": "http://diariodelcauca.com.co/noticias/ciencia/21-de-octubre-por-que-se-celebra-el-dia-mundial-del-ahorro-d-568421",
+        "Date": "2019-10-21 13:11:01.576473",
+        "Link": "http://www.vanguardia.com/area-metropolitana/bucaramanga/en-imagenes-fuerte-granizada-se-registro-este-miercoles-en-berlin-santander-XM1529527",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -90,8 +90,8 @@
         }
     },
     "Check 0011": {
-        "Date": "2019-10-21 15:55:46.000383",
-        "Link": "http://diariodelcauca.com.co/noticias/ciencia/estudiantes-del-cauca-ganan-primer-lugar-en-programa-disena-568481",
+        "Date": "2019-10-21 13:11:01.576555",
+        "Link": "http://www.vanguardia.com/area-metropolitana/bucaramanga/pese-a-advertencias-oficiales-en-bucaramanga-se-vapea-YA1570331",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -99,8 +99,8 @@
         }
     },
     "Check 0012": {
-        "Date": "2019-10-21 15:55:50.919847",
-        "Link": "http://diariodelcauca.com.co/noticias/deportes",
+        "Date": "2019-10-21 13:11:01.576633",
+        "Link": "http://www.vanguardia.com/area-metropolitana/vigilante-ciudadano/en-video-quedo-registrada-imprudencia-de-un-motociclista-en-la-via-de-giron-al-aeropuerto-CX1563466",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -108,8 +108,8 @@
         }
     },
     "Check 0013": {
-        "Date": "2019-10-21 15:56:03.859220",
-        "Link": "http://diariodelcauca.com.co/noticias/deportes/ciclomontanistas-colombianos-destacaron-en-el-torneo-naciona-568530",
+        "Date": "2019-10-21 13:11:01.576710",
+        "Link": "http://www.vanguardia.com/colombia",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -117,8 +117,8 @@
         }
     },
     "Check 0014": {
-        "Date": "2019-10-21 15:55:41.160262",
-        "Link": "http://diariodelcauca.com.co/noticias/deportes/el-autodromo-de-tocancipa-vibro-con-la-velocidad-del-campeon-568517",
+        "Date": "2019-10-21 13:11:01.576788",
+        "Link": "http://www.vanguardia.com/colombia/corte-constitucional-definira-responsabilidad-del-estado-por-atentado-en-el-club-el-nogal-FX1572373",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -126,8 +126,8 @@
         }
     },
     "Check 0015": {
-        "Date": "2019-10-21 15:55:46.100084",
-        "Link": "http://diariodelcauca.com.co/noticias/deportes/gustavo-yacaman-finalizo-en-el-segundo-lugar-de-la-carrera-d-568524",
+        "Date": "2019-10-21 13:11:01.576867",
+        "Link": "http://www.vanguardia.com/colombia/gobierno-buscara-limitar-entrega-de-bienes-de-las-farc-hasta-el-31-de-diciembre-AE1574828",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -135,8 +135,8 @@
         }
     },
     "Check 0016": {
-        "Date": "2019-10-21 15:55:45.715046",
-        "Link": "http://diariodelcauca.com.co/noticias/deportes/jeisson-suarez-buscara-el-titulo-de-la-carrera-cartagena-de-568510",
+        "Date": "2019-10-21 13:11:01.576944",
+        "Link": "http://www.vanguardia.com/colombia/gobierno-presentaria-ley-de-financiamiento-al-congreso-esta-semana-HE1574955",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -144,8 +144,8 @@
         }
     },
     "Check 0017": {
-        "Date": "2019-10-21 15:55:48.895001",
-        "Link": "http://diariodelcauca.com.co/noticias/deportes/noticia-bomba-en-el-real-madrid-este-seria-el-nuevo-tecnico-568499",
+        "Date": "2019-10-21 13:11:01.577021",
+        "Link": "http://www.vanguardia.com/colombia/union-europea-aportara-20-mil-millones-para-los-proyectos-verdes-IX1572390",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -153,8 +153,8 @@
         }
     },
     "Check 0018": {
-        "Date": "2019-10-21 15:55:40.987342",
-        "Link": "http://diariodelcauca.com.co/noticias/deportes/noticia-inesperada-para-nairo-quintana-sobre-su-presencia-en-567802",
+        "Date": "2019-10-21 13:11:01.577097",
+        "Link": "http://www.vanguardia.com/deportes/baloncesto/bucaramanga-vibro-con-el-tour-reto-3x3-colombia-CX1572994",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -162,8 +162,8 @@
         }
     },
     "Check 0019": {
-        "Date": "2019-10-21 15:55:40.903213",
-        "Link": "http://diariodelcauca.com.co/noticias/deportes/otra-mala-noticia-para-nairo-quintana-su-peor-final-con-el-m-566484",
+        "Date": "2019-10-21 13:11:01.577259",
+        "Link": "http://www.vanguardia.com/deportes/ciclismo/segunda-victoria-de-etapa-para-fernando-gaviria-en-el-tour-de-guangxi-en-china-BE1574333",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -171,8 +171,8 @@
         }
     },
     "Check 0020": {
-        "Date": "2019-10-21 15:55:41.533643",
-        "Link": "http://diariodelcauca.com.co/noticias/deportes/tomaron-una-decision-primeros-resultados-de-reunion-de-jugad-568515",
+        "Date": "2019-10-21 13:11:01.577340",
+        "Link": "http://www.vanguardia.com/deportes/futbol-colombiano/cerca-del-paro-los-jugadores-del-futbol-colombiano-acordaron-el-cese-de-actividades-MB1553853",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -180,8 +180,8 @@
         }
     },
     "Check 0021": {
-        "Date": "2019-10-21 15:55:49.997220",
-        "Link": "http://diariodelcauca.com.co/noticias/econom%C3%ADa",
+        "Date": "2019-10-21 13:11:01.577418",
+        "Link": "http://www.vanguardia.com/deportes/futbol-colombiano/fecha-de-rojos-santa-fe-america-y-medellin-imparables-CE1574105",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -189,8 +189,8 @@
         }
     },
     "Check 0022": {
-        "Date": "2019-10-21 15:55:41.087533",
-        "Link": "http://diariodelcauca.com.co/noticias/econom%C3%ADa/comenzo-cyberlunes-descuentos-de-hasta-70-en-mas-de-100-marc-568362",
+        "Date": "2019-10-21 13:11:01.577495",
+        "Link": "http://www.vanguardia.com/deportes/futbol-internacional/josef-bican-la-marca-imposible-que-cristiano-y-messi-quieren-alcanzar-NE1574285",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -198,8 +198,8 @@
         }
     },
     "Check 0023": {
-        "Date": "2019-10-21 15:55:46.141421",
-        "Link": "http://diariodelcauca.com.co/noticias/econom%C3%ADa/comunidades-afrodescendientes-de-tumaco-viven-la-feria-de-567919",
+        "Date": "2019-10-21 13:11:01.577574",
+        "Link": "http://www.vanguardia.com/economia/500-empresas-generadoras",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -207,8 +207,8 @@
         }
     },
     "Check 0024": {
-        "Date": "2019-10-21 15:55:45.900882",
-        "Link": "http://diariodelcauca.com.co/noticias/econom%C3%ADa/la-tercerizacion-de-reclutamiento-le-ayuda-ahorrar-tiempo-567834",
+        "Date": "2019-10-21 13:11:01.577652",
+        "Link": "http://www.vanguardia.com/economia/informe-de-construccion",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -216,8 +216,8 @@
         }
     },
     "Check 0025": {
-        "Date": "2019-10-21 15:55:45.831556",
-        "Link": "http://diariodelcauca.com.co/noticias/econom%C3%ADa/leal-coins-la-nueva-manera-de-comprar-en-colombia-conozca-co-567803",
+        "Date": "2019-10-21 13:11:01.577729",
+        "Link": "http://www.vanguardia.com/economia/local",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -225,8 +225,8 @@
         }
     },
     "Check 0026": {
-        "Date": "2019-10-21 15:55:42.055265",
-        "Link": "http://diariodelcauca.com.co/noticias/econom%C3%ADa/paises-iberoamericanos-anuncian-creacion-de-nuevo-mercado-re-567826",
+        "Date": "2019-10-21 13:11:01.577805",
+        "Link": "http://www.vanguardia.com/economia/local/busca-empleo-en-bucaramanga-hay-150-vacantes-FE1574799",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -234,8 +234,8 @@
         }
     },
     "Check 0027": {
-        "Date": "2019-10-21 15:55:49.009769",
-        "Link": "http://diariodelcauca.com.co/noticias/econom%C3%ADa/severa-crisis-en-venezuela-segun-cifras-oficiales-inflacion-567930",
+        "Date": "2019-10-21 13:11:01.577882",
+        "Link": "http://www.vanguardia.com/economia/nacional",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -243,17 +243,17 @@
         }
     },
     "Check 0028": {
-        "Date": "2019-10-21 15:55:46.547924",
-        "Link": "http://diariodelcauca.com.co/noticias/en-vivo",
+        "Date": "2019-10-21 13:11:01.577959",
+        "Link": "http://www.vanguardia.com/economia/nacional/asi-sera-la-tecnologia-para-peajes-en-la-via-bucaramanga-barrancabermeja-XD1234303",
         "Status": {
-            "Code": "404",
-            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
-            "Type": " USER ERROR "
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
     "Check 0029": {
-        "Date": "2019-10-21 15:55:41.221964",
-        "Link": "http://diariodelcauca.com.co/noticias/en-vivo/en-vivo-enterese-de-los-movimientos-teluricos-en-colombia-y-395078",
+        "Date": "2019-10-21 13:11:01.578035",
+        "Link": "http://www.vanguardia.com/economia/nacional/mas-de-100-marcas-ofrecen-promociones-durante-el-cyberlunes-FE1574456",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -261,8 +261,8 @@
         }
     },
     "Check 0030": {
-        "Date": "2019-10-21 15:55:41.050580",
-        "Link": "http://diariodelcauca.com.co/noticias/internacional/la-peculiar-sesion-de-fotos-de-vladimir-putin-para-celebrar-564888",
+        "Date": "2019-10-21 13:11:01.578165",
+        "Link": "http://www.vanguardia.com/economia/posgrados",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -270,8 +270,8 @@
         }
     },
     "Check 0031": {
-        "Date": "2019-10-21 15:55:45.849271",
-        "Link": "http://diariodelcauca.com.co/noticias/internacional/ojo-la-lista-estos-son-los-mejores-y-peores-paises-del-mun-568194",
+        "Date": "2019-10-21 13:11:01.578245",
+        "Link": "http://www.vanguardia.com/edicionesdigitales/usuario/visor/SM/09-06-2018",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -279,8 +279,8 @@
         }
     },
     "Check 0032": {
-        "Date": "2019-10-21 15:55:41.308058",
-        "Link": "http://diariodelcauca.com.co/noticias/internacional/piden-huelga-general-organizaciones-sociales-buscan-apoyo-568443",
+        "Date": "2019-10-21 13:11:01.578323",
+        "Link": "http://www.vanguardia.com/entretenimiento/cultura/guns-n-roses-the-strokes-y-the-chemical-brothers-los-principales-para-el-festival-estereo-picnic-2020-YF1531809",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -288,8 +288,8 @@
         }
     },
     "Check 0033": {
-        "Date": "2019-10-21 15:55:43.465278",
-        "Link": "http://diariodelcauca.com.co/noticias/judicial",
+        "Date": "2019-10-21 13:11:01.578401",
+        "Link": "http://www.vanguardia.com/entretenimiento/farandula",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -297,8 +297,8 @@
         }
     },
     "Check 0034": {
-        "Date": "2019-10-21 15:55:52.285641",
-        "Link": "http://diariodelcauca.com.co/noticias/judicial/aprovechando-la-soledad-del-lugar-retuvo-una-menor-y-la-vi-568436",
+        "Date": "2019-10-21 13:11:01.578477",
+        "Link": "http://www.vanguardia.com/entretenimiento/farandula/carmen-villalobos-y-sebastian-caicedo-ya-son-marido-y-mujer-HE1574081",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -306,8 +306,8 @@
         }
     },
     "Check 0035": {
-        "Date": "2019-10-21 15:55:41.120618",
-        "Link": "http://diariodelcauca.com.co/noticias/judicial/capturan-tres-sujetos-que-atentaron-contra-la-vida-de-dos-568513",
+        "Date": "2019-10-21 13:11:01.578554",
+        "Link": "http://www.vanguardia.com/entretenimiento/farandula/muere-a-los-98-anos-alicia-alonso-la-leyenda-de-la-danza-cubana-HB1560339",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -315,8 +315,8 @@
         }
     },
     "Check 0036": {
-        "Date": "2019-10-21 15:55:45.871613",
-        "Link": "http://diariodelcauca.com.co/noticias/judicial/competencia-entre-amigos-por-ser-el-mas-rapido-termino-en-tr-568529",
+        "Date": "2019-10-21 13:11:01.578631",
+        "Link": "http://www.vanguardia.com/entretenimiento/mascotas/como-preparar-a-su-mascota-ante-la-llegada-de-un-bebe-a-la-familia-LY1573692",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -324,8 +324,8 @@
         }
     },
     "Check 0037": {
-        "Date": "2019-10-21 15:55:40.596533",
-        "Link": "http://diariodelcauca.com.co/noticias/judicial/dos-expendedores-de-bazuco-cayeron-con-varias-dosis-en-popay-568453",
+        "Date": "2019-10-21 13:11:01.578708",
+        "Link": "http://www.vanguardia.com/entretenimiento/sociales",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -333,8 +333,8 @@
         }
     },
     "Check 0038": {
-        "Date": "2019-10-21 15:55:46.306548",
-        "Link": "http://diariodelcauca.com.co/noticias/judicial/espeluznante-accidente-paralizo-la-pasto-ipiales-un-pesa-566335",
+        "Date": "2019-10-21 13:11:01.578785",
+        "Link": "http://www.vanguardia.com/entretenimiento/sociales/baby-shower-LC1567409",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -342,8 +342,8 @@
         }
     },
     "Check 0039": {
-        "Date": "2019-10-21 15:55:47.843486",
-        "Link": "http://diariodelcauca.com.co/noticias/judicial/misterio-y-conmocion-en-el-valle-venezolana-dio-luz-su-b-568441",
+        "Date": "2019-10-21 13:11:01.578862",
+        "Link": "http://www.vanguardia.com/entretenimiento/sociales/bautizo-EC1567006",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -351,8 +351,8 @@
         }
     },
     "Check 0040": {
-        "Date": "2019-10-21 15:55:41.618237",
-        "Link": "http://diariodelcauca.com.co/noticias/judicial/nuevas-fotos-del-caso-colmenares-cambiarian-historia-del-cri-568406",
+        "Date": "2019-10-21 13:11:01.578938",
+        "Link": "http://www.vanguardia.com/entretenimiento/sociales/celebracion-XC1567426",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -360,8 +360,8 @@
         }
     },
     "Check 0041": {
-        "Date": "2019-10-21 15:55:47.438002",
-        "Link": "http://diariodelcauca.com.co/noticias/judicial/policia-fiscal-y-aduanera-logro-aprehension-de-815-kilos-de-568483",
+        "Date": "2019-10-21 13:11:01.579015",
+        "Link": "http://www.vanguardia.com/entretenimiento/sociales/congreso-internacional-YC1567023",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -369,8 +369,8 @@
         }
     },
     "Check 0042": {
-        "Date": "2019-10-21 15:55:43.320504",
-        "Link": "http://diariodelcauca.com.co/noticias/judicial/su-columna-vertebral-quedo-comprometida-dramatico-accidente-568432",
+        "Date": "2019-10-21 13:11:01.579091",
+        "Link": "http://www.vanguardia.com/entretenimiento/sociales/despedida-de-soltera-CA1570657",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -378,8 +378,8 @@
         }
     },
     "Check 0043": {
-        "Date": "2019-10-21 15:55:41.061044",
-        "Link": "http://diariodelcauca.com.co/noticias/local",
+        "Date": "2019-10-21 13:11:01.579439",
+        "Link": "http://www.vanguardia.com/entretenimiento/sociales/matrimonio-CC1567040",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -387,8 +387,8 @@
         }
     },
     "Check 0044": {
-        "Date": "2019-10-21 15:55:43.254395",
-        "Link": "http://diariodelcauca.com.co/noticias/local/avistamiento-de-aves-en-zona-rural-de-popayan-561321",
+        "Date": "2019-10-21 13:11:01.579592",
+        "Link": "http://www.vanguardia.com/entretenimiento/sociales/presentacion-GD1566989",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -396,8 +396,8 @@
         }
     },
     "Check 0045": {
-        "Date": "2019-10-21 15:55:51.047505",
-        "Link": "http://diariodelcauca.com.co/noticias/local/cientifico-ruso-hablo-sobre-la-marihuana-en-popayan-568389",
+        "Date": "2019-10-21 13:11:01.579737",
+        "Link": "http://www.vanguardia.com/entretenimiento/sociales/simposio-DA1570674",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -405,8 +405,8 @@
         }
     },
     "Check 0046": {
-        "Date": "2019-10-21 15:55:45.755719",
-        "Link": "http://diariodelcauca.com.co/noticias/local/encuentro-de-genero-y-etnicidad-en-popayan-567754",
+        "Date": "2019-10-21 13:11:01.580004",
+        "Link": "http://www.vanguardia.com/especiales-vanguardia/contenido/centenario/deporte-y-cultura/index.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -414,8 +414,8 @@
         }
     },
     "Check 0047": {
-        "Date": "2019-10-21 15:55:46.624645",
-        "Link": "http://diariodelcauca.com.co/noticias/local/la-lucha-diaria-de-los-inmigrantes-venezolanos-561317",
+        "Date": "2019-10-21 13:11:01.580269",
+        "Link": "http://www.vanguardia.com/informes-comerciales/informacion-comercial",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -423,8 +423,8 @@
         }
     },
     "Check 0048": {
-        "Date": "2019-10-21 15:55:42.064273",
-        "Link": "http://diariodelcauca.com.co/noticias/local/muchos-desconocen-cual-es-la-labor-de-la-asamblea-ruiz-567791",
+        "Date": "2019-10-21 13:11:01.580438",
+        "Link": "http://www.vanguardia.com/informes-comerciales/informacion-comercial/bora-el-proyecto-de-vivienda-vis-elegante-y-fresco-en-giron-HG1558687",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -432,8 +432,8 @@
         }
     },
     "Check 0049": {
-        "Date": "2019-10-21 15:55:41.378975",
-        "Link": "http://diariodelcauca.com.co/noticias/local/otro-escandalo-por-venta-de-avales-de-asi-en-el-cauca-567759",
+        "Date": "2019-10-21 13:11:01.580729",
+        "Link": "http://www.vanguardia.com/judicial",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -441,8 +441,8 @@
         }
     },
     "Check 0050": {
-        "Date": "2019-10-21 15:55:46.586592",
-        "Link": "http://diariodelcauca.com.co/noticias/local/payaneses-ganadores-de-los-premios-ingenio-568423",
+        "Date": "2019-10-21 13:11:01.580943",
+        "Link": "http://www.vanguardia.com/judicial/en-camaras-quedo-registrado-un-ladron-de-celulares-en-bucaramanga-XE1574572",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -450,8 +450,8 @@
         }
     },
     "Check 0051": {
-        "Date": "2019-10-21 15:55:42.059820",
-        "Link": "http://diariodelcauca.com.co/noticias/local/proyectan-la-primera-universidad-cannabica-de-latinoamerica-568391",
+        "Date": "2019-10-21 13:11:01.581208",
+        "Link": "http://www.vanguardia.com/judicial/mujer-murio-tras-ser-atropellada-en-la-via-a-giron-AX1572516",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -459,8 +459,8 @@
         }
     },
     "Check 0052": {
-        "Date": "2019-10-21 15:55:46.235708",
-        "Link": "http://diariodelcauca.com.co/noticias/local/tercera-version-de-cauca-emprende-en-la-ciudad-568424",
+        "Date": "2019-10-21 13:11:01.581344",
+        "Link": "http://www.vanguardia.com/judicial/peaton-murio-arrollado-por-un-tractocamion-en-piedecuesta-este-lunes-HY1573283",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -468,8 +468,8 @@
         }
     },
     "Check 0053": {
-        "Date": "2019-10-21 15:55:42.050191",
-        "Link": "http://diariodelcauca.com.co/noticias/multimedia/portadas",
+        "Date": "2019-10-21 13:11:01.581467",
+        "Link": "http://www.vanguardia.com/judicial/tres-personas-muertas-en-accidente-de-transito-en-una-via-de-santander-FY1573788",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -477,17 +477,17 @@
         }
     },
     "Check 0054": {
-        "Date": "2019-10-21 15:55:46.684346",
-        "Link": "http://diariodelcauca.com.co/noticias/multimedia/videos-virales",
+        "Date": "2019-10-21 13:11:01.581583",
+        "Link": "http://www.vanguardia.com/judicial/un-menor-perdio-la-vida-en-sector-de-morrorico-JX1572658",
         "Status": {
-            "Code": "404",
-            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
-            "Type": " USER ERROR "
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
     "Check 0055": {
-        "Date": "2019-10-21 15:55:41.113344",
-        "Link": "http://diariodelcauca.com.co/noticias/nacional",
+        "Date": "2019-10-21 13:11:01.581696",
+        "Link": "http://www.vanguardia.com/judicial/una-rina-en-la-carcel-modelo-de-bucaramanga-dejo-un-muerto-y-seis-heridos-YY1573212",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -495,8 +495,8 @@
         }
     },
     "Check 0056": {
-        "Date": "2019-10-21 15:55:43.734729",
-        "Link": "http://diariodelcauca.com.co/noticias/nacional/habilitada-la-al-llano-desde-el-miercoles-transitaran-ve-568471",
+        "Date": "2019-10-21 13:11:01.581816",
+        "Link": "http://www.vanguardia.com/mundo/ahora-me-echan-la-culpa-de-todo-a-mi-y-a-venezuela-nicolas-maduro-DE1574371",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -504,8 +504,8 @@
         }
     },
     "Check 0057": {
-        "Date": "2019-10-21 15:55:40.218750",
-        "Link": "http://diariodelcauca.com.co/noticias/nacional/habilitado-transito-de-vehiculos-particulares-los-fines-de-s-568039",
+        "Date": "2019-10-21 13:11:01.581932",
+        "Link": "http://www.vanguardia.com/mundo/asi-rescato-el-cartel-de-sinaloa-al-hijo-del-chapo-guzman-HD1566458",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -513,8 +513,8 @@
         }
     },
     "Check 0058": {
-        "Date": "2019-10-21 15:55:40.692772",
-        "Link": "http://diariodelcauca.com.co/noticias/nacional/mas-de-60-mil-efectivos-del-ejercito-cubriran-los-comicios-e-568336",
+        "Date": "2019-10-21 13:11:01.582043",
+        "Link": "http://www.vanguardia.com/mundo/bachelet-solicito-dialogo-en-chile-entre-el-gobierno-y-la-sociedad-civil-BE1574553",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -522,8 +522,8 @@
         }
     },
     "Check 0059": {
-        "Date": "2019-10-21 15:55:43.339310",
-        "Link": "http://diariodelcauca.com.co/noticias/nacional/procuraduria-pidio-suspender-adjudicacion-de-hospital-de-bar-568445",
+        "Date": "2019-10-21 13:11:01.582455",
+        "Link": "http://www.vanguardia.com/mundo/bolivia-iria-a-segunda-vuelta-pese-a-triunfo-de-morales-KX1572815",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -531,8 +531,8 @@
         }
     },
     "Check 0060": {
-        "Date": "2019-10-21 15:55:41.974957",
-        "Link": "http://diariodelcauca.com.co/noticias/nacional/prosperidad-social-ratifica-lucha-por-la-equidad-y-la-supera-567641",
+        "Date": "2019-10-21 13:11:01.582654",
+        "Link": "http://www.vanguardia.com/mundo/ejercito-chileno-ordeno-toque-de-queda-para-controlar-los-disturbios-YX1572098",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -540,8 +540,8 @@
         }
     },
     "Check 0061": {
-        "Date": "2019-10-21 15:55:50.504829",
-        "Link": "http://diariodelcauca.com.co/noticias/opini%C3%B3n",
+        "Date": "2019-10-21 13:11:01.582778",
+        "Link": "http://www.vanguardia.com/mundo/ejercito-mexicano-tuvo-que-soltar-al-hijo-del-chapo-porque-delincuentes-los-superaban-dos-a-uno-AB1571992",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -549,17 +549,17 @@
         }
     },
     "Check 0062": {
-        "Date": "2019-10-21 15:55:41.192816",
-        "Link": "http://diariodelcauca.com.co/noticias/paranormal",
+        "Date": "2019-10-21 13:11:01.582914",
+        "Link": "http://www.vanguardia.com/mundo/el-escrutinio-apenas-supera-el-22-en-bolivia-entre-sospechas-de-un-fraude-YE1574221",
         "Status": {
-            "Code": "404",
-            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
-            "Type": " USER ERROR "
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
     "Check 0063": {
-        "Date": "2019-10-21 15:55:46.669793",
-        "Link": "http://diariodelcauca.com.co/noticias/paranormal/no-lo-podra-creer-aparece-supuesta-imagen-asociada-jesucri-567808",
+        "Date": "2019-10-21 13:11:01.583038",
+        "Link": "http://www.vanguardia.com/mundo/impeachment-en-clave-schiff-MD1566680",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -567,8 +567,8 @@
         }
     },
     "Check 0064": {
-        "Date": "2019-10-21 15:55:42.089928",
-        "Link": "http://diariodelcauca.com.co/noticias/paranormal/no-lo-podra-creer-avistan-supuestos-ovnis-en-el-mar-de-carol-565366",
+        "Date": "2019-10-21 13:11:01.583253",
+        "Link": "http://www.vanguardia.com/mundo/la-mecha-social-al-rojo-en-america-y-el-mundo-KE1574185",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -576,8 +576,8 @@
         }
     },
     "Check 0065": {
-        "Date": "2019-10-21 15:55:46.620600",
-        "Link": "http://diariodelcauca.com.co/noticias/paranormal/nos-espian-los-extraterrestres-traves-de-sondas-estarian-o-563582",
+        "Date": "2019-10-21 13:11:01.583383",
+        "Link": "http://www.vanguardia.com/mundo/ni-los-muertos-se-salvan-ladrones-profanaron-varias-tumbas-en-un-cementerio-de-guadalajara-AI1569705",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -585,8 +585,8 @@
         }
     },
     "Check 0066": {
-        "Date": "2019-10-21 15:55:46.539721",
-        "Link": "http://diariodelcauca.com.co/noticias/pol%C3%ADtica",
+        "Date": "2019-10-21 13:11:01.583489",
+        "Link": "http://www.vanguardia.com/mundo/toque-de-queda-y-militares-en-las-calles-un-deja-vu-del-chile-de-pinochet-YE1574302",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -594,8 +594,8 @@
         }
     },
     "Check 0067": {
-        "Date": "2019-10-21 15:55:43.291755",
-        "Link": "http://diariodelcauca.com.co/noticias/pol%C3%ADtica/analizan-candidatos-en-el-cauca-567470",
+        "Date": "2019-10-21 13:11:01.583697",
+        "Link": "http://www.vanguardia.com/mundo/un-colombiano-muerto-y-otro-herido-en-las-protestas-de-chile-YE1574203",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -603,8 +603,8 @@
         }
     },
     "Check 0068": {
-        "Date": "2019-10-21 15:55:40.239545",
-        "Link": "http://diariodelcauca.com.co/noticias/pol%C3%ADtica/balance-del-proyecto-accion-democratica-para-la-paz-financia-568196",
+        "Date": "2019-10-21 13:11:01.583872",
+        "Link": "http://www.vanguardia.com/mundo/un-estudiante-a-punto-de-cometer-una-masacre-es-desarmado-por-un-maestro-que-lo-abraza-hasta-calmarlo-CE1574150",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -612,8 +612,8 @@
         }
     },
     "Check 0069": {
-        "Date": "2019-10-21 15:55:43.316020",
-        "Link": "http://diariodelcauca.com.co/noticias/pol%C3%ADtica/la-democracia-importa-impacto-del-proyecto-accion-democratic-567502",
+        "Date": "2019-10-21 13:11:01.584007",
+        "Link": "http://www.vanguardia.com/opinion/caricaturas",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -621,8 +621,8 @@
         }
     },
     "Check 0070": {
-        "Date": "2019-10-21 15:55:43.301282",
-        "Link": "http://diariodelcauca.com.co/noticias/pol%C3%ADtica/los-candidatos-la-alcaldia-debatieron-sobre-el-anarkos-567785",
+        "Date": "2019-10-21 13:11:01.584284",
+        "Link": "http://www.vanguardia.com/opinion/caricaturas/a-papaya-puesta-papaya-partida-YB1571230",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -630,8 +630,8 @@
         }
     },
     "Check 0071": {
-        "Date": "2019-10-21 15:55:50.177290",
-        "Link": "http://diariodelcauca.com.co/noticias/pol%C3%ADtica/por-abuso-de-autoridad-destituyen-e-inhabilitan-por-12-anos-566788",
+        "Date": "2019-10-21 13:11:01.584422",
+        "Link": "http://www.vanguardia.com/opinion/caricaturas/ahogamiento-FB1571315",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -639,8 +639,8 @@
         }
     },
     "Check 0072": {
-        "Date": "2019-10-21 15:55:43.275737",
-        "Link": "http://diariodelcauca.com.co/noticias/pol%C3%ADtica/walteros-otra-vez-alcalde-de-popayan-567793",
+        "Date": "2019-10-21 13:11:01.584544",
+        "Link": "http://www.vanguardia.com/opinion/caricaturas/el-solo-nombre-JB1571281",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -648,8 +648,8 @@
         }
     },
     "Check 0073": {
-        "Date": "2019-10-21 15:55:45.758717",
-        "Link": "http://diariodelcauca.com.co/noticias/vida-moderna",
+        "Date": "2019-10-21 13:11:01.584663",
+        "Link": "http://www.vanguardia.com/opinion/caricaturas/lo-que-nos-espera-MB1571196",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -657,8 +657,8 @@
         }
     },
     "Check 0074": {
-        "Date": "2019-10-21 15:55:50.212277",
-        "Link": "http://diariodelcauca.com.co/noticias/vida-moderna/adios-larry-junstrom-murio-los-70-anos-exbajista-de-la-b-564875",
+        "Date": "2019-10-21 13:11:01.584773",
+        "Link": "http://www.vanguardia.com/opinion/caricaturas/no-faltaba-mas-CB1517598",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -666,8 +666,8 @@
         }
     },
     "Check 0075": {
-        "Date": "2019-10-21 15:55:43.264557",
-        "Link": "http://diariodelcauca.com.co/noticias/vida-moderna/asi-es-gabi-wolscham-la-preciosa-y-sexy-rubia-con-curvas-que-559675",
+        "Date": "2019-10-21 13:11:01.584879",
+        "Link": "http://www.vanguardia.com/opinion/caricaturas/noticias-de-los-vecinos-BB1571298",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -675,8 +675,8 @@
         }
     },
     "Check 0076": {
-        "Date": "2019-10-21 15:55:50.245142",
-        "Link": "http://diariodelcauca.com.co/noticias/vida-moderna/asi-fue-el-ultimo-adios-entre-veterano-de-guerra-y-su-fiel-568442",
+        "Date": "2019-10-21 13:11:01.584988",
+        "Link": "http://www.vanguardia.com/opinion/columnistas",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -684,8 +684,8 @@
         }
     },
     "Check 0077": {
-        "Date": "2019-10-21 15:55:50.271316",
-        "Link": "http://diariodelcauca.com.co/noticias/vida-moderna/celia-cruz-cumpliendo-94-anos-cinco-colaboraciones-de-infart-568434",
+        "Date": "2019-10-21 13:11:01.585165",
+        "Link": "http://www.vanguardia.com/opinion/columnistas/alvaro-beltran-pinzon/ejercicio-de-la-ciudadania-XY1573440",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -693,8 +693,8 @@
         }
     },
     "Check 0078": {
-        "Date": "2019-10-21 15:55:40.271844",
-        "Link": "http://diariodelcauca.com.co/noticias/vida-moderna/esperanza-gomez-tiene-nueva-fantasia-sexual-quiero-una-rulet-567798",
+        "Date": "2019-10-21 13:11:01.585284",
+        "Link": "http://www.vanguardia.com/opinion/columnistas/cristina-plazas/marchas-desinformacion-y-mentiras-YB1571247",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -702,8 +702,8 @@
         }
     },
     "Check 0079": {
-        "Date": "2019-10-21 15:55:50.226979",
-        "Link": "http://diariodelcauca.com.co/noticias/vida-moderna/payaneses-ganaron-premio-nacional-de-musica-en-ibague-567729",
+        "Date": "2019-10-21 13:11:01.585386",
+        "Link": "http://www.vanguardia.com/opinion/columnistas/donaldo-ortiz-latorre/voto-util-XY1573312",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -711,8 +711,8 @@
         }
     },
     "Check 0080": {
-        "Date": "2019-10-21 15:55:46.944984",
-        "Link": "http://diariodelcauca.com.co/noticias/vida-moderna/procesos-de-autoreconocimiento-traves-del-arte-567744",
+        "Date": "2019-10-21 13:11:01.585486",
+        "Link": "http://www.vanguardia.com/opinion/columnistas/jose-felix-lafaurie/en-que-estamos-MY1573529",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -720,8 +720,8 @@
         }
     },
     "Check 0081": {
-        "Date": "2019-10-21 15:55:51.161236",
-        "Link": "http://diariodelcauca.com.co/noticias/vida-moderna/realizaran-homenaje-camilo-sesto-y-jose-jose-565850",
+        "Date": "2019-10-21 13:11:01.585587",
+        "Link": "http://www.vanguardia.com/opinion/columnistas/luis-fernando-rueda/un-buen-concejo-CY1573422",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -729,8 +729,8 @@
         }
     },
     "Check 0082": {
-        "Date": "2019-10-21 15:55:46.965387",
-        "Link": "http://diariodelcauca.com.co/noticias/viral/conozca-el-famoso-y-aterrador-video-1444-una-escena-escalofr-568324",
+        "Date": "2019-10-21 13:11:01.585697",
+        "Link": "http://www.vanguardia.com/opinion/columnistas/mauricio-cabrera-galvis/ajustes-a-la-ley-de-financiamiento-XB1571264",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -738,8 +738,8 @@
         }
     },
     "Check 0083": {
-        "Date": "2019-10-21 15:55:53.450825",
-        "Link": "http://diariodelcauca.com.co/noticias/viral/giro-mortal-un-carro-dio-vueltas-y-se-estrello-fatalmente-en-568250",
+        "Date": "2019-10-21 13:11:01.585799",
+        "Link": "http://www.vanguardia.com/opinion/columnistas/puno-ardila/adios-a-la-casita-del-cantor-FY1573546",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -747,8 +747,8 @@
         }
     },
     "Check 0084": {
-        "Date": "2019-10-21 15:55:40.289381",
-        "Link": "http://diariodelcauca.com.co/noticias/viral/venezolano-se-hace-viral-tras-mostrar-en-redes-todo-lo-que-r-568301",
+        "Date": "2019-10-21 13:11:01.585900",
+        "Link": "http://www.vanguardia.com/opinion/columnistas/sergio-arenas/construyendo-generaciones-DY1573401",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -756,8 +756,8 @@
         }
     },
     "Check 0085": {
-        "Date": "2019-10-21 15:55:41.645163",
-        "Link": "http://diariodelcauca.com.co/periodistas",
+        "Date": "2019-10-21 13:11:01.586000",
+        "Link": "http://www.vanguardia.com/politica/candidatos-senalan-a-hernandez-por-participacion-indebida-en-politica-BF1272542",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -765,8 +765,8 @@
         }
     },
     "Check 0086": {
-        "Date": "2019-10-21 15:55:41.795572",
-        "Link": "http://diariodelcauca.com.co/rss",
+        "Date": "2019-10-21 13:11:01.586186",
+        "Link": "http://www.vanguardia.com/politica/juan-carlos-reyes-es-el-nuevo-director-de-la-cdmb-ME1574439",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -774,8 +774,8 @@
         }
     },
     "Check 0087": {
-        "Date": "2019-10-21 15:55:45.581765",
-        "Link": "http://diariodelcauca.com.co/rss.xml",
+        "Date": "2019-10-21 13:11:01.586303",
+        "Link": "http://www.vanguardia.com/politica/los-delitos-electorales-continuan-siendo-el-principal-riesgo-en-las-elecciones-locales-del-proximo-domingo-en-colombia-HI1569944",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -783,8 +783,8 @@
         }
     },
     "Check 0088": {
-        "Date": "2019-10-21 15:55:46.147306",
-        "Link": "http://diariodelcauca.com.co/temas/chica-instagram",
+        "Date": "2019-10-21 13:11:01.586385",
+        "Link": "http://www.vanguardia.com/politica/no-sea-pingo/revista-semana-no-publico-nota-que-vincula-a-juan-carlos-cardenas-con-la-licencia-ambiental-de-santurban-NE1574609",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -792,8 +792,8 @@
         }
     },
     "Check 0089": {
-        "Date": "2019-10-21 15:55:41.840862",
-        "Link": "http://diariodelcauca.com.co/temas/recomendado",
+        "Date": "2019-10-21 13:11:01.586463",
+        "Link": "http://www.vanguardia.com/portada/especial-integrado/uno-de-los-mayores-errores-de-nosotros-los-argentinos-es-creernos-los-mejores-de-todos-messi-DI1569674",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -801,8 +801,8 @@
         }
     },
     "Check 0090": {
-        "Date": "2019-10-21 15:55:46.162338",
-        "Link": "http://hsbnoticias.com/noticias/paranormal",
+        "Date": "2019-10-21 13:11:01.586541",
+        "Link": "http://www.vanguardia.com/santander/barrancabermeja/ola-invernal-tiene-en-riesgo-viviendas-de-barrancabermeja-DB1560522",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -810,8 +810,8 @@
         }
     },
     "Check 0091": {
-        "Date": "2019-10-21 15:55:45.769678",
-        "Link": "https://diariodelcauca.com.co",
+        "Date": "2019-10-21 13:11:01.586623",
+        "Link": "http://www.vanguardia.com/tecnologia",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -819,8 +819,8 @@
         }
     },
     "Check 0092": {
-        "Date": "2019-10-21 15:55:45.834358",
-        "Link": "https://diariodelcauca.com.co/clasificados/vehiculos",
+        "Date": "2019-10-21 13:11:01.586701",
+        "Link": "http://www.vanguardia.com/tecnologia/china-hace-historia-al-colocar-una-sonda-en-el-lado-oscuro-de-la-luna-XJ139541",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -828,8 +828,8 @@
         }
     },
     "Check 0093": {
-        "Date": "2019-10-21 15:55:45.526709",
-        "Link": "https://diariodelcauca.com.co/contacto",
+        "Date": "2019-10-21 13:11:01.586779",
+        "Link": "http://www.vanguardia.com/tecnologia/el-misterioso-agujero-negro-que-dejo-a-oscuras-el-videojuego-fortnite-MA1570691",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -837,8 +837,8 @@
         }
     },
     "Check 0094": {
-        "Date": "2019-10-21 15:55:45.401650",
-        "Link": "https://diariodelcauca.com.co/encuestas",
+        "Date": "2019-10-21 13:11:01.586856",
+        "Link": "http://www.vanguardia.com/tecnologia/internet-archive-el-sitio-donde-puede-disfrutar-gratis-de-2500-videojuegos-clasicos-JF1564209",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -846,8 +846,8 @@
         }
     },
     "Check 0095": {
-        "Date": "2019-10-21 15:55:45.294216",
-        "Link": "https://diariodelcauca.com.co/encuestas/cual-cree-que-es-el-mayor-problema-que-afrontan-los-estudian",
+        "Date": "2019-10-21 13:11:01.586931",
+        "Link": "http://www.vanguardia.com/tecnologia/la-sonda-solar-orbiter-esta-lista-para-ir-al-sol-IE1574129",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -855,8 +855,8 @@
         }
     },
     "Check 0096": {
-        "Date": "2019-10-21 15:55:46.727083",
-        "Link": "https://diariodelcauca.com.co/la-mirada-de-quique-568352",
+        "Date": "2019-10-21 13:11:01.587012",
+        "Link": "https://www.facebook.com/vanguardiacom",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -864,17 +864,17 @@
         }
     },
     "Check 0097": {
-        "Date": "2019-10-21 15:55:46.237312",
-        "Link": "https://diariodelcauca.com.co/noticias/Especiales",
+        "Date": "2019-10-21 13:11:01.587164",
+        "Link": "https://www.santanderinolvidable.com",
         "Status": {
-            "Code": "404",
-            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
-            "Type": " USER ERROR "
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
     "Check 0098": {
-        "Date": "2019-10-21 15:55:45.444643",
-        "Link": "https://diariodelcauca.com.co/noticias/ciencia",
+        "Date": "2019-10-21 13:11:01.587250",
+        "Link": "https://www.vanguardia.com/",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -882,8 +882,8 @@
         }
     },
     "Check 0099": {
-        "Date": "2019-10-21 15:55:45.006185",
-        "Link": "https://diariodelcauca.com.co/noticias/ciencia/21-de-octubre-por-que-se-celebra-el-dia-mundial-del-ahorro-d-568421",
+        "Date": "2019-10-21 13:11:01.587328",
+        "Link": "https://www.vanguardia.com/area-metropolitana/bucaramanga",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -891,8 +891,8 @@
         }
     },
     "Check 0100": {
-        "Date": "2019-10-21 15:55:48.318397",
-        "Link": "https://diariodelcauca.com.co/noticias/ciencia/estudiantes-del-cauca-ganan-primer-lugar-en-programa-disena-568481",
+        "Date": "2019-10-21 13:11:01.587404",
+        "Link": "https://www.vanguardia.com/area-metropolitana/bucaramanga/adecuacion-del-nuevo-relleno-sanitario-debe-iniciar-en-2020-alcalde-d-de-bucaramanga-KX1572851",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -900,8 +900,8 @@
         }
     },
     "Check 0101": {
-        "Date": "2019-10-21 15:55:45.841174",
-        "Link": "https://diariodelcauca.com.co/noticias/deportes",
+        "Date": "2019-10-21 13:11:01.587481",
+        "Link": "https://www.vanguardia.com/area-metropolitana/bucaramanga/el-motorfest-enciende-motores-este-fin-de-semana-en-bucaramanga-JA1570139",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -909,8 +909,8 @@
         }
     },
     "Check 0102": {
-        "Date": "2019-10-21 15:56:03.270751",
-        "Link": "https://diariodelcauca.com.co/noticias/deportes/ciclomontanistas-colombianos-destacaron-en-el-torneo-naciona-568530",
+        "Date": "2019-10-21 13:11:01.587558",
+        "Link": "https://www.vanguardia.com/area-metropolitana/bucaramanga/en-imagenes-fuerte-granizada-se-registro-este-miercoles-en-berlin-santander-XM1529527",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -918,8 +918,8 @@
         }
     },
     "Check 0103": {
-        "Date": "2019-10-21 15:55:40.361372",
-        "Link": "https://diariodelcauca.com.co/noticias/deportes/el-autodromo-de-tocancipa-vibro-con-la-velocidad-del-campeon-568517",
+        "Date": "2019-10-21 13:11:01.587634",
+        "Link": "https://www.vanguardia.com/area-metropolitana/bucaramanga/pese-a-advertencias-oficiales-en-bucaramanga-se-vapea-YA1570331",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -927,8 +927,8 @@
         }
     },
     "Check 0104": {
-        "Date": "2019-10-21 15:55:41.124530",
-        "Link": "https://diariodelcauca.com.co/noticias/deportes/gustavo-yacaman-finalizo-en-el-segundo-lugar-de-la-carrera-d-568524",
+        "Date": "2019-10-21 13:11:01.587711",
+        "Link": "https://www.vanguardia.com/area-metropolitana/vigilante-ciudadano/en-video-quedo-registrada-imprudencia-de-un-motociclista-en-la-via-de-giron-al-aeropuerto-CX1563466",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -936,8 +936,8 @@
         }
     },
     "Check 0105": {
-        "Date": "2019-10-21 15:55:45.008941",
-        "Link": "https://diariodelcauca.com.co/noticias/deportes/jeisson-suarez-buscara-el-titulo-de-la-carrera-cartagena-de-568510",
+        "Date": "2019-10-21 13:11:01.587794",
+        "Link": "https://www.vanguardia.com/colombia",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -945,8 +945,8 @@
         }
     },
     "Check 0106": {
-        "Date": "2019-10-21 15:55:45.490926",
-        "Link": "https://diariodelcauca.com.co/noticias/deportes/noticia-bomba-en-el-real-madrid-este-seria-el-nuevo-tecnico-568499",
+        "Date": "2019-10-21 13:11:01.587872",
+        "Link": "https://www.vanguardia.com/colombia/corte-constitucional-definira-responsabilidad-del-estado-por-atentado-en-el-club-el-nogal-FX1572373",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -954,8 +954,8 @@
         }
     },
     "Check 0107": {
-        "Date": "2019-10-21 15:55:41.146324",
-        "Link": "https://diariodelcauca.com.co/noticias/deportes/noticia-inesperada-para-nairo-quintana-sobre-su-presencia-en-567802",
+        "Date": "2019-10-21 13:11:01.587950",
+        "Link": "https://www.vanguardia.com/colombia/gobierno-buscara-limitar-entrega-de-bienes-de-las-farc-hasta-el-31-de-diciembre-AE1574828",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -963,8 +963,8 @@
         }
     },
     "Check 0108": {
-        "Date": "2019-10-21 15:55:45.012654",
-        "Link": "https://diariodelcauca.com.co/noticias/deportes/otra-mala-noticia-para-nairo-quintana-su-peor-final-con-el-m-566484",
+        "Date": "2019-10-21 13:11:01.588027",
+        "Link": "https://www.vanguardia.com/colombia/gobierno-presentaria-ley-de-financiamiento-al-congreso-esta-semana-HE1574955",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -972,8 +972,8 @@
         }
     },
     "Check 0109": {
-        "Date": "2019-10-21 15:55:45.583987",
-        "Link": "https://diariodelcauca.com.co/noticias/deportes/tomaron-una-decision-primeros-resultados-de-reunion-de-jugad-568515",
+        "Date": "2019-10-21 13:11:01.588154",
+        "Link": "https://www.vanguardia.com/colombia/union-europea-aportara-20-mil-millones-para-los-proyectos-verdes-IX1572390",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -981,8 +981,8 @@
         }
     },
     "Check 0110": {
-        "Date": "2019-10-21 15:55:50.155607",
-        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa",
+        "Date": "2019-10-21 13:11:01.588234",
+        "Link": "https://www.vanguardia.com/deportes/baloncesto/bucaramanga-vibro-con-el-tour-reto-3x3-colombia-CX1572994",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -990,8 +990,8 @@
         }
     },
     "Check 0111": {
-        "Date": "2019-10-21 15:55:45.062648",
-        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/comenzo-cyberlunes-descuentos-de-hasta-70-en-mas-de-100-marc-568362",
+        "Date": "2019-10-21 13:11:01.588311",
+        "Link": "https://www.vanguardia.com/deportes/ciclismo/segunda-victoria-de-etapa-para-fernando-gaviria-en-el-tour-de-guangxi-en-china-BE1574333",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -999,8 +999,8 @@
         }
     },
     "Check 0112": {
-        "Date": "2019-10-21 15:55:41.207464",
-        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/comunidades-afrodescendientes-de-tumaco-viven-la-feria-de-567919",
+        "Date": "2019-10-21 13:11:01.588387",
+        "Link": "https://www.vanguardia.com/deportes/futbol-colombiano/cerca-del-paro-los-jugadores-del-futbol-colombiano-acordaron-el-cese-de-actividades-MB1553853",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1008,8 +1008,8 @@
         }
     },
     "Check 0113": {
-        "Date": "2019-10-21 15:55:45.672021",
-        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/la-tercerizacion-de-reclutamiento-le-ayuda-ahorrar-tiempo-567834",
+        "Date": "2019-10-21 13:11:01.588469",
+        "Link": "https://www.vanguardia.com/deportes/futbol-colombiano/fecha-de-rojos-santa-fe-america-y-medellin-imparables-CE1574105",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1017,8 +1017,8 @@
         }
     },
     "Check 0114": {
-        "Date": "2019-10-21 15:55:45.416369",
-        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/leal-coins-la-nueva-manera-de-comprar-en-colombia-conozca-co-567803",
+        "Date": "2019-10-21 13:11:01.588551",
+        "Link": "https://www.vanguardia.com/deportes/futbol-internacional/josef-bican-la-marca-imposible-que-cristiano-y-messi-quieren-alcanzar-NE1574285",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1026,8 +1026,8 @@
         }
     },
     "Check 0115": {
-        "Date": "2019-10-21 15:55:46.302274",
-        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/paises-iberoamericanos-anuncian-creacion-de-nuevo-mercado-re-567826",
+        "Date": "2019-10-21 13:11:01.588627",
+        "Link": "https://www.vanguardia.com/economia/local",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1035,8 +1035,8 @@
         }
     },
     "Check 0116": {
-        "Date": "2019-10-21 15:55:45.171080",
-        "Link": "https://diariodelcauca.com.co/noticias/econom%C3%ADa/severa-crisis-en-venezuela-segun-cifras-oficiales-inflacion-567930",
+        "Date": "2019-10-21 13:11:01.588704",
+        "Link": "https://www.vanguardia.com/economia/local/busca-empleo-en-bucaramanga-hay-150-vacantes-FE1574799",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1044,17 +1044,17 @@
         }
     },
     "Check 0117": {
-        "Date": "2019-10-21 15:55:39.976053",
-        "Link": "https://diariodelcauca.com.co/noticias/en-vivo",
+        "Date": "2019-10-21 13:11:01.588780",
+        "Link": "https://www.vanguardia.com/economia/nacional",
         "Status": {
-            "Code": "404",
-            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
-            "Type": " USER ERROR "
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
     "Check 0118": {
-        "Date": "2019-10-21 15:55:45.470564",
-        "Link": "https://diariodelcauca.com.co/noticias/en-vivo/en-vivo-enterese-de-los-movimientos-teluricos-en-colombia-y-395078",
+        "Date": "2019-10-21 13:11:01.588857",
+        "Link": "https://www.vanguardia.com/economia/nacional/asi-sera-la-tecnologia-para-peajes-en-la-via-bucaramanga-barrancabermeja-XD1234303",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1062,8 +1062,8 @@
         }
     },
     "Check 0119": {
-        "Date": "2019-10-21 15:55:45.829571",
-        "Link": "https://diariodelcauca.com.co/noticias/internacional/la-peculiar-sesion-de-fotos-de-vladimir-putin-para-celebrar-564888",
+        "Date": "2019-10-21 13:11:01.588933",
+        "Link": "https://www.vanguardia.com/economia/nacional/mas-de-100-marcas-ofrecen-promociones-durante-el-cyberlunes-FE1574456",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1071,8 +1071,8 @@
         }
     },
     "Check 0120": {
-        "Date": "2019-10-21 15:55:46.036116",
-        "Link": "https://diariodelcauca.com.co/noticias/internacional/ojo-la-lista-estos-son-los-mejores-y-peores-paises-del-mun-568194",
+        "Date": "2019-10-21 13:11:01.589011",
+        "Link": "https://www.vanguardia.com/entretenimiento/cultura/guns-n-roses-the-strokes-y-the-chemical-brothers-los-principales-para-el-festival-estereo-picnic-2020-YF1531809",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1080,8 +1080,8 @@
         }
     },
     "Check 0121": {
-        "Date": "2019-10-21 15:55:41.593318",
-        "Link": "https://diariodelcauca.com.co/noticias/internacional/piden-huelga-general-organizaciones-sociales-buscan-apoyo-568443",
+        "Date": "2019-10-21 13:11:01.589144",
+        "Link": "https://www.vanguardia.com/entretenimiento/farandula",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1089,8 +1089,8 @@
         }
     },
     "Check 0122": {
-        "Date": "2019-10-21 15:55:42.945710",
-        "Link": "https://diariodelcauca.com.co/noticias/judicial",
+        "Date": "2019-10-21 13:11:01.589258",
+        "Link": "https://www.vanguardia.com/entretenimiento/farandula/carmen-villalobos-y-sebastian-caicedo-ya-son-marido-y-mujer-HE1574081",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1098,8 +1098,8 @@
         }
     },
     "Check 0123": {
-        "Date": "2019-10-21 15:55:43.496853",
-        "Link": "https://diariodelcauca.com.co/noticias/judicial/aprovechando-la-soledad-del-lugar-retuvo-una-menor-y-la-vi-568436",
+        "Date": "2019-10-21 13:11:01.589339",
+        "Link": "https://www.vanguardia.com/entretenimiento/farandula/muere-a-los-98-anos-alicia-alonso-la-leyenda-de-la-danza-cubana-HB1560339",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1107,8 +1107,8 @@
         }
     },
     "Check 0124": {
-        "Date": "2019-10-21 15:55:41.563212",
-        "Link": "https://diariodelcauca.com.co/noticias/judicial/capturan-tres-sujetos-que-atentaron-contra-la-vida-de-dos-568513",
+        "Date": "2019-10-21 13:11:01.589417",
+        "Link": "https://www.vanguardia.com/entretenimiento/mascotas/como-preparar-a-su-mascota-ante-la-llegada-de-un-bebe-a-la-familia-LY1573692",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1116,8 +1116,8 @@
         }
     },
     "Check 0125": {
-        "Date": "2019-10-21 15:55:40.021030",
-        "Link": "https://diariodelcauca.com.co/noticias/judicial/competencia-entre-amigos-por-ser-el-mas-rapido-termino-en-tr-568529",
+        "Date": "2019-10-21 13:11:01.589493",
+        "Link": "https://www.vanguardia.com/entretenimiento/sociales",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1125,8 +1125,8 @@
         }
     },
     "Check 0126": {
-        "Date": "2019-10-21 15:55:46.229994",
-        "Link": "https://diariodelcauca.com.co/noticias/judicial/dos-expendedores-de-bazuco-cayeron-con-varias-dosis-en-popay-568453",
+        "Date": "2019-10-21 13:11:01.589570",
+        "Link": "https://www.vanguardia.com/entretenimiento/sociales/baby-shower-LC1567409",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1134,8 +1134,8 @@
         }
     },
     "Check 0127": {
-        "Date": "2019-10-21 15:55:46.004108",
-        "Link": "https://diariodelcauca.com.co/noticias/judicial/espeluznante-accidente-paralizo-la-pasto-ipiales-un-pesa-566335",
+        "Date": "2019-10-21 13:11:01.589647",
+        "Link": "https://www.vanguardia.com/entretenimiento/sociales/bautizo-EC1567006",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1143,8 +1143,8 @@
         }
     },
     "Check 0128": {
-        "Date": "2019-10-21 15:55:40.534373",
-        "Link": "https://diariodelcauca.com.co/noticias/judicial/misterio-y-conmocion-en-el-valle-venezolana-dio-luz-su-b-568441",
+        "Date": "2019-10-21 13:11:01.589723",
+        "Link": "https://www.vanguardia.com/entretenimiento/sociales/celebracion-XC1567426",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1152,8 +1152,8 @@
         }
     },
     "Check 0129": {
-        "Date": "2019-10-21 15:55:45.222524",
-        "Link": "https://diariodelcauca.com.co/noticias/judicial/nuevas-fotos-del-caso-colmenares-cambiarian-historia-del-cri-568406",
+        "Date": "2019-10-21 13:11:01.589800",
+        "Link": "https://www.vanguardia.com/entretenimiento/sociales/congreso-internacional-YC1567023",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1161,8 +1161,8 @@
         }
     },
     "Check 0130": {
-        "Date": "2019-10-21 15:55:40.517767",
-        "Link": "https://diariodelcauca.com.co/noticias/judicial/policia-fiscal-y-aduanera-logro-aprehension-de-815-kilos-de-568483",
+        "Date": "2019-10-21 13:11:01.589876",
+        "Link": "https://www.vanguardia.com/entretenimiento/sociales/despedida-de-soltera-CA1570657",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1170,8 +1170,8 @@
         }
     },
     "Check 0131": {
-        "Date": "2019-10-21 15:55:45.175997",
-        "Link": "https://diariodelcauca.com.co/noticias/judicial/su-columna-vertebral-quedo-comprometida-dramatico-accidente-568432",
+        "Date": "2019-10-21 13:11:01.589957",
+        "Link": "https://www.vanguardia.com/entretenimiento/sociales/matrimonio-CC1567040",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1179,8 +1179,8 @@
         }
     },
     "Check 0132": {
-        "Date": "2019-10-21 15:55:46.048590",
-        "Link": "https://diariodelcauca.com.co/noticias/local",
+        "Date": "2019-10-21 13:11:01.590034",
+        "Link": "https://www.vanguardia.com/entretenimiento/sociales/presentacion-GD1566989",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1188,8 +1188,8 @@
         }
     },
     "Check 0133": {
-        "Date": "2019-10-21 15:55:49.179194",
-        "Link": "https://diariodelcauca.com.co/noticias/local/avistamiento-de-aves-en-zona-rural-de-popayan-561321",
+        "Date": "2019-10-21 13:11:01.590195",
+        "Link": "https://www.vanguardia.com/entretenimiento/sociales/simposio-DA1570674",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1197,8 +1197,8 @@
         }
     },
     "Check 0134": {
-        "Date": "2019-10-21 15:55:41.836324",
-        "Link": "https://diariodelcauca.com.co/noticias/local/cientifico-ruso-hablo-sobre-la-marihuana-en-popayan-568389",
+        "Date": "2019-10-21 13:11:01.590276",
+        "Link": "https://www.vanguardia.com/especiales-vanguardia/contenido/centenario/educacion/index.html",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1206,8 +1206,8 @@
         }
     },
     "Check 0135": {
-        "Date": "2019-10-21 15:55:45.148154",
-        "Link": "https://diariodelcauca.com.co/noticias/local/encuentro-de-genero-y-etnicidad-en-popayan-567754",
+        "Date": "2019-10-21 13:11:01.590354",
+        "Link": "https://www.vanguardia.com/informes-comerciales/informacion-comercial",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1215,8 +1215,8 @@
         }
     },
     "Check 0136": {
-        "Date": "2019-10-21 15:55:43.389272",
-        "Link": "https://diariodelcauca.com.co/noticias/local/la-lucha-diaria-de-los-inmigrantes-venezolanos-561317",
+        "Date": "2019-10-21 13:11:01.590431",
+        "Link": "https://www.vanguardia.com/informes-comerciales/informacion-comercial/bora-el-proyecto-de-vivienda-vis-elegante-y-fresco-en-giron-HG1558687",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1224,8 +1224,8 @@
         }
     },
     "Check 0137": {
-        "Date": "2019-10-21 15:55:45.295631",
-        "Link": "https://diariodelcauca.com.co/noticias/local/muchos-desconocen-cual-es-la-labor-de-la-asamblea-ruiz-567791",
+        "Date": "2019-10-21 13:11:01.590507",
+        "Link": "https://www.vanguardia.com/judicial",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1233,8 +1233,8 @@
         }
     },
     "Check 0138": {
-        "Date": "2019-10-21 15:55:43.183434",
-        "Link": "https://diariodelcauca.com.co/noticias/local/otro-escandalo-por-venta-de-avales-de-asi-en-el-cauca-567759",
+        "Date": "2019-10-21 13:11:01.590584",
+        "Link": "https://www.vanguardia.com/judicial/en-camaras-quedo-registrado-un-ladron-de-celulares-en-bucaramanga-XE1574572",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1242,8 +1242,8 @@
         }
     },
     "Check 0139": {
-        "Date": "2019-10-21 15:55:40.534356",
-        "Link": "https://diariodelcauca.com.co/noticias/local/payaneses-ganadores-de-los-premios-ingenio-568423",
+        "Date": "2019-10-21 13:11:01.590667",
+        "Link": "https://www.vanguardia.com/judicial/mujer-murio-tras-ser-atropellada-en-la-via-a-giron-AX1572516",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1251,8 +1251,8 @@
         }
     },
     "Check 0140": {
-        "Date": "2019-10-21 15:55:40.536734",
-        "Link": "https://diariodelcauca.com.co/noticias/local/proyectan-la-primera-universidad-cannabica-de-latinoamerica-568391",
+        "Date": "2019-10-21 13:11:01.590744",
+        "Link": "https://www.vanguardia.com/judicial/peaton-murio-arrollado-por-un-tractocamion-en-piedecuesta-este-lunes-HY1573283",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1260,8 +1260,8 @@
         }
     },
     "Check 0141": {
-        "Date": "2019-10-21 15:55:40.111874",
-        "Link": "https://diariodelcauca.com.co/noticias/local/tercera-version-de-cauca-emprende-en-la-ciudad-568424",
+        "Date": "2019-10-21 13:11:01.590821",
+        "Link": "https://www.vanguardia.com/judicial/tres-personas-muertas-en-accidente-de-transito-en-una-via-de-santander-FY1573788",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1269,8 +1269,8 @@
         }
     },
     "Check 0142": {
-        "Date": "2019-10-21 15:55:40.593520",
-        "Link": "https://diariodelcauca.com.co/noticias/multimedia/portadas",
+        "Date": "2019-10-21 13:11:01.590899",
+        "Link": "https://www.vanguardia.com/judicial/un-menor-perdio-la-vida-en-sector-de-morrorico-JX1572658",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1278,17 +1278,17 @@
         }
     },
     "Check 0143": {
-        "Date": "2019-10-21 15:55:41.388384",
-        "Link": "https://diariodelcauca.com.co/noticias/multimedia/videos-virales",
+        "Date": "2019-10-21 13:11:01.590976",
+        "Link": "https://www.vanguardia.com/judicial/una-rina-en-la-carcel-modelo-de-bucaramanga-dejo-un-muerto-y-seis-heridos-YY1573212",
         "Status": {
-            "Code": "404",
-            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
-            "Type": " USER ERROR "
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
     "Check 0144": {
-        "Date": "2019-10-21 15:55:40.079142",
-        "Link": "https://diariodelcauca.com.co/noticias/nacional",
+        "Date": "2019-10-21 13:11:01.591053",
+        "Link": "https://www.vanguardia.com/mundo/ahora-me-echan-la-culpa-de-todo-a-mi-y-a-venezuela-nicolas-maduro-DE1574371",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1296,8 +1296,8 @@
         }
     },
     "Check 0145": {
-        "Date": "2019-10-21 15:55:45.388946",
-        "Link": "https://diariodelcauca.com.co/noticias/nacional/habilitada-la-al-llano-desde-el-miercoles-transitaran-ve-568471",
+        "Date": "2019-10-21 13:11:01.591208",
+        "Link": "https://www.vanguardia.com/mundo/asi-rescato-el-cartel-de-sinaloa-al-hijo-del-chapo-guzman-HD1566458",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1305,8 +1305,8 @@
         }
     },
     "Check 0146": {
-        "Date": "2019-10-21 15:55:47.995492",
-        "Link": "https://diariodelcauca.com.co/noticias/nacional/habilitado-transito-de-vehiculos-particulares-los-fines-de-s-568039",
+        "Date": "2019-10-21 13:11:01.591288",
+        "Link": "https://www.vanguardia.com/mundo/bachelet-solicito-dialogo-en-chile-entre-el-gobierno-y-la-sociedad-civil-BE1574553",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1314,8 +1314,8 @@
         }
     },
     "Check 0147": {
-        "Date": "2019-10-21 15:55:40.188057",
-        "Link": "https://diariodelcauca.com.co/noticias/nacional/mas-de-60-mil-efectivos-del-ejercito-cubriran-los-comicios-e-568336",
+        "Date": "2019-10-21 13:11:01.591364",
+        "Link": "https://www.vanguardia.com/mundo/bolivia-iria-a-segunda-vuelta-pese-a-triunfo-de-morales-KX1572815",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1323,8 +1323,8 @@
         }
     },
     "Check 0148": {
-        "Date": "2019-10-21 15:55:41.291774",
-        "Link": "https://diariodelcauca.com.co/noticias/nacional/procuraduria-pidio-suspender-adjudicacion-de-hospital-de-bar-568445",
+        "Date": "2019-10-21 13:11:01.591447",
+        "Link": "https://www.vanguardia.com/mundo/ejercito-chileno-ordeno-toque-de-queda-para-controlar-los-disturbios-YX1572098",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1332,8 +1332,8 @@
         }
     },
     "Check 0149": {
-        "Date": "2019-10-21 15:55:42.419976",
-        "Link": "https://diariodelcauca.com.co/noticias/nacional/prosperidad-social-ratifica-lucha-por-la-equidad-y-la-supera-567641",
+        "Date": "2019-10-21 13:11:01.591525",
+        "Link": "https://www.vanguardia.com/mundo/ejercito-mexicano-tuvo-que-soltar-al-hijo-del-chapo-porque-delincuentes-los-superaban-dos-a-uno-AB1571992",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1341,8 +1341,8 @@
         }
     },
     "Check 0150": {
-        "Date": "2019-10-21 15:55:47.045293",
-        "Link": "https://diariodelcauca.com.co/noticias/opini%C3%B3n",
+        "Date": "2019-10-21 13:11:01.591602",
+        "Link": "https://www.vanguardia.com/mundo/el-escrutinio-apenas-supera-el-22-en-bolivia-entre-sospechas-de-un-fraude-YE1574221",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1350,17 +1350,17 @@
         }
     },
     "Check 0151": {
-        "Date": "2019-10-21 15:55:39.989292",
-        "Link": "https://diariodelcauca.com.co/noticias/paranormal",
+        "Date": "2019-10-21 13:11:01.591679",
+        "Link": "https://www.vanguardia.com/mundo/impeachment-en-clave-schiff-MD1566680",
         "Status": {
-            "Code": "404",
-            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
-            "Type": " USER ERROR "
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
         }
     },
     "Check 0152": {
-        "Date": "2019-10-21 15:55:41.198010",
-        "Link": "https://diariodelcauca.com.co/noticias/paranormal/no-lo-podra-creer-aparece-supuesta-imagen-asociada-jesucri-567808",
+        "Date": "2019-10-21 13:11:01.591755",
+        "Link": "https://www.vanguardia.com/mundo/la-mecha-social-al-rojo-en-america-y-el-mundo-KE1574185",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1368,8 +1368,8 @@
         }
     },
     "Check 0153": {
-        "Date": "2019-10-21 15:55:50.130269",
-        "Link": "https://diariodelcauca.com.co/noticias/paranormal/no-lo-podra-creer-avistan-supuestos-ovnis-en-el-mar-de-carol-565366",
+        "Date": "2019-10-21 13:11:01.591832",
+        "Link": "https://www.vanguardia.com/mundo/ni-los-muertos-se-salvan-ladrones-profanaron-varias-tumbas-en-un-cementerio-de-guadalajara-AI1569705",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1377,8 +1377,8 @@
         }
     },
     "Check 0154": {
-        "Date": "2019-10-21 15:55:40.228270",
-        "Link": "https://diariodelcauca.com.co/noticias/paranormal/nos-espian-los-extraterrestres-traves-de-sondas-estarian-o-563582",
+        "Date": "2019-10-21 13:11:01.591909",
+        "Link": "https://www.vanguardia.com/mundo/toque-de-queda-y-militares-en-las-calles-un-deja-vu-del-chile-de-pinochet-YE1574302",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1386,8 +1386,8 @@
         }
     },
     "Check 0155": {
-        "Date": "2019-10-21 15:55:40.627963",
-        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica",
+        "Date": "2019-10-21 13:11:01.591986",
+        "Link": "https://www.vanguardia.com/mundo/un-colombiano-muerto-y-otro-herido-en-las-protestas-de-chile-YE1574203",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1395,8 +1395,8 @@
         }
     },
     "Check 0156": {
-        "Date": "2019-10-21 15:55:50.060098",
-        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/analizan-candidatos-en-el-cauca-567470",
+        "Date": "2019-10-21 13:11:01.592113",
+        "Link": "https://www.vanguardia.com/mundo/un-estudiante-a-punto-de-cometer-una-masacre-es-desarmado-por-un-maestro-que-lo-abraza-hasta-calmarlo-CE1574150",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1404,8 +1404,8 @@
         }
     },
     "Check 0157": {
-        "Date": "2019-10-21 15:55:41.225187",
-        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/balance-del-proyecto-accion-democratica-para-la-paz-financia-568196",
+        "Date": "2019-10-21 13:11:01.592198",
+        "Link": "https://www.vanguardia.com/opinion/caricaturas",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1413,8 +1413,8 @@
         }
     },
     "Check 0158": {
-        "Date": "2019-10-21 15:55:50.067067",
-        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/la-democracia-importa-impacto-del-proyecto-accion-democratic-567502",
+        "Date": "2019-10-21 13:11:01.592275",
+        "Link": "https://www.vanguardia.com/opinion/caricaturas/a-papaya-puesta-papaya-partida-YB1571230",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1422,8 +1422,8 @@
         }
     },
     "Check 0159": {
-        "Date": "2019-10-21 15:55:45.906328",
-        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/los-candidatos-la-alcaldia-debatieron-sobre-el-anarkos-567785",
+        "Date": "2019-10-21 13:11:01.592351",
+        "Link": "https://www.vanguardia.com/opinion/caricaturas/ahogamiento-FB1571315",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1431,8 +1431,8 @@
         }
     },
     "Check 0160": {
-        "Date": "2019-10-21 15:55:45.394475",
-        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/por-abuso-de-autoridad-destituyen-e-inhabilitan-por-12-anos-566788",
+        "Date": "2019-10-21 13:11:01.592428",
+        "Link": "https://www.vanguardia.com/opinion/caricaturas/el-solo-nombre-JB1571281",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1440,8 +1440,8 @@
         }
     },
     "Check 0161": {
-        "Date": "2019-10-21 15:55:50.070968",
-        "Link": "https://diariodelcauca.com.co/noticias/pol%C3%ADtica/walteros-otra-vez-alcalde-de-popayan-567793",
+        "Date": "2019-10-21 13:11:01.592504",
+        "Link": "https://www.vanguardia.com/opinion/caricaturas/lo-que-nos-espera-MB1571196",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1449,8 +1449,8 @@
         }
     },
     "Check 0162": {
-        "Date": "2019-10-21 15:55:41.212688",
-        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna",
+        "Date": "2019-10-21 13:11:01.592580",
+        "Link": "https://www.vanguardia.com/opinion/caricaturas/no-faltaba-mas-CB1517598",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1458,8 +1458,8 @@
         }
     },
     "Check 0163": {
-        "Date": "2019-10-21 15:55:41.305756",
-        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/adios-larry-junstrom-murio-los-70-anos-exbajista-de-la-b-564875",
+        "Date": "2019-10-21 13:11:01.592657",
+        "Link": "https://www.vanguardia.com/opinion/caricaturas/noticias-de-los-vecinos-BB1571298",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1467,8 +1467,8 @@
         }
     },
     "Check 0164": {
-        "Date": "2019-10-21 15:55:41.794951",
-        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/asi-es-gabi-wolscham-la-preciosa-y-sexy-rubia-con-curvas-que-559675",
+        "Date": "2019-10-21 13:11:01.592738",
+        "Link": "https://www.vanguardia.com/opinion/columnistas",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1476,8 +1476,8 @@
         }
     },
     "Check 0165": {
-        "Date": "2019-10-21 15:55:40.199686",
-        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/asi-fue-el-ultimo-adios-entre-veterano-de-guerra-y-su-fiel-568442",
+        "Date": "2019-10-21 13:11:01.592816",
+        "Link": "https://www.vanguardia.com/opinion/columnistas/alvaro-beltran-pinzon/ejercicio-de-la-ciudadania-XY1573440",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1485,8 +1485,8 @@
         }
     },
     "Check 0166": {
-        "Date": "2019-10-21 15:55:45.778027",
-        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/celia-cruz-cumpliendo-94-anos-cinco-colaboraciones-de-infart-568434",
+        "Date": "2019-10-21 13:11:01.592893",
+        "Link": "https://www.vanguardia.com/opinion/columnistas/cristina-plazas/marchas-desinformacion-y-mentiras-YB1571247",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1494,8 +1494,8 @@
         }
     },
     "Check 0167": {
-        "Date": "2019-10-21 15:55:45.540544",
-        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/esperanza-gomez-tiene-nueva-fantasia-sexual-quiero-una-rulet-567798",
+        "Date": "2019-10-21 13:11:01.592970",
+        "Link": "https://www.vanguardia.com/opinion/columnistas/donaldo-ortiz-latorre/voto-util-XY1573312",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1503,8 +1503,8 @@
         }
     },
     "Check 0168": {
-        "Date": "2019-10-21 15:55:40.711424",
-        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/payaneses-ganaron-premio-nacional-de-musica-en-ibague-567729",
+        "Date": "2019-10-21 13:11:01.593047",
+        "Link": "https://www.vanguardia.com/opinion/columnistas/jose-felix-lafaurie/en-que-estamos-MY1573529",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1512,8 +1512,8 @@
         }
     },
     "Check 0169": {
-        "Date": "2019-10-21 15:55:41.302835",
-        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/procesos-de-autoreconocimiento-traves-del-arte-567744",
+        "Date": "2019-10-21 13:11:01.593207",
+        "Link": "https://www.vanguardia.com/opinion/columnistas/luis-fernando-rueda/un-buen-concejo-CY1573422",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1521,8 +1521,8 @@
         }
     },
     "Check 0170": {
-        "Date": "2019-10-21 15:55:40.635039",
-        "Link": "https://diariodelcauca.com.co/noticias/vida-moderna/realizaran-homenaje-camilo-sesto-y-jose-jose-565850",
+        "Date": "2019-10-21 13:11:01.593317",
+        "Link": "https://www.vanguardia.com/opinion/columnistas/mauricio-cabrera-galvis/ajustes-a-la-ley-de-financiamiento-XB1571264",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1530,8 +1530,8 @@
         }
     },
     "Check 0171": {
-        "Date": "2019-10-21 15:55:50.164349",
-        "Link": "https://diariodelcauca.com.co/noticias/viral/conozca-el-famoso-y-aterrador-video-1444-una-escena-escalofr-568324",
+        "Date": "2019-10-21 13:11:01.593417",
+        "Link": "https://www.vanguardia.com/opinion/columnistas/puno-ardila/adios-a-la-casita-del-cantor-FY1573546",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1539,8 +1539,8 @@
         }
     },
     "Check 0172": {
-        "Date": "2019-10-21 15:55:53.093411",
-        "Link": "https://diariodelcauca.com.co/noticias/viral/giro-mortal-un-carro-dio-vueltas-y-se-estrello-fatalmente-en-568250",
+        "Date": "2019-10-21 13:11:01.593519",
+        "Link": "https://www.vanguardia.com/opinion/columnistas/sergio-arenas/construyendo-generaciones-DY1573401",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1548,8 +1548,8 @@
         }
     },
     "Check 0173": {
-        "Date": "2019-10-21 15:55:50.169847",
-        "Link": "https://diariodelcauca.com.co/noticias/viral/venezolano-se-hace-viral-tras-mostrar-en-redes-todo-lo-que-r-568301",
+        "Date": "2019-10-21 13:11:01.593673",
+        "Link": "https://www.vanguardia.com/politica/candidatos-senalan-a-hernandez-por-participacion-indebida-en-politica-BF1272542",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1557,8 +1557,8 @@
         }
     },
     "Check 0174": {
-        "Date": "2019-10-21 15:55:40.766699",
-        "Link": "https://diariodelcauca.com.co/periodistas",
+        "Date": "2019-10-21 13:11:01.593796",
+        "Link": "https://www.vanguardia.com/politica/juan-carlos-reyes-es-el-nuevo-director-de-la-cdmb-ME1574439",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1566,8 +1566,8 @@
         }
     },
     "Check 0175": {
-        "Date": "2019-10-21 15:55:43.152728",
-        "Link": "https://diariodelcauca.com.co/rss",
+        "Date": "2019-10-21 13:11:01.593908",
+        "Link": "https://www.vanguardia.com/politica/los-delitos-electorales-continuan-siendo-el-principal-riesgo-en-las-elecciones-locales-del-proximo-domingo-en-colombia-HI1569944",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1575,8 +1575,8 @@
         }
     },
     "Check 0176": {
-        "Date": "2019-10-21 15:55:40.419686",
-        "Link": "https://diariodelcauca.com.co/rss.xml",
+        "Date": "2019-10-21 13:11:01.593994",
+        "Link": "https://www.vanguardia.com/politica/no-sea-pingo/revista-semana-no-publico-nota-que-vincula-a-juan-carlos-cardenas-con-la-licencia-ambiental-de-santurban-NE1574609",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1584,8 +1584,8 @@
         }
     },
     "Check 0177": {
-        "Date": "2019-10-21 15:55:43.307703",
-        "Link": "https://diariodelcauca.com.co/temas/chica-instagram",
+        "Date": "2019-10-21 13:11:01.594163",
+        "Link": "https://www.vanguardia.com/portada/especial-integrado/uno-de-los-mayores-errores-de-nosotros-los-argentinos-es-creernos-los-mejores-de-todos-messi-DI1569674",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1593,8 +1593,8 @@
         }
     },
     "Check 0178": {
-        "Date": "2019-10-21 15:55:50.183710",
-        "Link": "https://diariodelcauca.com.co/temas/recomendado",
+        "Date": "2019-10-21 13:11:01.594251",
+        "Link": "https://www.vanguardia.com/santander/barrancabermeja/ola-invernal-tiene-en-riesgo-viviendas-de-barrancabermeja-DB1560522",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
@@ -1602,8 +1602,53 @@
         }
     },
     "Check 0179": {
-        "Date": "2019-10-21 15:55:46.339995",
-        "Link": "https://www.facebook.com/Hsbnoticias",
+        "Date": "2019-10-21 13:11:01.594330",
+        "Link": "https://www.vanguardia.com/tecnologia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0180": {
+        "Date": "2019-10-21 13:11:01.594411",
+        "Link": "https://www.vanguardia.com/tecnologia/china-hace-historia-al-colocar-una-sonda-en-el-lado-oscuro-de-la-luna-XJ139541",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0181": {
+        "Date": "2019-10-21 13:11:01.594488",
+        "Link": "https://www.vanguardia.com/tecnologia/el-misterioso-agujero-negro-que-dejo-a-oscuras-el-videojuego-fortnite-MA1570691",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0182": {
+        "Date": "2019-10-21 13:11:01.594565",
+        "Link": "https://www.vanguardia.com/tecnologia/internet-archive-el-sitio-donde-puede-disfrutar-gratis-de-2500-videojuegos-clasicos-JF1564209",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0183": {
+        "Date": "2019-10-21 13:11:01.594642",
+        "Link": "https://www.vanguardia.com/tecnologia/la-sonda-solar-orbiter-esta-lista-para-ir-al-sol-IE1574129",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0184": {
+        "Date": "2019-10-21 13:11:01.594720",
+        "Link": "https://www.vanguardia.com/tiendamultimedia/amember/cart",
         "Status": {
             "Code": "200",
             "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",

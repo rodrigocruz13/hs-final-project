@@ -1,0 +1,83 @@
+{
+    "Check 0017": {
+        "Date": "2019-10-21 10:25:01.397500",
+        "Link": "http://www.elpais.com/s/setEspana.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0018": {
+        "Date": "2019-10-21 10:25:01.397586",
+        "Link": "http://www.huffingtonpost.es",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0288": {
+        "Date": "2019-10-21 10:25:01.436342",
+        "Link": "https://elpais.com/tag/listado",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0341": {
+        "Date": "2019-10-21 10:25:01.442350",
+        "Link": "https://www.emagister.com.mx/cursolanding",
+        "Status": {
+            "Code": "500",
+            "Meaning": "Internal Server Error: A generic error message, given when no more specific message is suitable",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0343": {
+        "Date": "2019-10-21 10:25:01.442586",
+        "Link": "https://www.emagister.com/express/informatica-10/mba-master-big-data-business-intelligence-cursos-3453730.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0344": {
+        "Date": "2019-10-21 10:25:01.442691",
+        "Link": "https://www.emagister.com/express/mba-master-direccion-hotelera-turismo-cursos-3344156.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0345": {
+        "Date": "2019-10-21 10:25:01.442805",
+        "Link": "https://www.emagister.com/express/mba-master-marketing-digital-ecommerce-cursos-3024348.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0346": {
+        "Date": "2019-10-21 10:25:01.442921",
+        "Link": "https://www.emagister.com/express/mba-master-project-management-cursos-3407589.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0348": {
+        "Date": "2019-10-21 10:25:01.443119",
+        "Link": "https://www.huffingtonpost.es/entry/un-profesor-de-la-universidad-de-columbia-en-nueva-york-destroza-a-pablo-casado-por-un-frase-en-el-objetivo_es_5dad6ed6e4b0f34e3a789bc8",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

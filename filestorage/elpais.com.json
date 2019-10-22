@@ -1,0 +1,3017 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 02:13:55.067886",
+        "Link": "http://as.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 02:13:55.068091",
+        "Link": "http://cincodias.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 02:13:55.068188",
+        "Link": "http://cincodias.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 02:13:55.068271",
+        "Link": "http://elpais.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0005": {
+        "Date": "2019-10-21 02:13:55.068352",
+        "Link": "http://elpais.com/deportes/2019/10/20/actualidad/1571575527_193296.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 02:13:55.068431",
+        "Link": "http://elpais.com/s/setAmerica.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0007": {
+        "Date": "2019-10-21 02:13:55.068509",
+        "Link": "http://elpais.com/s/setBrasil.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 02:13:55.068589",
+        "Link": "http://elpais.com/s/setCat.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0009": {
+        "Date": "2019-10-21 02:13:55.068667",
+        "Link": "http://elpais.com/s/setEspana.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0010": {
+        "Date": "2019-10-21 02:13:55.068744",
+        "Link": "http://elpaissemanal.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0011": {
+        "Date": "2019-10-21 02:13:55.068821",
+        "Link": "http://epv.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 02:13:55.068899",
+        "Link": "http://epv.elpais.com/epv/lomasvisto",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0013": {
+        "Date": "2019-10-21 02:13:55.068977",
+        "Link": "http://motor.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0014": {
+        "Date": "2019-10-21 02:13:55.069056",
+        "Link": "http://retina.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0015": {
+        "Date": "2019-10-21 02:13:55.069133",
+        "Link": "http://servicios.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0016": {
+        "Date": "2019-10-21 02:13:55.069212",
+        "Link": "http://servicios.elpais.com/el-tiempo",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0017": {
+        "Date": "2019-10-21 02:13:55.069289",
+        "Link": "http://smoda.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0018": {
+        "Date": "2019-10-21 02:13:55.069367",
+        "Link": "http://www.huffingtonpost.es",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0019": {
+        "Date": "2019-10-21 02:13:55.069445",
+        "Link": "http://www.kioskoymas.com/publicacion/elpais",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0020": {
+        "Date": "2019-10-21 02:13:55.069522",
+        "Link": "http://www.wradio.com.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0021": {
+        "Date": "2019-10-21 02:13:55.069599",
+        "Link": "https://as.com/baloncesto/2019/10/18/videos/1571377520_077104.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0022": {
+        "Date": "2019-10-21 02:13:55.069676",
+        "Link": "https://as.com/meristation/2019/10/18/noticias/1571380205_627303.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0023": {
+        "Date": "2019-10-21 02:13:55.069764",
+        "Link": "https://as.com/meristation/noticias",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0024": {
+        "Date": "2019-10-21 02:13:55.069843",
+        "Link": "https://brasil.elpais.com/brasil/2019/06/28/actualidad/1561705341_083525.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0025": {
+        "Date": "2019-10-21 02:13:55.069922",
+        "Link": "https://brasil.elpais.com/brasil/2019/09/30/economia/1569857428_539313.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0026": {
+        "Date": "2019-10-21 02:13:55.069999",
+        "Link": "https://brasil.elpais.com/brasil/2019/10/10/cultura/1570717717_753040.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0027": {
+        "Date": "2019-10-21 02:13:55.070077",
+        "Link": "https://brasil.elpais.com/brasil/2019/10/16/cultura/1571251636_581953.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0028": {
+        "Date": "2019-10-21 02:13:55.070153",
+        "Link": "https://brasil.elpais.com/brasil/2019/10/18/internacional/1571416039_057093.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0029": {
+        "Date": "2019-10-21 02:13:55.070230",
+        "Link": "https://brasil.elpais.com/brasil/2019/10/18/opinion/1571395042_669271.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0030": {
+        "Date": "2019-10-21 02:13:55.070307",
+        "Link": "https://brasil.elpais.com/brasil/2019/10/19/internacional/1571518966_843982.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0031": {
+        "Date": "2019-10-21 02:13:55.070384",
+        "Link": "https://brasil.elpais.com/brasil/2019/10/19/opinion/1571517292_014318.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0032": {
+        "Date": "2019-10-21 02:13:55.070461",
+        "Link": "https://brasil.elpais.com/brasil/2019/10/20/estilo/1571600729_940324.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0033": {
+        "Date": "2019-10-21 02:13:55.070538",
+        "Link": "https://brasil.elpais.com/brasil/2019/10/20/internacional/1571587118_313874.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0034": {
+        "Date": "2019-10-21 02:13:55.070620",
+        "Link": "https://cat.elpais.com/cat/2019/10/17/album/1571306880_971401.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0035": {
+        "Date": "2019-10-21 02:13:55.070697",
+        "Link": "https://cat.elpais.com/cat/2019/10/17/catalunya/1571335067_265344.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0036": {
+        "Date": "2019-10-21 02:13:55.070774",
+        "Link": "https://cat.elpais.com/cat/2019/10/18/catalunya/1571414637_908638.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0037": {
+        "Date": "2019-10-21 02:13:55.070851",
+        "Link": "https://cat.elpais.com/cat/2019/10/18/cultura/1571397803_325954.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0038": {
+        "Date": "2019-10-21 02:13:55.070928",
+        "Link": "https://cat.elpais.com/cat/2019/10/18/opinion/1571403994_213748.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0039": {
+        "Date": "2019-10-21 02:13:55.071014",
+        "Link": "https://cat.elpais.com/cat/2019/10/19/catalunya/1571511156_829840.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0040": {
+        "Date": "2019-10-21 02:13:55.071092",
+        "Link": "https://cat.elpais.com/cat/2019/10/19/opinion/1571499742_766407.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0041": {
+        "Date": "2019-10-21 02:13:55.071169",
+        "Link": "https://cat.elpais.com/cat/2019/10/19/opinion/1571508522_308375.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0042": {
+        "Date": "2019-10-21 02:13:55.071251",
+        "Link": "https://cat.elpais.com/cat/2019/10/20/catalunya/1571597251_547659.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0043": {
+        "Date": "2019-10-21 02:13:55.071329",
+        "Link": "https://cat.elpais.com/cat/2019/10/20/opinion/1571585118_902926.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0044": {
+        "Date": "2019-10-21 02:13:55.071413",
+        "Link": "https://cincodias.elpais.com/cincodias/2019/10/17/economia/1571336091_773841.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0045": {
+        "Date": "2019-10-21 02:13:55.071497",
+        "Link": "https://cincodias.elpais.com/cincodias/2019/10/20/companias/1571559869_151361.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0046": {
+        "Date": "2019-10-21 02:13:55.071576",
+        "Link": "https://cincodias.elpais.com/tag/aerolineas/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0047": {
+        "Date": "2019-10-21 02:13:55.071653",
+        "Link": "https://cultura.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0048": {
+        "Date": "2019-10-21 02:13:55.071731",
+        "Link": "https://cultura.elpais.com/cultura/babelia.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0049": {
+        "Date": "2019-10-21 02:13:55.071815",
+        "Link": "https://cultura.elpais.com/cultura/television.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0050": {
+        "Date": "2019-10-21 02:13:55.071893",
+        "Link": "https://deportes.elpais.com",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0051": {
+        "Date": "2019-10-21 02:13:55.071973",
+        "Link": "https://economia.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0052": {
+        "Date": "2019-10-21 02:13:55.072051",
+        "Link": "https://elcomidista.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0053": {
+        "Date": "2019-10-21 02:13:55.072128",
+        "Link": "https://elcomidista.elpais.com/elcomidista/2019/10/04/articulo/1570195057_019065.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0054": {
+        "Date": "2019-10-21 02:13:55.072207",
+        "Link": "https://elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0055": {
+        "Date": "2019-10-21 02:13:55.072284",
+        "Link": "https://elpais.com/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0056": {
+        "Date": "2019-10-21 02:13:55.072367",
+        "Link": "https://elpais.com/agr/el_dia_en_imagenes/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0057": {
+        "Date": "2019-10-21 02:13:55.072445",
+        "Link": "https://elpais.com/agr/el_espectador/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0058": {
+        "Date": "2019-10-21 02:13:55.072523",
+        "Link": "https://elpais.com/agr/el_pais_semanal_entrevistas/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0059": {
+        "Date": "2019-10-21 02:13:55.072600",
+        "Link": "https://elpais.com/agr/gastronotas_de_capel",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0060": {
+        "Date": "2019-10-21 02:13:55.072677",
+        "Link": "https://elpais.com/agr/icon_design_arquitectura",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0061": {
+        "Date": "2019-10-21 02:13:55.072754",
+        "Link": "https://elpais.com/agr/ideas/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0062": {
+        "Date": "2019-10-21 02:13:55.072831",
+        "Link": "https://elpais.com/agr/las_claves_del_dia/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0063": {
+        "Date": "2019-10-21 02:13:55.072909",
+        "Link": "https://elpais.com/agr/mamas_papas/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0064": {
+        "Date": "2019-10-21 02:13:55.072992",
+        "Link": "https://elpais.com/agr/negocios/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0065": {
+        "Date": "2019-10-21 02:13:55.073077",
+        "Link": "https://elpais.com/agr/paco_nadal",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0066": {
+        "Date": "2019-10-21 02:13:55.073155",
+        "Link": "https://elpais.com/agr/pamplinas/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0067": {
+        "Date": "2019-10-21 02:13:55.073232",
+        "Link": "https://elpais.com/agr/termometro_social_de_america/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0068": {
+        "Date": "2019-10-21 02:13:55.073309",
+        "Link": "https://elpais.com/autor/agathe_cortes/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0069": {
+        "Date": "2019-10-21 02:13:55.073386",
+        "Link": "https://elpais.com/autor/agencias/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0070": {
+        "Date": "2019-10-21 02:13:55.073463",
+        "Link": "https://elpais.com/autor/alejandro_ciriza/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0071": {
+        "Date": "2019-10-21 02:13:55.073540",
+        "Link": "https://elpais.com/autor/alfonso_lopez_congostrina/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0072": {
+        "Date": "2019-10-21 02:13:55.073617",
+        "Link": "https://elpais.com/autor/alvaro_perez_ruiz_de_elvira/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0073": {
+        "Date": "2019-10-21 02:13:55.073699",
+        "Link": "https://elpais.com/autor/amanda_mars/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0074": {
+        "Date": "2019-10-21 02:13:55.073776",
+        "Link": "https://elpais.com/autor/ana_carbajosa/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0075": {
+        "Date": "2019-10-21 02:13:55.073854",
+        "Link": "https://elpais.com/autor/andres_mourenza_urbina/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0076": {
+        "Date": "2019-10-21 02:13:55.073938",
+        "Link": "https://elpais.com/autor/angeles_espinosa/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0077": {
+        "Date": "2019-10-21 02:13:55.074017",
+        "Link": "https://elpais.com/autor/carles_geli/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0078": {
+        "Date": "2019-10-21 02:13:55.074095",
+        "Link": "https://elpais.com/autor/carmen_moran_brena/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0079": {
+        "Date": "2019-10-21 02:13:55.074172",
+        "Link": "https://elpais.com/autor/carolina_pinedo/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0080": {
+        "Date": "2019-10-21 02:13:55.074250",
+        "Link": "https://elpais.com/autor/diego_alfredo_manrique_martinez/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0081": {
+        "Date": "2019-10-21 02:13:55.074332",
+        "Link": "https://elpais.com/autor/diego_mancera_delgado/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0082": {
+        "Date": "2019-10-21 02:13:55.074410",
+        "Link": "https://elpais.com/autor/diego_torres/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0083": {
+        "Date": "2019-10-21 02:13:55.074487",
+        "Link": "https://elpais.com/autor/el_pais/a",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0084": {
+        "Date": "2019-10-21 02:13:55.074565",
+        "Link": "https://elpais.com/autor/enric_gonzalez/a",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0085": {
+        "Date": "2019-10-21 02:13:55.074643",
+        "Link": "https://elpais.com/autor/esther_sanchez/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0086": {
+        "Date": "2019-10-21 02:13:55.074727",
+        "Link": "https://elpais.com/autor/ferran_bono/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0087": {
+        "Date": "2019-10-21 02:13:55.074815",
+        "Link": "https://elpais.com/autor/francesco_manetto/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0088": {
+        "Date": "2019-10-21 02:13:55.074895",
+        "Link": "https://elpais.com/autor/guillermo_altares/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0089": {
+        "Date": "2019-10-21 02:13:55.074978",
+        "Link": "https://elpais.com/autor/isabel_ferrer/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0090": {
+        "Date": "2019-10-21 02:13:55.075057",
+        "Link": "https://elpais.com/autor/jose_carlos_capel/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0091": {
+        "Date": "2019-10-21 02:13:55.075135",
+        "Link": "https://elpais.com/autor/juan_cruz/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0092": {
+        "Date": "2019-10-21 02:13:55.075213",
+        "Link": "https://elpais.com/autor/juan_manuel_granda_pereiro/b",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0093": {
+        "Date": "2019-10-21 02:13:55.075290",
+        "Link": "https://elpais.com/autor/juan_sanguino_santorio/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0094": {
+        "Date": "2019-10-21 02:13:55.075368",
+        "Link": "https://elpais.com/autor/luis_doncel/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0095": {
+        "Date": "2019-10-21 02:13:55.075446",
+        "Link": "https://elpais.com/autor/luis_pablo_beauregard_alday/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0096": {
+        "Date": "2019-10-21 02:13:55.075523",
+        "Link": "https://elpais.com/autor/luis_rodriguez_aizpeolea/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0097": {
+        "Date": "2019-10-21 02:13:55.075600",
+        "Link": "https://elpais.com/autor/mabel_galaz/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0098": {
+        "Date": "2019-10-21 02:13:55.075677",
+        "Link": "https://elpais.com/autor/macarena_vidal_liy/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0099": {
+        "Date": "2019-10-21 02:13:55.075763",
+        "Link": "https://elpais.com/autor/mar_centenera_garcon/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0100": {
+        "Date": "2019-10-21 02:13:55.075845",
+        "Link": "https://elpais.com/autor/maria_jose_gonzalez_rivas/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0101": {
+        "Date": "2019-10-21 02:13:55.075926",
+        "Link": "https://elpais.com/autor/maria_martin_delgado/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0102": {
+        "Date": "2019-10-21 02:13:55.076003",
+        "Link": "https://elpais.com/autor/marta_sanz/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0103": {
+        "Date": "2019-10-21 02:13:55.076081",
+        "Link": "https://elpais.com/autor/martin_caparros/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0104": {
+        "Date": "2019-10-21 02:13:55.076158",
+        "Link": "https://elpais.com/autor/melissa_kitson/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0105": {
+        "Date": "2019-10-21 02:13:55.076235",
+        "Link": "https://elpais.com/autor/moises_naim/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0106": {
+        "Date": "2019-10-21 02:13:55.076313",
+        "Link": "https://elpais.com/autor/naiara_galarraga_gortazar/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0107": {
+        "Date": "2019-10-21 02:13:55.076397",
+        "Link": "https://elpais.com/autor/natalia_junquera/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0108": {
+        "Date": "2019-10-21 02:13:55.076476",
+        "Link": "https://elpais.com/autor/natalia_sancha/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0109": {
+        "Date": "2019-10-21 02:13:55.076557",
+        "Link": "https://elpais.com/autor/oriol_guell/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0110": {
+        "Date": "2019-10-21 02:13:55.076636",
+        "Link": "https://elpais.com/autor/pablo_linde/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0111": {
+        "Date": "2019-10-21 02:13:55.076721",
+        "Link": "https://elpais.com/autor/paco_nadal/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0112": {
+        "Date": "2019-10-21 02:13:55.076799",
+        "Link": "https://elpais.com/autor/rafael_de_miguel_lahuerta/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0113": {
+        "Date": "2019-10-21 02:13:55.076878",
+        "Link": "https://elpais.com/autor/ramon_besa/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0114": {
+        "Date": "2019-10-21 02:13:55.076956",
+        "Link": "https://elpais.com/autor/robert_alvarez/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0115": {
+        "Date": "2019-10-21 02:13:55.077033",
+        "Link": "https://elpais.com/autor/rocio_montes/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0116": {
+        "Date": "2019-10-21 02:13:55.077111",
+        "Link": "https://elpais.com/autor/sandro_pozzi/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0117": {
+        "Date": "2019-10-21 02:13:55.077190",
+        "Link": "https://elpais.com/autor/santiago_torrado_villamizar/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0118": {
+        "Date": "2019-10-21 02:13:55.077272",
+        "Link": "https://elpais.com/autor/simon_hunter/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0119": {
+        "Date": "2019-10-21 02:13:55.077351",
+        "Link": "https://elpais.com/autor/victoria_zarate_casanova/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0120": {
+        "Date": "2019-10-21 02:13:55.077429",
+        "Link": "https://elpais.com/autor/yolanda_monge/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0121": {
+        "Date": "2019-10-21 02:13:55.077506",
+        "Link": "https://elpais.com/ccaa/2019/10/20/catalunya/1571606849_812579.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0122": {
+        "Date": "2019-10-21 02:13:55.077584",
+        "Link": "https://elpais.com/ccaa/catalunya.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0123": {
+        "Date": "2019-10-21 02:13:55.077662",
+        "Link": "https://elpais.com/ccaa/madrid.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0124": {
+        "Date": "2019-10-21 02:13:55.077740",
+        "Link": "https://elpais.com/cultura/2019/10/16/actualidad/1571251636_581953.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0125": {
+        "Date": "2019-10-21 02:13:55.077819",
+        "Link": "https://elpais.com/cultura/2019/10/17/babelia/1571308560_366705.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0126": {
+        "Date": "2019-10-21 02:13:55.077903",
+        "Link": "https://elpais.com/cultura/2019/10/17/television/1571304670_757539.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0127": {
+        "Date": "2019-10-21 02:13:55.077981",
+        "Link": "https://elpais.com/cultura/2019/10/18/actualidad/1571353744_236017.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0128": {
+        "Date": "2019-10-21 02:13:55.078067",
+        "Link": "https://elpais.com/cultura/2019/10/18/actualidad/1571420944_924923.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0129": {
+        "Date": "2019-10-21 02:13:55.078145",
+        "Link": "https://elpais.com/cultura/2019/10/19/actualidad/1571509125_159564.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0130": {
+        "Date": "2019-10-21 02:13:55.078223",
+        "Link": "https://elpais.com/cultura/2019/10/19/actualidad/1571520678_017499.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0131": {
+        "Date": "2019-10-21 02:13:55.078301",
+        "Link": "https://elpais.com/cultura/2019/10/20/actualidad/1571595726_622968.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0132": {
+        "Date": "2019-10-21 02:13:55.078379",
+        "Link": "https://elpais.com/cultura/2019/10/20/actualidad/1571602429_997435.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0133": {
+        "Date": "2019-10-21 02:13:55.078456",
+        "Link": "https://elpais.com/cultura/2019/10/21/actualidad/1571629330_780973.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0134": {
+        "Date": "2019-10-21 02:13:55.078534",
+        "Link": "https://elpais.com/cultura/babelia.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0135": {
+        "Date": "2019-10-21 02:13:55.078617",
+        "Link": "https://elpais.com/deportes/2019/10/18/actualidad/1571409181_172857.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0136": {
+        "Date": "2019-10-21 02:13:55.078696",
+        "Link": "https://elpais.com/deportes/2019/10/19/actualidad/1571497221_524406.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0137": {
+        "Date": "2019-10-21 02:13:55.078774",
+        "Link": "https://elpais.com/deportes/2019/10/20/actualidad/1571575527_193296.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0138": {
+        "Date": "2019-10-21 02:13:55.078853",
+        "Link": "https://elpais.com/deportes/2019/10/20/actualidad/1571588983_827423.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0139": {
+        "Date": "2019-10-21 02:13:55.078931",
+        "Link": "https://elpais.com/deportes/2019/10/20/actualidad/1571589730_201338.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0140": {
+        "Date": "2019-10-21 02:13:55.079009",
+        "Link": "https://elpais.com/deportes/2019/10/20/actualidad/1571593661_908036.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0141": {
+        "Date": "2019-10-21 02:13:55.079087",
+        "Link": "https://elpais.com/deportes/2019/10/21/actualidad/1571616956_577606.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0142": {
+        "Date": "2019-10-21 02:13:55.079165",
+        "Link": "https://elpais.com/diario",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0143": {
+        "Date": "2019-10-21 02:13:55.079243",
+        "Link": "https://elpais.com/economia/2019/10/18/actualidad/1571353061_323418.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0144": {
+        "Date": "2019-10-21 02:13:55.079322",
+        "Link": "https://elpais.com/economia/2019/10/18/actualidad/1571392711_663789.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0145": {
+        "Date": "2019-10-21 02:13:55.079400",
+        "Link": "https://elpais.com/economia/2019/10/19/actualidad/1571485722_330627.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0146": {
+        "Date": "2019-10-21 02:13:55.079478",
+        "Link": "https://elpais.com/economia/2019/10/19/actualidad/1571489238_672110.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0147": {
+        "Date": "2019-10-21 02:13:55.079556",
+        "Link": "https://elpais.com/elpais/2018/01/05/buenavida/1515159608_546062.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0148": {
+        "Date": "2019-10-21 02:13:55.079633",
+        "Link": "https://elpais.com/elpais/2019/10/04/planeta_futuro/1570213465_434480.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0149": {
+        "Date": "2019-10-21 02:13:55.079728",
+        "Link": "https://elpais.com/elpais/2019/10/09/eps/1570634329_944269.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0150": {
+        "Date": "2019-10-21 02:13:55.079808",
+        "Link": "https://elpais.com/elpais/2019/10/14/eps/1571055876_744649.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0151": {
+        "Date": "2019-10-21 02:13:55.079886",
+        "Link": "https://elpais.com/elpais/2019/10/14/icon_design/1571049388_702030.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0152": {
+        "Date": "2019-10-21 02:13:55.079964",
+        "Link": "https://elpais.com/elpais/2019/10/15/eps/1571156669_532966.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0153": {
+        "Date": "2019-10-21 02:13:55.080041",
+        "Link": "https://elpais.com/elpais/2019/10/15/ideas/1571133111_570915.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0154": {
+        "Date": "2019-10-21 02:13:55.080120",
+        "Link": "https://elpais.com/elpais/2019/10/16/el_pais_que_hacemos/1571229147_581829.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0155": {
+        "Date": "2019-10-21 02:13:55.080198",
+        "Link": "https://elpais.com/elpais/2019/10/17/buenavida/1571316616_815684.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0156": {
+        "Date": "2019-10-21 02:13:55.080277",
+        "Link": "https://elpais.com/elpais/2019/10/17/ciencia/1571310251_436262.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0157": {
+        "Date": "2019-10-21 02:13:55.080359",
+        "Link": "https://elpais.com/elpais/2019/10/17/icon/1571302109_618786.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0158": {
+        "Date": "2019-10-21 02:13:55.080438",
+        "Link": "https://elpais.com/elpais/2019/10/17/inenglish/1571310316_294356.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0159": {
+        "Date": "2019-10-21 02:13:55.080515",
+        "Link": "https://elpais.com/elpais/2019/10/17/paco_nadal/1571295623_426098.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0160": {
+        "Date": "2019-10-21 02:13:55.080593",
+        "Link": "https://elpais.com/elpais/2019/10/17/videos/1571328795_975569.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0161": {
+        "Date": "2019-10-21 02:13:55.080672",
+        "Link": "https://elpais.com/elpais/2019/10/18/gente/1571401941_246609.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0162": {
+        "Date": "2019-10-21 02:13:55.080752",
+        "Link": "https://elpais.com/elpais/2019/10/18/gente/1571413972_998215.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0163": {
+        "Date": "2019-10-21 02:13:55.080830",
+        "Link": "https://elpais.com/elpais/2019/10/18/gente/1571414477_658238.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0164": {
+        "Date": "2019-10-21 02:13:55.080909",
+        "Link": "https://elpais.com/elpais/2019/10/18/icon/1571391562_469959.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0165": {
+        "Date": "2019-10-21 02:13:55.080987",
+        "Link": "https://elpais.com/elpais/2019/10/18/ideas/1571412446_512904.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0166": {
+        "Date": "2019-10-21 02:13:55.081069",
+        "Link": "https://elpais.com/elpais/2019/10/18/inenglish/1571383049_816026.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0167": {
+        "Date": "2019-10-21 02:13:55.081147",
+        "Link": "https://elpais.com/elpais/2019/10/18/inenglish/1571392260_899772.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0168": {
+        "Date": "2019-10-21 02:13:55.081225",
+        "Link": "https://elpais.com/elpais/2019/10/18/mamas_papas/1571389281_805903.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0169": {
+        "Date": "2019-10-21 02:13:55.081302",
+        "Link": "https://elpais.com/elpais/2019/10/18/opinion/1571416860_470605.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0170": {
+        "Date": "2019-10-21 02:13:55.081387",
+        "Link": "https://elpais.com/elpais/2019/10/19/album/1571493538_539455.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0171": {
+        "Date": "2019-10-21 02:13:55.081466",
+        "Link": "https://elpais.com/elpais/2019/10/19/gastronotas_de_capel/1571520598_484930.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0172": {
+        "Date": "2019-10-21 02:13:55.081544",
+        "Link": "https://elpais.com/elpais/2019/10/19/gente/1571491534_628928.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0173": {
+        "Date": "2019-10-21 02:13:55.081635",
+        "Link": "https://elpais.com/elpais/2019/10/19/icon_design/1571489006_123191.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0174": {
+        "Date": "2019-10-21 02:13:55.081713",
+        "Link": "https://elpais.com/elpais/2019/10/19/opinion/1571496513_365404.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0175": {
+        "Date": "2019-10-21 02:13:55.081792",
+        "Link": "https://elpais.com/elpais/2019/10/20/opinion/1571581453_807912.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0176": {
+        "Date": "2019-10-21 02:13:55.081869",
+        "Link": "https://elpais.com/elpais/2019/10/20/opinion/1571584460_735516.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0177": {
+        "Date": "2019-10-21 02:13:55.081946",
+        "Link": "https://elpais.com/elpais/2019/10/20/opinion/1571585444_029248.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0178": {
+        "Date": "2019-10-21 02:13:55.082024",
+        "Link": "https://elpais.com/elpais/album.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0179": {
+        "Date": "2019-10-21 02:13:55.082101",
+        "Link": "https://elpais.com/elpais/blogs.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0180": {
+        "Date": "2019-10-21 02:13:55.082179",
+        "Link": "https://elpais.com/elpais/buenavida.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0181": {
+        "Date": "2019-10-21 02:13:55.082256",
+        "Link": "https://elpais.com/elpais/ciencia.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0182": {
+        "Date": "2019-10-21 02:13:55.082333",
+        "Link": "https://elpais.com/elpais/especiales.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0183": {
+        "Date": "2019-10-21 02:13:55.082418",
+        "Link": "https://elpais.com/elpais/estilo.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0184": {
+        "Date": "2019-10-21 02:13:55.082497",
+        "Link": "https://elpais.com/elpais/icon.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0185": {
+        "Date": "2019-10-21 02:13:55.082576",
+        "Link": "https://elpais.com/elpais/icon_design.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0186": {
+        "Date": "2019-10-21 02:13:55.082654",
+        "Link": "https://elpais.com/elpais/ideas.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0187": {
+        "Date": "2019-10-21 02:13:55.082744",
+        "Link": "https://elpais.com/elpais/inenglish.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0188": {
+        "Date": "2019-10-21 02:13:55.082823",
+        "Link": "https://elpais.com/elpais/opinion.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0189": {
+        "Date": "2019-10-21 02:13:55.082901",
+        "Link": "https://elpais.com/elpais/planeta_futuro.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0190": {
+        "Date": "2019-10-21 02:13:55.082978",
+        "Link": "https://elpais.com/elpais/tentaciones.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0191": {
+        "Date": "2019-10-21 02:13:55.083065",
+        "Link": "https://elpais.com/elpais/videos.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0192": {
+        "Date": "2019-10-21 02:13:55.083144",
+        "Link": "https://elpais.com/especiales/2018/juegos-olimpicos-mexico",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0193": {
+        "Date": "2019-10-21 02:13:55.083243",
+        "Link": "https://elpais.com/hemeroteca/elpais-america/portadas/2019",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0194": {
+        "Date": "2019-10-21 02:13:55.083322",
+        "Link": "https://elpais.com/hemeroteca/elpais-america/portadas/2019/10/21",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0195": {
+        "Date": "2019-10-21 02:13:55.083404",
+        "Link": "https://elpais.com/internacional/2019/10/15/actualidad/1571153041_236183.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0196": {
+        "Date": "2019-10-21 02:13:55.083482",
+        "Link": "https://elpais.com/internacional/2019/10/17/actualidad/1571327814_535175.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0197": {
+        "Date": "2019-10-21 02:13:55.083560",
+        "Link": "https://elpais.com/internacional/2019/10/19/actualidad/1571487069_980909.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0198": {
+        "Date": "2019-10-21 02:13:55.083638",
+        "Link": "https://elpais.com/internacional/2019/10/19/actualidad/1571506100_833972.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0199": {
+        "Date": "2019-10-21 02:13:55.083724",
+        "Link": "https://elpais.com/internacional/2019/10/19/actualidad/1571506476_320721.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0200": {
+        "Date": "2019-10-21 02:13:55.083802",
+        "Link": "https://elpais.com/internacional/2019/10/19/actualidad/1571510177_822791.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0201": {
+        "Date": "2019-10-21 02:13:55.083880",
+        "Link": "https://elpais.com/internacional/2019/10/19/america/1571514563_317935.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0202": {
+        "Date": "2019-10-21 02:13:55.083958",
+        "Link": "https://elpais.com/internacional/2019/10/20/actualidad/1571567732_672425.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0203": {
+        "Date": "2019-10-21 02:13:55.084035",
+        "Link": "https://elpais.com/internacional/2019/10/20/actualidad/1571582389_900654.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0204": {
+        "Date": "2019-10-21 02:13:55.084117",
+        "Link": "https://elpais.com/internacional/2019/10/20/actualidad/1571582722_647336.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0205": {
+        "Date": "2019-10-21 02:13:55.084194",
+        "Link": "https://elpais.com/internacional/2019/10/20/actualidad/1571587118_313874.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0206": {
+        "Date": "2019-10-21 02:13:55.084272",
+        "Link": "https://elpais.com/internacional/2019/10/20/actualidad/1571587625_575745.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0207": {
+        "Date": "2019-10-21 02:13:55.084349",
+        "Link": "https://elpais.com/internacional/2019/10/20/america/1571531965_776078.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0208": {
+        "Date": "2019-10-21 02:13:55.084427",
+        "Link": "https://elpais.com/internacional/2019/10/20/america/1571598520_735239.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0209": {
+        "Date": "2019-10-21 02:13:55.084505",
+        "Link": "https://elpais.com/internacional/2019/10/20/estados_unidos/1571587730_647183.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0210": {
+        "Date": "2019-10-21 02:13:55.084582",
+        "Link": "https://elpais.com/internacional/2019/10/20/mexico/1571594317_162729.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0211": {
+        "Date": "2019-10-21 02:13:55.084662",
+        "Link": "https://elpais.com/internacional/2019/10/21/actualidad/1571617317_202621.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0212": {
+        "Date": "2019-10-21 02:13:55.084750",
+        "Link": "https://elpais.com/internacional/2019/10/21/america/1571627404_171893.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0213": {
+        "Date": "2019-10-21 02:13:55.084829",
+        "Link": "https://elpais.com/internacional/2019/10/21/argentina/1571611899_141012.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0214": {
+        "Date": "2019-10-21 02:13:55.084907",
+        "Link": "https://elpais.com/internacional/2019/10/21/argentina/1571614138_785950.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0215": {
+        "Date": "2019-10-21 02:13:55.084984",
+        "Link": "https://elpais.com/lomasvisto",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0216": {
+        "Date": "2019-10-21 02:13:55.085062",
+        "Link": "https://elpais.com/politica",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0217": {
+        "Date": "2019-10-21 02:13:55.085139",
+        "Link": "https://elpais.com/politica/2019/10/18/actualidad/1571419859_044919.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0218": {
+        "Date": "2019-10-21 02:13:55.085217",
+        "Link": "https://elpais.com/politica/2019/10/19/actualidad/1571448401_893875.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0219": {
+        "Date": "2019-10-21 02:13:55.085294",
+        "Link": "https://elpais.com/politica/2019/10/19/actualidad/1571504337_228844.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0220": {
+        "Date": "2019-10-21 02:13:55.085373",
+        "Link": "https://elpais.com/politica/2019/10/19/actualidad/1571507804_397209.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0221": {
+        "Date": "2019-10-21 02:13:55.085455",
+        "Link": "https://elpais.com/politica/2019/10/19/actualidad/1571511156_829840.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0222": {
+        "Date": "2019-10-21 02:13:55.085533",
+        "Link": "https://elpais.com/politica/2019/10/19/actualidad/1571511477_216633.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0223": {
+        "Date": "2019-10-21 02:13:55.085610",
+        "Link": "https://elpais.com/politica/2019/10/19/actualidad/1571514562_705416.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0224": {
+        "Date": "2019-10-21 02:13:55.085698",
+        "Link": "https://elpais.com/politica/2019/10/20/actualidad/1571594857_499601.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0225": {
+        "Date": "2019-10-21 02:13:55.085777",
+        "Link": "https://elpais.com/politica/2019/10/20/actualidad/1571596537_681138.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0226": {
+        "Date": "2019-10-21 02:13:55.085854",
+        "Link": "https://elpais.com/s/setAmerica.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0227": {
+        "Date": "2019-10-21 02:13:55.085932",
+        "Link": "https://elpais.com/s/setBrasil.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0228": {
+        "Date": "2019-10-21 02:13:55.086010",
+        "Link": "https://elpais.com/s/setCat.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0229": {
+        "Date": "2019-10-21 02:13:55.086092",
+        "Link": "https://elpais.com/s/setEspana.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0230": {
+        "Date": "2019-10-21 02:13:55.086169",
+        "Link": "https://elpais.com/sociedad",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0231": {
+        "Date": "2019-10-21 02:13:55.086247",
+        "Link": "https://elpais.com/sociedad/2019/10/16/actualidad/1571236532_541950.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0232": {
+        "Date": "2019-10-21 02:13:55.086326",
+        "Link": "https://elpais.com/sociedad/2019/10/18/actualidad/1571415252_866797.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0233": {
+        "Date": "2019-10-21 02:13:55.086412",
+        "Link": "https://elpais.com/sociedad/2019/10/18/actualidad/1571424979_909432.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0234": {
+        "Date": "2019-10-21 02:13:55.086491",
+        "Link": "https://elpais.com/sociedad/2019/10/19/actualidad/1571488456_167487.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0235": {
+        "Date": "2019-10-21 02:13:55.086568",
+        "Link": "https://elpais.com/sociedad/2019/10/20/actualidad/1571601031_438955.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0236": {
+        "Date": "2019-10-21 02:13:55.086647",
+        "Link": "https://elpais.com/suscripciones",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0237": {
+        "Date": "2019-10-21 02:13:55.086726",
+        "Link": "https://elpais.com/suscripciones/ejemplar-de-hoy.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0238": {
+        "Date": "2019-10-21 02:13:55.086808",
+        "Link": "https://elpais.com/suscripciones/elpaismas.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0239": {
+        "Date": "2019-10-21 02:13:55.086888",
+        "Link": "https://elpais.com/suscripciones/especiales/america",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0240": {
+        "Date": "2019-10-21 02:13:55.086966",
+        "Link": "https://elpais.com/tag/america/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0241": {
+        "Date": "2019-10-21 02:13:55.087043",
+        "Link": "https://elpais.com/tag/andalucia/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0242": {
+        "Date": "2019-10-21 02:13:55.087120",
+        "Link": "https://elpais.com/tag/android/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0243": {
+        "Date": "2019-10-21 02:13:55.087198",
+        "Link": "https://elpais.com/tag/argentina/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0244": {
+        "Date": "2019-10-21 02:13:55.087275",
+        "Link": "https://elpais.com/tag/brasil",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0245": {
+        "Date": "2019-10-21 02:13:55.087353",
+        "Link": "https://elpais.com/tag/c/15148420ba519668342b7a63149cad97",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0246": {
+        "Date": "2019-10-21 02:13:55.087434",
+        "Link": "https://elpais.com/tag/c/514bd6a205caa1702b2026725f48a60d",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0247": {
+        "Date": "2019-10-21 02:13:55.087512",
+        "Link": "https://elpais.com/tag/c/849dd342014dee2b4d4c935f0925dd3a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0248": {
+        "Date": "2019-10-21 02:13:55.087597",
+        "Link": "https://elpais.com/tag/c/8a04e14f346d7e93abdc29d951c9484a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0249": {
+        "Date": "2019-10-21 02:13:55.087688",
+        "Link": "https://elpais.com/tag/c/8f62f3ef0c14424d458a36951d746a4b",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0250": {
+        "Date": "2019-10-21 02:13:55.087767",
+        "Link": "https://elpais.com/tag/c/95a63bfa65985f7c8f12a3b6a771acda",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0251": {
+        "Date": "2019-10-21 02:13:55.087845",
+        "Link": "https://elpais.com/tag/c/a46ee9f8eccb51781e53b8700cb714d7",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0252": {
+        "Date": "2019-10-21 02:13:55.087922",
+        "Link": "https://elpais.com/tag/c/be2f73eaa7943ca65ae4eaa5d204c608",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0253": {
+        "Date": "2019-10-21 02:13:55.088000",
+        "Link": "https://elpais.com/tag/c/c541f2cffd74560ddf0f1a264e94016b",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0254": {
+        "Date": "2019-10-21 02:13:55.088085",
+        "Link": "https://elpais.com/tag/c/d5d3c197fec50c6f233d2c3093e8be07",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0255": {
+        "Date": "2019-10-21 02:13:55.088175",
+        "Link": "https://elpais.com/tag/c/da8b5f0ef13205be8acb0b78d7f2a1cf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0256": {
+        "Date": "2019-10-21 02:13:55.088253",
+        "Link": "https://elpais.com/tag/c/ec7a643a2efd84d02c5948f7a9c86aa7",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0257": {
+        "Date": "2019-10-21 02:13:55.088331",
+        "Link": "https://elpais.com/tag/cantantes/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0258": {
+        "Date": "2019-10-21 02:13:55.088408",
+        "Link": "https://elpais.com/tag/champions_league/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0259": {
+        "Date": "2019-10-21 02:13:55.088485",
+        "Link": "https://elpais.com/tag/christina_aguilera/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0260": {
+        "Date": "2019-10-21 02:13:55.088564",
+        "Link": "https://elpais.com/tag/colombia/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0261": {
+        "Date": "2019-10-21 02:13:55.088641",
+        "Link": "https://elpais.com/tag/comunidad_valenciana/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0262": {
+        "Date": "2019-10-21 02:13:55.088718",
+        "Link": "https://elpais.com/tag/educacion/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0263": {
+        "Date": "2019-10-21 02:13:55.088800",
+        "Link": "https://elpais.com/tag/facebook/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0264": {
+        "Date": "2019-10-21 02:13:55.088878",
+        "Link": "https://elpais.com/tag/fecha/ultimahora",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0265": {
+        "Date": "2019-10-21 02:13:55.088956",
+        "Link": "https://elpais.com/tag/galicia/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0266": {
+        "Date": "2019-10-21 02:13:55.089033",
+        "Link": "https://elpais.com/tag/game_of_thrones/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0267": {
+        "Date": "2019-10-21 02:13:55.089111",
+        "Link": "https://elpais.com/tag/gente/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0268": {
+        "Date": "2019-10-21 02:13:55.089188",
+        "Link": "https://elpais.com/tag/hollywood/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0269": {
+        "Date": "2019-10-21 02:13:55.089265",
+        "Link": "https://elpais.com/tag/inmigracion/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0270": {
+        "Date": "2019-10-21 02:13:55.089342",
+        "Link": "https://elpais.com/tag/liga_argentina/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0271": {
+        "Date": "2019-10-21 02:13:55.089419",
+        "Link": "https://elpais.com/tag/liga_espanola_de_futbol/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0272": {
+        "Date": "2019-10-21 02:13:55.089501",
+        "Link": "https://elpais.com/tag/liga_inglesa/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0273": {
+        "Date": "2019-10-21 02:13:55.089580",
+        "Link": "https://elpais.com/tag/liga_mexicana/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0274": {
+        "Date": "2019-10-21 02:13:55.089657",
+        "Link": "https://elpais.com/tag/listado",
+        "Status": {
+            "Code": "404",
+            "Meaning": "Not Found: The requested page could not be found but may be available again in the future",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0275": {
+        "Date": "2019-10-21 02:13:55.089742",
+        "Link": "https://elpais.com/tag/literatura/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0276": {
+        "Date": "2019-10-21 02:13:55.089821",
+        "Link": "https://elpais.com/tag/medio_ambiente/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0277": {
+        "Date": "2019-10-21 02:13:55.089898",
+        "Link": "https://elpais.com/tag/mexico/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0278": {
+        "Date": "2019-10-21 02:13:55.089975",
+        "Link": "https://elpais.com/tag/musica/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0279": {
+        "Date": "2019-10-21 02:13:55.090052",
+        "Link": "https://elpais.com/tag/nba/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0280": {
+        "Date": "2019-10-21 02:13:55.090134",
+        "Link": "https://elpais.com/tag/obituario/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0281": {
+        "Date": "2019-10-21 02:13:55.090212",
+        "Link": "https://elpais.com/tag/pais_vasco/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0282": {
+        "Date": "2019-10-21 02:13:55.090289",
+        "Link": "https://elpais.com/tag/rafael_nadal/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0283": {
+        "Date": "2019-10-21 02:13:55.090367",
+        "Link": "https://elpais.com/tag/refugiados/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0284": {
+        "Date": "2019-10-21 02:13:55.090444",
+        "Link": "https://elpais.com/tag/salud/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0285": {
+        "Date": "2019-10-21 02:13:55.090524",
+        "Link": "https://elpais.com/tag/teatro/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0286": {
+        "Date": "2019-10-21 02:13:55.090601",
+        "Link": "https://elpais.com/tag/uber/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0287": {
+        "Date": "2019-10-21 02:13:55.090679",
+        "Link": "https://elpais.com/tag/venezuela/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0288": {
+        "Date": "2019-10-21 02:13:55.090756",
+        "Link": "https://elpais.com/tag/whatsapp/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0289": {
+        "Date": "2019-10-21 02:13:55.090838",
+        "Link": "https://elpais.com/tecnologia",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0290": {
+        "Date": "2019-10-21 02:13:55.090915",
+        "Link": "https://elviajero.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0291": {
+        "Date": "2019-10-21 02:13:55.090992",
+        "Link": "https://elviajero.elpais.com/autor/mercedes_cebrian/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0292": {
+        "Date": "2019-10-21 02:13:55.091069",
+        "Link": "https://elviajero.elpais.com/elviajero/2019/10/10/actualidad/1570700408_705970.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0293": {
+        "Date": "2019-10-21 02:13:55.091147",
+        "Link": "https://elviajero.elpais.com/elviajero/2019/10/18/actualidad/1571396987_041840.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0294": {
+        "Date": "2019-10-21 02:13:55.091225",
+        "Link": "https://internacional.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0295": {
+        "Date": "2019-10-21 02:13:55.091302",
+        "Link": "https://librotea.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0296": {
+        "Date": "2019-10-21 02:13:55.091386",
+        "Link": "https://librotea.elpais.com/estanterias/10-libros-que-todo-el-mundo-dice-que-ha-leido-pero-pocos-han-acabado",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0297": {
+        "Date": "2019-10-21 02:13:55.091469",
+        "Link": "https://mexico.as.com/mexico/2019/10/19/futbol/1571502048_727513.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0298": {
+        "Date": "2019-10-21 02:13:55.091548",
+        "Link": "https://plus.elpais.com/conectar",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0299": {
+        "Date": "2019-10-21 02:13:55.091633",
+        "Link": "https://plus.elpais.com/newsletters/lnp/1/331",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0300": {
+        "Date": "2019-10-21 02:13:55.091711",
+        "Link": "https://plus.elpais.com/newsletters/lnp/1/334",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0301": {
+        "Date": "2019-10-21 02:13:55.091788",
+        "Link": "https://redirector.kioskoymas.com/portada/lector/e199",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0302": {
+        "Date": "2019-10-21 02:13:55.091865",
+        "Link": "https://retina.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0303": {
+        "Date": "2019-10-21 02:13:55.091943",
+        "Link": "https://retina.elpais.com/autor/montserrat_hidalgo_perez/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0304": {
+        "Date": "2019-10-21 02:13:55.092020",
+        "Link": "https://retina.elpais.com/retina/2019/10/15/tendencias/1571134886_981744.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0305": {
+        "Date": "2019-10-21 02:13:55.092098",
+        "Link": "https://smoda.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0306": {
+        "Date": "2019-10-21 02:13:55.092180",
+        "Link": "https://smoda.elpais.com/moda/el-milagro-economico-de-las-cremas-espanolas-que-las-turistas-chinas-compran-a-granel",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0307": {
+        "Date": "2019-10-21 02:13:55.092259",
+        "Link": "https://smoda.elpais.com/placeres/como-se-si-soy-bueno-en-la-cama",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0308": {
+        "Date": "2019-10-21 02:13:55.092336",
+        "Link": "https://twitter.com/el_pais",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0309": {
+        "Date": "2019-10-21 02:13:55.092414",
+        "Link": "https://usuarios.elpais.com/newsletters",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0310": {
+        "Date": "2019-10-21 02:13:55.092492",
+        "Link": "https://verne.elpais.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0311": {
+        "Date": "2019-10-21 02:13:55.092569",
+        "Link": "https://verne.elpais.com/autor/ana_bulnes_fraga/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0312": {
+        "Date": "2019-10-21 02:13:55.092647",
+        "Link": "https://verne.elpais.com/autor/pablo_canto_martinez/a",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0313": {
+        "Date": "2019-10-21 02:13:55.092724",
+        "Link": "https://verne.elpais.com/mx",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0314": {
+        "Date": "2019-10-21 02:13:55.092802",
+        "Link": "https://verne.elpais.com/verne/2015/08/04/articulo/1438683590_611299.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0315": {
+        "Date": "2019-10-21 02:13:55.092884",
+        "Link": "https://verne.elpais.com/verne/2018/08/07/mexico/1533666427_133210.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0316": {
+        "Date": "2019-10-21 02:13:55.092962",
+        "Link": "https://verne.elpais.com/verne/2018/10/01/articulo/1538386654_578049.html",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0317": {
+        "Date": "2019-10-21 02:13:55.093047",
+        "Link": "https://verne.elpais.com/verne/2019/10/11/articulo/1570791051_799377.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0318": {
+        "Date": "2019-10-21 02:13:55.093126",
+        "Link": "https://verne.elpais.com/verne/2019/10/14/articulo/1571044143_276215.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0319": {
+        "Date": "2019-10-21 02:13:55.093204",
+        "Link": "https://verne.elpais.com/verne/2019/10/14/articulo/1571059083_103228.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0320": {
+        "Date": "2019-10-21 02:13:55.093282",
+        "Link": "https://verne.elpais.com/verne/2019/10/17/articulo/1571329769_479612.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0321": {
+        "Date": "2019-10-21 02:13:55.093359",
+        "Link": "https://verne.elpais.com/verne/2019/10/18/articulo/1571408748_311592.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0322": {
+        "Date": "2019-10-21 02:13:55.093438",
+        "Link": "https://verne.elpais.com/verne/2019/10/19/articulo/1571502238_332326.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0323": {
+        "Date": "2019-10-21 02:13:55.093522",
+        "Link": "https://verne.elpais.com/verne/2019/10/19/mexico/1571438782_185488.html",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0324": {
+        "Date": "2019-10-21 02:13:55.093601",
+        "Link": "https://www.emagister.com.mx/cursolanding",
+        "Status": {
+            "Code": "500",
+            "Meaning": "Internal Server Error: A generic error message, given when no more specific message is suitable",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0325": {
+        "Date": "2019-10-21 02:13:55.093679",
+        "Link": "https://www.emagister.com.mx/landing/main",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0326": {
+        "Date": "2019-10-21 02:13:55.093758",
+        "Link": "https://www.emagister.com/express/informatica-10/mba-master-big-data-business-intelligence-cursos-3453730.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0327": {
+        "Date": "2019-10-21 02:13:55.093844",
+        "Link": "https://www.emagister.com/express/mba-master-direccion-hotelera-turismo-cursos-3344156.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0328": {
+        "Date": "2019-10-21 02:13:55.093923",
+        "Link": "https://www.emagister.com/express/mba-master-marketing-digital-ecommerce-cursos-3024348.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0329": {
+        "Date": "2019-10-21 02:13:55.094001",
+        "Link": "https://www.emagister.com/express/mba-master-project-management-cursos-3407589.htm",
+        "Status": {
+            "Code": "403",
+            "Meaning": "Forbidden: The request was a legal request, but the server is refusing to respond to it",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0330": {
+        "Date": "2019-10-21 02:13:55.094084",
+        "Link": "https://www.facebook.com/elpais",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0331": {
+        "Date": "2019-10-21 02:13:55.094162",
+        "Link": "https://www.huffingtonpost.es/entry/la-comentadisima-foto-de-telma-ortiz-hermana-de-letizia-en-los-premios-princesa-de-asturias_es_5da9ec5fe4b0e0f0378b6512",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0332": {
+        "Date": "2019-10-21 02:13:55.094240",
+        "Link": "https://www.instagram.com/el_pais",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0333": {
+        "Date": "2019-10-21 02:13:55.094317",
+        "Link": "https://www.wradio.com.co/noticias/actualidad/hubo-un-error-por-parte-de-los-guardias-que-custodiaban-a-merlano-william-ernesto-ruiz/20191002/nota/3960475.aspx",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0334": {
+        "Date": "2019-10-21 02:13:55.094395",
+        "Link": "https://www.youtube.com/playlist",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0335": {
+        "Date": "2019-10-21 02:13:55.094498",
+        "Link": "https://www.youtube.com/user/elpaiscom/featured",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

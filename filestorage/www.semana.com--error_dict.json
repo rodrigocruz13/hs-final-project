@@ -1,0 +1,434 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 13:03:07.438037",
+        "Link": "http://aliados.semana.com/apuestapormasempresaslideres",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 13:03:07.438317",
+        "Link": "http://aliados.semana.com/aquiconstruimospais",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 13:03:07.438475",
+        "Link": "http://aliados.semana.com/stopoverholamadrid",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 13:03:07.438609",
+        "Link": "http://aliados.semana.com/vivir-tena",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 13:03:07.438858",
+        "Link": "http://especiales.semana.com/balas-perdidas",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0007": {
+        "Date": "2019-10-21 13:03:07.438970",
+        "Link": "http://especiales.semana.com/cuidando-animales-salvajes-victimas-del-trafico-ilegal",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 13:03:07.439082",
+        "Link": "http://especiales.semana.com/el-asesinato-de-dimar-torres",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0010": {
+        "Date": "2019-10-21 13:03:07.439323",
+        "Link": "http://especiales.semana.com/el-regreso-del-paramilitarismo-en-el-bajo-cauca",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 13:03:07.439626",
+        "Link": "http://especiales.semana.com/los-perros-de-la-guerra",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0013": {
+        "Date": "2019-10-21 13:03:07.439752",
+        "Link": "http://especiales.semana.com/volver-a-ser-embera-despues-del-conflicto-armado-en-colombia",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0034": {
+        "Date": "2019-10-21 13:03:07.442320",
+        "Link": "http://www.semana.com/User/LoginMetered",
+        "Status": {
+            "Code": "503",
+            "Meaning": "Service Unavailable: The server is currently unavailable (overloaded or down)",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0046": {
+        "Date": "2019-10-21 13:03:07.443541",
+        "Link": "http://www.semana.com/cultura/articulo/resena-de-pelicula-hacia-la-luz-de-la-directora-japonesa-naomi-kawase/636470",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0054": {
+        "Date": "2019-10-21 13:03:07.444451",
+        "Link": "http://www.semana.com/especiales",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0064": {
+        "Date": "2019-10-21 13:03:07.445248",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/el-mio-se-recarga-con-energias-limpias/635458",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0066": {
+        "Date": "2019-10-21 13:03:07.445403",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/integralidad-y-oportunidad/635898",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0069": {
+        "Date": "2019-10-21 13:03:07.445633",
+        "Link": "http://www.semana.com/hablan-las-marcas/articulo/madrid-al-estilo-iberia-descanso-y-compras/634999",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0091": {
+        "Date": "2019-10-21 13:03:07.447396",
+        "Link": "http://www.semana.com/nacion/articulo/caso-uribe-tension-entre-la-justicia-de-eeuu-y-la-corte-por-pruebas/636709",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0105": {
+        "Date": "2019-10-21 13:03:07.448494",
+        "Link": "http://www.semana.com/nacion/multimedia/candidatos-a-la-alcaldia-de-bogota-comen-tamal-gallina-y-piquete/636657",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0129": {
+        "Date": "2019-10-21 13:03:07.450789",
+        "Link": "http://www.semana.com/noticias/broadway/116406",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0130": {
+        "Date": "2019-10-21 13:03:07.450866",
+        "Link": "http://www.semana.com/noticias/bulgaria/105724",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0135": {
+        "Date": "2019-10-21 13:03:07.452179",
+        "Link": "http://www.semana.com/noticias/caminata-espacial-mujeres/124650",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0137": {
+        "Date": "2019-10-21 13:03:07.452357",
+        "Link": "http://www.semana.com/noticias/cancer-infantil/112985",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0140": {
+        "Date": "2019-10-21 13:03:07.452615",
+        "Link": "http://www.semana.com/noticias/candidatos-a-la-alcaldia-de-barranquilla/123024",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0145": {
+        "Date": "2019-10-21 13:03:07.453167",
+        "Link": "http://www.semana.com/noticias/candidatos-asesinados/123631",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0146": {
+        "Date": "2019-10-21 13:03:07.453280",
+        "Link": "http://www.semana.com/noticias/candidatura-de-claudia-lopez/120043",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0154": {
+        "Date": "2019-10-21 13:03:07.454186",
+        "Link": "http://www.semana.com/noticias/chile/102848",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0201": {
+        "Date": "2019-10-21 13:03:07.458424",
+        "Link": "http://www.semana.com/noticias/feminicidio/105821",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0203": {
+        "Date": "2019-10-21 13:03:07.458576",
+        "Link": "http://www.semana.com/noticias/flip/103511",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0218": {
+        "Date": "2019-10-21 13:03:07.459732",
+        "Link": "http://www.semana.com/noticias/iniciativas-artisticas-en-las-carceles/123571",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0224": {
+        "Date": "2019-10-21 13:03:07.460195",
+        "Link": "http://www.semana.com/noticias/jerusalen/114393",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0229": {
+        "Date": "2019-10-21 13:03:07.460582",
+        "Link": "http://www.semana.com/noticias/la-mona-lisa/117088",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0293": {
+        "Date": "2019-10-21 13:03:07.465829",
+        "Link": "http://www.semana.com/noticias/sergio-trujillo-broadway/124654",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0294": {
+        "Date": "2019-10-21 13:03:07.465908",
+        "Link": "http://www.semana.com/noticias/sergio-trujillo-gana-un-premio-tony/119222",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0309": {
+        "Date": "2019-10-21 13:03:07.467203",
+        "Link": "http://www.semana.com/on-line/multimedia/entrevista-con-carlos-holmes-trujillo-sobre-las-relaciones-entre-cuba-y-colombi/636776",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0329": {
+        "Date": "2019-10-21 13:03:07.468829",
+        "Link": "http://www.semana.com/seccion/tecnologia/252-1",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0340": {
+        "Date": "2019-10-21 13:03:07.470252",
+        "Link": "http://www.semana.com/vida-moderna/articulo/la-excitacion-sexual-de-las-mujeres-con-el-porno-es-igual-a-la-de-los-hombres-segun-estudio/636467",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0352": {
+        "Date": "2019-10-21 13:03:07.471356",
+        "Link": "https://especiales.semana.com/colombianos-tour-de-francia-2019",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0355": {
+        "Date": "2019-10-21 13:03:07.471587",
+        "Link": "https://especiales.semana.com/tribus-indigenas-de-colombia-aisladas-en-el-amazonas",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0360": {
+        "Date": "2019-10-21 13:03:07.472207",
+        "Link": "https://play.google.com/store/apps/details",
+        "Status": {
+            "Code": "400",
+            "Meaning": "Bad Request: The request cannot be fulfilled due to bad syntax",
+            "Type": " USER ERROR "
+        }
+    },
+    "Check 0393": {
+        "Date": "2019-10-21 13:03:07.475585",
+        "Link": "https://www.semana.com/User/LoginMetered",
+        "Status": {
+            "Code": "503",
+            "Meaning": "Service Unavailable: The server is currently unavailable (overloaded or down)",
+            "Type": "SERVER ERROR"
+        }
+    },
+    "Check 0394": {
+        "Date": "2019-10-21 13:03:07.475692",
+        "Link": "https://www.semana.com/Videos",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0457": {
+        "Date": "2019-10-21 13:03:07.482216",
+        "Link": "https://www.semana.com/nacion/articulo/en-tumaco-asesinan-a-un-periodista-de-emisora-comunitaria/636831",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0458": {
+        "Date": "2019-10-21 13:03:07.482317",
+        "Link": "https://www.semana.com/nacion/articulo/estadounidense-murio-en-el-aeropuerto-el-dorado-testigos-afirman-que-hubo-negligencia/636805",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0459": {
+        "Date": "2019-10-21 13:03:07.482424",
+        "Link": "https://www.semana.com/nacion/articulo/gobierno-colombiano-consulta-si-la-reeleccion-indefinida-es-un-derecho-humano-protegido/636839",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0538": {
+        "Date": "2019-10-21 13:03:07.491240",
+        "Link": "https://www.semana.com/noticias/dea/103804",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0637": {
+        "Date": "2019-10-21 13:03:07.500817",
+        "Link": "https://www.semana.com/noticias/reforma-tributaria/103299",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0661": {
+        "Date": "2019-10-21 13:03:07.503799",
+        "Link": "https://www.semana.com/noticias/transporte-en-bogota/124363",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0668": {
+        "Date": "2019-10-21 13:03:07.504641",
+        "Link": "https://www.semana.com/noticias/xenofobia/114578",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Error: Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    }
+}

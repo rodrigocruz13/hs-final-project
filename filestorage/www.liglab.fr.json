@@ -1,0 +1,776 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 15:34:39.994447",
+        "Link": "http://www.cnrs.fr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 15:34:40.054248",
+        "Link": "http://www.grenoble-inp.fr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 15:34:41.225381",
+        "Link": "http://www.inria.fr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 15:34:39.713246",
+        "Link": "http://www.liglab.fr/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0005": {
+        "Date": "2019-10-21 15:34:39.683940",
+        "Link": "http://www.liglab.fr/en",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 15:34:39.787511",
+        "Link": "http://www.liglab.fr/fr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0007": {
+        "Date": "2019-10-21 15:34:39.816522",
+        "Link": "http://www.liglab.fr/fr/emplois/offres-d-emploi",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 15:34:39.691800",
+        "Link": "http://www.liglab.fr/fr/evenements/actualites",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0009": {
+        "Date": "2019-10-21 15:34:50.714199",
+        "Link": "http://www.liglab.fr/fr/evenements/faits-marquants",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0010": {
+        "Date": "2019-10-21 15:34:40.139331",
+        "Link": "http://www.liglab.fr/fr/evenements/keynote-speeches",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0011": {
+        "Date": "2019-10-21 15:34:39.798188",
+        "Link": "http://www.liglab.fr/fr/evenements/keynote-speeches/alexis-drogoul-supporting-climate-change-adaptation-planning-and",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 15:34:39.847194",
+        "Link": "http://www.liglab.fr/fr/evenements/keynote-speeches/christian-jutten-processing-of-multimodal-data-benefit-or-loss",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0013": {
+        "Date": "2019-10-21 15:34:39.770100",
+        "Link": "http://www.liglab.fr/fr/evenements/seminaires",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0014": {
+        "Date": "2019-10-21 15:34:39.866151",
+        "Link": "http://www.liglab.fr/fr/evenements/seminaires/alex-bredariol-grilo-stoquastic-pcp-vs-randomness",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0015": {
+        "Date": "2019-10-21 15:34:39.808097",
+        "Link": "http://www.liglab.fr/fr/evenements/seminaires/journee-du-pre-gdr-2019-sur-le-traitement-automatique-des-langues",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0016": {
+        "Date": "2019-10-21 15:34:39.837443",
+        "Link": "http://www.liglab.fr/fr/evenements/seminaires/sanghamitra-bandyopadhyay-computational-challenges-in-biology",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0017": {
+        "Date": "2019-10-21 15:34:46.313297",
+        "Link": "http://www.liglab.fr/fr/evenements/seminaires/themis-palpanas-from-data-series-indexing-to-big-data-series-analytics",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0018": {
+        "Date": "2019-10-21 15:34:39.826415",
+        "Link": "http://www.liglab.fr/fr/evenements/theses-et-hdr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0019": {
+        "Date": "2019-10-21 15:34:45.480204",
+        "Link": "http://www.liglab.fr/fr/evenements/theses-et-hdr/alessandro-fenicio-ingenierie-de-linteraction-homme-machine-et-persuasion",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0020": {
+        "Date": "2019-10-21 15:34:39.856789",
+        "Link": "http://www.liglab.fr/fr/evenements/theses-et-hdr/diana-nicoleta-popa-from-lexical-towards-contextualized-meaning",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0021": {
+        "Date": "2019-10-21 15:34:45.490384",
+        "Link": "http://www.liglab.fr/fr/evenements/theses-et-hdr/fatemeh-movahedian-iseacap-une-methode-participative-gamifiee-pour-mieux",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0022": {
+        "Date": "2019-10-21 15:34:45.471055",
+        "Link": "http://www.liglab.fr/fr/evenements/theses-et-hdr/sandra-castellanos-paez-apprentissage-de-routines-pour-la-prise-de-decision",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0023": {
+        "Date": "2019-10-21 15:34:40.121479",
+        "Link": "http://www.liglab.fr/fr/la-recherche/axes-et-equipes-de-recherche",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0024": {
+        "Date": "2019-10-21 15:34:39.883349",
+        "Link": "http://www.liglab.fr/fr/membres/chercheurs-et-enseignants-chercheurs",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0025": {
+        "Date": "2019-10-21 15:34:42.998026",
+        "Link": "http://www.liglab.fr/fr/node/642",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0026": {
+        "Date": "2019-10-21 15:34:55.035950",
+        "Link": "http://www.liglab.fr/fr/presentation/ambassadeurs",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0027": {
+        "Date": "2019-10-21 15:34:52.227773",
+        "Link": "http://www.liglab.fr/fr/presentation/association-synergy",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0028": {
+        "Date": "2019-10-21 15:34:41.382232",
+        "Link": "http://www.liglab.fr/fr/presentation/direction-et-responsables",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0029": {
+        "Date": "2019-10-21 15:34:54.038457",
+        "Link": "http://www.liglab.fr/fr/presentation/faits-marquants",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0030": {
+        "Date": "2019-10-21 15:34:42.358131",
+        "Link": "http://www.liglab.fr/fr/presentation/faits-marquants/1er-prix-du-jury-pour-soulaimane-guedria-et-ses-deux-co-equipiers-a-la",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0031": {
+        "Date": "2019-10-21 15:34:42.348718",
+        "Link": "http://www.liglab.fr/fr/presentation/faits-marquants/pierre-neyron-medaille-de-cristal-du-cnrs-2019",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0032": {
+        "Date": "2019-10-21 15:34:52.665109",
+        "Link": "http://www.liglab.fr/fr/presentation/liens-utiles",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0033": {
+        "Date": "2019-10-21 15:34:45.798062",
+        "Link": "http://www.liglab.fr/fr/presentation/organigramme",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0034": {
+        "Date": "2019-10-21 15:34:56.130007",
+        "Link": "http://www.liglab.fr/fr/presentation/presentation-du-laboratoire",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0035": {
+        "Date": "2019-10-21 15:34:58.380568",
+        "Link": "http://www.liglab.fr/fr/presentation/vu-dans-la-presse",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0036": {
+        "Date": "2019-10-21 15:34:42.780287",
+        "Link": "http://www.liglab.fr/fr/publications",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0037": {
+        "Date": "2019-10-21 15:34:45.900815",
+        "Link": "http://www.liglab.fr/fr/user/login",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0038": {
+        "Date": "2019-10-21 15:34:42.611661",
+        "Link": "http://www.liglab.fr/fr/util/acces-au-lig",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0039": {
+        "Date": "2019-10-21 15:34:45.075280",
+        "Link": "http://www.liglab.fr/fr/util/annuaire",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0040": {
+        "Date": "2019-10-21 15:34:55.048459",
+        "Link": "http://www.liglab.fr/fr/util/contact",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0041": {
+        "Date": "2019-10-21 15:34:45.413001",
+        "Link": "http://www.liglab.fr/fr/util/plan-du-site",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0042": {
+        "Date": "2019-10-21 15:34:42.203146",
+        "Link": "http://www.u-grenoble3.fr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0043": {
+        "Date": "2019-10-21 15:34:42.540840",
+        "Link": "http://www.ujf-grenoble.fr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0044": {
+        "Date": "2019-10-21 15:34:42.409756",
+        "Link": "http://www.univ-grenoble-alpes.fr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0045": {
+        "Date": "2019-10-21 15:34:39.402354",
+        "Link": "http://www.upmf-grenoble.fr",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0046": {
+        "Date": "2019-10-21 15:34:41.020488",
+        "Link": "https://intranet.liglab.fr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0047": {
+        "Date": "2019-10-21 15:34:59.916014",
+        "Link": "https://service.aximag.fr/xwiki/bin/view/imag/LIG-LAB",
+        "Status": {
+            "Code": "999",
+            "Meaning": "Server IP address could not be found",
+            "Type": " IP PROBLEM "
+        }
+    },
+    "Check 0048": {
+        "Date": "2019-10-21 15:34:39.995846",
+        "Link": "https://twitter.com/LIGLab",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0049": {
+        "Date": "2019-10-21 15:34:41.362276",
+        "Link": "https://www.liglab.fr/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0050": {
+        "Date": "2019-10-21 15:34:41.305075",
+        "Link": "https://www.liglab.fr/en",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0051": {
+        "Date": "2019-10-21 15:34:41.147206",
+        "Link": "https://www.liglab.fr/fr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0052": {
+        "Date": "2019-10-21 15:34:40.413963",
+        "Link": "https://www.liglab.fr/fr/emplois/offres-d-emploi",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0053": {
+        "Date": "2019-10-21 15:34:54.168047",
+        "Link": "https://www.liglab.fr/fr/evenements/actualites",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0054": {
+        "Date": "2019-10-21 15:34:41.435670",
+        "Link": "https://www.liglab.fr/fr/evenements/faits-marquants",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0055": {
+        "Date": "2019-10-21 15:34:41.547237",
+        "Link": "https://www.liglab.fr/fr/evenements/keynote-speeches",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0056": {
+        "Date": "2019-10-21 15:34:41.331487",
+        "Link": "https://www.liglab.fr/fr/evenements/keynote-speeches/alexis-drogoul-supporting-climate-change-adaptation-planning-and",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0057": {
+        "Date": "2019-10-21 15:34:52.340597",
+        "Link": "https://www.liglab.fr/fr/evenements/keynote-speeches/christian-jutten-processing-of-multimodal-data-benefit-or-loss",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0058": {
+        "Date": "2019-10-21 15:34:41.351594",
+        "Link": "https://www.liglab.fr/fr/evenements/seminaires",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0059": {
+        "Date": "2019-10-21 15:34:54.142099",
+        "Link": "https://www.liglab.fr/fr/evenements/seminaires/alex-bredariol-grilo-stoquastic-pcp-vs-randomness",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0060": {
+        "Date": "2019-10-21 15:34:54.068405",
+        "Link": "https://www.liglab.fr/fr/evenements/seminaires/journee-du-pre-gdr-2019-sur-le-traitement-automatique-des-langues",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0061": {
+        "Date": "2019-10-21 15:34:54.103558",
+        "Link": "https://www.liglab.fr/fr/evenements/seminaires/sanghamitra-bandyopadhyay-computational-challenges-in-biology",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0062": {
+        "Date": "2019-10-21 15:34:52.983169",
+        "Link": "https://www.liglab.fr/fr/evenements/seminaires/themis-palpanas-from-data-series-indexing-to-big-data-series-analytics",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0063": {
+        "Date": "2019-10-21 15:34:41.341320",
+        "Link": "https://www.liglab.fr/fr/evenements/theses-et-hdr",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0064": {
+        "Date": "2019-10-21 15:34:53.815362",
+        "Link": "https://www.liglab.fr/fr/evenements/theses-et-hdr/alessandro-fenicio-ingenierie-de-linteraction-homme-machine-et-persuasion",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0065": {
+        "Date": "2019-10-21 15:34:54.023543",
+        "Link": "https://www.liglab.fr/fr/evenements/theses-et-hdr/diana-nicoleta-popa-from-lexical-towards-contextualized-meaning",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0066": {
+        "Date": "2019-10-21 15:34:54.647589",
+        "Link": "https://www.liglab.fr/fr/evenements/theses-et-hdr/fatemeh-movahedian-iseacap-une-methode-participative-gamifiee-pour-mieux",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0067": {
+        "Date": "2019-10-21 15:34:54.600748",
+        "Link": "https://www.liglab.fr/fr/evenements/theses-et-hdr/sandra-castellanos-paez-apprentissage-de-routines-pour-la-prise-de-decision",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0068": {
+        "Date": "2019-10-21 15:34:43.526843",
+        "Link": "https://www.liglab.fr/fr/la-recherche/axes-et-equipes-de-recherche",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0069": {
+        "Date": "2019-10-21 15:34:43.318581",
+        "Link": "https://www.liglab.fr/fr/membres/chercheurs-et-enseignants-chercheurs",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0070": {
+        "Date": "2019-10-21 15:34:45.005198",
+        "Link": "https://www.liglab.fr/fr/node/642",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0071": {
+        "Date": "2019-10-21 15:34:57.045914",
+        "Link": "https://www.liglab.fr/fr/presentation/ambassadeurs",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0072": {
+        "Date": "2019-10-21 15:34:54.123329",
+        "Link": "https://www.liglab.fr/fr/presentation/association-synergy",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0073": {
+        "Date": "2019-10-21 15:34:42.988638",
+        "Link": "https://www.liglab.fr/fr/presentation/direction-et-responsables",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0074": {
+        "Date": "2019-10-21 15:34:45.016090",
+        "Link": "https://www.liglab.fr/fr/presentation/faits-marquants",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0075": {
+        "Date": "2019-10-21 15:34:44.953178",
+        "Link": "https://www.liglab.fr/fr/presentation/faits-marquants/1er-prix-du-jury-pour-soulaimane-guedria-et-ses-deux-co-equipiers-a-la",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0076": {
+        "Date": "2019-10-21 15:34:44.942576",
+        "Link": "https://www.liglab.fr/fr/presentation/faits-marquants/pierre-neyron-medaille-de-cristal-du-cnrs-2019",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0077": {
+        "Date": "2019-10-21 15:34:44.971716",
+        "Link": "https://www.liglab.fr/fr/presentation/liens-utiles",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0078": {
+        "Date": "2019-10-21 15:34:44.764100",
+        "Link": "https://www.liglab.fr/fr/presentation/organigramme",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0079": {
+        "Date": "2019-10-21 15:34:44.963713",
+        "Link": "https://www.liglab.fr/fr/presentation/presentation-du-laboratoire",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0080": {
+        "Date": "2019-10-21 15:34:44.992811",
+        "Link": "https://www.liglab.fr/fr/presentation/vu-dans-la-presse",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0081": {
+        "Date": "2019-10-21 15:34:44.746109",
+        "Link": "https://www.liglab.fr/fr/publications",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0082": {
+        "Date": "2019-10-21 15:34:54.001081",
+        "Link": "https://www.liglab.fr/fr/user/login",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0083": {
+        "Date": "2019-10-21 15:34:46.275367",
+        "Link": "https://www.liglab.fr/fr/util/acces-au-lig",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0084": {
+        "Date": "2019-10-21 15:34:44.719840",
+        "Link": "https://www.liglab.fr/fr/util/annuaire",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0085": {
+        "Date": "2019-10-21 15:34:54.690028",
+        "Link": "https://www.liglab.fr/fr/util/contact",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0086": {
+        "Date": "2019-10-21 15:34:45.860779",
+        "Link": "https://www.liglab.fr/fr/util/plan-du-site",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}

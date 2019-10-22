@@ -1,0 +1,1388 @@
+{
+    "Check 0001": {
+        "Date": "2019-10-21 13:04:56.308468",
+        "Link": "http://qhubo.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0002": {
+        "Date": "2019-10-21 13:04:56.308721",
+        "Link": "http://www.cartagenamagica.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0003": {
+        "Date": "2019-10-21 13:04:56.308852",
+        "Link": "http://www.eluniversal.com.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0004": {
+        "Date": "2019-10-21 13:04:56.308959",
+        "Link": "http://www.eluniversal.com.co/cartagena/comunidad-en-simon-bolivar-dice-que-arreglos-de-transcaribe-los-enferma-KH1900840",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0005": {
+        "Date": "2019-10-21 13:04:56.309063",
+        "Link": "http://www.eluniversal.com.co/cartagena/la-vida-mas-alla-de-la-via-perimetral-HE1897548",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0006": {
+        "Date": "2019-10-21 13:04:56.309165",
+        "Link": "http://www.eluniversal.com.co/cartagena/sigue-la-busqueda-de-madres-sustitutas-en-la-region-AE1897714",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0007": {
+        "Date": "2019-10-21 13:04:56.309269",
+        "Link": "http://www.eluniversal.com.co/cartagena/supertransporte-formulo-cargos-contra-el-datt-por-no-controlar-el-transporte-ilegal-GG1901190",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0008": {
+        "Date": "2019-10-21 13:04:56.309371",
+        "Link": "http://www.eluniversal.com.co/colombia/duque-no-esta-interesado-en-reactivar-la-reeleccion-en-colombia-cancilleria-AG1901442",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0009": {
+        "Date": "2019-10-21 13:04:56.309472",
+        "Link": "http://www.eluniversal.com.co/colombia/gobierno-buscara-limitar-entrega-de-bienes-de-las-farc-hasta-el-31-de-diciembre-BG1901641",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0010": {
+        "Date": "2019-10-21 13:04:56.309573",
+        "Link": "http://www.eluniversal.com.co/deportes/futbol/nueva-negativa-de-dimayor-no-se-reunira-con-acolfutpro-y-mintrabajo-DG1901207",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0011": {
+        "Date": "2019-10-21 13:04:56.309674",
+        "Link": "http://www.eluniversal.com.co/deportes/juegos-nacionales-recorrido-seminario-y-entrega-de-obra-GG1901769",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0012": {
+        "Date": "2019-10-21 13:04:56.309777",
+        "Link": "http://www.eluniversal.com.co/deportes/la-carrera-del-amor-en-la-media-maraton-del-mar-JH1900579",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0013": {
+        "Date": "2019-10-21 13:04:56.309881",
+        "Link": "http://www.eluniversal.com.co/farandula",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0014": {
+        "Date": "2019-10-21 13:04:56.309982",
+        "Link": "http://www.eluniversal.com.co/farandula/diez-canciones-para-recordar-a-celia-cruz-en-su-cumpleanos-FH1900689",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0015": {
+        "Date": "2019-10-21 13:04:56.310084",
+        "Link": "http://www.eluniversal.com.co/farandula/diva-jessurum-denuncio-grave-ataque-a-su-casa-en-puerto-colombia-LG1901591",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0016": {
+        "Date": "2019-10-21 13:04:56.310185",
+        "Link": "http://www.eluniversal.com.co/farandula/la-razon-por-la-que-silvestre-dangond-no-estara-en-a-otro-nivel-YG1901313",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0017": {
+        "Date": "2019-10-21 13:04:56.310289",
+        "Link": "http://www.eluniversal.com.co/informe-empresarial/agua-para-la-expansion-de-cartagena-de-indias-LH1900184",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0018": {
+        "Date": "2019-10-21 13:04:56.310390",
+        "Link": "http://www.eluniversal.com.co/multimedia/galerias-de-fotos/fotos-revive-los-mejores-momentos-de-la-media-maraton-del-mar-EE1897565",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0019": {
+        "Date": "2019-10-21 13:04:56.310491",
+        "Link": "http://www.eluniversal.com.co/multimedia/video/video-asi-avanza-el-mantenimiento-del-parque-centenario-GE1897282",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0020": {
+        "Date": "2019-10-21 13:04:56.310594",
+        "Link": "http://www.eluniversal.com.co/multimedia/video/video-el-puente-de-las-palmas-esta-suspendido-en-el-aire-BG1901751",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0021": {
+        "Date": "2019-10-21 13:04:56.310695",
+        "Link": "http://www.eluniversal.com.co/multimedia/video/video-el-surf-terapia-para-el-autismo-CG1901260",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0022": {
+        "Date": "2019-10-21 13:04:56.310799",
+        "Link": "http://www.eluniversal.com.co/multimedia/video/video-grito-de-independencia-LG1901296",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0023": {
+        "Date": "2019-10-21 13:04:56.310903",
+        "Link": "http://www.eluniversal.com.co/multimedia/video/video-la-marihuana-medicinal-en-tailandia-puede-curar-el-cancer-IH1900596",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0024": {
+        "Date": "2019-10-21 13:04:56.311022",
+        "Link": "http://www.eluniversal.com.co/multimedia/video/video-la-protesta-social-enciende-el-mundo-YH1900670",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0025": {
+        "Date": "2019-10-21 13:04:56.311127",
+        "Link": "http://www.eluniversal.com.co/multimedia/video/video-scorsese-defiende-la-produccion-de-netflix-primero-el-filme-debe-hacerse-CG1901501",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0026": {
+        "Date": "2019-10-21 13:04:56.311241",
+        "Link": "http://www.eluniversal.com.co/multimedia/video/yoryina-martinez-es-la-representante-de-san-vincente-de-paul-al-reinado-de-independencia-GY1890239",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0027": {
+        "Date": "2019-10-21 13:04:56.311356",
+        "Link": "http://www.eluniversal.com.co/mundo/un-colombiano-muerto-y-otro-herido-en-protestas-de-chile-CH1900613",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0028": {
+        "Date": "2019-10-21 13:04:56.311466",
+        "Link": "http://www.eluniversal.com.co/opinion/caricatura",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0029": {
+        "Date": "2019-10-21 13:04:56.311573",
+        "Link": "http://www.eluniversal.com.co/opinion/caricatura/imagen-21-de-oct-jpg-AG1899130",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0030": {
+        "Date": "2019-10-21 13:04:56.311680",
+        "Link": "http://www.eluniversal.com.co/opinion/columna",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0031": {
+        "Date": "2019-10-21 13:04:56.311788",
+        "Link": "http://www.eluniversal.com.co/opinion/columna/ajustes-a-la-ley-de-financiamiento-LC1895418",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0032": {
+        "Date": "2019-10-21 13:04:56.311896",
+        "Link": "http://www.eluniversal.com.co/opinion/columna/alcalde-por-un-segundo-NG1899096",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0033": {
+        "Date": "2019-10-21 13:04:56.312003",
+        "Link": "http://www.eluniversal.com.co/opinion/columna/cuidar-la-gobernabilidad-AC1895435",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0034": {
+        "Date": "2019-10-21 13:04:56.312115",
+        "Link": "http://www.eluniversal.com.co/opinion/columna/de-espalda-a-los-debates-BC1895452",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0035": {
+        "Date": "2019-10-21 13:04:56.312222",
+        "Link": "http://www.eluniversal.com.co/opinion/columna/elegir-la-personalidad-BG1899113",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0036": {
+        "Date": "2019-10-21 13:04:56.312326",
+        "Link": "http://www.eluniversal.com.co/opinion/columna/en-que-estamos-DC1895401",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0037": {
+        "Date": "2019-10-21 13:04:56.312429",
+        "Link": "http://www.eluniversal.com.co/opinion/columna/humanismo-digital-NE1897582",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0038": {
+        "Date": "2019-10-21 13:04:56.312531",
+        "Link": "http://www.eluniversal.com.co/opinion/columna/los-fariseos-de-la-politica-XG1899077",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0039": {
+        "Date": "2019-10-21 13:04:56.312634",
+        "Link": "http://www.eluniversal.com.co/opinion/editorial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0040": {
+        "Date": "2019-10-21 13:04:56.312735",
+        "Link": "http://www.eluniversal.com.co/sociales/boda-avila-dominguez-GD1894945",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0041": {
+        "Date": "2019-10-21 13:04:56.312837",
+        "Link": "http://www.eluniversal.com.co/sociales/congreso-nacional-de-la-hoteleria-2019-KH1898628",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0042": {
+        "Date": "2019-10-21 13:04:56.312944",
+        "Link": "http://www.eluniversal.com.co/sociales/ii-foro-caribe-ambiental-FH1898654",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0043": {
+        "Date": "2019-10-21 13:04:56.313046",
+        "Link": "http://www.eluniversal.com.co/sociales/primera-comunion-KD1894783",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0044": {
+        "Date": "2019-10-21 13:04:56.313147",
+        "Link": "http://www.eluniversal.com.co/sucesos/mi-hermano-no-tenia-enemigos-familia-de-asesinado-en-la-esperanza-HE1897696",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0045": {
+        "Date": "2019-10-21 13:04:56.313402",
+        "Link": "http://www.eluniversal.com.co/sucesos/roban-taches-y-lo-que-encuentran-en-calles-de-puerta-de-los-alpes-XG1901624",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0046": {
+        "Date": "2019-10-21 13:04:56.313603",
+        "Link": "http://www.eluniversal.com.co/suplementos/facetas/a-vengarse-MH1867680",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0047": {
+        "Date": "2019-10-21 13:04:56.313790",
+        "Link": "http://www.eluniversal.com.co/suplementos/facetas/artelisa-el-valor-de-las-artesanas-en-san-jacinto-KX1891378",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0048": {
+        "Date": "2019-10-21 13:04:56.314007",
+        "Link": "http://www.eluniversal.com.co/suplementos/facetas/cloudworkers-buen-clima-para-trabajar-en-la-nube-BB1892399",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0049": {
+        "Date": "2019-10-21 13:04:56.314142",
+        "Link": "http://www.eluniversal.com.co/suplementos/facetas/de-una-nefasta-herencia-y-como-CB1892613",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0050": {
+        "Date": "2019-10-21 13:04:56.314259",
+        "Link": "http://www.eluniversal.com.co/suplementos/facetas/getsemani-cuando-el-dolor-es-de-barrio-IC1859974",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0051": {
+        "Date": "2019-10-21 13:04:56.314389",
+        "Link": "http://www.eluniversal.com.co/suplementos/facetas/jay-raman-el-hombre-que-teje-intercambios-culturales-AB1892345",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0052": {
+        "Date": "2019-10-21 13:04:56.314497",
+        "Link": "http://www.eluniversal.com.co/suplementos/facetas/katheryn-la-nina-lider-del-barrio-nelson-mandela-EL1863170",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0053": {
+        "Date": "2019-10-21 13:04:56.314612",
+        "Link": "http://www.eluniversal.com.co/suplementos/facetas/lars-brurein-los-sabores-no-tienen-fronteras-YB1892111",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0054": {
+        "Date": "2019-10-21 13:04:56.314714",
+        "Link": "http://www.eluniversal.com.co/suplementos/facetas/simples-sonadores-complejos-CH1867545",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0055": {
+        "Date": "2019-10-21 13:04:56.314815",
+        "Link": "http://www.eluniversal.com.co/suscripcion-rss",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0056": {
+        "Date": "2019-10-21 13:04:56.314915",
+        "Link": "http://www.eluniversal.com.co/viernes/calidad-del-semen-clave-en-la-fertilidad-FE1886025",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0057": {
+        "Date": "2019-10-21 13:04:56.315008",
+        "Link": "http://www.eluniversal.com.co/viernes/camila-mira-hacia-adentro-con-un-nuevo-album-HE1886090",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0058": {
+        "Date": "2019-10-21 13:04:56.315128",
+        "Link": "http://www.eluniversal.com.co/viernes/fashion-sharing-la-nueva-tendencia-de-alquilar-ropa-BD1885614",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0059": {
+        "Date": "2019-10-21 13:04:56.315217",
+        "Link": "http://www.eluniversal.com.co/viernes/miel-complemento-de-salud-y-belleza-LD1885409",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0060": {
+        "Date": "2019-10-21 13:04:56.315296",
+        "Link": "http://www.eluniversal.com.co/viernes/nuevos-retos-educativos-ND1885807",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0061": {
+        "Date": "2019-10-21 13:04:56.315374",
+        "Link": "http://www.eluniversal.com.co/viernes/otra-opcion-de-pastas-ND1885852",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0062": {
+        "Date": "2019-10-21 13:04:56.315451",
+        "Link": "http://www.eluniversal.com.co/viernes/personaliza-y-llena-de-energia-tus-espacios-con-colores-2020-EB1883644",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0063": {
+        "Date": "2019-10-21 13:04:56.315530",
+        "Link": "http://www.eluniversal.com.co/viernes/recomendaciones-para-atenuar-la-apariencia-de-las-cicatrices-JD1885975",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0064": {
+        "Date": "2019-10-21 13:04:56.315608",
+        "Link": "http://www.eluniversal.com.co/viernes/un-recorrido-por-los-tesoros-del-caribe-mexicano-YB1883724",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0065": {
+        "Date": "2019-10-21 13:04:56.315685",
+        "Link": "http://www.eluniversalclasificados.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0066": {
+        "Date": "2019-10-21 13:04:56.315784",
+        "Link": "http://www.peradigital.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0067": {
+        "Date": "2019-10-21 13:04:56.315863",
+        "Link": "http://www.revistanovias.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0068": {
+        "Date": "2019-10-21 13:04:56.315940",
+        "Link": "http://www.revistanovias.co/artifices-de-un-sueno-191",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0069": {
+        "Date": "2019-10-21 13:04:56.316019",
+        "Link": "http://www.revistanovias.co/el-look-de-los-novios-193",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0070": {
+        "Date": "2019-10-21 13:04:56.316118",
+        "Link": "http://www.revistanovias.co/el-montaje-perfecto-188",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0071": {
+        "Date": "2019-10-21 13:04:56.316216",
+        "Link": "http://www.revistanovias.co/el-romanticismo-interior-189",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0072": {
+        "Date": "2019-10-21 13:04:56.316305",
+        "Link": "http://www.revistanovias.co/irradia-elegancia-con-tus-joyas-190",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0073": {
+        "Date": "2019-10-21 13:04:56.316390",
+        "Link": "http://www.revistanovias.co/look-de-invitada-195",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0074": {
+        "Date": "2019-10-21 13:04:56.316471",
+        "Link": "http://www.revistanovias.co/novias-2019-194",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0075": {
+        "Date": "2019-10-21 13:04:56.316558",
+        "Link": "http://www.revistanovias.co/permisos-para-bodas-en-lugares-especiales-186",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0076": {
+        "Date": "2019-10-21 13:04:56.316640",
+        "Link": "http://www.revistanovias.co/un-brindis-por-la-felicidad-187",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0077": {
+        "Date": "2019-10-21 13:04:56.316718",
+        "Link": "http://www.revistaturbo.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0078": {
+        "Date": "2019-10-21 13:04:56.316802",
+        "Link": "http://www.turismoporbolivar.com",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0079": {
+        "Date": "2019-10-21 13:04:56.316881",
+        "Link": "https://donde.co",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0080": {
+        "Date": "2019-10-21 13:04:56.316964",
+        "Link": "https://issuu.com/eluniversal/docs/gu_a_estudiantil_eu-_mayo_-_27_-201",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0081": {
+        "Date": "2019-10-21 13:04:56.317043",
+        "Link": "https://issuu.com/eluniversal/docs/novias_2019",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0082": {
+        "Date": "2019-10-21 13:04:56.317183",
+        "Link": "https://issuu.com/eluniversal/docs/revista_500",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0083": {
+        "Date": "2019-10-21 13:04:56.317306",
+        "Link": "https://issuu.com/eluniversal/docs/revistaviernes-2018-09-28",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0084": {
+        "Date": "2019-10-21 13:04:56.317389",
+        "Link": "https://issuu.com/eluniversal/docs/salud_y_belleza-2018-11-30",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0085": {
+        "Date": "2019-10-21 13:04:56.317469",
+        "Link": "https://issuu.com/eluniversal/docs/salud_y_belleza-junio-2018",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0086": {
+        "Date": "2019-10-21 13:04:56.317546",
+        "Link": "https://www.eluniversal.com.co/",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0087": {
+        "Date": "2019-10-21 13:04:56.317644",
+        "Link": "https://www.eluniversal.com.co/binrepository/col-eu-20191021_2285766_20191020225235.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0088": {
+        "Date": "2019-10-21 13:04:56.317730",
+        "Link": "https://www.eluniversal.com.co/binrepository/eu-16-10-2019-pagina-1-unica_2267025_20191015234417.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0089": {
+        "Date": "2019-10-21 13:04:56.317807",
+        "Link": "https://www.eluniversal.com.co/binrepository/eu-19-10-2019-pagina-1-unica_2280688_20191018232745.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0090": {
+        "Date": "2019-10-21 13:04:56.317884",
+        "Link": "https://www.eluniversal.com.co/binrepository/eu-20-10-2019-pagina-1-unica_2283557_20191019235418.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0091": {
+        "Date": "2019-10-21 13:04:56.317961",
+        "Link": "https://www.eluniversal.com.co/binrepository/portada15_2261798_20191014233052.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0092": {
+        "Date": "2019-10-21 13:04:56.318038",
+        "Link": "https://www.eluniversal.com.co/binrepository/portada17_2270754_20191016233226.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0093": {
+        "Date": "2019-10-21 13:04:56.318115",
+        "Link": "https://www.eluniversal.com.co/binrepository/portada18_2275671_20191017234712.pdf",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0094": {
+        "Date": "2019-10-21 13:04:56.318212",
+        "Link": "https://www.eluniversal.com.co/cartagena/comunidad-en-simon-bolivar-dice-que-arreglos-de-transcaribe-los-enferma-KH1900840",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0095": {
+        "Date": "2019-10-21 13:04:56.318292",
+        "Link": "https://www.eluniversal.com.co/cartagena/la-vida-mas-alla-de-la-via-perimetral-HE1897548",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0096": {
+        "Date": "2019-10-21 13:04:56.318370",
+        "Link": "https://www.eluniversal.com.co/cartagena/sigue-la-busqueda-de-madres-sustitutas-en-la-region-AE1897714",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0097": {
+        "Date": "2019-10-21 13:04:56.318447",
+        "Link": "https://www.eluniversal.com.co/cartagena/supertransporte-formulo-cargos-contra-el-datt-por-no-controlar-el-transporte-ilegal-GG1901190",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0098": {
+        "Date": "2019-10-21 13:04:56.318524",
+        "Link": "https://www.eluniversal.com.co/colombia/duque-no-esta-interesado-en-reactivar-la-reeleccion-en-colombia-cancilleria-AG1901442",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0099": {
+        "Date": "2019-10-21 13:04:56.318602",
+        "Link": "https://www.eluniversal.com.co/colombia/gobierno-buscara-limitar-entrega-de-bienes-de-las-farc-hasta-el-31-de-diciembre-BG1901641",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0100": {
+        "Date": "2019-10-21 13:04:56.318679",
+        "Link": "https://www.eluniversal.com.co/deportes/futbol/nueva-negativa-de-dimayor-no-se-reunira-con-acolfutpro-y-mintrabajo-DG1901207",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0101": {
+        "Date": "2019-10-21 13:04:56.318764",
+        "Link": "https://www.eluniversal.com.co/deportes/juegos-nacionales-recorrido-seminario-y-entrega-de-obra-GG1901769",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0102": {
+        "Date": "2019-10-21 13:04:56.318847",
+        "Link": "https://www.eluniversal.com.co/deportes/la-carrera-del-amor-en-la-media-maraton-del-mar-JH1900579",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0103": {
+        "Date": "2019-10-21 13:04:56.318925",
+        "Link": "https://www.eluniversal.com.co/farandula",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0104": {
+        "Date": "2019-10-21 13:04:56.319001",
+        "Link": "https://www.eluniversal.com.co/farandula/diez-canciones-para-recordar-a-celia-cruz-en-su-cumpleanos-FH1900689",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0105": {
+        "Date": "2019-10-21 13:04:56.319077",
+        "Link": "https://www.eluniversal.com.co/farandula/diva-jessurum-denuncio-grave-ataque-a-su-casa-en-puerto-colombia-LG1901591",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0106": {
+        "Date": "2019-10-21 13:04:56.319153",
+        "Link": "https://www.eluniversal.com.co/farandula/la-razon-por-la-que-silvestre-dangond-no-estara-en-a-otro-nivel-YG1901313",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0107": {
+        "Date": "2019-10-21 13:04:56.319235",
+        "Link": "https://www.eluniversal.com.co/informe-empresarial/agua-para-la-expansion-de-cartagena-de-indias-LH1900184",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0108": {
+        "Date": "2019-10-21 13:04:56.319319",
+        "Link": "https://www.eluniversal.com.co/multimedia/galerias-de-fotos/fotos-revive-los-mejores-momentos-de-la-media-maraton-del-mar-EE1897565",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0109": {
+        "Date": "2019-10-21 13:04:56.319395",
+        "Link": "https://www.eluniversal.com.co/multimedia/video/video-asi-avanza-el-mantenimiento-del-parque-centenario-GE1897282",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0110": {
+        "Date": "2019-10-21 13:04:56.319472",
+        "Link": "https://www.eluniversal.com.co/multimedia/video/video-el-puente-de-las-palmas-esta-suspendido-en-el-aire-BG1901751",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0111": {
+        "Date": "2019-10-21 13:04:56.319553",
+        "Link": "https://www.eluniversal.com.co/multimedia/video/video-el-surf-terapia-para-el-autismo-CG1901260",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0112": {
+        "Date": "2019-10-21 13:04:56.319630",
+        "Link": "https://www.eluniversal.com.co/multimedia/video/video-grito-de-independencia-LG1901296",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0113": {
+        "Date": "2019-10-21 13:04:56.319706",
+        "Link": "https://www.eluniversal.com.co/multimedia/video/video-la-marihuana-medicinal-en-tailandia-puede-curar-el-cancer-IH1900596",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0114": {
+        "Date": "2019-10-21 13:04:56.319782",
+        "Link": "https://www.eluniversal.com.co/multimedia/video/video-la-protesta-social-enciende-el-mundo-YH1900670",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0115": {
+        "Date": "2019-10-21 13:04:56.319859",
+        "Link": "https://www.eluniversal.com.co/multimedia/video/video-scorsese-defiende-la-produccion-de-netflix-primero-el-filme-debe-hacerse-CG1901501",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0116": {
+        "Date": "2019-10-21 13:04:56.319935",
+        "Link": "https://www.eluniversal.com.co/multimedia/video/yoryina-martinez-es-la-representante-de-san-vincente-de-paul-al-reinado-de-independencia-GY1890239",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0117": {
+        "Date": "2019-10-21 13:04:56.320011",
+        "Link": "https://www.eluniversal.com.co/mundo/un-colombiano-muerto-y-otro-herido-en-protestas-de-chile-CH1900613",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0118": {
+        "Date": "2019-10-21 13:04:56.320088",
+        "Link": "https://www.eluniversal.com.co/opinion/caricatura",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0119": {
+        "Date": "2019-10-21 13:04:56.320168",
+        "Link": "https://www.eluniversal.com.co/opinion/caricatura/imagen-21-de-oct-jpg-AG1899130",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0120": {
+        "Date": "2019-10-21 13:04:56.320248",
+        "Link": "https://www.eluniversal.com.co/opinion/columna",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0121": {
+        "Date": "2019-10-21 13:04:56.320324",
+        "Link": "https://www.eluniversal.com.co/opinion/columna/ajustes-a-la-ley-de-financiamiento-LC1895418",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0122": {
+        "Date": "2019-10-21 13:04:56.320401",
+        "Link": "https://www.eluniversal.com.co/opinion/columna/alcalde-por-un-segundo-NG1899096",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0123": {
+        "Date": "2019-10-21 13:04:56.320477",
+        "Link": "https://www.eluniversal.com.co/opinion/columna/cuidar-la-gobernabilidad-AC1895435",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0124": {
+        "Date": "2019-10-21 13:04:56.320553",
+        "Link": "https://www.eluniversal.com.co/opinion/columna/de-espalda-a-los-debates-BC1895452",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0125": {
+        "Date": "2019-10-21 13:04:56.320631",
+        "Link": "https://www.eluniversal.com.co/opinion/columna/elegir-la-personalidad-BG1899113",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0126": {
+        "Date": "2019-10-21 13:04:56.320707",
+        "Link": "https://www.eluniversal.com.co/opinion/columna/en-que-estamos-DC1895401",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0127": {
+        "Date": "2019-10-21 13:04:56.320783",
+        "Link": "https://www.eluniversal.com.co/opinion/columna/humanismo-digital-NE1897582",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0128": {
+        "Date": "2019-10-21 13:04:56.320864",
+        "Link": "https://www.eluniversal.com.co/opinion/columna/los-fariseos-de-la-politica-XG1899077",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0129": {
+        "Date": "2019-10-21 13:04:56.320950",
+        "Link": "https://www.eluniversal.com.co/opinion/editorial",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0130": {
+        "Date": "2019-10-21 13:04:56.321027",
+        "Link": "https://www.eluniversal.com.co/sociales/boda-avila-dominguez-GD1894945",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0131": {
+        "Date": "2019-10-21 13:04:56.321104",
+        "Link": "https://www.eluniversal.com.co/sociales/congreso-nacional-de-la-hoteleria-2019-KH1898628",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0132": {
+        "Date": "2019-10-21 13:04:56.321189",
+        "Link": "https://www.eluniversal.com.co/sociales/ii-foro-caribe-ambiental-FH1898654",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0133": {
+        "Date": "2019-10-21 13:04:56.321267",
+        "Link": "https://www.eluniversal.com.co/sociales/primera-comunion-KD1894783",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0134": {
+        "Date": "2019-10-21 13:04:56.321345",
+        "Link": "https://www.eluniversal.com.co/sucesos/mi-hermano-no-tenia-enemigos-familia-de-asesinado-en-la-esperanza-HE1897696",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0135": {
+        "Date": "2019-10-21 13:04:56.321423",
+        "Link": "https://www.eluniversal.com.co/sucesos/roban-taches-y-lo-que-encuentran-en-calles-de-puerta-de-los-alpes-XG1901624",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0136": {
+        "Date": "2019-10-21 13:04:56.321504",
+        "Link": "https://www.eluniversal.com.co/suplementos/facetas/a-vengarse-MH1867680",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0137": {
+        "Date": "2019-10-21 13:04:56.321582",
+        "Link": "https://www.eluniversal.com.co/suplementos/facetas/artelisa-el-valor-de-las-artesanas-en-san-jacinto-KX1891378",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0138": {
+        "Date": "2019-10-21 13:04:56.321659",
+        "Link": "https://www.eluniversal.com.co/suplementos/facetas/cloudworkers-buen-clima-para-trabajar-en-la-nube-BB1892399",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0139": {
+        "Date": "2019-10-21 13:04:56.321736",
+        "Link": "https://www.eluniversal.com.co/suplementos/facetas/de-una-nefasta-herencia-y-como-CB1892613",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0140": {
+        "Date": "2019-10-21 13:04:56.321812",
+        "Link": "https://www.eluniversal.com.co/suplementos/facetas/getsemani-cuando-el-dolor-es-de-barrio-IC1859974",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0141": {
+        "Date": "2019-10-21 13:04:56.321888",
+        "Link": "https://www.eluniversal.com.co/suplementos/facetas/jay-raman-el-hombre-que-teje-intercambios-culturales-AB1892345",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0142": {
+        "Date": "2019-10-21 13:04:56.321964",
+        "Link": "https://www.eluniversal.com.co/suplementos/facetas/katheryn-la-nina-lider-del-barrio-nelson-mandela-EL1863170",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0143": {
+        "Date": "2019-10-21 13:04:56.322040",
+        "Link": "https://www.eluniversal.com.co/suplementos/facetas/lars-brurein-los-sabores-no-tienen-fronteras-YB1892111",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0144": {
+        "Date": "2019-10-21 13:04:56.322116",
+        "Link": "https://www.eluniversal.com.co/suplementos/facetas/simples-sonadores-complejos-CH1867545",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0145": {
+        "Date": "2019-10-21 13:04:56.322200",
+        "Link": "https://www.eluniversal.com.co/suscripcion-rss",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0146": {
+        "Date": "2019-10-21 13:04:56.322277",
+        "Link": "https://www.eluniversal.com.co/viernes/calidad-del-semen-clave-en-la-fertilidad-FE1886025",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0147": {
+        "Date": "2019-10-21 13:04:56.322354",
+        "Link": "https://www.eluniversal.com.co/viernes/camila-mira-hacia-adentro-con-un-nuevo-album-HE1886090",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0148": {
+        "Date": "2019-10-21 13:04:56.322430",
+        "Link": "https://www.eluniversal.com.co/viernes/fashion-sharing-la-nueva-tendencia-de-alquilar-ropa-BD1885614",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0149": {
+        "Date": "2019-10-21 13:04:56.322507",
+        "Link": "https://www.eluniversal.com.co/viernes/miel-complemento-de-salud-y-belleza-LD1885409",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0150": {
+        "Date": "2019-10-21 13:04:56.322591",
+        "Link": "https://www.eluniversal.com.co/viernes/nuevos-retos-educativos-ND1885807",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0151": {
+        "Date": "2019-10-21 13:04:56.322675",
+        "Link": "https://www.eluniversal.com.co/viernes/otra-opcion-de-pastas-ND1885852",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0152": {
+        "Date": "2019-10-21 13:04:56.322752",
+        "Link": "https://www.eluniversal.com.co/viernes/personaliza-y-llena-de-energia-tus-espacios-con-colores-2020-EB1883644",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0153": {
+        "Date": "2019-10-21 13:04:56.322828",
+        "Link": "https://www.eluniversal.com.co/viernes/recomendaciones-para-atenuar-la-apariencia-de-las-cicatrices-JD1885975",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    },
+    "Check 0154": {
+        "Date": "2019-10-21 13:04:56.322909",
+        "Link": "https://www.eluniversal.com.co/viernes/un-recorrido-por-los-tesoros-del-caribe-mexicano-YB1883724",
+        "Status": {
+            "Code": "200",
+            "Meaning": "OK: The request is OK (this is the standard response for successful HTTP requests)",
+            "Type": " SUCCESSFUL "
+        }
+    }
+}
