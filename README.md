@@ -1,12 +1,13 @@
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 # 404 finder
-## 
+## If it ain't broke,    ...really ?
+
 :rocket: Star us on GitHub  *it helps*! :rocket:
 
-![ssssshean connery](https://i.imgur.com/uLoz3WY.jpg)
+![404](https://github.com/rodrigocruz13/hs-final-project/blob/master/images/HotDot.gif)
 
 
-**hsh - simple shell** is a simple UNIX command interpreter.  You can install it in your Linux distribution and you can use it intermediately according to your needs.
+**404 finder** is a simple platfomr that can help anyone to find easily broken pages created in html.  You can install it in your Linux distribution and you can use it intermediately according to your needs.
 
 ### Screenshots
 
@@ -127,3 +128,5 @@ without your time, help and dedication to try to explain those issues that we do
 this would have been possible.
 
 ![logo](https://i.imgur.com/9ONYhd0.png)
+
+
